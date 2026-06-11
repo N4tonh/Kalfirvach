@@ -1,0 +1,1128 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Kalfírvach Lexicón — Diccionario Πολυτονικόν</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Cinzel:wght@400;700;900&family=Cormorant+Garamond:ital,wght@0,400;0,600;0,700;1,400&family=Noto+Serif:ital,wght@0,400;0,700;1,400&display=swap" rel="stylesheet">
+<style>
+* { margin: 0; padding: 0; box-sizing: border-box; }
+
+:root {
+  --gold: #d4a849;
+  --gold-light: #f0d080;
+  --gold-dark: #8b6914;
+  --bg-dark: #0a0806;
+  --bg-parchment: #14100c;
+  --bg-card: #1a1410;
+  --burgundy: #3a1a10;
+  --text-primary: #e8dcc8;
+  --text-muted: #a09078;
+  --border-gold: #5a4020;
+  --accent-red: #8b2a1a;
+  --glow-gold: rgba(212, 168, 73, 0.15);
+}
+
+html { scroll-behavior: smooth; }
+
+body {
+  font-family: 'Cormorant Garamond', 'Noto Serif', serif;
+  background: var(--bg-dark);
+  color: var(--text-primary);
+  min-height: 100vh;
+  background-image:
+    radial-gradient(ellipse at 20% 50%, rgba(60, 30, 10, 0.3) 0%, transparent 60%),
+    radial-gradient(ellipse at 80% 20%, rgba(40, 20, 50, 0.2) 0%, transparent 50%);
+}
+
+/* Scrollbar */
+::-webkit-scrollbar { width: 6px; }
+::-webkit-scrollbar-track { background: var(--bg-dark); }
+::-webkit-scrollbar-thumb { background: var(--gold-dark); border-radius: 3px; }
+::-webkit-scrollbar-thumb:hover { background: var(--gold); }
+
+/* Header */
+header {
+  background: linear-gradient(180deg, #1a1008 0%, var(--bg-dark) 100%);
+  border-bottom: 2px solid var(--gold-dark);
+  padding: 2rem 1.5rem 1.5rem;
+  text-align: center;
+  position: relative;
+}
+header::after {
+  content: '✦ ❦ ✦ ❦ ✦ ❦ ✦ ❦ ✦';
+  display: block;
+  color: var(--gold-dark);
+  font-size: 0.8rem;
+  letter-spacing: 0.5em;
+  margin-top: 0.75rem;
+}
+h1 {
+  font-family: 'Cinzel', serif;
+  font-weight: 900;
+  font-size: 2.5rem;
+  color: var(--gold);
+  text-shadow: 0 0 30px var(--glow-gold), 0 0 60px rgba(212,168,73,0.05);
+  letter-spacing: 0.15em;
+}
+h1 .sub {
+  display: block;
+  font-family: 'Cormorant Garamond', serif;
+  font-weight: 400;
+  font-size: 1rem;
+  color: var(--text-muted);
+  letter-spacing: 0.3em;
+  margin-top: 0.25rem;
+  text-shadow: none;
+}
+.subtitle {
+  font-size: 1rem;
+  color: var(--text-muted);
+  margin-top: 0.5rem;
+  font-style: italic;
+}
+.stats {
+  font-size: 0.85rem;
+  color: var(--gold-dark);
+  margin-top: 0.25rem;
+}
+
+/* Navigation Bar */
+nav {
+  background: var(--bg-card);
+  border-bottom: 1px solid var(--border-gold);
+  padding: 0.75rem 1.5rem;
+  display: flex;
+  justify-content: center;
+  gap: 0.5rem;
+  flex-wrap: wrap;
+  position: sticky;
+  top: 0;
+  z-index: 100;
+  backdrop-filter: blur(10px);
+}
+nav a {
+  color: var(--text-muted);
+  text-decoration: none;
+  font-size: 0.9rem;
+  padding: 0.25rem 0.5rem;
+  border-radius: 3px;
+  transition: all 0.2s;
+  font-family: 'Noto Serif', serif;
+}
+nav a:hover, nav a.active {
+  color: var(--gold);
+  background: rgba(212,168,73,0.1);
+}
+
+/* Main */
+main {
+  max-width: 960px;
+  margin: 0 auto;
+  padding: 1.5rem;
+}
+
+/* Search & Controls */
+.controls {
+  display: flex;
+  gap: 1rem;
+  align-items: center;
+  flex-wrap: wrap;
+  margin-bottom: 1.5rem;
+  padding: 1rem;
+  background: var(--bg-card);
+  border: 1px solid var(--border-gold);
+  border-radius: 8px;
+}
+.search-box {
+  flex: 1;
+  min-width: 200px;
+  position: relative;
+}
+.search-box input {
+  width: 100%;
+  padding: 0.65rem 1rem;
+  background: var(--bg-dark);
+  border: 1px solid var(--border-gold);
+  border-radius: 6px;
+  color: var(--text-primary);
+  font-family: 'Noto Serif', serif;
+  font-size: 1rem;
+  outline: none;
+  transition: border-color 0.3s;
+}
+.search-box input:focus {
+  border-color: var(--gold);
+  box-shadow: 0 0 15px rgba(212,168,73,0.1);
+}
+.search-box input::placeholder { color: var(--text-muted); font-style: italic; }
+
+.btn {
+  padding: 0.6rem 1.2rem;
+  background: transparent;
+  border: 1px solid var(--gold-dark);
+  color: var(--gold);
+  border-radius: 6px;
+  cursor: pointer;
+  font-family: 'Cinzel', serif;
+  font-size: 0.85rem;
+  transition: all 0.3s;
+  letter-spacing: 0.05em;
+}
+.btn:hover {
+  background: rgba(212,168,73,0.15);
+  border-color: var(--gold);
+  box-shadow: 0 0 20px rgba(212,168,73,0.1);
+}
+.btn-primary {
+  background: linear-gradient(135deg, var(--gold-dark), var(--gold));
+  border-color: var(--gold);
+  color: #0a0806;
+  font-weight: 700;
+}
+.btn-primary:hover {
+  background: linear-gradient(135deg, var(--gold), var(--gold-light));
+  box-shadow: 0 0 25px rgba(212,168,73,0.2);
+}
+
+/* Letter Navigation */
+.letter-nav {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 4px;
+  justify-content: center;
+  margin-bottom: 1.5rem;
+  padding: 0.75rem;
+  background: var(--bg-card);
+  border: 1px solid var(--border-gold);
+  border-radius: 8px;
+}
+.letter-nav a {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 2rem;
+  height: 2rem;
+  font-family: 'Noto Serif', serif;
+  font-size: 1rem;
+  color: var(--text-muted);
+  text-decoration: none;
+  border-radius: 4px;
+  transition: all 0.2s;
+}
+.letter-nav a:hover, .letter-nav a.active-letter {
+  color: var(--gold);
+  background: rgba(212,168,73,0.15);
+}
+
+/* Entry Card */
+.entry {
+  background: var(--bg-card);
+  border: 1px solid var(--border-gold);
+  border-radius: 8px;
+  padding: 1.25rem 1.5rem;
+  margin-bottom: 0.75rem;
+  transition: all 0.3s;
+  position: relative;
+}
+.entry:hover {
+  border-color: var(--gold-dark);
+  box-shadow: 0 4px 20px rgba(0,0,0,0.3);
+}
+.entry-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: baseline;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+  margin-bottom: 0.5rem;
+}
+.entry-word {
+  font-family: 'Noto Serif', serif;
+  font-size: 1.5rem;
+  color: var(--gold-light);
+  font-weight: 700;
+}
+.entry-word-latin {
+  font-family: 'Cormorant Garamond', serif;
+  font-size: 0.95rem;
+  color: var(--text-muted);
+  font-style: italic;
+}
+.entry-ipa {
+  font-family: 'Noto Serif', serif;
+  font-size: 0.85rem;
+  color: var(--gold-dark);
+  background: rgba(212,168,73,0.08);
+  padding: 0.15rem 0.5rem;
+  border-radius: 3px;
+}
+.entry-pos {
+  font-size: 0.8rem;
+  color: var(--accent-red);
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+  font-family: 'Cinzel', serif;
+}
+.entry-concept {
+  font-style: italic;
+  color: var(--text-muted);
+  margin-bottom: 0.5rem;
+  font-size: 0.95rem;
+}
+.entry-concept strong {
+  color: var(--text-primary);
+  font-style: normal;
+}
+.entry-origin {
+  font-size: 0.85rem;
+  color: var(--text-muted);
+  line-height: 1.5;
+  margin-top: 0.35rem;
+  padding-left: 0.5rem;
+  border-left: 2px solid var(--border-gold);
+}
+.entry-origin strong {
+  color: var(--gold-dark);
+  font-weight: 600;
+}
+.entry-derivations {
+  font-size: 0.85rem;
+  color: var(--text-muted);
+  margin-top: 0.3rem;
+  padding-left: 0.5rem;
+}
+.entry-derivations strong {
+  color: var(--gold-dark);
+  font-weight: 600;
+}
+.entry-actions {
+  position: absolute;
+  top: 0.5rem;
+  right: 0.5rem;
+  opacity: 0;
+  transition: opacity 0.2s;
+}
+.entry:hover .entry-actions { opacity: 1; }
+.btn-sm {
+  padding: 0.2rem 0.4rem;
+  font-size: 0.7rem;
+  background: transparent;
+  border: 1px solid var(--border-gold);
+  color: var(--text-muted);
+  border-radius: 3px;
+  cursor: pointer;
+  transition: all 0.2s;
+}
+.btn-sm:hover { color: var(--accent-red); border-color: var(--accent-red); }
+
+/* No results */
+.no-results {
+  text-align: center;
+  padding: 3rem 1rem;
+  color: var(--text-muted);
+  font-style: italic;
+}
+
+/* Keyboard */
+.keyboard-overlay {
+  display: none;
+  position: fixed;
+  top: 0; left: 0; right: 0; bottom: 0;
+  background: rgba(0,0,0,0.7);
+  z-index: 1000;
+  justify-content: center;
+  align-items: center;
+  backdrop-filter: blur(4px);
+}
+.keyboard-overlay.show { display: flex; }
+.keyboard-panel {
+  background: var(--bg-card);
+  border: 2px solid var(--gold-dark);
+  border-radius: 12px;
+  padding: 1.5rem;
+  max-width: 750px;
+  width: 95%;
+  max-height: 90vh;
+  overflow-y: auto;
+  box-shadow: 0 0 60px rgba(212,168,73,0.15);
+}
+.keyboard-panel h3 {
+  font-family: 'Cinzel', serif;
+  color: var(--gold);
+  text-align: center;
+  margin-bottom: 1rem;
+  font-size: 1.1rem;
+  letter-spacing: 0.1em;
+}
+.keyboard-close {
+  float: right;
+  background: none;
+  border: none;
+  color: var(--text-muted);
+  font-size: 1.5rem;
+  cursor: pointer;
+  padding: 0 0.5rem;
+}
+.keyboard-close:hover { color: var(--gold); }
+
+.kb-section {
+  margin-bottom: 0.75rem;
+}
+.kb-section-label {
+  font-size: 0.75rem;
+  color: var(--gold-dark);
+  text-transform: uppercase;
+  letter-spacing: 0.15em;
+  margin-bottom: 0.3rem;
+  font-family: 'Cinzel', serif;
+}
+.kb-row {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 4px;
+}
+.kb-key {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 2.3rem;
+  height: 2.3rem;
+  font-family: 'Noto Serif', serif;
+  font-size: 1.1rem;
+  background: var(--bg-dark);
+  border: 1px solid var(--border-gold);
+  color: var(--text-primary);
+  border-radius: 4px;
+  cursor: pointer;
+  transition: all 0.15s;
+  user-select: none;
+}
+.kb-key:hover {
+  background: rgba(212,168,73,0.2);
+  border-color: var(--gold);
+  color: var(--gold-light);
+}
+.kb-key:active {
+  transform: scale(0.92);
+  background: rgba(212,168,73,0.3);
+}
+.kb-key.diacritic {
+  font-size: 0.85rem;
+  width: 2rem;
+  height: 2rem;
+  color: var(--gold-dark);
+}
+.kb-key.wide { width: auto; padding: 0 0.75rem; }
+
+/* Add Word Form */
+.modal-overlay {
+  display: none;
+  position: fixed;
+  top: 0; left: 0; right: 0; bottom: 0;
+  background: rgba(0,0,0,0.7);
+  z-index: 1000;
+  justify-content: center;
+  align-items: center;
+  backdrop-filter: blur(4px);
+}
+.modal-overlay.show { display: flex; }
+.modal-panel {
+  background: var(--bg-card);
+  border: 2px solid var(--gold-dark);
+  border-radius: 12px;
+  padding: 2rem;
+  max-width: 600px;
+  width: 95%;
+  max-height: 90vh;
+  overflow-y: auto;
+  box-shadow: 0 0 60px rgba(212,168,73,0.15);
+}
+.modal-panel h2 {
+  font-family: 'Cinzel', serif;
+  color: var(--gold);
+  text-align: center;
+  margin-bottom: 1.5rem;
+  font-size: 1.3rem;
+  letter-spacing: 0.1em;
+  border-bottom: 1px solid var(--border-gold);
+  padding-bottom: 0.75rem;
+}
+.form-group {
+  margin-bottom: 1rem;
+}
+.form-group label {
+  display: block;
+  font-family: 'Cinzel', serif;
+  font-size: 0.8rem;
+  color: var(--gold-dark);
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+  margin-bottom: 0.3rem;
+}
+.form-group input, .form-group textarea, .form-group select {
+  width: 100%;
+  padding: 0.6rem 0.8rem;
+  background: var(--bg-dark);
+  border: 1px solid var(--border-gold);
+  border-radius: 6px;
+  color: var(--text-primary);
+  font-family: 'Noto Serif', serif;
+  font-size: 0.95rem;
+  outline: none;
+  transition: border-color 0.3s;
+}
+.form-group input:focus, .form-group textarea:focus, .form-group select:focus {
+  border-color: var(--gold);
+  box-shadow: 0 0 10px rgba(212,168,73,0.1);
+}
+.form-group textarea { min-height: 60px; resize: vertical; }
+.form-group .input-with-kb {
+  display: flex;
+  gap: 0.5rem;
+}
+.form-group .input-with-kb input { flex: 1; }
+.form-group .input-with-kb .btn-kb {
+  padding: 0.6rem 1rem;
+  background: transparent;
+  border: 1px solid var(--gold-dark);
+  color: var(--gold);
+  border-radius: 6px;
+  cursor: pointer;
+  font-size: 0.8rem;
+  transition: all 0.3s;
+  white-space: nowrap;
+}
+.form-group .input-with-kb .btn-kb:hover {
+  background: rgba(212,168,73,0.15);
+  border-color: var(--gold);
+}
+.form-actions {
+  display: flex;
+  gap: 0.75rem;
+  justify-content: flex-end;
+  margin-top: 1.5rem;
+  padding-top: 1rem;
+  border-top: 1px solid var(--border-gold);
+}
+
+/* Custom Words */
+.custom-badge {
+  font-size: 0.65rem;
+  background: var(--burgundy);
+  color: var(--gold-light);
+  padding: 0.15rem 0.4rem;
+  border-radius: 3px;
+  margin-left: 0.5rem;
+  vertical-align: middle;
+  font-family: 'Cinzel', serif;
+  letter-spacing: 0.05em;
+}
+
+.empty-state {
+  text-align: center;
+  padding: 4rem 2rem;
+  color: var(--text-muted);
+}
+.empty-state .sigil {
+  font-size: 4rem;
+  color: var(--gold-dark);
+  opacity: 0.3;
+  margin-bottom: 1rem;
+}
+
+/* Animations */
+@keyframes fadeIn {
+  from { opacity: 0; transform: translateY(10px); }
+  to { opacity: 1; transform: translateY(0); }
+}
+.entry { animation: fadeIn 0.3s ease-out; }
+
+/* Responsive */
+@media (max-width: 600px) {
+  h1 { font-size: 1.6rem; }
+  .entry-word { font-size: 1.2rem; }
+  .controls { flex-direction: column; }
+  .kb-key { width: 2rem; height: 2rem; font-size: 0.95rem; }
+}
+
+/* Toast notification */
+.toast {
+  position: fixed;
+  bottom: 2rem;
+  left: 50%;
+  transform: translateX(-50%) translateY(100px);
+  background: var(--bg-card);
+  border: 1px solid var(--gold);
+  color: var(--gold-light);
+  padding: 0.75rem 1.5rem;
+  border-radius: 8px;
+  font-family: 'Cinzel', serif;
+  font-size: 0.85rem;
+  z-index: 2000;
+  opacity: 0;
+  transition: all 0.4s;
+  pointer-events: none;
+  box-shadow: 0 4px 30px rgba(0,0,0,0.5);
+}
+.toast.show {
+  opacity: 1;
+  transform: translateX(-50%) translateY(0);
+}
+
+/* Decorations */
+.ornament {
+  text-align: center;
+  color: var(--gold-dark);
+  font-size: 1.2rem;
+  margin: 0.5rem 0;
+  opacity: 0.6;
+  letter-spacing: 0.5em;
+}
+</style>
+</head>
+<body>
+
+<header>
+  <h1>KALFÍRVACH<br><span class="sub">Λεξικόν Πολυτονικόν</span></h1>
+  <p class="subtitle">— Diccionario del Lenguaje Mágico —</p>
+  <p class="stats" id="stats">Cargando léxico...</p>
+</header>
+
+<nav id="letterNav"></nav>
+
+<main>
+  <div class="controls">
+    <div class="search-box">
+      <input type="text" id="searchInput" placeholder="Buscar palabra, concepto, etimología...">
+    </div>
+    <button class="btn btn-primary" onclick="openAddModal()">✦ Añadir Palabra</button>
+  </div>
+
+  <div id="entries"></div>
+
+  <div class="ornament">❦ ❧ ❦ ❧ ❦ ❧ ❦</div>
+</main>
+
+<!-- Load lexicon data (embedded JS) -->
+<script src="lexicon_data.js"></script>
+
+<!-- Keyboard Modal -->
+<div class="keyboard-overlay" id="keyboardModal">
+  <div class="keyboard-panel">
+    <button class="keyboard-close" onclick="closeKeyboard()">✕</button>
+    <h3>◈ Teclado Πολυτονικόν ◈</h3>
+
+    <div class="kb-section">
+      <div class="kb-section-label">Acentos y diacríticos</div>
+      <div class="kb-row" data-target="greek">
+        <span class="kb-key diacritic" onclick="kbType('´')">´</span>
+        <span class="kb-key diacritic" onclick="kbType('`')">`</span>
+        <span class="kb-key diacritic" onclick="kbType('῀')">῀</span>
+        <span class="kb-key diacritic" onclick="kbType('᾿')">᾿</span>
+        <span class="kb-key diacritic" onclick="kbType('῾')">῾</span>
+        <span class="kb-key diacritic" onclick="kbType('¨')">¨</span>
+        <span class="kb-key diacritic" onclick="kbType('ͺ')">ͺ</span>
+      </div>
+    </div>
+
+    <div class="kb-section">
+      <div class="kb-section-label">Vocales</div>
+      <div class="kb-row" data-target="greek">
+        <span class="kb-key" onclick="kbType('α')">α</span>
+        <span class="kb-key" onclick="kbType('ά')">ά</span>
+        <span class="kb-key" onclick="kbType('ἀ')">ἀ</span>
+        <span class="kb-key" onclick="kbType('ἁ')">ἁ</span>
+        <span class="kb-key" onclick="kbType('ᾳ')">ᾳ</span>
+        <span class="kb-key" onclick="kbType('ε')">ε</span>
+        <span class="kb-key" onclick="kbType('έ')">έ</span>
+        <span class="kb-key" onclick="kbType('ἐ')">ἐ</span>
+        <span class="kb-key" onclick="kbType('ἑ')">ἑ</span>
+        <span class="kb-key" onclick="kbType('η')">η</span>
+        <span class="kb-key" onclick="kbType('ή')">ή</span>
+        <span class="kb-key" onclick="kbType('ἠ')">ἠ</span>
+        <span class="kb-key" onclick="kbType('ἡ')">ἡ</span>
+        <span class="kb-key" onclick="kbType('ῃ')">ῃ</span>
+        <span class="kb-key" onclick="kbType('ι')">ι</span>
+        <span class="kb-key" onclick="kbType('ί')">ί</span>
+        <span class="kb-key" onclick="kbType('ἰ')">ἰ</span>
+        <span class="kb-key" onclick="kbType('ἱ')">ἱ</span>
+        <span class="kb-key" onclick="kbType('ο')">ο</span>
+        <span class="kb-key" onclick="kbType('ό')">ό</span>
+        <span class="kb-key" onclick="kbType('ὀ')">ὀ</span>
+        <span class="kb-key" onclick="kbType('ὁ')">ὁ</span>
+        <span class="kb-key" onclick="kbType('υ')">υ</span>
+        <span class="kb-key" onclick="kbType('ύ')">ύ</span>
+        <span class="kb-key" onclick="kbType('ὐ')">ὐ</span>
+        <span class="kb-key" onclick="kbType('ὑ')">ὑ</span>
+        <span class="kb-key" onclick="kbType('ω')">ω</span>
+        <span class="kb-key" onclick="kbType('ώ')">ώ</span>
+        <span class="kb-key" onclick="kbType('ὠ')">ὠ</span>
+        <span class="kb-key" onclick="kbType('ὡ')">ὡ</span>
+        <span class="kb-key" onclick="kbType('ῳ')">ῳ</span>
+      </div>
+    </div>
+
+    <div class="kb-section">
+      <div class="kb-section-label">Consonantes</div>
+      <div class="kb-row" data-target="greek">
+        <span class="kb-key" onclick="kbType('β')">β</span>
+        <span class="kb-key" onclick="kbType('ϐ')">ϐ</span>
+        <span class="kb-key" onclick="kbType('γ')">γ</span>
+        <span class="kb-key" onclick="kbType('γ̓')">γ̓</span>
+        <span class="kb-key" onclick="kbType('δ')">δ</span>
+        <span class="kb-key" onclick="kbType('δ̓')">δ̓</span>
+        <span class="kb-key" onclick="kbType('ζ')">ζ</span>
+        <span class="kb-key" onclick="kbType('θ')">θ</span>
+        <span class="kb-key" onclick="kbType('κ')">κ</span>
+        <span class="kb-key" onclick="kbType('λ')">λ</span>
+        <span class="kb-key" onclick="kbType('μ')">μ</span>
+        <span class="kb-key" onclick="kbType('ν')">ν</span>
+        <span class="kb-key" onclick="kbType('ξ')">ξ</span>
+        <span class="kb-key" onclick="kbType('π')">π</span>
+        <span class="kb-key" onclick="kbType('ρ')">ρ</span>
+        <span class="kb-key" onclick="kbType('σ')">σ</span>
+        <span class="kb-key" onclick="kbType('ς')">ς</span>
+        <span class="kb-key" onclick="kbType('τ')">τ</span>
+        <span class="kb-key" onclick="kbType('φ')">φ</span>
+        <span class="kb-key" onclick="kbType('χ')">χ</span>
+        <span class="kb-key" onclick="kbType('ψ')">ψ</span>
+      </div>
+    </div>
+
+    <div class="kb-section">
+      <div class="kb-section-label">Letras arcaicas</div>
+      <div class="kb-row" data-target="greek">
+        <span class="kb-key" onclick="kbType('ϝ')">ϝ</span>
+        <span class="kb-key" onclick="kbType('ϻ')">ϻ</span>
+        <span class="kb-key" onclick="kbType('ϡ')">ϡ</span>
+        <span class="kb-key" onclick="kbType('ϳ')">ϳ</span>
+        <span class="kb-key" onclick="kbType('ͱ')">ͱ</span>
+        <span class="kb-key" onclick="kbType('ϙ')">ϙ</span>
+      </div>
+    </div>
+
+    <div class="kb-section">
+      <div class="kb-section-label">Combinaciones comunes</div>
+      <div class="kb-row">
+        <span class="kb-key wide" onclick="kbType('γ̓')">γ̓ (suave)</span>
+        <span class="kb-key wide" onclick="kbType('δ̓')">δ̓ (suave)</span>
+        <span class="kb-key wide" onclick="kbType('῾')">῾ (áspero)</span>
+        <span class="kb-key wide" onclick="kbType('᾿')">᾿ (suave)</span>
+        <span class="kb-key wide" onclick="clearGreekField()">⌫ Borrar</span>
+      </div>
+    </div>
+  </div>
+</div>
+
+<!-- Add Word Modal -->
+<div class="modal-overlay" id="addModal">
+  <div class="modal-panel">
+    <h2>✦ Añadir Nueva Palabra ✦</h2>
+    <form id="addForm" onsubmit="saveNewWord(event)">
+      <div class="form-group">
+        <label>Palabra en Kalfírvach (alfabeto politónico)</label>
+        <div class="input-with-kb">
+          <input type="text" id="newGreek" placeholder="Ej: ϻάκτι" required>
+          <button type="button" class="btn-kb" onclick="openKeyboard('greek')">⌨</button>
+        </div>
+      </div>
+      <div class="form-group">
+        <label>Transliteración latina</label>
+        <input type="text" id="newLatin" placeholder="Ej: shákti">
+      </div>
+      <div class="form-group">
+        <label>Significado / Concepto</label>
+        <input type="text" id="newConcept" placeholder="Ej: poder, energía, fuerza" required>
+      </div>
+      <div class="form-group">
+        <label>Categoría gramatical</label>
+        <select id="newPos">
+          <option value="noun">Sustantivo</option>
+          <option value="verb">Verbo</option>
+          <option value="adjective">Adjetivo</option>
+          <option value="adverb">Adverbio</option>
+          <option value="pronoun">Pronombre</option>
+          <option value="preposition">Preposición</option>
+          <option value="conjunction">Conjunción</option>
+          <option value="numeral">Numeral</option>
+          <option value="particle">Partícula</option>
+          <option value="other">Otro</option>
+        </select>
+      </div>
+      <div class="form-group">
+        <label>Etimología / Origen</label>
+        <textarea id="newOrigin" placeholder="Lenguas de origen, raíces, transformaciones..."></textarea>
+      </div>
+      <div class="form-group">
+        <label>IPA (pronunciación)</label>
+        <input type="text" id="newIpa" placeholder="Ej: /ˈʃak.ti/">
+      </div>
+      <div class="form-group">
+        <label>Derivaciones</label>
+        <input type="text" id="newDeriv" placeholder="Ej: shakti-wan, shakti-ta (separado por comas)">
+      </div>
+      <div class="form-actions">
+        <button type="button" class="btn" onclick="closeAddModal()">Cancelar</button>
+        <button type="submit" class="btn btn-primary">✦ Consagrar Palabra</button>
+      </div>
+    </form>
+  </div>
+</div>
+
+<!-- Toast -->
+<div class="toast" id="toast"></div>
+
+<script>
+// ─── Lexicon Data ────────────────────────────────────────────────
+let lexicon = [];
+
+const GREEK_ALPHABET = ['α','ἀ','ἁ','ά','ᾳ','β','ϐ','γ','γ̓','δ','δ̓','ε','ἐ','ἑ','έ','ζ','η','ἠ','ἡ','ή','ῃ','θ','ι','ἰ','ἱ','ί','κ','λ','μ','ν','ξ','ο','ὀ','ὁ','ό','π','ρ','σ','ς','τ','υ','ὐ','ὑ','ύ','φ','χ','ψ','ω','ὠ','ὡ','ώ','ῳ','ϝ','ϻ','ϡ','ϳ','ͱ','ϙ'];
+
+// Transliteration: Latin → Greek polytonic
+function latinToGreek(str) {
+  if (!str) return '';
+  const map = [
+    [/sh/g,'ϻ'], [/ch/g,'ϡ'], [/th/g,'θ'], [/kh/g,'χ'], [/gh/g,'γ̓'],
+    [/ph/g,'φ'], [/ps/g,'ψ'], [/ny/g,'νϳ'], [/ts/g,'τσ'], [/dz/g,'δζ'],
+    [/ai/g,'αι'], [/ei/g,'ει'], [/oi/g,'οι'], [/au/g,'αυ'], [/eu/g,'ευ'], [/ou/g,'ου'],
+    [/á/g,'ά'], [/é/g,'έ'], [/í/g,'ί'], [/ó/g,'ό'], [/ú/g,'ύ'],
+    [/a/g,'α'], [/b/g,'β'], [/d/g,'δ'], [/e/g,'ε'], [/f/g,'φ'],
+    [/g/g,'γ'], [/h/g,'ͱ'], [/i/g,'ι'], [/j/g,'ϳ'], [/k/g,'κ'],
+    [/l/g,'λ'], [/m/g,'μ'], [/n/g,'ν'], [/o/g,'ο'], [/p/g,'π'],
+    [/r/g,'ρ'], [/s/g,'σ'], [/t/g,'τ'], [/u/g,'υ'], [/v/g,'ϐ'],
+    [/w/g,'ϝ'], [/x/g,'ξ'], [/y/g,'ϳ'], [/z/g,'ζ'],
+  ];
+  let result = str;
+  for (const [pattern, replacement] of map) {
+    result = result.replace(pattern, replacement);
+  }
+  result = result.replace(/σ\b/g, 'ς');
+  return result;
+}
+
+function getFirstLetter(word) {
+  const g = latinToGreek(word);
+  for (const ch of g) {
+    if (GREEK_ALPHABET.includes(ch)) return ch;
+  }
+  return (word || '?').charAt(0).toUpperCase();
+}
+
+function getOriginDisplay(e) {
+  if (e._originDisplay) return e._originDisplay;
+  if (e.origen && typeof e.origen === 'object') {
+    const raiz = e.origen.raiz_original || '';
+    const lengua = e.origen.lengua || '';
+    if (raiz && lengua) return `<strong>${lengua}:</strong> ${raiz}`;
+    if (raiz) return raiz;
+    if (lengua) return lengua;
+  }
+  return e.etymology || '';
+}
+
+function getDerivsDisplay(e) {
+  if (e.derivaciones && Array.isArray(e.derivaciones) && e.derivaciones.length)
+    return e.derivaciones.join(', ');
+  return e.derivs || '';
+}
+
+function renderEntryCard(e) {
+  const word = e.forma_final || e.kalfirvach || '';
+  const greekWord = latinToGreek(word);
+  const isCustom = !!e._custom;
+  const origin = getOriginDisplay(e);
+  const derivs = getDerivsDisplay(e);
+  return `<div class="entry">
+    <div class="entry-header">
+      <div>
+        <span class="entry-word">${greekWord}</span>
+        ${word ? `<span class="entry-word-latin">(${word})</span>` : ''}
+        ${isCustom ? '<span class="custom-badge">añadida</span>' : ''}
+      </div>
+      <div>
+        ${e.ipa ? `<span class="entry-ipa">${e.ipa}</span>` : ''}
+        ${e.pos ? `<span class="entry-pos">${e.pos}</span>` : ''}
+      </div>
+    </div>
+    <div class="entry-concept"><strong>${e.concepto || ''}</strong></div>
+    ${origin ? `<div class="entry-origin"><strong>Origen:</strong> ${origin}</div>` : ''}
+    ${derivs ? `<div class="entry-derivations"><strong>Derivaciones:</strong> ${derivs}</div>` : ''}
+    ${isCustom ? `<div class="entry-actions"><button class="btn-sm" onclick="deleteCustomWord('${word}')">✕ eliminar</button></div>` : ''}
+  </div>`;
+}
+
+function getLetterGroups(entries) {
+  const groups = {};
+  for (const e of entries) {
+    const letter = getFirstLetter(e.forma_final || e.kalfirvach);
+    if (!groups[letter]) groups[letter] = [];
+    groups[letter].push(e);
+  }
+  return Object.entries(groups).sort(([a],[b]) => {
+    const ia = GREEK_ALPHABET.indexOf(a), ib = GREEK_ALPHABET.indexOf(b);
+    if (ia >=0 && ib >=0) return ia-ib;
+    if (ia >=0) return -1; if (ib >=0) return 1;
+    return a.localeCompare(b);
+  });
+}
+
+function renderEntries(filter='') {
+  const el = document.getElementById('entries');
+  const q = filter.toLowerCase().trim();
+  let filtered = q ? lexicon.filter(e => {
+    const w = (e.forma_final||e.kalfirvach||'').toLowerCase();
+    const c = (e.concepto||'').toLowerCase();
+    const o = (e.origen?.raiz_original||e.origen?.lengua||e.etymology||'').toLowerCase();
+    const l = (e.kalfirvach||e.forma_final||'').toLowerCase();
+    const g = latinToGreek(l).toLowerCase();
+    const p = (e.pos||'').toLowerCase();
+    return w.includes(q)||c.includes(q)||o.includes(q)||l.includes(q)||g.includes(q)||p.includes(q);
+  }) : lexicon;
+
+  if (!filtered.length) {
+    el.innerHTML = `<div class="no-results">✦ No se encontraron palabras${q?' para "'+filter+'"':''} ✦</div>`;
+    document.getElementById('stats').textContent = lexicon.length + ' palabras · 0 resultados';
+    updateLetterNav(filtered);
+    return;
+  }
+
+  const groups = getLetterGroups(filtered);
+  let html = '';
+  for (const [letter, entries] of groups) {
+    html += `<div class="ornament">❧ ${letter} ❧</div>`;
+    for (const e of entries) html += renderEntryCard(e);
+  }
+  el.innerHTML = html;
+
+  const total = lexicon.length;
+  const customWords = getCustomWords().length;
+  document.getElementById('stats').textContent = `${total} palabras · ${total-customWords} del corpus`;
+  if (q || filtered.length < total) {
+    document.getElementById('stats').textContent += ` · mostrando ${filtered.length}`;
+  }
+  updateLetterNav(filtered);
+}
+
+function updateLetterNav(filtered) {
+  const nav = document.getElementById('letterNav');
+  const letters = new Set();
+  for (const e of filtered) letters.add(getFirstLetter(e.forma_final||e.kalfirvach));
+  let html = '<a href="#" onclick="clearSearch();return false">✦</a>';
+  for (const l of GREEK_ALPHABET) {
+    if (letters.has(l)) html += `<a href="#" onclick="filterByLetter('${l}');return false">${l}</a>`;
+  }
+  nav.innerHTML = html;
+}
+
+function filterByLetter(letter) {
+  document.getElementById('searchInput').value = '';
+  const filtered = lexicon.filter(e => getFirstLetter(e.forma_final||e.kalfirvach) === letter);
+  filtered.sort((a,b) => {
+    const ga = latinToGreek(a.forma_final||a.kalfirvach);
+    const gb = latinToGreek(b.forma_final||b.kalfirvach);
+    for (let i=0; i<Math.min(ga.length,gb.length); i++) {
+      const ia = GREEK_ALPHABET.indexOf(ga[i]), ib = GREEK_ALPHABET.indexOf(gb[i]);
+      if (ia!==ib) return ia-ib;
+    }
+    return ga.length-gb.length;
+  });
+  const el = document.getElementById('entries');
+  let html = `<div class="ornament">❧ ${letter} ❧</div>`;
+  for (const e of filtered) html += renderEntryCard(e);
+  el.innerHTML = html;
+  document.getElementById('stats').textContent = `${lexicon.length} palabras · ${filtered.length} en «${letter}»`;
+  // update nav highlighting
+  document.querySelectorAll('#letterNav a').forEach(a => a.classList.remove('active-letter'));
+  document.querySelectorAll('#letterNav a').forEach(a => { if(a.textContent===letter) a.classList.add('active-letter'); });
+}
+
+function clearSearch() {
+  document.getElementById('searchInput').value = '';
+  document.querySelectorAll('#letterNav a').forEach(a => a.classList.remove('active-letter'));
+  renderEntries('');
+}
+
+// ─── Load lexicon ───────────────────────────────────────────────
+function loadLexicon() {
+  try {
+    const catData = LEXICON_DATA["kalfirvach_lexicon_v1.2"].categorias;
+    const entries = [];
+    for (const [catName, cat] of Object.entries(catData)) {
+      if (cat.entradas) {
+        for (const e of cat.entradas) {
+          e._category = catName;
+          entries.push(e);
+        }
+      }
+    }
+    const custom = getCustomWords();
+    for (const c of custom) {
+      c._custom = true;
+      entries.push(c);
+    }
+    lexicon = entries;
+    renderEntries('');
+  } catch(err) {
+    console.error('Error loading lexicon:', err);
+    document.getElementById('entries').innerHTML = `
+      <div class="empty-state">
+        <div class="sigil">⚠</div>
+        <p>Error al cargar el léxico.</p>
+        <button class="btn btn-primary" onclick="openAddModal()" style="margin-top:1rem;">✦ Añadir Primera Palabra</button>
+      </div>`;
+    document.getElementById('stats').textContent = 'Error de carga';
+  }
+}
+
+// ─── Custom Words (localStorage) ────────────────────────────────
+function getCustomWords() {
+  try {
+    return JSON.parse(localStorage.getItem('kalfirvach_custom') || '[]');
+  } catch { return []; }
+}
+
+function saveCustomWords(words) {
+  localStorage.setItem('kalfirvach_custom', JSON.stringify(words));
+}
+
+function deleteCustomWord(word) {
+  let custom = getCustomWords();
+  custom = custom.filter(c => (c.forma_final || c.kalfirvach) !== word);
+  saveCustomWords(custom);
+  // Rebuild lexicon
+  lexicon = lexicon.filter(e => !(e._custom && (e.forma_final || e.kalfirvach) === word));
+  showToast(`«${word}» eliminada del diccionario`);
+  const q = document.getElementById('searchInput').value;
+  renderEntries(q);
+}
+
+// ─── Add Word Modal ─────────────────────────────────────────────
+function openAddModal() {
+  document.getElementById('addModal').classList.add('show');
+}
+
+function closeAddModal() {
+  document.getElementById('addModal').classList.remove('show');
+  document.getElementById('addForm').reset();
+}
+
+function saveNewWord(e) {
+  e.preventDefault();
+  const greek = document.getElementById('newGreek').value.trim();
+  const latin = document.getElementById('newLatin').value.trim();
+  const concept = document.getElementById('newConcept').value.trim();
+  const pos = document.getElementById('newPos').value;
+  const origin = document.getElementById('newOrigin').value.trim();
+  const ipa = document.getElementById('newIpa').value.trim();
+  const deriv = document.getElementById('newDeriv').value.trim();
+
+  if (!greek) { showToast('✗ La palabra en alfabeto politónico es obligatoria'); return; }
+  if (!concept) { showToast('✗ El significado es obligatorio'); return; }
+
+  const word = latin || greek; // fallback
+
+  const newEntry = {
+    forma_final: word,
+    kalfirvach: word,
+    concepto: concept,
+    pos: pos,
+    ipa: ipa,
+    _custom: true,
+    _greek: greek,
+    origen: origin ? { lengua: 'Contribución', raiz_original: origin } : null,
+    derivaciones: deriv ? deriv.split(',').map(s => s.trim()).filter(Boolean) : [],
+    derivs: deriv,
+    etymology: origin
+  };
+
+  const custom = getCustomWords();
+  custom.push(newEntry);
+  saveCustomWords(custom);
+
+  lexicon.push(newEntry);
+  closeAddModal();
+  showToast(`✦ «${greek}» consagrada al diccionario ✦`);
+
+  const q = document.getElementById('searchInput').value;
+  renderEntries(q);
+}
+
+// ─── Keyboard ────────────────────────────────────────────────────
+let activeKbInput = null;
+
+function openKeyboard(target) {
+  document.getElementById('keyboardModal').classList.add('show');
+  activeKbInput = document.getElementById('newGreek');
+}
+
+function closeKeyboard() {
+  document.getElementById('keyboardModal').classList.remove('show');
+  activeKbInput = null;
+}
+
+function kbType(char) {
+  if (activeKbInput) {
+    const start = activeKbInput.selectionStart;
+    const end = activeKbInput.selectionEnd;
+    const val = activeKbInput.value;
+    activeKbInput.value = val.substring(0, start) + char + val.substring(end);
+    activeKbInput.selectionStart = activeKbInput.selectionEnd = start + char.length;
+    activeKbInput.focus();
+  }
+}
+
+function clearGreekField() {
+  if (activeKbInput) {
+    const start = activeKbInput.selectionStart;
+    const end = activeKbInput.selectionEnd;
+    const val = activeKbInput.value;
+    if (start !== end) {
+      activeKbInput.value = val.substring(0, start) + val.substring(end);
+      activeKbInput.selectionStart = activeKbInput.selectionEnd = start;
+    } else if (start > 0) {
+      activeKbInput.value = val.substring(0, start - 1) + val.substring(start);
+      activeKbInput.selectionStart = activeKbInput.selectionEnd = start - 1;
+    }
+    activeKbInput.focus();
+  }
+}
+
+// Close keyboard on overlay click
+document.getElementById('keyboardModal').addEventListener('click', function(e) {
+  if (e.target === this) closeKeyboard();
+});
+document.getElementById('addModal').addEventListener('click', function(e) {
+  if (e.target === this) closeAddModal();
+});
+
+// Close keyboard on Escape
+document.addEventListener('keydown', function(e) {
+  if (e.key === 'Escape') { closeKeyboard(); closeAddModal(); }
+});
+
+// ─── Search with debounce ──────────────────────────────────────
+let searchTimeout = null;
+document.getElementById('searchInput').addEventListener('input', function() {
+  clearTimeout(searchTimeout);
+  searchTimeout = setTimeout(() => {
+    currentLetterFilter = null;
+    renderEntries(this.value);
+  }, 200);
+});
+
+// ─── Toast ──────────────────────────────────────────────────────
+function showToast(msg) {
+  const t = document.getElementById('toast');
+  t.textContent = msg;
+  t.classList.add('show');
+  clearTimeout(t._timeout);
+  t._timeout = setTimeout(() => t.classList.remove('show'), 3000);
+}
+
+// ─── Init ───────────────────────────────────────────────────────
+loadLexicon();
+</script>
+</body>
+</html>
