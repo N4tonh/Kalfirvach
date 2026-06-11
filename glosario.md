@@ -16,7 +16,7 @@ Formato: `concepto (categoría) → kalfirvach`
 
 - a veces (Tiempo Doméstico) → *batzam*
 
-- a veces (ocasionalmente) (Tiempo Doméstico) → *bát-zam*
+- a veces (ocasionalmente) (Tiempo Doméstico) → *bátzam*
 
 - abeja (Animales) → *bram*
 
@@ -2603,7 +2603,7 @@ Formato: `kalfirvach → concepto (categoría)`
 
 - *bárzakh* /ˈbar.zax/ → barrera/istmo (Magia y Mitología)
 
-- *bát-zam* /ˈbat.zam/ → a veces (ocasionalmente) (Tiempo Doméstico)
+- *bátzam* /ˈbat.zam/ → a veces (ocasionalmente) (Tiempo Doméstico)
 
 - *bek* /bek/ → rana, sapo, anfibio (Animales)
 
@@ -6921,7 +6921,7 @@ Formato: `kalfirvach → concepto (categoría)`
 
 - a veces → *batzam*
 
-- a veces (ocasionalmente) → *bát-zam*
+- a veces (ocasionalmente) → *bátzam*
 
 - ahora → *nun*
 

@@ -15984,7 +15984,7 @@ const LEXICON_DATA =
           },
           {
             "concepto": "a veces (ocasionalmente)",
-            "forma_final": "bát-zam",
+            "forma_final": "bátzam",
             "origen": {
               "lengua": "Persa/Arabe",
               "raiz_original": "Persa *bād* 'al viento' + Árabe *zamān* 'tiempo' → 'en tiempo al viento' = ocasionalmente",
@@ -15994,7 +15994,7 @@ const LEXICON_DATA =
               "/bad/ + /zaman/ → /bad.zam/ compuesto: 'en tiempo al viento' = ocasionalmente"
             ],
             "derivaciones": [],
-            "kalfirvach": "bát-zam",
+            "kalfirvach": "bátzam",
             "pos": "adverb",
             "ipa": "/ˈbat.zam/"
           },
