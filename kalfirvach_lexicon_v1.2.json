@@ -2,7 +2,7 @@
   "kalfirvach_lexicon_v1.2": {
     "metadata": {
       "version": "1.2",
-      "total_entries": 1199,
+      "total_entries": 1214,
       "date_generated": "2026-05-30",
       "languages": [
         "Griego",
@@ -15796,6 +15796,246 @@
             "_re_etymologized": true,
             "pos": "noun",
             "ipa": "/ˈka.mas/"
+          },
+          {
+            "concepto": "programar (escribir código)",
+            "kalfirvach": "likhay",
+            "forma_final": "likhay",
+            "pos": "verb",
+            "ipa": "/li.ˈxaj/",
+            "origen": {
+              "lengua": "Sánscrito / Griego",
+              "raiz_original": "likh 'rayar, escribir' + gráphō 'escribir'",
+              "corpus": "Skt. Lexicón / NT Juan 8:6"
+            },
+            "transformacion": [
+              "likh + graph → likhay (-ay infinitivo)"
+            ],
+            "derivaciones": []
+          },
+          {
+            "concepto": "compilar (reunir código)",
+            "kalfirvach": "sangra",
+            "forma_final": "sangra",
+            "pos": "verb",
+            "ipa": "/ˈsaŋ.ɡra/",
+            "origen": {
+              "lengua": "Sánscrito / Griego",
+              "raiz_original": "saṃgraha 'colección' + synagein 'reunir'",
+              "corpus": "Skt. Filosofía / Hechos 19:22"
+            },
+            "transformacion": [
+              "saṃgraha → sangra (caída -ha)"
+            ],
+            "derivaciones": []
+          },
+          {
+            "concepto": "ejecutar (correr programa)",
+            "kalfirvach": "caray",
+            "forma_final": "caray",
+            "pos": "verb",
+            "ipa": "/tʃa.ˈraj/",
+            "origen": {
+              "lengua": "Sánscrito / Persa",
+              "raiz_original": "car 'moverse' + kardān 'hacer'",
+              "corpus": "Skt. Teatro / Shahnameh"
+            },
+            "transformacion": [
+              "car + kar → caray"
+            ],
+            "derivaciones": []
+          },
+          {
+            "concepto": "conectar (enlazar)",
+            "kalfirvach": "yunj",
+            "forma_final": "yunj",
+            "pos": "verb",
+            "ipa": "/junɟ/",
+            "origen": {
+              "lengua": "Sánscrito / Avestan",
+              "raiz_original": "yuj 'unir' + yuz 'preparar'",
+              "corpus": "Rigveda / Yasna"
+            },
+            "transformacion": [
+              "yuj + yuz → yunj"
+            ],
+            "derivaciones": []
+          },
+          {
+            "concepto": "cargar (datos)",
+            "kalfirvach": "bhar",
+            "forma_final": "bhar",
+            "pos": "verb",
+            "ipa": "/bʱar/",
+            "origen": {
+              "lengua": "Sánscrito / Griego",
+              "raiz_original": "bhṛ 'llevar' + pherō 'llevar'",
+              "corpus": "Skt. Clásico / Homero"
+            },
+            "transformacion": [
+              "bhṛ + pher → bhar"
+            ],
+            "derivaciones": []
+          },
+          {
+            "concepto": "guardar (archivo)",
+            "kalfirvach": "raksh",
+            "forma_final": "raksh",
+            "pos": "verb",
+            "ipa": "/rakʂ/",
+            "origen": {
+              "lengua": "Sánscrito / Avestan",
+              "raiz_original": "rakṣ 'proteger' + rāz 'guardar'",
+              "corpus": "Skt. Ley / Avesta"
+            },
+            "transformacion": [
+              "rakṣ + rāz → raksh"
+            ],
+            "derivaciones": []
+          },
+          {
+            "concepto": "borrar (eliminar)",
+            "kalfirvach": "mets",
+            "forma_final": "mets",
+            "pos": "verb",
+            "ipa": "/mets/",
+            "origen": {
+              "lengua": "Griego / Egipcio",
+              "raiz_original": "eksaleiphō 'borrar' + mḥ 'vaciar'",
+              "corpus": "NT Hechos 3:19 / PGM"
+            },
+            "transformacion": [
+              "eks → mets"
+            ],
+            "derivaciones": []
+          },
+          {
+            "concepto": "enviar (transmitir)",
+            "kalfirvach": "preṣ",
+            "forma_final": "preṣ",
+            "pos": "verb",
+            "ipa": "/preʂ/",
+            "origen": {
+              "lengua": "Sánscrito / Persa",
+              "raiz_original": "preṣ 'enviar' + firistādan 'enviar'",
+              "corpus": "Skt. Épica / Persa Clásico"
+            },
+            "transformacion": [
+              "preṣ (forma base)"
+            ],
+            "derivaciones": []
+          },
+          {
+            "concepto": "recibir (obtener)",
+            "kalfirvach": "labh",
+            "forma_final": "labh",
+            "pos": "verb",
+            "ipa": "/labʱ/",
+            "origen": {
+              "lengua": "Sánscrito / Griego",
+              "raiz_original": "labh 'obtener' + lambanō 'tomar'",
+              "corpus": "Skt. Comercial / NT Mateo 7:8"
+            },
+            "transformacion": [
+              "labh + lamb → labh"
+            ],
+            "derivaciones": []
+          },
+          {
+            "concepto": "buscar (rastrear)",
+            "kalfirvach": "gavesh",
+            "forma_final": "gavesh",
+            "pos": "verb",
+            "ipa": "/ɡa.ˈveʂ/",
+            "origen": {
+              "lengua": "Sánscrito / Persa",
+              "raiz_original": "gaveṣṇa 'buscando' + gayandan 'buscar'",
+              "corpus": "Skt. Narrativa / Shahnameh"
+            },
+            "transformacion": [
+              "gaveṣ + gayand → gavesh"
+            ],
+            "derivaciones": []
+          },
+          {
+            "concepto": "calcular (procesar)",
+            "kalfirvach": "gan",
+            "forma_final": "gan",
+            "pos": "verb",
+            "ipa": "/ɡan/",
+            "origen": {
+              "lengua": "Sánscrito / Griego",
+              "raiz_original": "gaṇ 'contar' + logizomai 'calcular'",
+              "corpus": "Skt. Matemática / NT Romanos 8:18"
+            },
+            "transformacion": [
+              "gaṇ (forma base)"
+            ],
+            "derivaciones": []
+          },
+          {
+            "concepto": "analizar (examinar)",
+            "kalfirvach": "vibhaj",
+            "forma_final": "vibhaj",
+            "pos": "verb",
+            "ipa": "/vib.ʱaɟ/",
+            "origen": {
+              "lengua": "Sánscrito / Griego",
+              "raiz_original": "vibhaj 'dividir' + analyō 'analizar'",
+              "corpus": "Skt. Lógica / Aristóteles"
+            },
+            "transformacion": [
+              "vibhaj (forma base)"
+            ],
+            "derivaciones": []
+          },
+          {
+            "concepto": "imprimir (copiar)",
+            "kalfirvach": "mudr",
+            "forma_final": "mudr",
+            "pos": "verb",
+            "ipa": "/mu.dr/",
+            "origen": {
+              "lengua": "Sánscrito / Persa",
+              "raiz_original": "mudrā 'sello' + muhr 'sello'",
+              "corpus": "Skt. Administrativo / Persa Sasánida"
+            },
+            "transformacion": [
+              "mudrā → mudr"
+            ],
+            "derivaciones": []
+          },
+          {
+            "concepto": "escanear (digitalizar)",
+            "kalfirvach": "drish",
+            "forma_final": "drish",
+            "pos": "verb",
+            "ipa": "/driʂ/",
+            "origen": {
+              "lengua": "Sánscrito / Griego",
+              "raiz_original": "dṛś 'ver' + skopeō 'examinar'",
+              "corpus": "Skt. Filosófico / NT Lucas 11:35"
+            },
+            "transformacion": [
+              "dṛś + skop → drish"
+            ],
+            "derivaciones": []
+          },
+          {
+            "concepto": "encriptar (cifrar)",
+            "kalfirvach": "guh",
+            "forma_final": "guh",
+            "pos": "verb",
+            "ipa": "/ɡuh/",
+            "origen": {
+              "lengua": "Sánscrito / Persa",
+              "raiz_original": "guh 'ocultar' + nihān 'esconder'",
+              "corpus": "Skt. Místico / Sufismo"
+            },
+            "transformacion": [
+              "guh (forma base)"
+            ],
+            "derivaciones": []
           }
         ]
       },
