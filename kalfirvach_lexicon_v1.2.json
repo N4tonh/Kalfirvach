@@ -2,7 +2,7 @@
   "kalfirvach_lexicon_v1.2": {
     "metadata": {
       "version": "1.2",
-      "total_entries": 1214,
+      "total_entries": 1235,
       "date_generated": "2026-05-30",
       "languages": [
         "Griego",
@@ -12999,6 +12999,343 @@
               "coagula-a (coagulado)"
             ],
             "notas": "F5 v1.2. Alquimia: unir componentes; cierre del opus."
+          },
+          {
+            "concepto": "portal dimensional, grieta en el éter que funciona como puerta entre planos",
+            "forma_final": "chásdruying",
+            "ipa": "/ˈtʃas.dru.jiŋ/",
+            "kalfirvach": "chásdruying",
+            "origen": {
+              "lengua": "Griego/Avestan/Tibetano",
+              "raiz_original": "Griego χάσμα (chásma) 'grieta, abismo' + Avestan 𐬛𐬭𐬎𐬎𐬀𐬰𐬀 (druuaza) 'puerta, portal' + Tibetano clásico དབྱིངས (dbyings) 'espacio primordial, ākāśa, éter' → chásdruying (fusión: chásma + druuaza + dbyings, con pérdida de -ma, -uaza y db-). 3 lenguas, 3 familias. El portal dimensional que rasga el éter como una puerta entre mundos.",
+              "corpus": "PGM IV; Gathas; Dzogchen tantras"
+            },
+            "pos": "noun",
+            "derivaciones": [],
+            "transformacion": [
+              "compatible"
+            ]
+          },
+          {
+            "concepto": "escriba, copista de textos sagrados y rituales",
+            "forma_final": "séshkatip",
+            "ipa": "/ˈseʃ.ka.tip/",
+            "kalfirvach": "séshkatip",
+            "origen": {
+              "lengua": "Egipcio/Arabe",
+              "raiz_original": "Egipcio sš (sesh) 'escriba, escritura' + Árabe كاتب (kātib) 'escriba, notario' → séshkatip (fusión: sš + kātib, con /sš/→/seʃ/ y /ātib/→/katip/, ensordecimiento codicial /b/→/p/). 2 lenguas. El que registra el conocimiento sagrado por escrito.",
+              "corpus": "Textos de las Pirámides; Manuscritos de los Hermanos de la Pureza"
+            },
+            "pos": "noun",
+            "derivaciones": [],
+            "transformacion": [
+              "compatible"
+            ]
+          },
+          {
+            "concepto": "papiro, rollo de escritura, manuscrito sagrado",
+            "forma_final": "damqírtas",
+            "ipa": "/damˈkir.tas/",
+            "kalfirvach": "damqírtas",
+            "origen": {
+              "lengua": "Egipcio demótico/Arabe",
+              "raiz_original": "Egipcio demótico ḏmˁ (dema) 'rollo de papiro' + Árabe قرطاس (qirtās) 'papel, papiro, hoja' → damqírtas (fusión: ḏmˁ + qirtās, con ḏ→d, mˁ→ma, qirtās íntegro). 2 lenguas. El soporte físico del conocimiento transmitido.",
+              "corpus": "Papiro demótico mágico BM 10554; Rasā'il Ikhwān al-Ṣafā'"
+            },
+            "pos": "noun",
+            "derivaciones": [],
+            "transformacion": [
+              "compatible"
+            ]
+          },
+          {
+            "concepto": "ángel, mensajero divino (puede ser persona o espíritu)",
+            "forma_final": "malkángra",
+            "ipa": "/ˈmal.kaŋ.gra/",
+            "kalfirvach": "malkángra",
+            "origen": {
+              "lengua": "Arabe/Avestan",
+              "raiz_original": "Árabe ملك (malak) 'ángel, mensajero celeste' + Avestan 𐬀𐬢𐬭𐬀 (aṇgra) 'espíritu, ser celestial, mensajero' → malkángra (fusión: malak + aṇgra, con pérdida de -ak y -gra como núcleo). 2 lenguas. El mensajero divino que puede manifestarse en cualquier persona o forma espiritual.",
+              "corpus": "Corán 2:98; Gathas Yasna 28"
+            },
+            "pos": "noun",
+            "derivaciones": [],
+            "transformacion": [
+              "compatible"
+            ]
+          },
+          {
+            "concepto": "arcángel, parte de Dios que crea en el plano mental",
+            "forma_final": "árchamaqal",
+            "ipa": "/ˈar.tʃa.ma.kal/",
+            "kalfirvach": "árchamaqal",
+            "origen": {
+              "lengua": "Griego/Arabe Esoterico/Avestan",
+              "raiz_original": "Griego ἀρχή (archē) 'principio, origen, regente' + Avestan 𐬨𐬀𐬥𐬀𐬢𐬵𐬀 (manaŋha) 'poder mental' + Árabe esotérico عقل (ʿaql) 'intelecto divino, nous plotiniano' → árchamaqal (fusión: archē + manaŋha + ʿaql, con pérdida de -ē, -naŋha → -ma, y ʿaql epentético -aqal). 3 lenguas. El aspecto creador de la divinidad que opera en el plano del intelecto puro (nous).",
+              "corpus": "Corpus Hermeticum; Teología Aristotélica (versión árabe); Gathas"
+            },
+            "pos": "noun",
+            "derivaciones": [],
+            "transformacion": [
+              "/tʃ/ por χ y /a/ epentética en ʿaql → -aqal"
+            ]
+          },
+          {
+            "concepto": "demonio, genio espiritual (puede ser benéfico o maléfico)",
+            "forma_final": "dáymojin",
+            "ipa": "/ˈdaj.mo.jin/",
+            "kalfirvach": "dáymojin",
+            "origen": {
+              "lengua": "Griego/Arabe",
+              "raiz_original": "Griego δαίμων (daimōn) 'espíritu, ser divino neutral, daimon' + Árabe جني (jinnī) 'genio, ser de fuego sutil, moralmente ambivalente' → dáymojin (fusión: daimōn + jinnī, con pérdida de -ōn, -ī y coalescencia /mo/). 2 lenguas. El espíritu que no es ni bueno ni malo por naturaleza, sino que actúa según su propósito.",
+              "corpus": "PGM IV 1234; Mil y Una Noches; Rasā'il Ikhwān al-Ṣafā'"
+            },
+            "pos": "noun",
+            "derivaciones": [],
+            "transformacion": [
+              "compatible"
+            ]
+          },
+          {
+            "concepto": "sirena, espíritu elemental del agua",
+            "forma_final": "séypari",
+            "ipa": "/ˈsej.pa.ri/",
+            "kalfirvach": "séypari",
+            "origen": {
+              "lengua": "Griego/Persa",
+              "raiz_original": "Griego Σειρήν (seirēn) 'sirena, seductora acuática' + Persa پری (parī) 'hada/peri, espíritu elemental femenino' → séypari (fusión: seirēn + parī, con /rēn/→/y/ y parī reducido a -pari). 2 lenguas. El espíritu femenino de las aguas, amalgama de la tradición homérica y el folclore iranio.",
+              "corpus": "Odisea XII; Avestan Frawardīn Yašt; Shāh-Nāmeh"
+            },
+            "pos": "noun",
+            "derivaciones": [],
+            "transformacion": [
+              "compatible"
+            ]
+          },
+          {
+            "concepto": "silfo, espíritu elemental del aire",
+            "forma_final": "vayrūh",
+            "ipa": "/ˈwaj.ruːh/",
+            "kalfirvach": "vayrūh",
+            "origen": {
+              "lengua": "Avestan/Arabe Esoterico",
+              "raiz_original": "Avestan 𐬬𐬀𐬌𐬌𐬎 (vaiiu) 'viento, aire, divinidad Vayu' + Árabe esotérico روح (rūḥ) 'espíritu, soplo divino, aliento de vida' → vayrūh (fusión: vaiiu + rūḥ, con /v/→/v/, /aiiu/→/ay/, /rūḥ/→/rūh/). 2 lenguas. El espíritu elemental que danza en el viento, mensajero del éter.",
+              "corpus": "Gathas Yasna 44; Futūḥāt al-Makkiyya"
+            },
+            "pos": "noun",
+            "derivaciones": [],
+            "transformacion": [
+              "compatible"
+            ]
+          },
+          {
+            "concepto": "duende, gnomo, espíritu elemental de la tierra",
+            "forma_final": "gazámsa",
+            "ipa": "/gaˈzam.sa/",
+            "kalfirvach": "gazámsa",
+            "origen": {
+              "lengua": "Griego/Avestan/Tibetano",
+              "raiz_original": "Griego γαῖα (gaia) 'tierra' + Avestan 𐬰𐬆𐬨 (zəm) 'tierra' + Tibetano clásico ས (sa) 'tierra, suelo' → gazámsa (fusión: gāia + zəm + sa, con /āi/→/a/, /zəm/→/zam/, /sa/ conservado). 3 lenguas, 2 familias. El elemental que cuida las raíces del mundo subterráneo.",
+              "corpus": "Theogony; Gathas; Bön tantras"
+            },
+            "pos": "noun",
+            "derivaciones": [],
+            "transformacion": [
+              "compatible"
+            ]
+          },
+          {
+            "concepto": "meditar, contemplación profunda",
+            "forma_final": "médhya",
+            "ipa": "/ˈme.dja/",
+            "kalfirvach": "médhya",
+            "origen": {
+              "lengua": "Copto/Tibetano/Persa",
+              "raiz_original": "Copto ⲙⲉⲧ (met) 'verbo, pensamiento, acción de' + Tibetano clásico བསམ (bsam) 'pensar, meditar' + Persa medio اندیشه (andīše) 'pensamiento, meditación' → médhya (fusión: met + bsam + andīše, con met→mé, bsam→dhya por debuccalización, -šīšeh perdido). 3 lenguas. El acto de aquietar la mente y penetrar en la contemplación del vacío.",
+              "corpus": "Evangelio de Tomás (versión copta); Bardo Thodol; Shāh-Nāmeh"
+            },
+            "pos": "verb",
+            "derivaciones": [],
+            "transformacion": [
+              "/d/ + /j/ → /d(j)/ por yodización",
+              "compatible"
+            ]
+          },
+          {
+            "concepto": "parásito astral, entidad que drena energía en el plano sutil",
+            "forma_final": "akhásmara",
+            "ipa": "/ˈa.xas.ma.ra/",
+            "kalfirvach": "akhásmara",
+            "origen": {
+              "lengua": "Egipcio/Arabe Esoterico/Persa",
+              "raiz_original": "Egipcio ꜥḫ (akh) 'espíritu transfigurado, entidad del más allá' + Árabe esotérico خسارة (khasāra) 'pérdida, drenaje, daño' + Persa medio مار (mār) 'serpiente, parásito' → akhásmara (fusión: ꜥḫ + khasāra + mār, con ꜥḫ→ /ax/, khasāra conservado como -khas-, mār como -mara). 3 lenguas. La entidad astral que se alimenta de la energía vital del practicante.",
+              "corpus": "Textos de los Sarcófagos; al-Būnī, Shams al-Ma'ārif; Bundahišn"
+            },
+            "pos": "noun",
+            "derivaciones": [],
+            "transformacion": [
+              "compatible"
+            ]
+          },
+          {
+            "concepto": "demiurgo, artífice divino del mundo material",
+            "forma_final": "dámiuqara",
+            "ipa": "/ˈda.mi.u.ka.ra/",
+            "kalfirvach": "dámiuqara",
+            "origen": {
+              "lengua": "Griego/Arabe Esoterico/Avestan",
+              "raiz_original": "Griego δημιουργός (dēmiourgos) 'artesano, hacedor, creador del mundo' + Árabe esotérico قارة (qāra) 'materia prima/molde creador' + Avestan 𐬐𐬀𐬭𐬀𐬥 (karan) 'hacer, crear, fabricar' → dámiuqara (fusión: dēmiourgós + qāra + karan, con /dēmi/→/dami/, /ourgos/→/u/, /qāra/→/qara/ con epéntesis /q/→/k/). 3 lenguas. El arquitecto del cosmos material, que modela la realidad a partir de la materia primordial.",
+              "corpus": "Timeo de Platón; Rasā'il Ikhwān al-Ṣafā'; Bundahišn"
+            },
+            "pos": "noun",
+            "derivaciones": [],
+            "transformacion": [
+              "compatible"
+            ]
+          },
+          {
+            "concepto": "espíritu planetario del Sol, espíritu solar, regente del fuego astral y la vitalidad",
+            "forma_final": "hūrsūf",
+            "ipa": "/ˈhuːr.suːf/",
+            "kalfirvach": "hūrsūf",
+            "origen": {
+              "lengua": "Persa/Arabe Esoterico",
+              "raiz_original": "Persa medio hūr (خور) 'sol, luz solar' + Árabe esotérico صوف (ṣūf) 'espíritu, sabiduría mística, esencia sutil' → hūrsūf (fusión directa: hūr + ṣūf). 2 lenguas. El regente espiritual que anima el principio solar.",
+              "corpus": "Bundahišn; al-Būnī, Shams al-Ma'ārif"
+            },
+            "pos": "noun",
+            "derivaciones": [],
+            "transformacion": [
+              "compatible"
+            ]
+          },
+          {
+            "concepto": "espíritu planetario de Mercurio, regente de la comunicación y el ingenio",
+            "forma_final": "tīrsūf",
+            "ipa": "/ˈtiːr.suːf/",
+            "kalfirvach": "tīrsūf",
+            "origen": {
+              "lengua": "Avestan/Persa/Arabe Esoterico",
+              "raiz_original": "Avestan 𐬙𐬌𐬭𐬌 (tīri) 'Mercurio, Sirio, estrella-guía' + Persa تیر (tīr) 'flecha, Mercurio' + Árabe esotérico صوف (ṣūf) 'espíritu' → tīrsūf (fusión: tīr + ṣūf). 3 lenguas. El genio de la comunicación veloz entre planos.",
+              "corpus": "Tīr Yašt (Avesta); Picatrix"
+            },
+            "pos": "noun",
+            "derivaciones": [],
+            "transformacion": [
+              "compatible"
+            ]
+          },
+          {
+            "concepto": "espíritu planetario de Venus, regente del amor, la belleza y la atracción",
+            "forma_final": "anāhīsūf",
+            "ipa": "/aˈnaː.hiː.suːf/",
+            "kalfirvach": "anāhīsūf",
+            "origen": {
+              "lengua": "Avestan/Persa/Arabe Esoterico",
+              "raiz_original": "Avestan 𐬀𐬥𐬁𐬵𐬌𐬙𐬀 (Anāhita) 'divinidad de las aguas, Venus, fertilidad' + Persa ناهید (Nāhīd) 'planeta Venus' + Árabe esotérico صوف (ṣūf) 'espíritu' → anāhīsūf (fusión: Anāhīt + ṣūf, con pérdida de /t/). 3 lenguas. La esencia espiritual que rige la atracción y la armonía.",
+              "corpus": "Ābān Yašt; Picatrix; Dīwān-e Hāfez"
+            },
+            "pos": "noun",
+            "derivaciones": [],
+            "transformacion": [
+              "compatible"
+            ]
+          },
+          {
+            "concepto": "espíritu planetario de Marte, regente de la fuerza, la guerra y la voluntad",
+            "forma_final": "bahrāmsūf",
+            "ipa": "/bahˈraːm.suːf/",
+            "kalfirvach": "bahrāmsūf",
+            "origen": {
+              "lengua": "Persa/Arabe Esoterico",
+              "raiz_original": "Persa بهرام (Bahrām) 'Marte, dios de la victoria' (del Avestan 𐬬𐬆𐬭𐬆𐬚𐬭𐬀𐬖𐬥𐬀 vərəθraɣna) + Árabe esotérico صوف (ṣūf) 'espíritu' → bahrāmsūf (fusión: Bahrām + ṣūf). 2 lenguas. El ímpetu guerrero del cosmos personificado.",
+              "corpus": "Bahrām Yašt; Shāh-Nāmeh"
+            },
+            "pos": "noun",
+            "derivaciones": [],
+            "transformacion": [
+              "compatible"
+            ]
+          },
+          {
+            "concepto": "espíritu planetario de Júpiter, regente de la sabiduría, la expansión y la realeza",
+            "forma_final": "hormsūf",
+            "ipa": "/ˈhorm.suːf/",
+            "kalfirvach": "hormsūf",
+            "origen": {
+              "lengua": "Persa/Arabe Esoterico",
+              "raiz_original": "Persa هرمز (Hormoz) 'Júpiter' (del Avestan 𐬀𐬵𐬎𐬭𐬀 𐬨𐬀𐬰𐬛𐬁 Ahura Mazdā, Señor Sabiduría) + Árabe esotérico صوف (ṣūf) 'espíritu' → hormsūf (fusión: Hormoz + ṣūf, con pérdida de /oz/). 2 lenguas. La realeza espiritual del cosmos ampliando los límites.",
+              "corpus": "Bundahišn; Rasā'il Ikhwān al-Ṣafā'"
+            },
+            "pos": "noun",
+            "derivaciones": [],
+            "transformacion": [
+              "compatible"
+            ]
+          },
+          {
+            "concepto": "espíritu planetario de Saturno, regente del tiempo, la estructura y el karma",
+            "forma_final": "kaywānsūf",
+            "ipa": "/kajˈwaːn.suːf/",
+            "kalfirvach": "kaywānsūf",
+            "origen": {
+              "lengua": "Persa/Arabe/Arabe Esoterico",
+              "raiz_original": "Persa medio کیوان (Kaywān) + Árabe كيوان (Kaywān) 'Saturno, el benéfico severo' + Árabe esotérico صوف (ṣūf) 'espíritu' → kaywānsūf (fusión: Kaywān + ṣūf). 3 lenguas. El guardián del tiempo cósmico y las estructuras del destino.",
+              "corpus": "Picatrix; Ghāyat al-Ḥakīm; al-Būnī"
+            },
+            "pos": "noun",
+            "derivaciones": [],
+            "transformacion": [
+              "compatible"
+            ]
+          },
+          {
+            "concepto": "espíritu planetario de Urano, regente de lo repentino, lo original y lo disruptivo",
+            "forma_final": "urānsūf",
+            "ipa": "/uˈraːn.suːf/",
+            "kalfirvach": "urānsūf",
+            "origen": {
+              "lengua": "Griego/Arabe Esoterico",
+              "raiz_original": "Griego Οὐρανός (Ouranos) 'el cielo primordial, Urano' + Árabe esotérico صوف (ṣūf) 'espíritu' → urānsūf (fusión: Ouranos + ṣūf, con /ou/→/u/ y /nos/→/n/). 2 lenguas. El espíritu del cielo profundo que irrumpe desde lo insospechado.",
+              "corpus": "Teogonía de Hesíodo; Picatrix; Corpus Hermeticum"
+            },
+            "pos": "noun",
+            "derivaciones": [],
+            "transformacion": [
+              "compatible"
+            ]
+          },
+          {
+            "concepto": "espíritu planetario de Neptuno, regente de los abismos, los sueños y lo trascendente",
+            "forma_final": "posītsūf",
+            "ipa": "/poˈsiːt.suːf/",
+            "kalfirvach": "posīdsūf",
+            "origen": {
+              "lengua": "Griego/Arabe Esoterico",
+              "raiz_original": "Griego Ποσειδῶν (Poseidōn) 'dios del mar, Neptuno, señor de las profundidades' + Árabe esotérico صوف (ṣūf) 'espíritu' → posīdsūf (fusión: Poseidōn + ṣūf, con /sei/→/sī/, /dōn/→/d/, y /z/ en coda → /t/ por ensordecimiento). 2 lenguas. La voz del abismo oceánico que susurra en los sueños.",
+              "corpus": "Odisea; Rasā'il Ikhwān al-Ṣafā'; Picatrix"
+            },
+            "pos": "noun",
+            "derivaciones": [],
+            "transformacion": [
+              "/d/→/t/ en coda por §3.3"
+            ]
+          },
+          {
+            "concepto": "espíritu planetario de la Tierra, regente de lo material, lo denso y lo fértil",
+            "forma_final": "būmsūf",
+            "ipa": "/ˈbuːm.suːf/",
+            "kalfirvach": "būmsūf",
+            "origen": {
+              "lengua": "Persa/Arabe Esoterico",
+              "raiz_original": "Persa بوم (būm) 'tierra, suelo, territorio' + Árabe esotérico صوف (ṣūf) 'espíritu' → būmsūf (fusión: būm + ṣūf). 2 lenguas. El espíritu telúrico que sustenta toda vida material.",
+              "corpus": "Bundahišn; Shāh-Nāmeh; Futūḥāt al-Makkiyya"
+            },
+            "pos": "noun",
+            "derivaciones": [],
+            "transformacion": [
+              "compatible"
+            ]
           }
         ]
       },
