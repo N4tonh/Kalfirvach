@@ -1,7 +1,7 @@
 # Léxico Kalfírvach v1.2
 
 **Versión**: 1.2
-**Entradas**: 1235
+**Entradas**: 1254
 **Generado**: 2026-05-30
 **Última actualización**: 2026-06-10
 **Lenguas fuente**: Griego, Sanscrito, Avestan, Persa, Tibetano, Arabe, Egipcio
@@ -1401,3 +1401,29 @@ Oficios, profesiones, roles sociales y jerarquías
 | wāhak | wāhak | /ˈwaː.hak/ | pastor, cuidador de rebaños |
 | yodha | yodha | /ˈjo.ða/ | guerrero, combatiente |
 | āthal | āthal | /ˈaː.θal/ | atleta, deportista, competidor |
+
+## Gobierno, Política y Derecho
+
+Gobierno, política, derecho, justicia y organización social
+
+| Kalfírvach | Forma final | IPA | Concepto |
+|-----------|-------------|-----|----------|
+| hapdāta | hapdāta | /hapˈdaː.ta/ | ley, estatuto, norma jurídica |
+| mēimat | mēimat | /mejˈmat/ | derecho, justicia, lo que corresponde por ley y orden cósmico |
+| haprat | haprat | /hapˈrat/ | juez, magistrado, quien dictamina según la ley |
+| romālik | romālik | /roˈmaː.lik/ | rey, monarca, soberano de un reino |
+| māliknīt | māliknīt | /maːˈlik.niːt/ | reina, soberana, monarca |
+| kahyul | kahyul | /kahˈjul/ | reino, territorio, dominio soberano |
+| dawlakōt | dawlakōt | /ˈdaw.la.koːt/ | gobierno, estado, administración del poder público |
+| wālrat | wālrat | /waːlˈrat/ | gobernante, autoridad, quien ejerce el poder |
+| nīwtagrong | nīwtagrong | /ˈniːw.ta.groŋ/ | ciudad, urbe, asentamiento urbano amurallado |
+| ahadāt | ahadāt | /a.haˈdaːt/ | tratado, pacto, acuerdo vinculante entre partes |
+| hilifārta | hilifārta | /hi.liˈfaːr.ta/ | alianza, coalición, unión estratégica entre pueblos |
+| magaharb | magaharp | /ma.ˈɡa.harp/ | guerra, conflicto armado, contienda entre fuerzas |
+| silmarta | silmarta | /silˈmar.ta/ | paz, armonía, ausencia de conflicto |
+| rabāji | rabāji | /raˈbaː.dʒi/ | impuesto, tributo, contribución al estado |
+| amarwit | amarvit | /aˈmar.wit/ | decreto, edicto, mandato oficial de la autoridad |
+| majlisgros | majlisgros | /madʒˈlis.gros/ | asamblea, consejo, reunión deliberativa |
+| jurmbōn | jurmbōn | /dʒurmˈboːn/ | crimen, delito, transgresión grave de la ley |
+| ikāpchad | ikāpchad | /iˈkaːp.tʃad/ | castigo, pena, sanción por transgresión de la ley |
+| tāshhad | tāshhad | /taːʃˈhad/ | frontera, límite, línea divisoria entre territorios |

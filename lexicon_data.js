@@ -3,7 +3,7 @@ const LEXICON_DATA =
   "kalfirvach_lexicon_v1.2": {
     "metadata": {
       "version": "1.2",
-      "total_entries": 1235,
+      "total_entries": 1254,
       "date_generated": "2026-05-30",
       "languages": [
         "Griego",
@@ -18,8 +18,8 @@ const LEXICON_DATA =
       "last_updated": "2026-06-10",
       "ipa_coverage": "100%",
       "schema_version": "v1.0",
-      "total_categorias": 23,
-      "total_categories": 23
+      "total_categorias": 24,
+      "total_categories": 24
     },
     "categorias": {
       "pronombres_y_deicticos": {
@@ -21037,6 +21037,297 @@ const LEXICON_DATA =
             "ipa": "/ˈaː.θal/",
             "kalfirvach": "āthal",
             "pos": "noun"
+          }
+        ]
+      },
+      "gobierno_politica_derecho": {
+        "descripcion": "Gobierno, política, derecho, justicia y organización social",
+        "entradas": [
+          {
+            "concepto": "ley, estatuto, norma jurídica",
+            "forma_final": "hapdāta",
+            "ipa": "/hapˈdaː.ta/",
+            "kalfirvach": "hapdāta",
+            "origen": {
+              "lengua": "Egipcio/Avestan",
+              "raiz_original": "Egipcio ḥp (hp) 'ley, justicia' + Avestan 𐬛𐬁𐬙𐬀 (dāta) 'ley, decreto, estatuto' → hapdāta (fusión: ḥap + dāta, con elisión de la faringal egipcia). 2 lenguas. La norma fundamental que rige la comunidad."
+            },
+            "pos": "noun",
+            "derivaciones": [],
+            "transformacion": [
+              "compatible"
+            ]
+          },
+          {
+            "concepto": "derecho, justicia, lo que corresponde por ley y orden cósmico",
+            "forma_final": "mēimat",
+            "ipa": "/mejˈmat/",
+            "kalfirvach": "mēimat",
+            "origen": {
+              "lengua": "Copto/Egipcio",
+              "raiz_original": "Copto ⲙⲏⲓ (mēi) 'verdad, justicia, testimonio verdadero' + Egipcio mꜣꜥt (ma'at) 'orden cósmico, verdad, justicia, equidad' → mēimat (fusión: mēi + ma'at, con contracción vocálica). 2 lenguas. El principio de rectitud que equilibra la existencia."
+            },
+            "pos": "noun",
+            "derivaciones": [],
+            "transformacion": [
+              "compatible"
+            ]
+          },
+          {
+            "concepto": "juez, magistrado, quien dictamina según la ley",
+            "forma_final": "haprat",
+            "ipa": "/hapˈrat/",
+            "kalfirvach": "haprat",
+            "origen": {
+              "lengua": "Copto/Avestan",
+              "raiz_original": "Copto ϩⲁⲡ (hap) 'juicio, ley, veredicto' + Avestan 𐬭𐬀𐬙𐬎 (ratu) 'juez, señor, maestro, autoridad que juzga' → haprat (fusión: hap + ratu, contracción de -atu). 2 lenguas. La autoridad que interpreta y aplica la ley."
+            },
+            "pos": "noun",
+            "derivaciones": [],
+            "transformacion": [
+              "compatible"
+            ]
+          },
+          {
+            "concepto": "rey, monarca, soberano de un reino",
+            "forma_final": "romālik",
+            "ipa": "/roˈmaː.lik/",
+            "kalfirvach": "romālik",
+            "origen": {
+              "lengua": "Copto/Arabe",
+              "raiz_original": "Copto ⲣⲣⲟ (rro) 'rey, gobernante' + Árabe ملك (malik) 'rey, soberano, poseedor' → romālik (fusión: rro + malik, simplificación de /rr/ y /m/ inicial). 2 lenguas. El gobernante supremo de la nación."
+            },
+            "pos": "noun",
+            "derivaciones": [],
+            "transformacion": [
+              "compatible"
+            ]
+          },
+          {
+            "concepto": "reina, soberana, monarca",
+            "forma_final": "māliknīt",
+            "ipa": "/maːˈlik.niːt/",
+            "kalfirvach": "māliknīt",
+            "origen": {
+              "lengua": "Arabe/Egipcio",
+              "raiz_original": "Árabe ملكة (malika) 'reina' + Egipcio nb.t (neb-t, nībt) 'señora, dueña, ama' → māliknīt (fusión: mālika + nībt, con simplificación de /bt/ → /t/). 2 lenguas. La gobernante femenina del reino."
+            },
+            "pos": "noun",
+            "derivaciones": [],
+            "transformacion": [
+              "compatible"
+            ]
+          },
+          {
+            "concepto": "reino, territorio, dominio soberano",
+            "forma_final": "kahyul",
+            "ipa": "/kahˈjul/",
+            "kalfirvach": "kahyul",
+            "origen": {
+              "lengua": "Copto/Tibetano",
+              "raiz_original": "Copto ⲕⲁϩ (kah) 'tierra, suelo, territorio' + Tibetano clásico ཡུལ (yul) 'país, reino, región, tierra natal' → kahyul (fusión: kah + yul). 2 lenguas. El territorio bajo un dominio soberano."
+            },
+            "pos": "noun",
+            "derivaciones": [],
+            "transformacion": [
+              "compatible"
+            ]
+          },
+          {
+            "concepto": "gobierno, estado, administración del poder público",
+            "forma_final": "dawlakōt",
+            "ipa": "/ˈdaw.la.koːt/",
+            "kalfirvach": "dawlakōt",
+            "origen": {
+              "lengua": "Arabe/Copto",
+              "raiz_original": "Árabe دولة (dawla) 'estado, dinastía, turno de gobierno' + Copto ⲕⲱⲧ (kōt) 'construir, edificar, establecer' → dawlakōt (fusión: dawla + kōt). 2 lenguas. La estructura que edifica y sostiene el orden público."
+            },
+            "pos": "noun",
+            "derivaciones": [],
+            "transformacion": [
+              "compatible"
+            ]
+          },
+          {
+            "concepto": "gobernante, autoridad, quien ejerce el poder",
+            "forma_final": "wālrat",
+            "ipa": "/waːlˈrat/",
+            "kalfirvach": "wālrat",
+            "origen": {
+              "lengua": "Arabe/Avestan",
+              "raiz_original": "Árabe وال (wālī) 'gobernante, protector, autoridad' + Avestan 𐬭𐬀𐬙𐬎 (ratu) 'señor, juez, maestro' → wālrat (fusión: wāl + ratu, contracción de -ī y -u). 2 lenguas. Quien detenta la autoridad legítima sobre un territorio."
+            },
+            "pos": "noun",
+            "derivaciones": [],
+            "transformacion": [
+              "compatible"
+            ]
+          },
+          {
+            "concepto": "ciudad, urbe, asentamiento urbano amurallado",
+            "forma_final": "nīwtagrong",
+            "ipa": "/ˈniːw.ta.groŋ/",
+            "kalfirvach": "nīwtagrong",
+            "origen": {
+              "lengua": "Egipcio/Tibetano",
+              "raiz_original": "Egipcio njwt (niw-t) 'ciudad, asentamiento' + Tibetano clásico གྲོང (grong) 'pueblo, villa, asentamiento' → nīwtagrong (fusión: nīwt + grong con epéntesis /a/ para evitar /t.g/). 2 lenguas. El centro urbano de la vida política y social."
+            },
+            "pos": "noun",
+            "derivaciones": [],
+            "transformacion": [
+              "compatible"
+            ]
+          },
+          {
+            "concepto": "tratado, pacto, acuerdo vinculante entre partes",
+            "forma_final": "ahadāt",
+            "ipa": "/a.haˈdaːt/",
+            "kalfirvach": "ahadāt",
+            "origen": {
+              "lengua": "Arabe/Avestan",
+              "raiz_original": "Árabe عهد (ʿahd) 'tratado, pacto, compromiso' + Avestan 𐬛𐬁𐬙𐬀 (dāta) 'ley, decreto, estatuto' → ahadāt (epéntesis /a/ para disolver /hd/ coda ilegal; /h.d/ como núcleo silábico). 2 lenguas. El acuerdo solemne sellado por la ley."
+            },
+            "pos": "noun",
+            "derivaciones": [],
+            "transformacion": [
+              "compatible"
+            ]
+          },
+          {
+            "concepto": "alianza, coalición, unión estratégica entre pueblos",
+            "forma_final": "hilifārta",
+            "ipa": "/hi.liˈfaːr.ta/",
+            "kalfirvach": "hilifārta",
+            "origen": {
+              "lengua": "Arabe/Avestan",
+              "raiz_original": "Árabe حلف (ḥilf) 'alianza, pacto, juramento mutuo' + Avestan 𐬀𐬭𐬙𐬀 (arta) 'orden cósmico, verdad, justicia' → hilifārta (epéntesis /a/ para disolver /lf/ coda = líquida+fricativa no oclusiva, ilegal). 2 lenguas. La unión sagrada de dos fuerzas bajo un mismo orden."
+            },
+            "pos": "noun",
+            "derivaciones": [],
+            "transformacion": [
+              "compatible"
+            ]
+          },
+          {
+            "concepto": "guerra, conflicto armado, contienda entre fuerzas",
+            "forma_final": "magaharp",
+            "ipa": "/ma.ˈɡa.harp/",
+            "kalfirvach": "magaharb",
+            "origen": {
+              "lengua": "Tibetano/Arabe",
+              "raiz_original": "Tibetano clásico དམག (dmag) 'guerra, ejército, hueste' + Árabe حرب (ḥarb) 'guerra, conflicto, batalla' → magaharb (epéntesis /a/ entre mag y harb para separar morfemas). /b/ → /p/ en coda por §3.3. 2 lenguas. El enfrentamiento organizado entre comunidades."
+            },
+            "pos": "noun",
+            "derivaciones": [],
+            "transformacion": [
+              "b→p en forma_final por §3.3",
+              "/ɡ/ se mantiene por ser onset de sílaba -ga-"
+            ]
+          },
+          {
+            "concepto": "paz, armonía, ausencia de conflicto",
+            "forma_final": "silmarta",
+            "ipa": "/silˈmar.ta/",
+            "kalfirvach": "silmarta",
+            "origen": {
+              "lengua": "Arabe/Avestan",
+              "raiz_original": "Árabe سلم (silm) 'paz, concordia, sumisión voluntaria a la armonía' + Avestan 𐬀𐬭𐬙𐬀 (arta) 'orden cósmico, verdad' → silmarta (fusión: silm + arta). /lm/ coda = líquida+nasal permitida por §10.3 (raro). 2 lenguas. La paz como manifestación del orden cósmico."
+            },
+            "pos": "noun",
+            "derivaciones": [],
+            "transformacion": [
+              "compatible"
+            ]
+          },
+          {
+            "concepto": "impuesto, tributo, contribución al estado",
+            "forma_final": "rabāji",
+            "ipa": "/raˈbaː.dʒi/",
+            "kalfirvach": "rabāji",
+            "origen": {
+              "lengua": "Copto/Avestan",
+              "raiz_original": "Copto ⲣⲁⲃ (rab) 'tributo, impuesto, tasa' + Avestan 𐬠𐬁𐬘𐬌 (bāji) 'tributo, ofrenda, impuesto' → rabāji (fusión: rab + bāji, geminación /bb/ simplificada a /b/). 2 lenguas. La contribución que sostiene la administración."
+            },
+            "pos": "noun",
+            "derivaciones": [],
+            "transformacion": [
+              "compatible"
+            ]
+          },
+          {
+            "concepto": "decreto, edicto, mandato oficial de la autoridad",
+            "forma_final": "amarvit",
+            "ipa": "/aˈmar.wit/",
+            "kalfirvach": "amarwit",
+            "origen": {
+              "lengua": "Arabe/Egipcio",
+              "raiz_original": "Árabe أمر (amr) 'orden, mandato, comando' + Egipcio wḏ (wedj) 'decreto, mandato divino, palabra de autoridad' → amarwit (epéntesis /a/ en amr → amar por /mr/ coda ilegal; /d/ → /t/ en coda por §3.3). 2 lenguas. La palabra del gobernante que se convierte en ley."
+            },
+            "pos": "noun",
+            "derivaciones": [],
+            "transformacion": [
+              "d→t en forma_final por §3.3"
+            ]
+          },
+          {
+            "concepto": "asamblea, consejo, reunión deliberativa",
+            "forma_final": "majlisgros",
+            "ipa": "/madʒˈlis.gros/",
+            "kalfirvach": "majlisgros",
+            "origen": {
+              "lengua": "Arabe/Tibetano",
+              "raiz_original": "Árabe مجلس (majlis) 'asamblea, consejo, lugar de reunión' + Tibetano clásico གྲོས (gros) 'deliberación, consejo, discusión' → majlisgros (fusión directa: majlis + gros). 2 lenguas. El cuerpo colegiado que delibera y decide."
+            },
+            "pos": "noun",
+            "derivaciones": [],
+            "transformacion": [
+              "compatible"
+            ]
+          },
+          {
+            "concepto": "crimen, delito, transgresión grave de la ley",
+            "forma_final": "jurmbōn",
+            "ipa": "/dʒurmˈboːn/",
+            "kalfirvach": "jurmbōn",
+            "origen": {
+              "lengua": "Arabe/Copto",
+              "raiz_original": "Árabe جرم (jurm) 'crimen, delito, falta grave' + Copto ⲃⲟⲟⲛⲉ (boone) 'mal, maldad, cosa mala' → jurmbōn (fusión: jurm + boone, contracción de la terminación copta). /rm/ coda = líquida+nasal permitida por §10.3. 2 lenguas. La acción que quebranta el orden legal."
+            },
+            "pos": "noun",
+            "derivaciones": [],
+            "transformacion": [
+              "compatible"
+            ]
+          },
+          {
+            "concepto": "castigo, pena, sanción por transgresión de la ley",
+            "forma_final": "ikāpchad",
+            "ipa": "/iˈkaːp.tʃad/",
+            "kalfirvach": "ikāpchad",
+            "origen": {
+              "lengua": "Arabe/Tibetano",
+              "raiz_original": "Árabe عقاب (ʿiqāb) 'castigo, pena, retribución' + Tibetano clásico ཆད (chad) 'castigo, pena, sanción, corte' → ikāpchad (fusión: iqāb + chad, q→k, /b/→/p/ en coda por §3.3). 2 lenguas. La consecuencia jurídica de la transgresión."
+            },
+            "pos": "noun",
+            "derivaciones": [],
+            "transformacion": [
+              "q→k, b→p en forma_final por §3.3"
+            ]
+          },
+          {
+            "concepto": "frontera, límite, línea divisoria entre territorios",
+            "forma_final": "tāshhad",
+            "ipa": "/taːʃˈhad/",
+            "kalfirvach": "tāshhad",
+            "origen": {
+              "lengua": "Egipcio/Arabe",
+              "raiz_original": "Egipcio tꜣš (tjas) 'frontera, límite, borde' + Árabe حد (ḥadd) 'límite, frontera, confín' → tāshhad (fusión: tāš + ḥadd). /ʃ/ coda + /h/ onset a través del límite silábico. 2 lenguas. El confín que separa y define los territorios."
+            },
+            "pos": "noun",
+            "derivaciones": [],
+            "transformacion": [
+              "compatible"
+            ]
           }
         ]
       }
