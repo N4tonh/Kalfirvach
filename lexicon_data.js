@@ -1,9 +1,9 @@
 const LEXICON_DATA = 
 {
-  "kalfirvach_lexicon_v1.2": {
+  "kalfirvach_lexicon_v1.3": {
     "metadata": {
-      "version": "1.2",
-      "total_entries": 1254,
+      "version": "1.3",
+      "total_entries": 1280,
       "date_generated": "2026-05-30",
       "languages": [
         "Griego",
@@ -15,7 +15,8 @@ const LEXICON_DATA =
         "Egipcio"
       ],
       "writing_system": "Alfabeto griego politonico con arcaicas",
-      "last_updated": "2026-06-10",
+      "last_updated": "2026-06-16",
+      "date_updated": "2026-06-16",
       "ipa_coverage": "100%",
       "schema_version": "v1.0",
       "total_categorias": 24,
@@ -2415,23 +2416,6 @@ const LEXICON_DATA =
             "ipa": "/ˈni.sar/"
           },
           {
-            "kalfirvach": "pipil",
-            "forma_final": "pipil",
-            "concepto": "hormiga",
-            "pos": "noun",
-            "origen": {
-              "lengua": "Sanscrito/Arabe",
-              "raiz_original": "पिपीलिका (pipīlikā) 'hormiga' / نمل (naml) 'hormiga'",
-              "corpus": "Textos budistas (upamā) / Corpus coránico (Sūrat an-Naml)"
-            },
-            "transformacion": [
-              "pipīlikā → pipilī → pipil (elisión del sufijo, acortamiento)",
-              "naml → nam → pipil (convergencia parcial, carácter onomatopéyico)"
-            ],
-            "derivaciones": [],
-            "ipa": "/ˈpi.pil/"
-          },
-          {
             "concepto": "serpiente",
             "forma_final": "sarpa",
             "ipa": "/ˈsar.pa/",
@@ -2529,6 +2513,78 @@ const LEXICON_DATA =
             "derivaciones": [],
             "kalfirvach": "yuka",
             "pos": "noun"
+          },
+          {
+            "concepto": "animal, ser animado, criatura",
+            "forma_final": "pashwan",
+            "kalfirvach": "pashwan",
+            "ipa": "/ˈpaʃ.wan/",
+            "pos": "noun",
+            "origen": {
+              "lengua": "Sánscrito/Árabe/Tibetano/Griego",
+              "raiz_original": "paśu 'animal' (Skt) / ḥayawān 'animal' (Ar) / sems can 'ser sintiente' (Tib) / zôon 'animal' (Gr)",
+              "corpus": ""
+            },
+            "transformacion": [
+              "paśu (Skt) + ḥayawān (Ar) + sems can (Tib) + zôon (Gr) → pash- + -wan",
+              "/ś/→/ʃ/, /ḥ/→/h/→Ø, /z/→/s/",
+              "/ʃ/ coda permitida §3.3, /wan/ coda con /n/ permitido"
+            ],
+            "derivaciones": []
+          },
+          {
+            "concepto": "pájaro, ave",
+            "forma_final": "khayta",
+            "kalfirvach": "khayta",
+            "ipa": "/ˈxaj.ta/",
+            "pos": "noun",
+            "origen": {
+              "lengua": "Sánscrito/Árabe/Tibetano/Persa",
+              "raiz_original": "khaga 'pájaro' (Skt) / ṭayr 'pájaro' (Ar) / bya 'pájaro' (Tib) / mərəγa- 'ave' (Pers/Av)",
+              "corpus": ""
+            },
+            "transformacion": [
+              "khaga (Skt) + ṭayr (Ar) + bya (Tib) + mərəγa (Pers) → khay- + -ta",
+              "/ɡ/→/j/ por contacto con ṭayr, /γ/→/x/",
+              "diptongo /aj/ permitido §3.4, acento penúltimo"
+            ],
+            "derivaciones": []
+          },
+          {
+            "concepto": "tigre",
+            "forma_final": "byabstak",
+            "kalfirvach": "byabstak",
+            "ipa": "/bja.ˈstak/",
+            "pos": "noun",
+            "origen": {
+              "lengua": "Sánscrito/Árabe/Tibetano/Griego",
+              "raiz_original": "vyāghra 'tigre' (Skt) / babr 'tigre' (Ar) / stag 'tigre' (Tib) / tígris 'tigre' (Gr)",
+              "corpus": ""
+            },
+            "transformacion": [
+              "vyāghra (Skt) + babr (Ar) + stag (Tib) + tígris (Gr) → byab- + -stak",
+              "/v/→/b/ por reforzamiento, /gh/→/k/ por §3.3, /g/→/k/ ensordecida",
+              "CC coda /st/ permitida §10.3, /k/ coda permitido §3.3"
+            ],
+            "derivaciones": []
+          },
+          {
+            "concepto": "perro, can",
+            "forma_final": "sapan",
+            "kalfirvach": "sapan",
+            "ipa": "/ˈsa.pan/",
+            "pos": "noun",
+            "origen": {
+              "lengua": "Sánscrito/Árabe/Tibetano/Griego",
+              "raiz_original": "śvan 'perro' (Skt) / kalb 'perro' (Ar) / khyi 'perro' (Tib) / kýōn 'perro' (Gr)",
+              "corpus": ""
+            },
+            "transformacion": [
+              "śvan (Skt) + kalb (Ar) + khyi (Tib) + kýōn (Gr) → sa- + -pan",
+              "/ś/→/s/, /k/→/p/ por convergencia, /l/→/a/ epéntesis",
+              "/n/ coda permitido §3.3, penúltima ligera — acento retrocede a antepenúltima"
+            ],
+            "derivaciones": []
           }
         ]
       },
@@ -2939,6 +2995,42 @@ const LEXICON_DATA =
             "derivaciones": "C+G /tw/ valido",
             "kalfirvach": "twak",
             "pos": "noun"
+          },
+          {
+            "concepto": "planta, vegetal, organismo vegetal",
+            "forma_final": "oshnaba",
+            "kalfirvach": "oshnaba",
+            "ipa": "/ˈoʃ.na.ba/",
+            "pos": "noun",
+            "origen": {
+              "lengua": "Sánscrito/Árabe/Tibetano/Griego",
+              "raiz_original": "oṣadhi 'planta, hierba' (Skt) / nabta 'planta' (Ar) / rtsi 'planta medicinal' (Tib) / botánē 'planta' (Gr)",
+              "corpus": ""
+            },
+            "transformacion": [
+              "oṣadhi (Skt) + nabta (Ar) + rtsi (Tib) + botánē (Gr) → oshn- + -aba",
+              "/ṣ/→/ʃ/, /dh/→/d/→Ø, /b/→/p/—no, /b/ preservada como /b/",
+              "/ʃn/ onset permitido §3.2, acento en penúltima -na-"
+            ],
+            "derivaciones": []
+          },
+          {
+            "concepto": "raíz (parte subterránea de una planta)",
+            "forma_final": "mulandrasa",
+            "kalfirvach": "mulandrasa",
+            "ipa": "/mu.ˈlan.dra.sa/",
+            "pos": "noun",
+            "origen": {
+              "lengua": "Sánscrito/Árabe/Persa/Griego",
+              "raiz_original": "mūla 'raíz' (Skt) / jaḏr 'raíz' (Ar) / rad- 'raíz' (Pers) / rhíza 'raíz' (Gr)",
+              "corpus": ""
+            },
+            "transformacion": [
+              "mūla (Skt) + jaḏr (Ar) + rad (Pers) + rhíza (Gr) → mul- + -andr- + -asa",
+              "/ḏ/→/d/, /z/→/s/ por §3.3 coda ensordecida",
+              "onset /dr/ permitido §3.2 C+líquida, acento en penúltima -dra-"
+            ],
+            "derivaciones": []
           }
         ]
       },
@@ -8105,6 +8197,27 @@ const LEXICON_DATA =
             "derivaciones": [],
             "kalfirvach": "ūtīkūm",
             "pos": "verb"
+          },
+          {
+            "kalfirvach": "rakh",
+            "forma_final": "rakh",
+            "ipa": "/rax/",
+            "concepto": "proteger, cuidar, guardar",
+            "origen": {
+              "lengua": "Sánscrito Védico/Árabe Esotérico/Egipcio Demótico",
+              "raiz_original": "rakṣ (रक्ष्, \"proteger\") / raḥim (رحيم, \"compasivo, que protege\") / rḫ (rek, \"cuidar, vigilar\")",
+              "corpus": ""
+            },
+            "transformacion": [
+              "Fusión Sánscrito Védico + Árabe Esotérico + Egipcio Demótico"
+            ],
+            "derivaciones": [
+              "rakh-a",
+              "rakh-an",
+              "rakh-ant",
+              "rakh-ta"
+            ],
+            "pos": "verb"
           }
         ]
       },
@@ -9250,19 +9363,153 @@ const LEXICON_DATA =
           },
           {
             "concepto": "luna",
-            "forma_final": "chandara",
-            "ipa": "/ˈtʃan.da.ra/",
+            "forma_final": "mahsel",
+            "ipa": "/ˈmah.sel/",
             "origen": {
-              "lengua": "Sanscrito/Griego",
-              "raiz_original": "candra \"luna\" / selene \"luna\"",
+              "lengua": "Persa/Griego/Arabe",
+              "raiz_original": "ماه (Māh) 'luna' (Persa) / Σελήνη (Selénē) 'luna' (Gr) / هلال (Hilāl) 'creciente lunar' (Ar)",
+              "corpus": "Poesía persa (Māh) / PGM (Selénē) / Ilm al-Huruf (Hilāl como símbolo esotérico)"
+            },
+            "transformacion": [
+              "Māh → mah (acortamiento ā→a, coda h ✓)",
+              "Selénē → sel (síncopa: -ēnē → el) → convergencia silábica CVC",
+              "Hilāl → hal → sel (asimilación h→s por convergencia con el griego)",
+              "Composición: mah + sel → mahsel (2 sílabas: CVCCVC)"
+            ],
+            "derivaciones": [],
+            "kalfirvach": "mahsel",
+            "pos": "noun"
+          },
+          {
+            "concepto": "Marte (planeta rojo)",
+            "forma_final": "hermar",
+            "ipa": "/ˈher.mar/",
+            "origen": {
+              "lengua": "Egipcio/Arabe/Tibetano",
+              "raiz_original": "ḥr-dšr (Herdesher) 'Horus el Rojo, Marte' (Eg) / مرخ (Marrikh) 'Marte' (Ar) / མིག་དམར (Migmar) 'Marte, ojo rojo' (Tib)",
+              "corpus": "Textos astronómicos de Edfu (Eg) / Ilm al-Huruf (Ar) / Astrología tántrica tibetana (Tib)"
+            },
+            "transformacion": [
+              "ḥr-dšr → her (ḥ→h, r mantenida, elisión de -dšr → epéntesis a→her como CVC)",
+              "Marrikh → mar (síncopa: -rikh → Ø, preservación de la raíz trilitera m-r)",
+              "Migmar → mar (síncopa: Mig- → Ø, convergencia con el árabe en mar)",
+              "Composición: her + mar → hermar (2 sílabas: CVCCVC)"
+            ],
+            "derivaciones": [],
+            "kalfirvach": "hermar",
+            "pos": "noun"
+          },
+          {
+            "concepto": "Mercurio (planeta mensajero)",
+            "forma_final": "thutir",
+            "ipa": "/ˈθu.tir/",
+            "origen": {
+              "lengua": "Egipcio/Persa/Griego",
+              "raiz_original": "ḏḥwtj (Djehuty) 'Thoth, Mercurio' (Eg) / تیر (Tīr) 'Mercurio, estrella-guía' (Pe) / Ἑρμῆς (Hermês) 'Hermes, Mercurio' (Gr)",
+              "corpus": "PGM (Djehuty-Thoth) / Avesta (Tishtrya/Tīr) / Corpus Hermeticum (Hermes Trismegistus)"
+            },
+            "transformacion": [
+              "ḏḥwtj → ḏḥw → thut (ḥ→h, w→u por vocalización, ḏ→th por fricativización, coda t ✓)",
+              "Tīr → tir (acortamiento ī→i, coda r ✓)",
+              "Hermês → her → thr (convergencia con thut por asimilación: her→thr→thu)",
+              "Composición: thut + tir → thutir (2 sílabas: CVCCVC)"
+            ],
+            "derivaciones": [],
+            "kalfirvach": "thutir",
+            "pos": "noun"
+          },
+          {
+            "concepto": "Júpiter (planeta mayor)",
+            "forma_final": "hormus",
+            "ipa": "/ˈhor.mus/",
+            "origen": {
+              "lengua": "Persa/Griego/Arabe",
+              "raiz_original": "اهورامزدا (Ahura Mazdā → Hormazd) 'Júpiter, divinidad suprema' (Pe) / Ζεύς (Zeús) 'Zeus, Júpiter' (Gr) / مشتري (Mushtarī) 'Júpiter' (Ar)",
+              "corpus": "Avesta (Ahura Mazdā en Gathas) / PGM (Zeus-Helios) / Astrología islámica (Mushtarī)"
+            },
+            "transformacion": [
+              "Hormazd → horm (elisión de -azd → simplificación a CVCC, coda m ✓)",
+              "Zeús → zus → us (elisión de z- por convergencia con el persa)",
+              "Mushtarī → mus (síncopa: -htarī → Ø, preservación de la raíz m-s)",
+              "Composición: horm + mus → hormus (2 sílabas: CVCCVC)"
+            ],
+            "derivaciones": [],
+            "kalfirvach": "hormus",
+            "pos": "noun"
+          },
+          {
+            "concepto": "Venus (planeta del lucero)",
+            "forma_final": "anzu",
+            "ipa": "/ˈan.zu/",
+            "origen": {
+              "lengua": "Persa/Arabe/Griego",
+              "raiz_original": "آناهیتا (Anāhitā) 'diosa Anahita, Venus' (Pe) / زهراء (Zahrā') 'Venus, brillante, flor' (Ar) / Φωσφόρος (Phōsphóros) 'lucero, portador de luz' (Gr)",
+              "corpus": "Avesta (Yašt 5 - Abān Yašt, dedicado a Anāhitā) / Ilm al-Huruf (Zahrā') / PGM (Phōsphóros como Venus matutino)"
+            },
+            "transformacion": [
+              "Anāhitā → an (síncopa: -āhitā → Ø, preservación de la raíz an-)",
+              "Zahrā' → zu (síncopa: -ahrā' → Ø, preservación de la consonante inicial z + u epentética)",
+              "Phōsphóros → phos → os → su (convergencia con zu del árabe por armonía vocálica)",
+              "Composición: an + zu → anzu (2 sílabas: VCCV)"
+            ],
+            "derivaciones": [],
+            "kalfirvach": "anzu",
+            "pos": "noun"
+          },
+          {
+            "concepto": "Saturno (planeta distante)",
+            "forma_final": "keyzu",
+            "ipa": "/ˈkej.zu/",
+            "origen": {
+              "lengua": "Persa/Arabe/Griego",
+              "raiz_original": "کیوان (Keywān) 'Saturno' (Pe) / زحل (Zuḥal) 'Saturno' (Ar) / Κρόνος (Krónos) 'Cronos, Saturno' (Gr)",
+              "corpus": "Astrología persa (Keywān como estrella distante) / Ilm al-Huruf (Zuḥal como el planeta del retiro) / PGM (Krónos como tiempo)"
+            },
+            "transformacion": [
+              "Keywān → key (síncopa: -wān → Ø, diptongo ey preservado por ser sílaba acentuada ✓)",
+              "Zuḥal → zu (síncopa: -ḥal → Ø, preservación de la raíz z-)",
+              "Krónos → kron → krō → kro → key (convergencia vocálica con el persa)",
+              "Composición: key + zu → keyzu (2 sílabas: CVCCV, diptongo ey /ej/ permitido §3.4)"
+            ],
+            "derivaciones": [],
+            "kalfirvach": "keyzu",
+            "pos": "noun"
+          },
+          {
+            "concepto": "planeta, cuerpo celeste errante",
+            "forma_final": "grakaw",
+            "kalfirvach": "grakaw",
+            "ipa": "/ˈgra.kaw/",
+            "pos": "noun",
+            "origen": {
+              "lengua": "Sánscrito/Árabe/Griego/Persa",
+              "raiz_original": "graha 'planeta' (Skt) / kawkab 'astro' (Ar) / planḗtēs 'planeta' (Gr) / uxšiān- 'cuerpo celeste' (Pers)",
               "corpus": ""
             },
             "transformacion": [
-              "desclustering"
+              "graha (Skt) + kawkab (Ar) + planḗtēs (Gr) + uxšiān- (Pers) → gra- + -kaw",
+              "diptongo /aw/ permitido §3.4 en coda",
+              "onset /gr/ permitido §3.2 C+líquida, acento penúltimo"
             ],
-            "derivaciones": [],
-            "kalfirvach": "chandara",
-            "pos": "noun"
+            "derivaciones": []
+          },
+          {
+            "concepto": "constelación, grupo de estrellas",
+            "forma_final": "nakbursa",
+            "kalfirvach": "nakbursa",
+            "ipa": "/nak.ˈbur.sa/",
+            "pos": "noun",
+            "origen": {
+              "lengua": "Sánscrito/Árabe/Tibetano/Griego",
+              "raiz_original": "nakṣatra 'constelación' (Skt) / burj 'constelación zodiacal' (Ar) / skar khyim 'casa estelar' (Tib) / asterismós 'constelación' (Gr)",
+              "corpus": ""
+            },
+            "transformacion": [
+              "nakṣatra (Skt) + burj (Ar) + skar (Tib) + asterismós (Gr) → nak- + -bur- + -sa",
+              "/ṣ/→/k/, /j/→/s/",
+              "/k/ coda permitido §3.3, acento en penúltima -bur-"
+            ],
+            "derivaciones": []
           }
         ]
       },
@@ -9367,18 +9614,28 @@ const LEXICON_DATA =
           },
           {
             "concepto": "dia",
-            "forma_final": "dina",
-            "ipa": "/ˈdi.na/",
+            "forma_final": "daimera",
+            "ipa": "/dajˈme.ra/",
             "origen": {
               "lengua": "Sanscrito/Griego/Avestan/Persa",
-              "raiz_original": "dina 'día' / ἡμέρα (hēmera) 'día' / dainhu- 'día' / ruz 'día'",
-              "corpus": ""
+              "raiz_original": "दिन (dina) 'día' (Skt) / ἡμέρα (hēmera) 'día' (Gr) / dainhu- 'día' (Av) / روز (rūz) 'día' (Pe)",
+              "corpus": "Ṛgveda / PGM / Avesta"
             },
             "transformacion": [
-              "compatible"
+              "dina → dai (vocalización: i→ai por influencia del griego hēmera)",
+              "hēmera → mera (síncopa: hē- → Ø, asibilación de -mera como sufijo)",
+              "Composición: dai + mera → daimera (CV+CV: 'día+luz')"
             ],
-            "derivaciones": [],
-            "kalfirvach": "dina",
+            "derivaciones": [
+              "suryamera (domingo)",
+              "mahselmera (lunes)",
+              "hermarmera (martes)",
+              "thutirmera (miércoles)",
+              "hormusmera (jueves)",
+              "anzumera (viernes)",
+              "keyzumera (sábado)"
+            ],
+            "kalfirvach": "daimera",
             "pos": "noun"
           },
           {
@@ -13337,6 +13594,42 @@ const LEXICON_DATA =
             "transformacion": [
               "compatible"
             ]
+          },
+          {
+            "concepto": "universo, totalidad de la existencia",
+            "forma_final": "vijulta",
+            "kalfirvach": "vijulta",
+            "ipa": "/vi.ˈjul.ta/",
+            "pos": "noun",
+            "origen": {
+              "lengua": "Sánscrito/Árabe/Griego/Avestan",
+              "raiz_original": "viśva 'universo' (Skt) / al-wujūd 'existencia' (Ar) / tó hólon 'el todo' (Gr) / gaēθā- 'mundo' (Av)",
+              "corpus": ""
+            },
+            "transformacion": [
+              "viśva (Skt) + wujūd (Ar) + hólon (Gr) + gaēθā (Av) → vi- + -jul- + -ta",
+              "/ś/→/dʒ/ por palatalización, /h/→/l/ asimilada",
+              "/dʒ/ onset permitido §3.2, penúltima — acento en -jul-"
+            ],
+            "derivaciones": []
+          },
+          {
+            "concepto": "cosmos, orden universal, armonía cósmica",
+            "forma_final": "raskal",
+            "kalfirvach": "raskal",
+            "ipa": "/ˈras.kal/",
+            "pos": "noun",
+            "origen": {
+              "lengua": "Sánscrito/Árabe/Avestan/Griego",
+              "raiz_original": "ṛta 'orden cósmico' (Skt) / al-falak 'esfera celeste' (Ar) / aṣ̌a- 'verdad, orden' (Av) / kósmos 'cosmos' (Gr)",
+              "corpus": ""
+            },
+            "transformacion": [
+              "ṛta (Skt) + falak (Ar) + aṣ̌a (Av) + kósmos (Gr) → ras- + -kal",
+              "/ṣ̌/→/s/, /f/→/k/ por convergencia",
+              "CC coda /sk/ permitida §10.3, /l/ coda permitido §3.3"
+            ],
+            "derivaciones": []
           }
         ]
       },
@@ -16374,6 +16667,24 @@ const LEXICON_DATA =
               "guh (forma base)"
             ],
             "derivaciones": []
+          },
+          {
+            "concepto": "herramienta, instrumento, utensilio",
+            "forma_final": "adark",
+            "kalfirvach": "adark",
+            "ipa": "/a.ˈdark/",
+            "pos": "noun",
+            "origen": {
+              "lengua": "Árabe/Persa/Griego",
+              "raiz_original": "adāh 'herramienta' (Ar) / uzgāra- 'instrumento' (Pers) / ὄργανον (órganon) 'instrumento' (Gr)",
+              "corpus": ""
+            },
+            "transformacion": [
+              "adāh (Ar) + uzgāra- (Pers) + órganon (Gr) → ad- + -ar- + -k",
+              "/d/→/d/ preservada, /g/→/k/ por §3.3 coda ensordecida",
+              "CC coda /rk/ permitida §10.3 (líquida + oclusiva sorda)"
+            ],
+            "derivaciones": []
           }
         ]
       },
@@ -16921,6 +17232,112 @@ const LEXICON_DATA =
             "kalfirvach": "qápal",
             "pos": "noun",
             "ipa": "/ˈka.pal/"
+          },
+          {
+            "concepto": "domingo (día del Sol)",
+            "forma_final": "suryamera",
+            "ipa": "/su.rjaˈme.ra/",
+            "origen": {
+              "lengua": "Sanscrito/Avestan/Griego",
+              "raiz_original": "sūrya 'sol' (Skt) + hvarə 'sol' (Av) + daimera 'día' (Gr hēmera)",
+              "corpus": "Ṛgveda (sūrya) / Avesta (hvarə) / PGM (hēmera)"
+            },
+            "transformacion": [
+              "surya (sol, del léxico existente) + mera (sufijo de daimera: día-luz)"
+            ],
+            "derivaciones": [],
+            "kalfirvach": "suryamera",
+            "pos": "noun"
+          },
+          {
+            "concepto": "lunes (día de la Luna)",
+            "forma_final": "mahselmera",
+            "ipa": "/mah.selˈme.ra/",
+            "origen": {
+              "lengua": "Persa/Griego/Arabe",
+              "raiz_original": "Māh 'luna' (Pe) + Selénē 'luna' (Gr) + Hilāl 'creciente' (Ar)"
+            },
+            "transformacion": [
+              "mahsel (luna) + mera (sufijo de daimera)"
+            ],
+            "derivaciones": [],
+            "kalfirvach": "mahselmera",
+            "pos": "noun"
+          },
+          {
+            "concepto": "martes (día de Marte)",
+            "forma_final": "hermarmera",
+            "ipa": "/her.marˈme.ra/",
+            "origen": {
+              "lengua": "Egipcio/Arabe/Tibetano",
+              "raiz_original": "Herdesher 'Marte' (Eg) + Marrikh 'Marte' (Ar) + Migmar 'Marte' (Tib)"
+            },
+            "transformacion": [
+              "hermar (Marte) + mera (sufijo de daimera)"
+            ],
+            "derivaciones": [],
+            "kalfirvach": "hermarmera",
+            "pos": "noun"
+          },
+          {
+            "concepto": "miércoles (día de Mercurio)",
+            "forma_final": "thutirmera",
+            "ipa": "/θu.tirˈme.ra/",
+            "origen": {
+              "lengua": "Egipcio/Persa/Griego",
+              "raiz_original": "Djehuty 'Thoth, Mercurio' (Eg) + Tīr 'Mercurio' (Pe) + Hermês 'Mercurio' (Gr)"
+            },
+            "transformacion": [
+              "thutir (Mercurio) + mera (sufijo de daimera)"
+            ],
+            "derivaciones": [],
+            "kalfirvach": "thutirmera",
+            "pos": "noun"
+          },
+          {
+            "concepto": "jueves (día de Júpiter)",
+            "forma_final": "hormusmera",
+            "ipa": "/hor.musˈme.ra/",
+            "origen": {
+              "lengua": "Persa/Griego/Arabe",
+              "raiz_original": "Hormazd 'Júpiter' (Pe) + Zeús 'Júpiter' (Gr) + Mushtarī 'Júpiter' (Ar)"
+            },
+            "transformacion": [
+              "hormus (Júpiter) + mera (sufijo de daimera)"
+            ],
+            "derivaciones": [],
+            "kalfirvach": "hormusmera",
+            "pos": "noun"
+          },
+          {
+            "concepto": "viernes (día de Venus)",
+            "forma_final": "anzumera",
+            "ipa": "/an.zuˈme.ra/",
+            "origen": {
+              "lengua": "Persa/Arabe/Griego",
+              "raiz_original": "Anāhitā 'Venus' (Pe) + Zahrā' 'Venus' (Ar) + Phōsphóros 'lucero' (Gr)"
+            },
+            "transformacion": [
+              "anzu (Venus) + mera (sufijo de daimera)"
+            ],
+            "derivaciones": [],
+            "kalfirvach": "anzumera",
+            "pos": "noun"
+          },
+          {
+            "concepto": "sábado (día de Saturno)",
+            "forma_final": "keyzumera",
+            "ipa": "/kej.zuˈme.ra/",
+            "origen": {
+              "lengua": "Persa/Arabe/Griego",
+              "raiz_original": "Keywān 'Saturno' (Pe) + Zuḥal 'Saturno' (Ar) + Krónos 'Saturno' (Gr)"
+            },
+            "transformacion": [
+              "keyzu (Saturno) + mera (sufijo de daimera)"
+            ],
+            "derivaciones": [],
+            "kalfirvach": "keyzumera",
+            "pos": "noun"
           }
         ]
       },
@@ -18624,8 +19041,8 @@ const LEXICON_DATA =
             "pos": "noun"
           },
           {
-            "kalfirvach": "sapsa",
-            "forma_final": "sapsa",
+            "kalfirvach": "sapdar",
+            "forma_final": "sapdar",
             "concepto": "verdura, vegetal, hortaliza, legumbre verde",
             "pos": "noun",
             "origen": {
@@ -19579,6 +19996,25 @@ const LEXICON_DATA =
             ],
             "derivaciones": [],
             "ipa": "/ˈka.sar/"
+          },
+          {
+            "kalfirvach": "makhērshilp",
+            "forma_final": "makhērshilp",
+            "concepto": "laboratorio (sala de investigación científica, experimentación y análisis)",
+            "pos": "noun",
+            "origen": {
+              "lengua": "Arabe/Griego/Sanscrito",
+              "raiz_original": "مَخْدة (makhda) 'cámara privada, lugar secreto' (Ar) / ἔργον (ergon) 'trabajo, función, obra' (Gr) / शिल्प (śilpa) 'habilidad, ciencia, artesanía' (Skt)",
+              "corpus": "Textos de Ilm al-Huruf (Árabe esotérico) / Corpus Hermeticum (Griego) / Mantraśāstra (Sánscrito)"
+            },
+            "transformacion": [
+              "makhda → makh- (síncopa: -da → Ø, preservación de la raíz triconsonántica m-x-d)",
+              "ergon → -ēr- (síncopa: -gon → Ø, vocal larga ē preservada por posición acentuada §2.1.b)",
+              "śilpa → -shilp- (asibilación ś→sh, preservación de -lp- como coda válida §10.3: líquida+oclusiva)",
+              "Composición: makh + ēr + shilp → makhērshilp (3 sílabas: CVC.CVCC.CVCC)"
+            ],
+            "derivaciones": [],
+            "ipa": "/mak.heːr.ʃilp/"
           }
         ]
       },
@@ -20548,6 +20984,42 @@ const LEXICON_DATA =
             "ipa": "/ˈsan.xaʃ/",
             "pos": "noun",
             "kalfirvach": "sankhash"
+          },
+          {
+            "concepto": "insecto, artrópodo, bicho",
+            "forma_final": "kithast",
+            "kalfirvach": "kithast",
+            "ipa": "/ˈki.θast/",
+            "pos": "noun",
+            "origen": {
+              "lengua": "Sánscrito/Árabe/Persa/Griego",
+              "raiz_original": "kīṭa 'insecto' (Skt) / ḥašra 'insecto' (Ar) / xrafstra- 'criatura dañina' (Av) / éntomon 'insecto' (Gr)",
+              "corpus": ""
+            },
+            "transformacion": [
+              "kīṭa (Skt) + ḥašra (Ar) + xrafstra (Av) + éntomon (Gr) → kith- + -ast",
+              "/ṭ/→/θ/, /ḥ/→/h/→Ø, /x/→/k/",
+              "CC coda /st/ permitida §10.3, /θ/ medial permitido"
+            ],
+            "derivaciones": []
+          },
+          {
+            "concepto": "hormiga",
+            "forma_final": "pimarkom",
+            "kalfirvach": "pimarkom",
+            "ipa": "/pi.ˈmar.kom/",
+            "pos": "noun",
+            "origen": {
+              "lengua": "Sánscrito/Árabe/Tibetano/Griego",
+              "raiz_original": "pipīlikā 'hormiga' (Skt) / namla 'hormiga' (Ar) / grog ma 'hormiga' (Tib) / mýrmēx 'hormiga' (Gr)",
+              "corpus": ""
+            },
+            "transformacion": [
+              "pipīlikā (Skt) + namla (Ar) + grog (Tib) + mýrmēx (Gr) → pim- + -ar- + -kom",
+              "/p/→/p/, /m/→/m/, /g/→/k/ por §3.3 coda ensordecida",
+              "CC coda /rk/ permitida §10.3 (líquida + oclusiva sorda), acento en penúltima -ar-"
+            ],
+            "derivaciones": []
           }
         ]
       },

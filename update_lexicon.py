@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """
-Script de actualización segura del léxico Kalfírvach v1.2
+Script de actualización segura del léxico Kalfírvach v1.3
 - Corrige POS faltantes en biología y profesiones
 - Añade campo kalfirvach faltante
 - Corrige IPA sin acento primario
@@ -13,11 +13,11 @@ import re
 
 def main():
     # Cargar el léxico actual completo
-    with open('kalfirvach_lexicon_v1.2.json', 'r', encoding='utf-8') as f:
+    with open('kalfirvach_lexicon_v1.3.json', 'r', encoding='utf-8') as f:
         data = json.load(f)
     
     # Acceder a la estructura correcta
-    lexicon_root = data['kalfirvach_lexicon_v1.2']
+    lexicon_root = data['kalfirvach_lexicon_v1.3']
     categorias = lexicon_root['categorias']
     metadata = lexicon_root['metadata']
     
@@ -89,7 +89,7 @@ def main():
         return
     
     # Actualizar metadata
-    metadata['version'] = '1.2'
+    metadata['version'] = '1.3'
     total_entries = sum(len(cat['entradas']) for cat in categorias.values())
     metadata['total_entries'] = total_entries
     metadata['total_categorias'] = len(categorias)
@@ -99,7 +99,7 @@ def main():
         del metadata['total_entradas']
     
     # Guardar archivo
-    with open('kalfirvach_lexicon_v1.2.json', 'w', encoding='utf-8') as f:
+    with open('kalfirvach_lexicon_v1.3.json', 'w', encoding='utf-8') as f:
         json.dump(data, f, ensure_ascii=False, indent=2)
     
     print("\n✅ PROCESO COMPLETADO CON ÉXITO")

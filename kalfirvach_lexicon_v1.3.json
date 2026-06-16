@@ -1,8 +1,8 @@
 {
-  "kalfirvach_lexicon_v1.2": {
+  "kalfirvach_lexicon_v1.3": {
     "metadata": {
-      "version": "1.0",
-      "total_entries": 1167,
+      "version": "1.3",
+      "total_entries": 1280,
       "date_generated": "2026-05-30",
       "languages": [
         "Griego",
@@ -14,11 +14,12 @@
         "Egipcio"
       ],
       "writing_system": "Alfabeto griego politonico con arcaicas",
-      "last_updated": "2026-06-10",
+      "last_updated": "2026-06-16",
+      "date_updated": "2026-06-16",
       "ipa_coverage": "100%",
       "schema_version": "v1.0",
-      "total_entradas": 1078,
-      "total_categorias": 21
+      "total_categorias": 24,
+      "total_categories": 24
     },
     "categorias": {
       "pronombres_y_deicticos": {
@@ -187,7 +188,7 @@
           {
             "concepto": "alguien (indefinido, persona no especificada)",
             "forma_final": "kesh",
-            "ipa": "/keʃ/",
+            "ipa": "/ˈkeʃ/",
             "origen": {
               "lengua": "Sanscrito/Avestan/Griego",
               "raiz_original": "kaścit 'alguien' (Skt) / kō 'alguien' (Av) / τίς (tís) 'alguien' (Gr)",
@@ -321,7 +322,7 @@
             ],
             "kalfirvach": "bīj",
             "pos": "particle",
-            "ipa": "/biːj/"
+            "ipa": "/ˈbiːj/"
           },
           {
             "concepto": "oculto, criptónimo, nombre cifrado (capa IV)",
@@ -343,7 +344,7 @@
             ],
             "kalfirvach": "gup",
             "pos": "particle",
-            "ipa": "/gup/"
+            "ipa": "/ˈgup/"
           },
           {
             "concepto": "forma del nombre, nombre personal (capa II)",
@@ -365,7 +366,7 @@
             ],
             "kalfirvach": "nūm",
             "pos": "particle",
-            "ipa": "/nuːm/"
+            "ipa": "/ˈnuːm/"
           },
           {
             "concepto": "función, oficio mágico, título (capa III)",
@@ -451,7 +452,7 @@
             ],
             "kalfirvach": "dvi",
             "pos": "numeral",
-            "ipa": "/dwi/"
+            "ipa": "/ˈdwi/"
           },
           {
             "concepto": "uno",
@@ -670,7 +671,7 @@
           {
             "concepto": "largo",
             "forma_final": "dir",
-            "ipa": "/dir/",
+            "ipa": "/ˈdir/",
             "origen": {
               "lengua": "Sanscrito/Persa",
               "raiz_original": "dirgha \"largo\" / deraz \"largo\"",
@@ -697,7 +698,7 @@
             "derivaciones": [],
             "kalfirvach": "fash",
             "pos": "adjective",
-            "ipa": "/faʃ/"
+            "ipa": "/ˈfaʃ/"
           },
           {
             "kalfirvach": "forfir",
@@ -780,7 +781,7 @@
               "krīma→kris (elisión de -ma, acortamiento vocálico por influencia sánscrita)"
             ],
             "derivaciones": [],
-            "ipa": "/kris/"
+            "ipa": "/ˈkris/"
           },
           {
             "concepto": "vacío",
@@ -796,7 +797,7 @@
             "derivaciones": [],
             "kalfirvach": "khal",
             "pos": "adjective",
-            "ipa": "/xal/"
+            "ipa": "/ˈxal/"
           },
           {
             "concepto": "oscuro",
@@ -812,7 +813,7 @@
             "derivaciones": [],
             "kalfirvach": "khap",
             "pos": "adjective",
-            "ipa": "/xap/"
+            "ipa": "/ˈxap/"
           },
           {
             "concepto": "caliente",
@@ -828,7 +829,7 @@
             "derivaciones": [],
             "kalfirvach": "khar",
             "pos": "adjective",
-            "ipa": "/xar/"
+            "ipa": "/ˈxar/"
           },
           {
             "concepto": "seco",
@@ -844,7 +845,7 @@
             "derivaciones": [],
             "kalfirvach": "khushk",
             "pos": "adjective",
-            "ipa": "/xuʃk/"
+            "ipa": "/ˈxuʃk/"
           },
           {
             "concepto": "lleno",
@@ -860,7 +861,7 @@
             "derivaciones": [],
             "kalfirvach": "mal",
             "pos": "adjective",
-            "ipa": "/mal/"
+            "ipa": "/ˈmal/"
           },
           {
             "concepto": "brillante",
@@ -909,7 +910,7 @@
             "derivaciones": [],
             "kalfirvach": "narm",
             "pos": "adjective",
-            "ipa": "/narm/"
+            "ipa": "/ˈnarm/"
           },
           {
             "kalfirvach": "nil",
@@ -926,7 +927,7 @@
               "nil — convergente en las 3 lenguas, forma panetimológica"
             ],
             "derivaciones": [],
-            "ipa": "/nil/"
+            "ipa": "/ˈnil/"
           },
           {
             "kalfirvach": "palin",
@@ -1016,7 +1017,7 @@
           {
             "concepto": "grande",
             "forma_final": "rik",
-            "ipa": "/rik/",
+            "ipa": "/ˈrik/",
             "origen": {
               "lengua": "Sanscrito/Griego",
               "raiz_original": "riktha? No... / orikos? Lit. ryk? persa",
@@ -1110,7 +1111,7 @@
               "zarana→zarn→sarn (ensordecimiento z→s por fonotáctica, elisión de -ana)"
             ],
             "derivaciones": [],
-            "ipa": "/sarn/"
+            "ipa": "/ˈsarn/"
           },
           {
             "concepto": "frío",
@@ -1126,7 +1127,7 @@
             "derivaciones": [],
             "kalfirvach": "sart",
             "pos": "adjective",
-            "ipa": "/sart/"
+            "ipa": "/ˈsart/"
           },
           {
             "concepto": "superficial",
@@ -1142,7 +1143,7 @@
             "derivaciones": [],
             "kalfirvach": "sas",
             "pos": "adjective",
-            "ipa": "/sas/"
+            "ipa": "/ˈsas/"
           },
           {
             "concepto": "recto",
@@ -1158,7 +1159,7 @@
             "derivaciones": [],
             "kalfirvach": "sat",
             "pos": "adjective",
-            "ipa": "/sat/"
+            "ipa": "/ˈsat/"
           },
           {
             "kalfirvach": "sofar",
@@ -1191,7 +1192,7 @@
             "derivaciones": [],
             "kalfirvach": "shap",
             "pos": "adjective",
-            "ipa": "/ʃap/"
+            "ipa": "/ˈʃap/"
           },
           {
             "concepto": "dulce",
@@ -1225,7 +1226,7 @@
               "spaeta→speta→shwet (asibilación s→sh por convergencia con sánscrito)"
             ],
             "derivaciones": [],
-            "ipa": "/ʃwet/"
+            "ipa": "/ˈʃwet/"
           },
           {
             "concepto": "mojado",
@@ -1241,7 +1242,7 @@
             "derivaciones": [],
             "kalfirvach": "takh",
             "pos": "adjective",
-            "ipa": "/tax/"
+            "ipa": "/ˈtax/"
           },
           {
             "concepto": "amargo",
@@ -1295,7 +1296,7 @@
           {
             "concepto": "gordo/grueso",
             "forma_final": "thul",
-            "ipa": "/θul/",
+            "ipa": "/ˈθul/",
             "origen": {
               "lengua": "Sanscrito/Griego",
               "raiz_original": "sthula \"grueso\" / stereos \"solido\"",
@@ -1323,7 +1324,7 @@
               "Convergencia completa árabe-persa: misma raíz trilitera w-r-d"
             ],
             "derivaciones": [],
-            "ipa": "/wart/"
+            "ipa": "/ˈwart/"
           },
           {
             "concepto": "curvo/torcido",
@@ -1339,7 +1340,7 @@
             "derivaciones": [],
             "kalfirvach": "zat",
             "pos": "adjective",
-            "ipa": "/zat/"
+            "ipa": "/ˈzat/"
           },
           {
             "concepto": "viejo (antiguo)",
@@ -1578,7 +1579,7 @@
             },
             "transformacion": [],
             "derivaciones": [],
-            "ipa": "/brat/"
+            "ipa": "/ˈbrat/"
           },
           {
             "concepto": "esposa",
@@ -2087,7 +2088,7 @@
               "hippos → hip → ashp (metátesis vocálica)"
             ],
             "derivaciones": [],
-            "ipa": "/aʃp/"
+            "ipa": "/ˈaʃp/"
           },
           {
             "kalfirvach": "bek",
@@ -2104,7 +2105,7 @@
               "ḍifda‘ → difda → dif → bhek (reducción, convergencia con el sánscrito)"
             ],
             "derivaciones": [],
-            "ipa": "/bek/"
+            "ipa": "/ˈbek/"
           },
           {
             "kalfirvach": "bram",
@@ -2121,7 +2122,7 @@
               "μέλισσα → melissa → melis → bhram (reducción a la consonante inicial, convergencia)"
             ],
             "derivaciones": [],
-            "ipa": "/bram/"
+            "ipa": "/ˈbram/"
           },
           {
             "kalfirvach": "bum",
@@ -2138,7 +2139,7 @@
               "joġd → joghd → jod → bum (convergencia con la forma árabe)"
             ],
             "derivaciones": [],
-            "ipa": "/bum/"
+            "ipa": "/ˈbum/"
           },
           {
             "kalfirvach": "buza",
@@ -2172,7 +2173,7 @@
               "dulfīn → dulfin → dulf → delf (apertura vocálica u → e)"
             ],
             "derivaciones": [],
-            "ipa": "/delp/"
+            "ipa": "/ˈdelp/"
           },
           {
             "kalfirvach": "dik",
@@ -2189,7 +2190,7 @@
               "xorus → khorus → khor → dik (simplificación del cluster, convergencia con el árabe)"
             ],
             "derivaciones": [],
-            "ipa": "/dik/"
+            "ipa": "/ˈdik/"
           },
           {
             "kalfirvach": "gap",
@@ -2206,7 +2207,7 @@
               "gao → gav (diptongo ao → a)"
             ],
             "derivaciones": [],
-            "ipa": "/gap/"
+            "ipa": "/ˈgap/"
           },
           {
             "kalfirvach": "ghanam",
@@ -2240,7 +2241,7 @@
               "elephas → elef → ele → hast (reducción a primera sílaba + convergencia con sánscrito)"
             ],
             "derivaciones": [],
-            "ipa": "/hast/"
+            "ipa": "/ˈhast/"
           },
           {
             "kalfirvach": "jamal",
@@ -2393,7 +2394,7 @@
               "mȳs → mys → mus → mush (y → u por influencia persa, s → sh)"
             ],
             "derivaciones": [],
-            "ipa": "/muʃ/"
+            "ipa": "/ˈmuʃ/"
           },
           {
             "kalfirvach": "nisar",
@@ -2412,23 +2413,6 @@
             ],
             "derivaciones": [],
             "ipa": "/ˈni.sar/"
-          },
-          {
-            "kalfirvach": "pipil",
-            "forma_final": "pipil",
-            "concepto": "hormiga",
-            "pos": "noun",
-            "origen": {
-              "lengua": "Sanscrito/Arabe",
-              "raiz_original": "पिपीलिका (pipīlikā) 'hormiga' / نمل (naml) 'hormiga'",
-              "corpus": "Textos budistas (upamā) / Corpus coránico (Sūrat an-Naml)"
-            },
-            "transformacion": [
-              "pipīlikā → pipilī → pipil (elisión del sufijo, acortamiento)",
-              "naml → nam → pipil (convergencia parcial, carácter onomatopéyico)"
-            ],
-            "derivaciones": [],
-            "ipa": "/ˈpi.pil/"
           },
           {
             "concepto": "serpiente",
@@ -2461,12 +2445,12 @@
               "asad → šir → shir (metátesis radical, convergencia con el persa)"
             ],
             "derivaciones": [],
-            "ipa": "/ʃir/"
+            "ipa": "/ˈʃir/"
           },
           {
             "concepto": "perro",
             "forma_final": "shwan",
-            "ipa": "/ʃwan/",
+            "ipa": "/ˈʃwan/",
             "origen": {
               "lengua": "Sanscrito/Avestan",
               "raiz_original": "svan \"perro\" / spa- \"perro\"",
@@ -2528,6 +2512,78 @@
             "derivaciones": [],
             "kalfirvach": "yuka",
             "pos": "noun"
+          },
+          {
+            "concepto": "animal, ser animado, criatura",
+            "forma_final": "pashwan",
+            "kalfirvach": "pashwan",
+            "ipa": "/ˈpaʃ.wan/",
+            "pos": "noun",
+            "origen": {
+              "lengua": "Sánscrito/Árabe/Tibetano/Griego",
+              "raiz_original": "paśu 'animal' (Skt) / ḥayawān 'animal' (Ar) / sems can 'ser sintiente' (Tib) / zôon 'animal' (Gr)",
+              "corpus": ""
+            },
+            "transformacion": [
+              "paśu (Skt) + ḥayawān (Ar) + sems can (Tib) + zôon (Gr) → pash- + -wan",
+              "/ś/→/ʃ/, /ḥ/→/h/→Ø, /z/→/s/",
+              "/ʃ/ coda permitida §3.3, /wan/ coda con /n/ permitido"
+            ],
+            "derivaciones": []
+          },
+          {
+            "concepto": "pájaro, ave",
+            "forma_final": "khayta",
+            "kalfirvach": "khayta",
+            "ipa": "/ˈxaj.ta/",
+            "pos": "noun",
+            "origen": {
+              "lengua": "Sánscrito/Árabe/Tibetano/Persa",
+              "raiz_original": "khaga 'pájaro' (Skt) / ṭayr 'pájaro' (Ar) / bya 'pájaro' (Tib) / mərəγa- 'ave' (Pers/Av)",
+              "corpus": ""
+            },
+            "transformacion": [
+              "khaga (Skt) + ṭayr (Ar) + bya (Tib) + mərəγa (Pers) → khay- + -ta",
+              "/ɡ/→/j/ por contacto con ṭayr, /γ/→/x/",
+              "diptongo /aj/ permitido §3.4, acento penúltimo"
+            ],
+            "derivaciones": []
+          },
+          {
+            "concepto": "tigre",
+            "forma_final": "byabstak",
+            "kalfirvach": "byabstak",
+            "ipa": "/bja.ˈstak/",
+            "pos": "noun",
+            "origen": {
+              "lengua": "Sánscrito/Árabe/Tibetano/Griego",
+              "raiz_original": "vyāghra 'tigre' (Skt) / babr 'tigre' (Ar) / stag 'tigre' (Tib) / tígris 'tigre' (Gr)",
+              "corpus": ""
+            },
+            "transformacion": [
+              "vyāghra (Skt) + babr (Ar) + stag (Tib) + tígris (Gr) → byab- + -stak",
+              "/v/→/b/ por reforzamiento, /gh/→/k/ por §3.3, /g/→/k/ ensordecida",
+              "CC coda /st/ permitida §10.3, /k/ coda permitido §3.3"
+            ],
+            "derivaciones": []
+          },
+          {
+            "concepto": "perro, can",
+            "forma_final": "sapan",
+            "kalfirvach": "sapan",
+            "ipa": "/ˈsa.pan/",
+            "pos": "noun",
+            "origen": {
+              "lengua": "Sánscrito/Árabe/Tibetano/Griego",
+              "raiz_original": "śvan 'perro' (Skt) / kalb 'perro' (Ar) / khyi 'perro' (Tib) / kýōn 'perro' (Gr)",
+              "corpus": ""
+            },
+            "transformacion": [
+              "śvan (Skt) + kalb (Ar) + khyi (Tib) + kýōn (Gr) → sa- + -pan",
+              "/ś/→/s/, /k/→/p/ por convergencia, /l/→/a/ epéntesis",
+              "/n/ coda permitido §3.3, penúltima ligera — acento retrocede a antepenúltima"
+            ],
+            "derivaciones": []
           }
         ]
       },
@@ -2926,7 +2982,7 @@
           {
             "concepto": "corteza (de arbol)",
             "forma_final": "twak",
-            "ipa": "/twak/",
+            "ipa": "/ˈtwak/",
             "origen": {
               "lengua": "Sanscrito/Griego",
               "raiz_original": "tvac \"corteza\" / toikhos? No, Persa",
@@ -2938,6 +2994,42 @@
             "derivaciones": "C+G /tw/ valido",
             "kalfirvach": "twak",
             "pos": "noun"
+          },
+          {
+            "concepto": "planta, vegetal, organismo vegetal",
+            "forma_final": "oshnaba",
+            "kalfirvach": "oshnaba",
+            "ipa": "/ˈoʃ.na.ba/",
+            "pos": "noun",
+            "origen": {
+              "lengua": "Sánscrito/Árabe/Tibetano/Griego",
+              "raiz_original": "oṣadhi 'planta, hierba' (Skt) / nabta 'planta' (Ar) / rtsi 'planta medicinal' (Tib) / botánē 'planta' (Gr)",
+              "corpus": ""
+            },
+            "transformacion": [
+              "oṣadhi (Skt) + nabta (Ar) + rtsi (Tib) + botánē (Gr) → oshn- + -aba",
+              "/ṣ/→/ʃ/, /dh/→/d/→Ø, /b/→/p/—no, /b/ preservada como /b/",
+              "/ʃn/ onset permitido §3.2, acento en penúltima -na-"
+            ],
+            "derivaciones": []
+          },
+          {
+            "concepto": "raíz (parte subterránea de una planta)",
+            "forma_final": "mulandrasa",
+            "kalfirvach": "mulandrasa",
+            "ipa": "/mu.ˈlan.dra.sa/",
+            "pos": "noun",
+            "origen": {
+              "lengua": "Sánscrito/Árabe/Persa/Griego",
+              "raiz_original": "mūla 'raíz' (Skt) / jaḏr 'raíz' (Ar) / rad- 'raíz' (Pers) / rhíza 'raíz' (Gr)",
+              "corpus": ""
+            },
+            "transformacion": [
+              "mūla (Skt) + jaḏr (Ar) + rad (Pers) + rhíza (Gr) → mul- + -andr- + -asa",
+              "/ḏ/→/d/, /z/→/s/ por §3.3 coda ensordecida",
+              "onset /dr/ permitido §3.2 C+líquida, acento en penúltima -dra-"
+            ],
+            "derivaciones": []
           }
         ]
       },
@@ -3177,7 +3269,7 @@
           {
             "concepto": "vena",
             "forma_final": "flep",
-            "ipa": "/flep/",
+            "ipa": "/ˈflep/",
             "origen": {
               "lengua": "Griego koiné / Persa",
               "raiz_original": "φλέψ (phleps) 'vena' / rag 'vena'",
@@ -3387,7 +3479,7 @@
             "derivaciones": [],
             "kalfirvach": "khas",
             "pos": "noun",
-            "ipa": "/xas/"
+            "ipa": "/ˈxas/"
           },
           {
             "concepto": "bilis/hiel",
@@ -3420,7 +3512,7 @@
             "derivaciones": [],
             "kalfirvach": "lap",
             "pos": "noun",
-            "ipa": "/lap/"
+            "ipa": "/ˈlap/"
           },
           {
             "concepto": "cerebro",
@@ -3538,7 +3630,7 @@
             "derivaciones": [],
             "kalfirvach": "mekh",
             "pos": "noun",
-            "ipa": "/mex/"
+            "ipa": "/ˈmex/"
           },
           {
             "concepto": "matriz/útero",
@@ -3571,7 +3663,7 @@
             "derivaciones": [],
             "kalfirvach": "moch",
             "pos": "noun",
-            "ipa": "/motʃ/"
+            "ipa": "/ˈmotʃ/"
           },
           {
             "concepto": "boca",
@@ -3636,7 +3728,7 @@
             "derivaciones": [],
             "kalfirvach": "nar",
             "pos": "noun",
-            "ipa": "/nar/"
+            "ipa": "/ˈnar/"
           },
           {
             "concepto": "nariz",
@@ -3668,7 +3760,7 @@
             "derivaciones": [],
             "kalfirvach": "om",
             "pos": "noun",
-            "ipa": "/om/"
+            "ipa": "/ˈom/"
           },
           {
             "concepto": "ombligo",
@@ -3865,7 +3957,7 @@
             "derivaciones": [],
             "kalfirvach": "rar",
             "pos": "noun",
-            "ipa": "/rar/"
+            "ipa": "/ˈrar/"
           },
           {
             "concepto": "corazon",
@@ -3903,7 +3995,7 @@
           {
             "concepto": "pantorrilla",
             "forma_final": "sakh",
-            "ipa": "/sax/",
+            "ipa": "/ˈsax/",
             "origen": {
               "lengua": "Persa / Egipcio demótico",
               "raiz_original": "sāq 'pantorrilla' / jꜥꜣ 'pierna'",
@@ -3948,7 +4040,7 @@
             "derivaciones": [],
             "kalfirvach": "seh",
             "pos": "noun",
-            "ipa": "/seh/"
+            "ipa": "/ˈseh/"
           },
           {
             "concepto": "saliva",
@@ -3981,7 +4073,7 @@
             "derivaciones": [],
             "kalfirvach": "shash",
             "pos": "noun",
-            "ipa": "/ʃaʃ/"
+            "ipa": "/ˈʃaʃ/"
           },
           {
             "concepto": "diente muela",
@@ -3997,7 +4089,7 @@
             "derivaciones": [],
             "kalfirvach": "shin",
             "pos": "noun",
-            "ipa": "/ʃin/"
+            "ipa": "/ˈʃin/"
           },
           {
             "concepto": "cabeza",
@@ -4083,7 +4175,7 @@
           {
             "concepto": "vello corporal",
             "forma_final": "thrix",
-            "ipa": "/θrix/",
+            "ipa": "/ˈθrix/",
             "origen": {
               "lengua": "Griego koiné / Egipcio demótico",
               "raiz_original": "θρίξ (thrix) 'pelo' / snn 'pelo'",
@@ -4365,7 +4457,7 @@
           {
             "concepto": "parar",
             "forma_final": "bas",
-            "ipa": "/bas/",
+            "ipa": "/ˈbas/",
             "origen": {
               "lengua": "Tibetano Clásico/Árabe Esotérico/Egipcio Demótico",
               "raiz_original": "ཤེས་ / حفظ / ḏd",
@@ -4445,7 +4537,7 @@
           {
             "concepto": "decidir",
             "forma_final": "byal",
-            "ipa": "/bjal/",
+            "ipa": "/ˈbjal/",
             "origen": {
               "lengua": "Persa Avéstico/Árabe Esotérico/Griego Koiné",
               "raiz_original": "kardan / نور / κιν-",
@@ -4461,7 +4553,7 @@
           {
             "concepto": "sonreír",
             "forma_final": "byokh",
-            "ipa": "/bjox/",
+            "ipa": "/ˈbjox/",
             "origen": {
               "lengua": "Sánscrito Védico/Griego Koiné/Egipcio Demótico",
               "raiz_original": "विश् / μέν- / ḥwj",
@@ -4477,7 +4569,7 @@
           {
             "concepto": "tallar",
             "forma_final": "bīk",
-            "ipa": "/biːk/",
+            "ipa": "/ˈbiːk/",
             "origen": {
               "lengua": "Tibetano Clásico/Árabe Esotérico/Egipcio Demótico",
               "raiz_original": "སྒྲུབ་ / بسط / ꜥnḫ",
@@ -4509,7 +4601,7 @@
           {
             "concepto": "fermentar",
             "forma_final": "bēch",
-            "ipa": "/beːtʃ/",
+            "ipa": "/ˈbeːtʃ/",
             "origen": {
               "lengua": "Sánscrito Védico/Griego Koiné/Egipcio Demótico",
               "raiz_original": "गम् / κιν- / ꜥnḫ",
@@ -4606,7 +4698,7 @@
           {
             "concepto": "dar",
             "forma_final": "de",
-            "ipa": "/de/",
+            "ipa": "/ˈde/",
             "origen": {
               "lengua": "Sanscrito/Griego",
               "raiz_original": "da \"dar\" / didomi \"doy\"",
@@ -4657,7 +4749,7 @@
           {
             "concepto": "planificar",
             "forma_final": "dech",
-            "ipa": "/detʃ/",
+            "ipa": "/ˈdetʃ/",
             "origen": {
               "lengua": "Sánscrito Védico/Griego Koiné/Egipcio Demótico",
               "raiz_original": "विश् / τιμ- / sḫr",
@@ -4730,7 +4822,7 @@
             },
             "transformacion": [],
             "derivaciones": [],
-            "ipa": "/dun/"
+            "ipa": "/ˈdun/"
           },
           {
             "concepto": "poder/tener capacidad",
@@ -4753,7 +4845,7 @@
           {
             "concepto": "crear",
             "forma_final": "dēk",
-            "ipa": "/deːk/",
+            "ipa": "/ˈdeːk/",
             "origen": {
               "lengua": "Sánscrito Védico/Árabe Esotérico/Griego Koiné",
               "raiz_original": "वच् / نهي / εἰδ-",
@@ -4817,7 +4909,7 @@
           {
             "concepto": "forjar",
             "forma_final": "dzun",
-            "ipa": "/ʣun/",
+            "ipa": "/ˈʣun/",
             "origen": {
               "lengua": "Sánscrito Védico/Griego Koiné/Egipcio Demótico",
               "raiz_original": "वृध् / ἐργ- / ḏd",
@@ -4913,7 +5005,7 @@
           {
             "concepto": "plegar",
             "forma_final": "fap",
-            "ipa": "/fap/",
+            "ipa": "/ˈfap/",
             "origen": {
               "lengua": "Sánscrito Védico/Árabe Esotérico/Griego Koiné",
               "raiz_original": "दा / بسط / λύ-",
@@ -4961,7 +5053,7 @@
           {
             "concepto": "observar",
             "forma_final": "fes",
-            "ipa": "/fes/",
+            "ipa": "/ˈfes/",
             "origen": {
               "lengua": "Sánscrito Védico/Griego Koiné/Egipcio Demótico",
               "raiz_original": "सृ / λύ- / ḥtp",
@@ -5025,7 +5117,7 @@
           {
             "concepto": "soplar",
             "forma_final": "fu",
-            "ipa": "/fu/",
+            "ipa": "/ˈfu/",
             "origen": {
               "lengua": "Sanscrito/Griego",
               "raiz_original": "phut \"soplo\" / physa \"soplo\"",
@@ -5089,7 +5181,7 @@
           {
             "concepto": "arriesgar",
             "forma_final": "fāp",
-            "ipa": "/faːp/",
+            "ipa": "/ˈfaːp/",
             "origen": {
               "lengua": "Sánscrito Védico/Árabe Esotérico/Griego Koiné",
               "raiz_original": "श्रु / غلق / λαμβάν-",
@@ -5267,7 +5359,7 @@
           {
             "concepto": "comerciar",
             "forma_final": "gūp",
-            "ipa": "/guːp/",
+            "ipa": "/ˈguːp/",
             "origen": {
               "lengua": "Tibetano Clásico/Persa Avéstico/Egipcio Demótico",
               "raiz_original": "རིག་ / āmūkhtan / wšb",
@@ -5347,7 +5439,7 @@
           {
             "concepto": "saludar",
             "forma_final": "ghip",
-            "ipa": "/ɣip/",
+            "ipa": "/ˈɣip/",
             "origen": {
               "lengua": "Sánscrito Védico/Griego Koiné/Egipcio Demótico",
               "raiz_original": "सृज् / φύ- / wšb",
@@ -5475,7 +5567,7 @@
           {
             "concepto": "fallar",
             "forma_final": "hap",
-            "ipa": "/hap/",
+            "ipa": "/ˈhap/",
             "origen": {
               "lengua": "Persa Avéstico/Árabe Esotérico/Griego Koiné",
               "raiz_original": "afrōkhtan / علم / μέν-",
@@ -5635,7 +5727,7 @@
           {
             "concepto": "expandir",
             "forma_final": "ir",
-            "ipa": "/ir/",
+            "ipa": "/ˈir/",
             "origen": {
               "lengua": "Sánscrito Védico/Persa Avéstico/Egipcio Demótico",
               "raiz_original": "विद् / goftan / ḏd",
@@ -5692,7 +5784,7 @@
             },
             "transformacion": [],
             "derivaciones": [],
-            "ipa": "/itʃ/"
+            "ipa": "/ˈitʃ/"
           },
           {
             "concepto": "querer/desear",
@@ -5859,7 +5951,7 @@
           {
             "concepto": "llorar",
             "forma_final": "kyēs",
-            "ipa": "/kjeːs/",
+            "ipa": "/ˈkjeːs/",
             "origen": {
               "lengua": "Sánscrito Védico/Griego Koiné/Egipcio Demótico",
               "raiz_original": "वृत् / φαν- / dbḥ",
@@ -5891,7 +5983,7 @@
           {
             "concepto": "obligar",
             "forma_final": "kīr",
-            "ipa": "/kiːr/",
+            "ipa": "/ˈkiːr/",
             "origen": {
               "lengua": "Sánscrito Védico/Griego Koiné/Egipcio Demótico",
               "raiz_original": "वृध् / ἔχ- / wšb",
@@ -5923,7 +6015,7 @@
           {
             "concepto": "curar",
             "forma_final": "kūsh",
-            "ipa": "/kuːʃ/",
+            "ipa": "/ˈkuːʃ/",
             "origen": {
               "lengua": "Sánscrito Védico/Griego Koiné/Egipcio Demótico",
               "raiz_original": "दा / ἐργ- / ḥtp",
@@ -6019,7 +6111,7 @@
           {
             "concepto": "invitar",
             "forma_final": "khyīch",
-            "ipa": "/xjiːtʃ/",
+            "ipa": "/ˈxjiːtʃ/",
             "origen": {
               "lengua": "Tibetano Clásico/Griego Koiné/Persa Avéstico",
               "raiz_original": "གཟིགས་ / στρέφ- / rasīdan",
@@ -6179,7 +6271,7 @@
           {
             "concepto": "merecer",
             "forma_final": "lwe",
-            "ipa": "/lwe/",
+            "ipa": "/ˈlwe/",
             "origen": {
               "lengua": "Sánscrito Védico/Griego Koiné/Egipcio Demótico",
               "raiz_original": "विश् / λύ- / jrj",
@@ -6268,7 +6360,7 @@
             },
             "transformacion": [],
             "derivaciones": [],
-            "ipa": "/mar/"
+            "ipa": "/ˈmar/"
           },
           {
             "concepto": "morir",
@@ -6321,7 +6413,7 @@
           {
             "concepto": "preparar",
             "forma_final": "mok",
-            "ipa": "/mok/",
+            "ipa": "/ˈmok/",
             "origen": {
               "lengua": "Egipcio Demótico/Árabe Esotérico/Persa Avéstico",
               "raiz_original": "dbḥ / أمر / goftan",
@@ -6337,7 +6429,7 @@
           {
             "concepto": "elegir",
             "forma_final": "mwōp",
-            "ipa": "/mwoːp/",
+            "ipa": "/ˈmwoːp/",
             "origen": {
               "lengua": "Sánscrito Védico/Griego Koiné/Egipcio Demótico",
               "raiz_original": "भञ्ज् / φαν- / ḥwj",
@@ -6353,7 +6445,7 @@
           {
             "concepto": "aconsejar",
             "forma_final": "mēr",
-            "ipa": "/meːr/",
+            "ipa": "/ˈmeːr/",
             "origen": {
               "lengua": "Egipcio Demótico/Árabe Esotérico/Persa Avéstico",
               "raiz_original": "rḫ / قدر / bīkhtan",
@@ -6385,7 +6477,7 @@
           {
             "concepto": "preguntar",
             "forma_final": "mīsh",
-            "ipa": "/miːʃ/",
+            "ipa": "/ˈmiːʃ/",
             "origen": {
               "lengua": "Griego Koiné/Egipcio Demótico/Persa Avéstico",
               "raiz_original": "μέν- / sḫr / dāshtan",
@@ -6401,7 +6493,7 @@
           {
             "concepto": "apagar",
             "forma_final": "mōch",
-            "ipa": "/moːtʃ/",
+            "ipa": "/ˈmoːtʃ/",
             "origen": {
               "lengua": "Griego Koiné/Egipcio Demótico/Persa Avéstico",
               "raiz_original": "ἔχ- / rdj / goftan",
@@ -6479,7 +6571,7 @@
           {
             "concepto": "responder",
             "forma_final": "nop",
-            "ipa": "/nop/",
+            "ipa": "/ˈnop/",
             "origen": {
               "lengua": "Griego Koiné/Egipcio Demótico/Persa Avéstico",
               "raiz_original": "μέν- / wꜥb / sākhtan",
@@ -6735,7 +6827,7 @@
           {
             "concepto": "honrar",
             "forma_final": "pom",
-            "ipa": "/pom/",
+            "ipa": "/ˈpom/",
             "origen": {
               "lengua": "Tibetano Clásico/Griego Koiné/Sánscrito Védico",
               "raiz_original": "འཛིན་ / ῥέ- / क्षिप्",
@@ -6767,7 +6859,7 @@
           {
             "concepto": "prestar",
             "forma_final": "pyīr",
-            "ipa": "/pjiːr/",
+            "ipa": "/ˈpjiːr/",
             "origen": {
               "lengua": "Tibetano Clásico/Árabe Esotérico/Egipcio Demótico",
               "raiz_original": "གསུངས་ / جعل / ḏd",
@@ -6799,7 +6891,7 @@
           {
             "concepto": "triturar",
             "forma_final": "pākh",
-            "ipa": "/paːx/",
+            "ipa": "/ˈpaːx/",
             "origen": {
               "lengua": "Egipcio Demótico/Árabe Esotérico/Persa Avéstico",
               "raiz_original": "ḥwj / خلق / āmūkhtan",
@@ -6815,7 +6907,7 @@
           {
             "concepto": "pagar",
             "forma_final": "pōch",
-            "ipa": "/poːtʃ/",
+            "ipa": "/ˈpoːtʃ/",
             "origen": {
               "lengua": "Tibetano Clásico/Griego Koiné/Sánscrito Védico",
               "raiz_original": "འཛིན་ / τεύχ- / श्रु",
@@ -6856,12 +6948,12 @@
             },
             "transformacion": [],
             "derivaciones": [],
-            "ipa": "/rat/"
+            "ipa": "/ˈrat/"
           },
           {
             "concepto": "repetir",
             "forma_final": "rep",
-            "ipa": "/rep/",
+            "ipa": "/ˈrep/",
             "origen": {
               "lengua": "Persa Avéstico/Árabe Esotérico/Griego Koiné",
               "raiz_original": "dāshtan / ثبت / τιμ-",
@@ -6973,7 +7065,7 @@
           {
             "concepto": "disculparse",
             "forma_final": "rūt",
-            "ipa": "/ruːt/",
+            "ipa": "/ˈruːt/",
             "origen": {
               "lengua": "Griego Koiné/Egipcio Demótico/Persa Avéstico",
               "raiz_original": "μέν- / msj / āmūkhtan",
@@ -6989,7 +7081,7 @@
           {
             "concepto": "cesar",
             "forma_final": "rīch",
-            "ipa": "/riːtʃ/",
+            "ipa": "/ˈriːtʃ/",
             "origen": {
               "lengua": "Sánscrito Védico/Griego Koiné/Egipcio Demótico",
               "raiz_original": "धा / ῥέ- / jrj",
@@ -7165,7 +7257,7 @@
           {
             "concepto": "ordenar",
             "forma_final": "ship",
-            "ipa": "/ʃip/",
+            "ipa": "/ˈʃip/",
             "origen": {
               "lengua": "Tibetano Clásico/Griego Koiné/Sánscrito Védico",
               "raiz_original": "གསུངས་ / ἐργ- / दा",
@@ -7229,7 +7321,7 @@
           {
             "concepto": "hincharse",
             "forma_final": "shwa",
-            "ipa": "/ʃwa/",
+            "ipa": "/ˈʃwa/",
             "origen": {
               "lengua": "Sanscrito/Griego",
               "raiz_original": "svay \"hincharse\" / oidao \"hincharse\"",
@@ -7390,7 +7482,7 @@
           {
             "concepto": "inventar",
             "forma_final": "tor",
-            "ipa": "/tor/",
+            "ipa": "/ˈtor/",
             "origen": {
               "lengua": "Persa Avéstico/Árabe Esotérico/Griego Koiné",
               "raiz_original": "rastan / فتح / λύ-",
@@ -7470,7 +7562,7 @@
           {
             "concepto": "escuchar",
             "forma_final": "thī",
-            "ipa": "/θiː/",
+            "ipa": "/ˈθiː/",
             "origen": {
               "lengua": "Persa Avéstico/Árabe Esotérico/Griego Koiné",
               "raiz_original": "dāshtan / خلق / μνη-",
@@ -7486,7 +7578,7 @@
           {
             "concepto": "barrer",
             "forma_final": "tswu",
-            "ipa": "/tswu/",
+            "ipa": "/ˈtswu/",
             "origen": {
               "lengua": "Sánscrito Védico/Árabe Esotérico/Griego Koiné",
               "raiz_original": "सृज् / ثبت / φέρ-",
@@ -7646,7 +7738,7 @@
           {
             "concepto": "reparar",
             "forma_final": "wōp",
-            "ipa": "/woːp/",
+            "ipa": "/ˈwoːp/",
             "origen": {
               "lengua": "Persa Avéstico/Árabe Esotérico/Griego Koiné",
               "raiz_original": "dāshtan / عقد / δύν-",
@@ -7774,7 +7866,7 @@
           {
             "concepto": "atreverse",
             "forma_final": "yū",
-            "ipa": "/juː/",
+            "ipa": "/ˈjuː/",
             "origen": {
               "lengua": "Persa Avéstico/Árabe Esotérico/Griego Koiné",
               "raiz_original": "goftan / حفظ / λύ-",
@@ -7975,7 +8067,7 @@
             },
             "transformacion": [],
             "derivaciones": [],
-            "ipa": "/tʃal/"
+            "ipa": "/ˈtʃal/"
           },
           {
             "concepto": "cortar",
@@ -8104,6 +8196,27 @@
             "derivaciones": [],
             "kalfirvach": "ūtīkūm",
             "pos": "verb"
+          },
+          {
+            "kalfirvach": "rakh",
+            "forma_final": "rakh",
+            "ipa": "/rax/",
+            "concepto": "proteger, cuidar, guardar",
+            "origen": {
+              "lengua": "Sánscrito Védico/Árabe Esotérico/Egipcio Demótico",
+              "raiz_original": "rakṣ (रक्ष्, \"proteger\") / raḥim (رحيم, \"compasivo, que protege\") / rḫ (rek, \"cuidar, vigilar\")",
+              "corpus": ""
+            },
+            "transformacion": [
+              "Fusión Sánscrito Védico + Árabe Esotérico + Egipcio Demótico"
+            ],
+            "derivaciones": [
+              "rakh-a",
+              "rakh-an",
+              "rakh-ant",
+              "rakh-ta"
+            ],
+            "pos": "verb"
           }
         ]
       },
@@ -8194,7 +8307,7 @@
           {
             "concepto": "quemar",
             "forma_final": "dah",
-            "ipa": "/dah/",
+            "ipa": "/ˈdah/",
             "origen": {
               "lengua": "Sanscrito/Avestan",
               "raiz_original": "dah \"quemar\" / daz- \"quemar\"",
@@ -8222,7 +8335,7 @@
               "duuaēpa→dwaēpa→dwipa→dipa→dip (monoptongación, convergencia con sánscrito)"
             ],
             "derivaciones": [],
-            "ipa": "/dip/"
+            "ipa": "/ˈdip/"
           },
           {
             "concepto": "cielo",
@@ -8275,7 +8388,7 @@
           {
             "concepto": "fuego",
             "forma_final": "fir",
-            "ipa": "/fir/",
+            "ipa": "/ˈfir/",
             "origen": {
               "lengua": "Sánscrito/Avestan/PIE",
               "raiz_original": "अग्नि agní 'fuego' (Skt) → ātar 'fuego' (Av) → PIE *h₁n̥gʷnis; forma KFA 'fir' es outcome regular PIE *p- inicial",
@@ -8303,7 +8416,7 @@
               "gairi→giri→gir (acortamiento del diptongo, convergencia con sánscrito)"
             ],
             "derivaciones": [],
-            "ipa": "/gir/"
+            "ipa": "/ˈgir/"
           },
           {
             "concepto": "pasto/hierba",
@@ -8336,7 +8449,7 @@
               "ghār→ghar→gar→guh (cambio vocálico a→u por influencia sánscrita + epéntesis)"
             ],
             "derivaciones": [],
-            "ipa": "/guh/"
+            "ipa": "/ˈguh/"
           },
           {
             "kalfirvach": "ghas",
@@ -8353,7 +8466,7 @@
               "gasa→ghas (sonorización de s→sh? No, gasa → gh- por convergencia con sánscrito → ghas)"
             ],
             "derivaciones": [],
-            "ipa": "/ɣas/"
+            "ipa": "/ˈɣas/"
           },
           {
             "kalfirvach": "ghat",
@@ -8370,7 +8483,7 @@
               "ghawr→ghaw→gha→ghat (pérdida de -r, epéntesis de -t por convergencia con sánscrito)"
             ],
             "derivaciones": [],
-            "ipa": "/ɣat/"
+            "ipa": "/ˈɣat/"
           },
           {
             "kalfirvach": "ghor",
@@ -8387,7 +8500,7 @@
               "garta→gart→gar→ghor (sonorización g→gh, cambio vocálico a→o, convergencia con árabe)"
             ],
             "derivaciones": [],
-            "ipa": "/ɣor/"
+            "ipa": "/ˈɣor/"
           },
           {
             "concepto": "atardecer",
@@ -8424,7 +8537,7 @@
           {
             "concepto": "hielo",
             "forma_final": "him",
-            "ipa": "/him/",
+            "ipa": "/ˈhim/",
             "origen": {
               "lengua": "Sanscrito/Griego",
               "raiz_original": "hima \"hielo\" / krymos \"hielo\"",
@@ -8467,7 +8580,7 @@
             "derivaciones": [],
             "kalfirvach": "jas",
             "pos": "noun",
-            "ipa": "/jas/"
+            "ipa": "/ˈjas/"
           },
           {
             "kalfirvach": "kanan",
@@ -8501,7 +8614,7 @@
               "kanān→kana→kan→kash (asibilación n→sh por convergencia con sánscrito)"
             ],
             "derivaciones": [],
-            "ipa": "/kaʃ/"
+            "ipa": "/ˈkaʃ/"
           },
           {
             "concepto": "arcoíris",
@@ -8534,7 +8647,7 @@
               "khandaq→khandak→khanaq→khan (elisión de -daq)"
             ],
             "derivaciones": [],
-            "ipa": "/xan/"
+            "ipa": "/ˈxan/"
           },
           {
             "concepto": "bosque",
@@ -8550,7 +8663,7 @@
             "derivaciones": [],
             "kalfirvach": "khir",
             "pos": "noun",
-            "ipa": "/xir/"
+            "ipa": "/ˈxir/"
           },
           {
             "concepto": "sal",
@@ -8615,7 +8728,7 @@
               "mychós→mykhós→mikh→mukh (asimilación vocálica i→u por convergencia con sánscrito)"
             ],
             "derivaciones": [],
-            "ipa": "/mux/"
+            "ipa": "/ˈmux/"
           },
           {
             "kalfirvach": "nat",
@@ -8632,7 +8745,7 @@
               "naδa→nada→nad (elisión de -a)"
             ],
             "derivaciones": [],
-            "ipa": "/nat/"
+            "ipa": "/ˈnat/"
           },
           {
             "concepto": "niebla",
@@ -8669,7 +8782,7 @@
             ],
             "kalfirvach": "nur",
             "pos": "noun",
-            "ipa": "/nur/"
+            "ipa": "/ˈnur/"
           },
           {
             "concepto": "fruta",
@@ -8718,7 +8831,7 @@
               "prastha→prastha→prast→prat→pet (simplificación del cluster oncial pr-, convergencia con griego)"
             ],
             "derivaciones": [],
-            "ipa": "/pet/"
+            "ipa": "/ˈpet/"
           },
           {
             "concepto": "trueno",
@@ -8750,7 +8863,7 @@
             "derivaciones": [],
             "kalfirvach": "rish",
             "pos": "noun",
-            "ipa": "/riʃ/"
+            "ipa": "/ˈriʃ/"
           },
           {
             "concepto": "energía vital/viento",
@@ -8804,7 +8917,7 @@
               "xērós→xeros→ser→ser→sah (reducción, convergencia vocálica con el árabe)"
             ],
             "derivaciones": [],
-            "ipa": "/sah/"
+            "ipa": "/ˈsah/"
           },
           {
             "concepto": "desierto",
@@ -8836,7 +8949,7 @@
             "derivaciones": [],
             "kalfirvach": "sakh",
             "pos": "noun",
-            "ipa": "/sax/"
+            "ipa": "/ˈsax/"
           },
           {
             "concepto": "mar",
@@ -8886,7 +8999,7 @@
               "stenós→sten→sen→sand (pérdida de t-, nasalización, convergencia con sánscrito)"
             ],
             "derivaciones": [],
-            "ipa": "/sant/"
+            "ipa": "/ˈsant/"
           },
           {
             "kalfirvach": "sar",
@@ -8903,7 +9016,7 @@
               "helos→hel→el→sal→sar (pérdida de h-, asimilación vocálica a sánscrito)"
             ],
             "derivaciones": [],
-            "ipa": "/sar/"
+            "ipa": "/ˈsar/"
           },
           {
             "concepto": "arena",
@@ -8967,7 +9080,7 @@
             "derivaciones": [],
             "kalfirvach": "shakh",
             "pos": "noun",
-            "ipa": "/ʃax/"
+            "ipa": "/ˈʃax/"
           },
           {
             "kalfirvach": "shal",
@@ -8984,7 +9097,7 @@
               "jala→jal→shal (palatalización j→sh por asibilación, convergencia con la forma árabe)"
             ],
             "derivaciones": [],
-            "ipa": "/ʃal/"
+            "ipa": "/ˈʃal/"
           },
           {
             "concepto": "costa/orilla",
@@ -9000,7 +9113,7 @@
             "derivaciones": [],
             "kalfirvach": "shap",
             "pos": "noun",
-            "ipa": "/ʃap/"
+            "ipa": "/ˈʃap/"
           },
           {
             "concepto": "amanecer",
@@ -9033,7 +9146,7 @@
               "śreṇī→shreni→shren→sher (elisión de -eni y -n, convergencia con griego)"
             ],
             "derivaciones": [],
-            "ipa": "/ʃer/"
+            "ipa": "/ˈʃer/"
           },
           {
             "kalfirvach": "shikh",
@@ -9050,7 +9163,7 @@
               "kaofa→kof→kav→shikh (pérdida de k-, fricativización y convergencia con sánscrito)"
             ],
             "derivaciones": [],
-            "ipa": "/ʃix/"
+            "ipa": "/ˈʃix/"
           },
           {
             "concepto": "piedra",
@@ -9115,7 +9228,7 @@
             "derivaciones": [],
             "kalfirvach": "tal",
             "pos": "noun",
-            "ipa": "/tal/"
+            "ipa": "/ˈtal/"
           },
           {
             "concepto": "estrella",
@@ -9148,7 +9261,7 @@
               "sthala→sthal→thal→thil (elisión de -a, th- convergente con griego)"
             ],
             "derivaciones": [],
-            "ipa": "/θil/"
+            "ipa": "/ˈθil/"
           },
           {
             "concepto": "valle",
@@ -9213,7 +9326,7 @@
             "derivaciones": [],
             "kalfirvach": "war",
             "pos": "noun",
-            "ipa": "/war/"
+            "ipa": "/ˈwar/"
           },
           {
             "concepto": "lluvia",
@@ -9245,23 +9358,157 @@
             "derivaciones": [],
             "kalfirvach": "zal",
             "pos": "noun",
-            "ipa": "/zal/"
+            "ipa": "/ˈzal/"
           },
           {
             "concepto": "luna",
-            "forma_final": "chandara",
-            "ipa": "/ˈtʃan.da.ra/",
+            "forma_final": "mahsel",
+            "ipa": "/ˈmah.sel/",
             "origen": {
-              "lengua": "Sanscrito/Griego",
-              "raiz_original": "candra \"luna\" / selene \"luna\"",
+              "lengua": "Persa/Griego/Arabe",
+              "raiz_original": "ماه (Māh) 'luna' (Persa) / Σελήνη (Selénē) 'luna' (Gr) / هلال (Hilāl) 'creciente lunar' (Ar)",
+              "corpus": "Poesía persa (Māh) / PGM (Selénē) / Ilm al-Huruf (Hilāl como símbolo esotérico)"
+            },
+            "transformacion": [
+              "Māh → mah (acortamiento ā→a, coda h ✓)",
+              "Selénē → sel (síncopa: -ēnē → el) → convergencia silábica CVC",
+              "Hilāl → hal → sel (asimilación h→s por convergencia con el griego)",
+              "Composición: mah + sel → mahsel (2 sílabas: CVCCVC)"
+            ],
+            "derivaciones": [],
+            "kalfirvach": "mahsel",
+            "pos": "noun"
+          },
+          {
+            "concepto": "Marte (planeta rojo)",
+            "forma_final": "hermar",
+            "ipa": "/ˈher.mar/",
+            "origen": {
+              "lengua": "Egipcio/Arabe/Tibetano",
+              "raiz_original": "ḥr-dšr (Herdesher) 'Horus el Rojo, Marte' (Eg) / مرخ (Marrikh) 'Marte' (Ar) / མིག་དམར (Migmar) 'Marte, ojo rojo' (Tib)",
+              "corpus": "Textos astronómicos de Edfu (Eg) / Ilm al-Huruf (Ar) / Astrología tántrica tibetana (Tib)"
+            },
+            "transformacion": [
+              "ḥr-dšr → her (ḥ→h, r mantenida, elisión de -dšr → epéntesis a→her como CVC)",
+              "Marrikh → mar (síncopa: -rikh → Ø, preservación de la raíz trilitera m-r)",
+              "Migmar → mar (síncopa: Mig- → Ø, convergencia con el árabe en mar)",
+              "Composición: her + mar → hermar (2 sílabas: CVCCVC)"
+            ],
+            "derivaciones": [],
+            "kalfirvach": "hermar",
+            "pos": "noun"
+          },
+          {
+            "concepto": "Mercurio (planeta mensajero)",
+            "forma_final": "thutir",
+            "ipa": "/ˈθu.tir/",
+            "origen": {
+              "lengua": "Egipcio/Persa/Griego",
+              "raiz_original": "ḏḥwtj (Djehuty) 'Thoth, Mercurio' (Eg) / تیر (Tīr) 'Mercurio, estrella-guía' (Pe) / Ἑρμῆς (Hermês) 'Hermes, Mercurio' (Gr)",
+              "corpus": "PGM (Djehuty-Thoth) / Avesta (Tishtrya/Tīr) / Corpus Hermeticum (Hermes Trismegistus)"
+            },
+            "transformacion": [
+              "ḏḥwtj → ḏḥw → thut (ḥ→h, w→u por vocalización, ḏ→th por fricativización, coda t ✓)",
+              "Tīr → tir (acortamiento ī→i, coda r ✓)",
+              "Hermês → her → thr (convergencia con thut por asimilación: her→thr→thu)",
+              "Composición: thut + tir → thutir (2 sílabas: CVCCVC)"
+            ],
+            "derivaciones": [],
+            "kalfirvach": "thutir",
+            "pos": "noun"
+          },
+          {
+            "concepto": "Júpiter (planeta mayor)",
+            "forma_final": "hormus",
+            "ipa": "/ˈhor.mus/",
+            "origen": {
+              "lengua": "Persa/Griego/Arabe",
+              "raiz_original": "اهورامزدا (Ahura Mazdā → Hormazd) 'Júpiter, divinidad suprema' (Pe) / Ζεύς (Zeús) 'Zeus, Júpiter' (Gr) / مشتري (Mushtarī) 'Júpiter' (Ar)",
+              "corpus": "Avesta (Ahura Mazdā en Gathas) / PGM (Zeus-Helios) / Astrología islámica (Mushtarī)"
+            },
+            "transformacion": [
+              "Hormazd → horm (elisión de -azd → simplificación a CVCC, coda m ✓)",
+              "Zeús → zus → us (elisión de z- por convergencia con el persa)",
+              "Mushtarī → mus (síncopa: -htarī → Ø, preservación de la raíz m-s)",
+              "Composición: horm + mus → hormus (2 sílabas: CVCCVC)"
+            ],
+            "derivaciones": [],
+            "kalfirvach": "hormus",
+            "pos": "noun"
+          },
+          {
+            "concepto": "Venus (planeta del lucero)",
+            "forma_final": "anzu",
+            "ipa": "/ˈan.zu/",
+            "origen": {
+              "lengua": "Persa/Arabe/Griego",
+              "raiz_original": "آناهیتا (Anāhitā) 'diosa Anahita, Venus' (Pe) / زهراء (Zahrā') 'Venus, brillante, flor' (Ar) / Φωσφόρος (Phōsphóros) 'lucero, portador de luz' (Gr)",
+              "corpus": "Avesta (Yašt 5 - Abān Yašt, dedicado a Anāhitā) / Ilm al-Huruf (Zahrā') / PGM (Phōsphóros como Venus matutino)"
+            },
+            "transformacion": [
+              "Anāhitā → an (síncopa: -āhitā → Ø, preservación de la raíz an-)",
+              "Zahrā' → zu (síncopa: -ahrā' → Ø, preservación de la consonante inicial z + u epentética)",
+              "Phōsphóros → phos → os → su (convergencia con zu del árabe por armonía vocálica)",
+              "Composición: an + zu → anzu (2 sílabas: VCCV)"
+            ],
+            "derivaciones": [],
+            "kalfirvach": "anzu",
+            "pos": "noun"
+          },
+          {
+            "concepto": "Saturno (planeta distante)",
+            "forma_final": "keyzu",
+            "ipa": "/ˈkej.zu/",
+            "origen": {
+              "lengua": "Persa/Arabe/Griego",
+              "raiz_original": "کیوان (Keywān) 'Saturno' (Pe) / زحل (Zuḥal) 'Saturno' (Ar) / Κρόνος (Krónos) 'Cronos, Saturno' (Gr)",
+              "corpus": "Astrología persa (Keywān como estrella distante) / Ilm al-Huruf (Zuḥal como el planeta del retiro) / PGM (Krónos como tiempo)"
+            },
+            "transformacion": [
+              "Keywān → key (síncopa: -wān → Ø, diptongo ey preservado por ser sílaba acentuada ✓)",
+              "Zuḥal → zu (síncopa: -ḥal → Ø, preservación de la raíz z-)",
+              "Krónos → kron → krō → kro → key (convergencia vocálica con el persa)",
+              "Composición: key + zu → keyzu (2 sílabas: CVCCV, diptongo ey /ej/ permitido §3.4)"
+            ],
+            "derivaciones": [],
+            "kalfirvach": "keyzu",
+            "pos": "noun"
+          },
+          {
+            "concepto": "planeta, cuerpo celeste errante",
+            "forma_final": "grakaw",
+            "kalfirvach": "grakaw",
+            "ipa": "/ˈgra.kaw/",
+            "pos": "noun",
+            "origen": {
+              "lengua": "Sánscrito/Árabe/Griego/Persa",
+              "raiz_original": "graha 'planeta' (Skt) / kawkab 'astro' (Ar) / planḗtēs 'planeta' (Gr) / uxšiān- 'cuerpo celeste' (Pers)",
               "corpus": ""
             },
             "transformacion": [
-              "desclustering"
+              "graha (Skt) + kawkab (Ar) + planḗtēs (Gr) + uxšiān- (Pers) → gra- + -kaw",
+              "diptongo /aw/ permitido §3.4 en coda",
+              "onset /gr/ permitido §3.2 C+líquida, acento penúltimo"
             ],
-            "derivaciones": [],
-            "kalfirvach": "chandara",
-            "pos": "noun"
+            "derivaciones": []
+          },
+          {
+            "concepto": "constelación, grupo de estrellas",
+            "forma_final": "nakbursa",
+            "kalfirvach": "nakbursa",
+            "ipa": "/nak.ˈbur.sa/",
+            "pos": "noun",
+            "origen": {
+              "lengua": "Sánscrito/Árabe/Tibetano/Griego",
+              "raiz_original": "nakṣatra 'constelación' (Skt) / burj 'constelación zodiacal' (Ar) / skar khyim 'casa estelar' (Tib) / asterismós 'constelación' (Gr)",
+              "corpus": ""
+            },
+            "transformacion": [
+              "nakṣatra (Skt) + burj (Ar) + skar (Tib) + asterismós (Gr) → nak- + -bur- + -sa",
+              "/ṣ/→/k/, /j/→/s/",
+              "/k/ coda permitido §3.3, acento en penúltima -bur-"
+            ],
+            "derivaciones": []
           }
         ]
       },
@@ -9366,18 +9613,28 @@
           },
           {
             "concepto": "dia",
-            "forma_final": "dina",
-            "ipa": "/ˈdi.na/",
+            "forma_final": "daimera",
+            "ipa": "/dajˈme.ra/",
             "origen": {
               "lengua": "Sanscrito/Griego/Avestan/Persa",
-              "raiz_original": "dina 'día' / ἡμέρα (hēmera) 'día' / dainhu- 'día' / ruz 'día'",
-              "corpus": ""
+              "raiz_original": "दिन (dina) 'día' (Skt) / ἡμέρα (hēmera) 'día' (Gr) / dainhu- 'día' (Av) / روز (rūz) 'día' (Pe)",
+              "corpus": "Ṛgveda / PGM / Avesta"
             },
             "transformacion": [
-              "compatible"
+              "dina → dai (vocalización: i→ai por influencia del griego hēmera)",
+              "hēmera → mera (síncopa: hē- → Ø, asibilación de -mera como sufijo)",
+              "Composición: dai + mera → daimera (CV+CV: 'día+luz')"
             ],
-            "derivaciones": [],
-            "kalfirvach": "dina",
+            "derivaciones": [
+              "suryamera (domingo)",
+              "mahselmera (lunes)",
+              "hermarmera (martes)",
+              "thutirmera (miércoles)",
+              "hormusmera (jueves)",
+              "anzumera (viernes)",
+              "keyzumera (sábado)"
+            ],
+            "kalfirvach": "daimera",
             "pos": "noun"
           },
           {
@@ -9458,7 +9715,7 @@
             "derivaciones": [],
             "kalfirvach": "káp",
             "pos": "adverb",
-            "ipa": "/kap/"
+            "ipa": "/ˈkap/"
           },
           {
             "concepto": "podrido",
@@ -9490,7 +9747,7 @@
             "derivaciones": [],
             "kalfirvach": "lav",
             "pos": "adverb",
-            "ipa": "/law/"
+            "ipa": "/ˈlaw/"
           },
           {
             "concepto": "sucio",
@@ -9550,7 +9807,7 @@
             },
             "transformacion": [],
             "derivaciones": [],
-            "ipa": "/nux/"
+            "ipa": "/ˈnux/"
           },
           {
             "concepto": "camino/via",
@@ -9676,7 +9933,7 @@
             },
             "transformacion": [],
             "derivaciones": [],
-            "ipa": "/rit/"
+            "ipa": "/ˈrit/"
           },
           {
             "concepto": "recto/derecho",
@@ -9713,7 +9970,7 @@
           {
             "concepto": "con",
             "forma_final": "sah",
-            "ipa": "/sah/",
+            "ipa": "/ˈsah/",
             "origen": {
               "lengua": "Sanscrito/Avestan/Griego/Persa/Egipcio",
               "raiz_original": "saha 'con' / hada- 'con' / μετά (metá) 'con' / bā 'con' / ḥnꜥ 'con'",
@@ -9916,7 +10173,7 @@
             "derivaciones": [],
             "kalfirvach": "tís",
             "pos": "adverb",
-            "ipa": "/tis/"
+            "ipa": "/ˈtis/"
           },
           {
             "concepto": "voluntad, intención consciente",
@@ -9930,7 +10187,7 @@
             },
             "transformacion": [],
             "derivaciones": [],
-            "ipa": "/θel/"
+            "ipa": "/ˈθel/"
           },
           {
             "concepto": "acto de voluntad, acción volitiva",
@@ -9944,7 +10201,7 @@
             },
             "transformacion": [],
             "derivaciones": [],
-            "ipa": "/θes/"
+            "ipa": "/ˈθes/"
           },
           {
             "concepto": "caliente/calido",
@@ -10018,7 +10275,7 @@
             ],
             "kalfirvach": "as",
             "pos": "particle",
-            "ipa": "/as/"
+            "ipa": "/ˈas/"
           },
           {
             "concepto": "aunque, a pesar de (adversativa)",
@@ -10034,7 +10291,7 @@
             "derivaciones": [],
             "kalfirvach": "ár",
             "pos": "conjunction",
-            "ipa": "/ar/"
+            "ipa": "/ˈar/"
           },
           {
             "concepto": "precisamente, exactamente (precision)",
@@ -10050,7 +10307,7 @@
             "derivaciones": [],
             "kalfirvach": "ét",
             "pos": "particle",
-            "ipa": "/et/"
+            "ipa": "/ˈet/"
           },
           {
             "concepto": "pues bien, ahora (inicio discursivo)",
@@ -10066,7 +10323,7 @@
             "derivaciones": [],
             "kalfirvach": "hán",
             "pos": "particle",
-            "ipa": "/han/"
+            "ipa": "/ˈhan/"
           },
           {
             "concepto": "hasta que (temporal final)",
@@ -10082,7 +10339,7 @@
             "derivaciones": [],
             "kalfirvach": "hát",
             "pos": "conjunction",
-            "ipa": "/hat/"
+            "ipa": "/ˈhat/"
           },
           {
             "concepto": "porque (conjunción causal)",
@@ -10099,7 +10356,7 @@
             "derivaciones": [],
             "kalfirvach": "kar",
             "pos": "particle",
-            "ipa": "/kar/"
+            "ipa": "/ˈkar/"
           },
           {
             "concepto": "para que, a fin de que (final)",
@@ -10115,7 +10372,7 @@
             "derivaciones": [],
             "kalfirvach": "kás",
             "pos": "conjunction",
-            "ipa": "/kas/"
+            "ipa": "/ˈkas/"
           },
           {
             "concepto": "dicen que, se dice (citativo)",
@@ -10131,7 +10388,7 @@
             "derivaciones": [],
             "kalfirvach": "kát",
             "pos": "particle",
-            "ipa": "/kat/"
+            "ipa": "/ˈkat/"
           },
           {
             "concepto": "de ningun modo (negacion enfatica)",
@@ -10147,7 +10404,7 @@
             "derivaciones": [],
             "kalfirvach": "lám",
             "pos": "particle",
-            "ipa": "/lam/"
+            "ipa": "/ˈlam/"
           },
           {
             "concepto": "en verdad, ciertamente (enfasis)",
@@ -10163,7 +10420,7 @@
             "derivaciones": [],
             "kalfirvach": "máh",
             "pos": "particle",
-            "ipa": "/mah/"
+            "ipa": "/ˈmah/"
           },
           {
             "concepto": "despues de que (temporal posterior)",
@@ -10179,13 +10436,13 @@
             "derivaciones": [],
             "kalfirvach": "mét",
             "pos": "conjunction",
-            "ipa": "/met/"
+            "ipa": "/ˈmet/"
           },
           {
             "concepto": "vocativo, partícula de invocación",
             "forma_final": "o",
             "kalfirvach": "o",
-            "ipa": "/o/",
+            "ipa": "/ˈo/",
             "pos": "particle",
             "origen": {
               "lengua": "Latin/Griego/Sanscrito",
@@ -10245,7 +10502,7 @@
             "derivaciones": [],
             "kalfirvach": "súm",
             "pos": "particle",
-            "ipa": "/sum/"
+            "ipa": "/ˈsum/"
           },
           {
             "concepto": "por lo tanto, entonces (consecutiva)",
@@ -10261,7 +10518,7 @@
             "derivaciones": [],
             "kalfirvach": "tát",
             "pos": "conjunction",
-            "ipa": "/tat/"
+            "ipa": "/ˈtat/"
           },
           {
             "concepto": "mientras (simultaneo)",
@@ -10277,7 +10534,7 @@
             "derivaciones": [],
             "kalfirvach": "tés",
             "pos": "conjunction",
-            "ipa": "/tes/"
+            "ipa": "/ˈtes/"
           },
           {
             "concepto": "que (complementizante)",
@@ -10293,7 +10550,7 @@
             "derivaciones": [],
             "kalfirvach": "ti",
             "pos": "particle",
-            "ipa": "/ti/"
+            "ipa": "/ˈti/"
           },
           {
             "concepto": "pero (conjunción adversativa)",
@@ -10309,7 +10566,7 @@
             "derivaciones": [],
             "kalfirvach": "tu",
             "pos": "particle",
-            "ipa": "/tu/"
+            "ipa": "/ˈtu/"
           },
           {
             "concepto": "o (conjunción disyuntiva)",
@@ -10327,7 +10584,7 @@
             ],
             "kalfirvach": "va",
             "pos": "particle",
-            "ipa": "/wa/"
+            "ipa": "/ˈwa/"
           },
           {
             "concepto": "mientras que, en cambio (contraste)",
@@ -10343,7 +10600,7 @@
             "derivaciones": [],
             "kalfirvach": "wá",
             "pos": "conjunction",
-            "ipa": "/wa/"
+            "ipa": "/ˈwa/"
           },
           {
             "concepto": "por otra parte, ademas (transicion)",
@@ -10359,7 +10616,7 @@
             "derivaciones": [],
             "kalfirvach": "wáy",
             "pos": "particle",
-            "ipa": "/waj/"
+            "ipa": "/ˈwaj/"
           },
           {
             "concepto": "si (condicional)",
@@ -10375,7 +10632,7 @@
             "derivaciones": [],
             "kalfirvach": "yas",
             "pos": "conjunction",
-            "ipa": "/jas/"
+            "ipa": "/ˈjas/"
           },
           {
             "concepto": "si (condicional)",
@@ -10393,7 +10650,7 @@
             ],
             "kalfirvach": "yat",
             "pos": "particle",
-            "ipa": "/jat/"
+            "ipa": "/ˈjat/"
           },
           {
             "concepto": "y (conjunción)",
@@ -10409,7 +10666,7 @@
             "derivaciones": [],
             "kalfirvach": "cha",
             "pos": "particle",
-            "ipa": "/tʃa/"
+            "ipa": "/ˈtʃa/"
           }
         ]
       },
@@ -10464,7 +10721,7 @@
             "derivaciones": [],
             "kalfirvach": "-anu",
             "pos": "affix",
-            "ipa": "/a.nu/"
+            "ipa": "/ˈa.nu/"
           },
           {
             "concepto": "actitudinal: astral",
@@ -10480,7 +10737,7 @@
             "derivaciones": [],
             "kalfirvach": "-ast",
             "pos": "affix",
-            "ipa": "/ast/"
+            "ipa": "/ˈast/"
           },
           {
             "concepto": "actitudinal: vergüenza",
@@ -10513,7 +10770,7 @@
             "derivaciones": [],
             "kalfirvach": "-bay",
             "pos": "affix",
-            "ipa": "/-baj/"
+            "ipa": "/ˈ-baj/"
           },
           {
             "concepto": "actitudinal: visual (testigo visual)",
@@ -10529,7 +10786,7 @@
             "derivaciones": [],
             "kalfirvach": "-e",
             "pos": "affix",
-            "ipa": "/e/"
+            "ipa": "/ˈe/"
           },
           {
             "concepto": "actitudinal: esperanza",
@@ -10597,7 +10854,7 @@
             "derivaciones": [],
             "kalfirvach": "-kal",
             "pos": "affix",
-            "ipa": "/kal/"
+            "ipa": "/ˈkal/"
           },
           {
             "concepto": "actitudinal: ira",
@@ -10614,7 +10871,7 @@
             "derivaciones": [],
             "kalfirvach": "-krot",
             "pos": "affix",
-            "ipa": "/-krot/"
+            "ipa": "/ˈ-krot/"
           },
           {
             "concepto": "actitudinal: melancolía",
@@ -10647,7 +10904,7 @@
             "derivaciones": [],
             "kalfirvach": "-nam",
             "pos": "affix",
-            "ipa": "/nam/"
+            "ipa": "/ˈnam/"
           },
           {
             "concepto": "actitudinal: alegría",
@@ -10663,7 +10920,7 @@
             "derivaciones": [],
             "kalfirvach": "-nant",
             "pos": "affix",
-            "ipa": "/-nant/"
+            "ipa": "/ˈ-nant/"
           },
           {
             "concepto": "actitudinal: nostalgia",
@@ -10679,7 +10936,7 @@
             "derivaciones": [],
             "kalfirvach": "-nos",
             "pos": "affix",
-            "ipa": "/-nos/"
+            "ipa": "/ˈ-nos/"
           },
           {
             "concepto": "actitudinal: onirico",
@@ -10695,7 +10952,7 @@
             "derivaciones": [],
             "kalfirvach": "-on",
             "pos": "affix",
-            "ipa": "/on/"
+            "ipa": "/ˈon/"
           },
           {
             "concepto": "actitudinal: performativo",
@@ -10711,7 +10968,7 @@
             "derivaciones": [],
             "kalfirvach": "-poi",
             "pos": "affix",
-            "ipa": "/poi/"
+            "ipa": "/ˈpoi/"
           },
           {
             "concepto": "actitudinal: amor",
@@ -10727,13 +10984,13 @@
             "derivaciones": [],
             "kalfirvach": "-prem",
             "pos": "affix",
-            "ipa": "/-prem/"
+            "ipa": "/ˈ-prem/"
           },
           {
             "concepto": "actitudinal: destierro, abjuración (coercitivo-abjurativo)",
             "forma_final": "-rak",
             "kalfirvach": "-rak",
-            "ipa": "/-rak/",
+            "ipa": "/ˈ-rak/",
             "pos": "affix",
             "origen": {
               "lengua": "Hebreo/Arabe/Griego",
@@ -10760,7 +11017,7 @@
             "derivaciones": [],
             "kalfirvach": "-rakh",
             "pos": "affix",
-            "ipa": "/-rax/"
+            "ipa": "/ˈ-rax/"
           },
           {
             "concepto": "actitudinal: compasión",
@@ -10783,7 +11040,7 @@
             "concepto": "actitudinal: ruego, invocación respetuosa (precativo)",
             "forma_final": "-ran",
             "kalfirvach": "-ran",
-            "ipa": "/-ran/",
+            "ipa": "/ˈ-ran/",
             "pos": "affix",
             "origen": {
               "lengua": "Sánscrito/Avestan/Egipcio",
@@ -10800,7 +11057,7 @@
             "concepto": "actitudinal: atadura, ligadura ritual (coercitivo-vinculante)",
             "forma_final": "-rap",
             "kalfirvach": "-rap",
-            "ipa": "/-rap/",
+            "ipa": "/ˈ-rap/",
             "pos": "affix",
             "origen": {
               "lengua": "Sánscrito/Arameo/Egipcio",
@@ -10827,7 +11084,7 @@
             "derivaciones": [],
             "kalfirvach": "-ras",
             "pos": "affix",
-            "ipa": "/ras/"
+            "ipa": "/ˈras/"
           },
           {
             "concepto": "actitudinal: serenidad",
@@ -10876,7 +11133,7 @@
             "derivaciones": [],
             "kalfirvach": "-sik",
             "pos": "affix",
-            "ipa": "/-sik/"
+            "ipa": "/ˈ-sik/"
           },
           {
             "concepto": "actitudinal: fisico (cuerpo)",
@@ -10892,7 +11149,7 @@
             "derivaciones": [],
             "kalfirvach": "-som",
             "pos": "affix",
-            "ipa": "/som/"
+            "ipa": "/ˈsom/"
           },
           {
             "concepto": "actitudinal: sabiduria profunda (gnosis)",
@@ -10908,7 +11165,7 @@
             "derivaciones": [],
             "kalfirvach": "-sop",
             "pos": "affix",
-            "ipa": "/-sop/"
+            "ipa": "/ˈ-sop/"
           },
           {
             "concepto": "actitudinal: calma",
@@ -10925,7 +11182,7 @@
             "derivaciones": [],
             "kalfirvach": "-shant",
             "pos": "affix",
-            "ipa": "/-ʃant/"
+            "ipa": "/ˈ-ʃant/"
           },
           {
             "concepto": "actitudinal: anhelo",
@@ -10957,7 +11214,7 @@
             "derivaciones": [],
             "kalfirvach": "-shok",
             "pos": "affix",
-            "ipa": "/-ʃok/"
+            "ipa": "/ˈ-ʃok/"
           },
           {
             "concepto": "actitudinal: gratitud",
@@ -10990,7 +11247,7 @@
             "derivaciones": [],
             "kalfirvach": "-takh",
             "pos": "affix",
-            "ipa": "/-tax/"
+            "ipa": "/ˈ-tax/"
           },
           {
             "concepto": "actitudinal: intensidad (enfatico)",
@@ -11006,7 +11263,7 @@
             "derivaciones": [],
             "kalfirvach": "-tax",
             "pos": "affix",
-            "ipa": "/tax/"
+            "ipa": "/ˈtax/"
           },
           {
             "concepto": "actitudinal: desafio (coercitivo-desafiante)",
@@ -11022,7 +11279,7 @@
             "derivaciones": [],
             "kalfirvach": "-tup",
             "pos": "affix",
-            "ipa": "/-tup/"
+            "ipa": "/ˈ-tup/"
           },
           {
             "concepto": "actitudinal: disgusto",
@@ -11070,7 +11327,7 @@
             "derivaciones": [],
             "kalfirvach": "-wah",
             "pos": "affix",
-            "ipa": "/wah/"
+            "ipa": "/ˈwah/"
           },
           {
             "concepto": "actitudinal: éxtasis",
@@ -11103,7 +11360,7 @@
             "derivaciones": [],
             "kalfirvach": "-wil",
             "pos": "affix",
-            "ipa": "/wil/"
+            "ipa": "/ˈwil/"
           },
           {
             "concepto": "actitudinal: coraje",
@@ -11119,7 +11376,7 @@
             "derivaciones": [],
             "kalfirvach": "-zal",
             "pos": "affix",
-            "ipa": "/-zal/"
+            "ipa": "/ˈ-zal/"
           },
           {
             "concepto": "actitudinal: flujo (fluidez, continuidad)",
@@ -11135,7 +11392,7 @@
             "derivaciones": [],
             "kalfirvach": "-zir",
             "pos": "affix",
-            "ipa": "/zir/"
+            "ipa": "/ˈzir/"
           }
         ]
       },
@@ -11575,7 +11832,7 @@
           {
             "concepto": "purificar ritual (limpiar energético) - verbo ritual v1.2",
             "forma_final": "dze",
-            "ipa": "/ʣe/",
+            "ipa": "/ˈʣe/",
             "origen": {
               "lengua": "Árabe Esotérico/Griego Koiné/Egipcio Demótico",
               "raiz_original": "عزيمة (Ꜥzymh) / μαν- (man-) / sḫm invocar",
@@ -11705,7 +11962,7 @@
           {
             "concepto": "sellar (cerrar ritual)",
             "forma_final": "ghul",
-            "ipa": "/ɣul/",
+            "ipa": "/ˈɣul/",
             "origen": {
               "lengua": "Tibetano Clásico/Persa Avéstico/Árabe Esotérico",
               "raiz_original": "(raíz Tibetano) / (raíz Persa) / (raíz Árabe)",
@@ -11721,7 +11978,7 @@
           {
             "concepto": "exorcizar (expulsar entidad) - verbo ritual v1.2",
             "forma_final": "ghēl",
-            "ipa": "/ɣeːl/",
+            "ipa": "/ˈɣeːl/",
             "origen": {
               "lengua": "Egipcio Demótico/Sánscrito Védico/Griego Koiné",
               "raiz_original": "wꜢḥ ofrendar / हु (hu) / τελε- (tele-)",
@@ -11993,7 +12250,7 @@
           {
             "concepto": "romper hechizo (desencantar)",
             "forma_final": "khi",
-            "ipa": "/xi/",
+            "ipa": "/ˈxi/",
             "origen": {
               "lengua": "Egipcio Demótico/Griego Koiné/Persa Avéstico",
               "raiz_original": "(raíz Egipcio) / (raíz Griego) / (raíz Persa)",
@@ -12543,7 +12800,7 @@
             },
             "transformacion": [],
             "derivaciones": [],
-            "ipa": "/sat/"
+            "ipa": "/ˈsat/"
           },
           {
             "concepto": "eco/resonancia",
@@ -12766,7 +13023,7 @@
           {
             "concepto": "encantar (aplicar hechizo) - verbo ritual v1.2",
             "forma_final": "thak",
-            "ipa": "/θak/",
+            "ipa": "/ˈθak/",
             "origen": {
               "lengua": "Persa Avéstico/Tibetano Clásico/Egipcio Demótico",
               "raiz_original": "ātarš fuego / བཟླས་ (bzlas) / ẖnm unir",
@@ -12952,7 +13209,7 @@
           {
             "concepto": "proteger (amparar)",
             "forma_final": "chā",
-            "ipa": "/tʃaː/",
+            "ipa": "/ˈtʃaː/",
             "origen": {
               "lengua": "Egipcio Demótico/Persa Avéstico/Árabe Esotérico",
               "raiz_original": "(raíz Egipcio) / (raíz Persa) / (raíz Árabe)",
@@ -12999,6 +13256,379 @@
               "coagula-a (coagulado)"
             ],
             "notas": "F5 v1.2. Alquimia: unir componentes; cierre del opus."
+          },
+          {
+            "concepto": "portal dimensional, grieta en el éter que funciona como puerta entre planos",
+            "forma_final": "chásdruying",
+            "ipa": "/ˈtʃas.dru.jiŋ/",
+            "kalfirvach": "chásdruying",
+            "origen": {
+              "lengua": "Griego/Avestan/Tibetano",
+              "raiz_original": "Griego χάσμα (chásma) 'grieta, abismo' + Avestan 𐬛𐬭𐬎𐬎𐬀𐬰𐬀 (druuaza) 'puerta, portal' + Tibetano clásico དབྱིངས (dbyings) 'espacio primordial, ākāśa, éter' → chásdruying (fusión: chásma + druuaza + dbyings, con pérdida de -ma, -uaza y db-). 3 lenguas, 3 familias. El portal dimensional que rasga el éter como una puerta entre mundos.",
+              "corpus": "PGM IV; Gathas; Dzogchen tantras"
+            },
+            "pos": "noun",
+            "derivaciones": [],
+            "transformacion": [
+              "compatible"
+            ]
+          },
+          {
+            "concepto": "escriba, copista de textos sagrados y rituales",
+            "forma_final": "séshkatip",
+            "ipa": "/ˈseʃ.ka.tip/",
+            "kalfirvach": "séshkatip",
+            "origen": {
+              "lengua": "Egipcio/Arabe",
+              "raiz_original": "Egipcio sš (sesh) 'escriba, escritura' + Árabe كاتب (kātib) 'escriba, notario' → séshkatip (fusión: sš + kātib, con /sš/→/seʃ/ y /ātib/→/katip/, ensordecimiento codicial /b/→/p/). 2 lenguas. El que registra el conocimiento sagrado por escrito.",
+              "corpus": "Textos de las Pirámides; Manuscritos de los Hermanos de la Pureza"
+            },
+            "pos": "noun",
+            "derivaciones": [],
+            "transformacion": [
+              "compatible"
+            ]
+          },
+          {
+            "concepto": "papiro, rollo de escritura, manuscrito sagrado",
+            "forma_final": "damqírtas",
+            "ipa": "/damˈkir.tas/",
+            "kalfirvach": "damqírtas",
+            "origen": {
+              "lengua": "Egipcio demótico/Arabe",
+              "raiz_original": "Egipcio demótico ḏmˁ (dema) 'rollo de papiro' + Árabe قرطاس (qirtās) 'papel, papiro, hoja' → damqírtas (fusión: ḏmˁ + qirtās, con ḏ→d, mˁ→ma, qirtās íntegro). 2 lenguas. El soporte físico del conocimiento transmitido.",
+              "corpus": "Papiro demótico mágico BM 10554; Rasā'il Ikhwān al-Ṣafā'"
+            },
+            "pos": "noun",
+            "derivaciones": [],
+            "transformacion": [
+              "compatible"
+            ]
+          },
+          {
+            "concepto": "ángel, mensajero divino (puede ser persona o espíritu)",
+            "forma_final": "malkángra",
+            "ipa": "/ˈmal.kaŋ.gra/",
+            "kalfirvach": "malkángra",
+            "origen": {
+              "lengua": "Arabe/Avestan",
+              "raiz_original": "Árabe ملك (malak) 'ángel, mensajero celeste' + Avestan 𐬀𐬢𐬭𐬀 (aṇgra) 'espíritu, ser celestial, mensajero' → malkángra (fusión: malak + aṇgra, con pérdida de -ak y -gra como núcleo). 2 lenguas. El mensajero divino que puede manifestarse en cualquier persona o forma espiritual.",
+              "corpus": "Corán 2:98; Gathas Yasna 28"
+            },
+            "pos": "noun",
+            "derivaciones": [],
+            "transformacion": [
+              "compatible"
+            ]
+          },
+          {
+            "concepto": "arcángel, parte de Dios que crea en el plano mental",
+            "forma_final": "árchamaqal",
+            "ipa": "/ˈar.tʃa.ma.kal/",
+            "kalfirvach": "árchamaqal",
+            "origen": {
+              "lengua": "Griego/Arabe Esoterico/Avestan",
+              "raiz_original": "Griego ἀρχή (archē) 'principio, origen, regente' + Avestan 𐬨𐬀𐬥𐬀𐬢𐬵𐬀 (manaŋha) 'poder mental' + Árabe esotérico عقل (ʿaql) 'intelecto divino, nous plotiniano' → árchamaqal (fusión: archē + manaŋha + ʿaql, con pérdida de -ē, -naŋha → -ma, y ʿaql epentético -aqal). 3 lenguas. El aspecto creador de la divinidad que opera en el plano del intelecto puro (nous).",
+              "corpus": "Corpus Hermeticum; Teología Aristotélica (versión árabe); Gathas"
+            },
+            "pos": "noun",
+            "derivaciones": [],
+            "transformacion": [
+              "/tʃ/ por χ y /a/ epentética en ʿaql → -aqal"
+            ]
+          },
+          {
+            "concepto": "demonio, genio espiritual (puede ser benéfico o maléfico)",
+            "forma_final": "dáymojin",
+            "ipa": "/ˈdaj.mo.jin/",
+            "kalfirvach": "dáymojin",
+            "origen": {
+              "lengua": "Griego/Arabe",
+              "raiz_original": "Griego δαίμων (daimōn) 'espíritu, ser divino neutral, daimon' + Árabe جني (jinnī) 'genio, ser de fuego sutil, moralmente ambivalente' → dáymojin (fusión: daimōn + jinnī, con pérdida de -ōn, -ī y coalescencia /mo/). 2 lenguas. El espíritu que no es ni bueno ni malo por naturaleza, sino que actúa según su propósito.",
+              "corpus": "PGM IV 1234; Mil y Una Noches; Rasā'il Ikhwān al-Ṣafā'"
+            },
+            "pos": "noun",
+            "derivaciones": [],
+            "transformacion": [
+              "compatible"
+            ]
+          },
+          {
+            "concepto": "sirena, espíritu elemental del agua",
+            "forma_final": "séypari",
+            "ipa": "/ˈsej.pa.ri/",
+            "kalfirvach": "séypari",
+            "origen": {
+              "lengua": "Griego/Persa",
+              "raiz_original": "Griego Σειρήν (seirēn) 'sirena, seductora acuática' + Persa پری (parī) 'hada/peri, espíritu elemental femenino' → séypari (fusión: seirēn + parī, con /rēn/→/y/ y parī reducido a -pari). 2 lenguas. El espíritu femenino de las aguas, amalgama de la tradición homérica y el folclore iranio.",
+              "corpus": "Odisea XII; Avestan Frawardīn Yašt; Shāh-Nāmeh"
+            },
+            "pos": "noun",
+            "derivaciones": [],
+            "transformacion": [
+              "compatible"
+            ]
+          },
+          {
+            "concepto": "silfo, espíritu elemental del aire",
+            "forma_final": "vayrūh",
+            "ipa": "/ˈwaj.ruːh/",
+            "kalfirvach": "vayrūh",
+            "origen": {
+              "lengua": "Avestan/Arabe Esoterico",
+              "raiz_original": "Avestan 𐬬𐬀𐬌𐬌𐬎 (vaiiu) 'viento, aire, divinidad Vayu' + Árabe esotérico روح (rūḥ) 'espíritu, soplo divino, aliento de vida' → vayrūh (fusión: vaiiu + rūḥ, con /v/→/v/, /aiiu/→/ay/, /rūḥ/→/rūh/). 2 lenguas. El espíritu elemental que danza en el viento, mensajero del éter.",
+              "corpus": "Gathas Yasna 44; Futūḥāt al-Makkiyya"
+            },
+            "pos": "noun",
+            "derivaciones": [],
+            "transformacion": [
+              "compatible"
+            ]
+          },
+          {
+            "concepto": "duende, gnomo, espíritu elemental de la tierra",
+            "forma_final": "gazámsa",
+            "ipa": "/gaˈzam.sa/",
+            "kalfirvach": "gazámsa",
+            "origen": {
+              "lengua": "Griego/Avestan/Tibetano",
+              "raiz_original": "Griego γαῖα (gaia) 'tierra' + Avestan 𐬰𐬆𐬨 (zəm) 'tierra' + Tibetano clásico ས (sa) 'tierra, suelo' → gazámsa (fusión: gāia + zəm + sa, con /āi/→/a/, /zəm/→/zam/, /sa/ conservado). 3 lenguas, 2 familias. El elemental que cuida las raíces del mundo subterráneo.",
+              "corpus": "Theogony; Gathas; Bön tantras"
+            },
+            "pos": "noun",
+            "derivaciones": [],
+            "transformacion": [
+              "compatible"
+            ]
+          },
+          {
+            "concepto": "meditar, contemplación profunda",
+            "forma_final": "médhya",
+            "ipa": "/ˈme.dja/",
+            "kalfirvach": "médhya",
+            "origen": {
+              "lengua": "Copto/Tibetano/Persa",
+              "raiz_original": "Copto ⲙⲉⲧ (met) 'verbo, pensamiento, acción de' + Tibetano clásico བསམ (bsam) 'pensar, meditar' + Persa medio اندیشه (andīše) 'pensamiento, meditación' → médhya (fusión: met + bsam + andīše, con met→mé, bsam→dhya por debuccalización, -šīšeh perdido). 3 lenguas. El acto de aquietar la mente y penetrar en la contemplación del vacío.",
+              "corpus": "Evangelio de Tomás (versión copta); Bardo Thodol; Shāh-Nāmeh"
+            },
+            "pos": "verb",
+            "derivaciones": [],
+            "transformacion": [
+              "/d/ + /j/ → /d(j)/ por yodización",
+              "compatible"
+            ]
+          },
+          {
+            "concepto": "parásito astral, entidad que drena energía en el plano sutil",
+            "forma_final": "akhásmara",
+            "ipa": "/ˈa.xas.ma.ra/",
+            "kalfirvach": "akhásmara",
+            "origen": {
+              "lengua": "Egipcio/Arabe Esoterico/Persa",
+              "raiz_original": "Egipcio ꜥḫ (akh) 'espíritu transfigurado, entidad del más allá' + Árabe esotérico خسارة (khasāra) 'pérdida, drenaje, daño' + Persa medio مار (mār) 'serpiente, parásito' → akhásmara (fusión: ꜥḫ + khasāra + mār, con ꜥḫ→ /ax/, khasāra conservado como -khas-, mār como -mara). 3 lenguas. La entidad astral que se alimenta de la energía vital del practicante.",
+              "corpus": "Textos de los Sarcófagos; al-Būnī, Shams al-Ma'ārif; Bundahišn"
+            },
+            "pos": "noun",
+            "derivaciones": [],
+            "transformacion": [
+              "compatible"
+            ]
+          },
+          {
+            "concepto": "demiurgo, artífice divino del mundo material",
+            "forma_final": "dámiuqara",
+            "ipa": "/ˈda.mi.u.ka.ra/",
+            "kalfirvach": "dámiuqara",
+            "origen": {
+              "lengua": "Griego/Arabe Esoterico/Avestan",
+              "raiz_original": "Griego δημιουργός (dēmiourgos) 'artesano, hacedor, creador del mundo' + Árabe esotérico قارة (qāra) 'materia prima/molde creador' + Avestan 𐬐𐬀𐬭𐬀𐬥 (karan) 'hacer, crear, fabricar' → dámiuqara (fusión: dēmiourgós + qāra + karan, con /dēmi/→/dami/, /ourgos/→/u/, /qāra/→/qara/ con epéntesis /q/→/k/). 3 lenguas. El arquitecto del cosmos material, que modela la realidad a partir de la materia primordial.",
+              "corpus": "Timeo de Platón; Rasā'il Ikhwān al-Ṣafā'; Bundahišn"
+            },
+            "pos": "noun",
+            "derivaciones": [],
+            "transformacion": [
+              "compatible"
+            ]
+          },
+          {
+            "concepto": "espíritu planetario del Sol, espíritu solar, regente del fuego astral y la vitalidad",
+            "forma_final": "hūrsūf",
+            "ipa": "/ˈhuːr.suːf/",
+            "kalfirvach": "hūrsūf",
+            "origen": {
+              "lengua": "Persa/Arabe Esoterico",
+              "raiz_original": "Persa medio hūr (خور) 'sol, luz solar' + Árabe esotérico صوف (ṣūf) 'espíritu, sabiduría mística, esencia sutil' → hūrsūf (fusión directa: hūr + ṣūf). 2 lenguas. El regente espiritual que anima el principio solar.",
+              "corpus": "Bundahišn; al-Būnī, Shams al-Ma'ārif"
+            },
+            "pos": "noun",
+            "derivaciones": [],
+            "transformacion": [
+              "compatible"
+            ]
+          },
+          {
+            "concepto": "espíritu planetario de Mercurio, regente de la comunicación y el ingenio",
+            "forma_final": "tīrsūf",
+            "ipa": "/ˈtiːr.suːf/",
+            "kalfirvach": "tīrsūf",
+            "origen": {
+              "lengua": "Avestan/Persa/Arabe Esoterico",
+              "raiz_original": "Avestan 𐬙𐬌𐬭𐬌 (tīri) 'Mercurio, Sirio, estrella-guía' + Persa تیر (tīr) 'flecha, Mercurio' + Árabe esotérico صوف (ṣūf) 'espíritu' → tīrsūf (fusión: tīr + ṣūf). 3 lenguas. El genio de la comunicación veloz entre planos.",
+              "corpus": "Tīr Yašt (Avesta); Picatrix"
+            },
+            "pos": "noun",
+            "derivaciones": [],
+            "transformacion": [
+              "compatible"
+            ]
+          },
+          {
+            "concepto": "espíritu planetario de Venus, regente del amor, la belleza y la atracción",
+            "forma_final": "anāhīsūf",
+            "ipa": "/aˈnaː.hiː.suːf/",
+            "kalfirvach": "anāhīsūf",
+            "origen": {
+              "lengua": "Avestan/Persa/Arabe Esoterico",
+              "raiz_original": "Avestan 𐬀𐬥𐬁𐬵𐬌𐬙𐬀 (Anāhita) 'divinidad de las aguas, Venus, fertilidad' + Persa ناهید (Nāhīd) 'planeta Venus' + Árabe esotérico صوف (ṣūf) 'espíritu' → anāhīsūf (fusión: Anāhīt + ṣūf, con pérdida de /t/). 3 lenguas. La esencia espiritual que rige la atracción y la armonía.",
+              "corpus": "Ābān Yašt; Picatrix; Dīwān-e Hāfez"
+            },
+            "pos": "noun",
+            "derivaciones": [],
+            "transformacion": [
+              "compatible"
+            ]
+          },
+          {
+            "concepto": "espíritu planetario de Marte, regente de la fuerza, la guerra y la voluntad",
+            "forma_final": "bahrāmsūf",
+            "ipa": "/bahˈraːm.suːf/",
+            "kalfirvach": "bahrāmsūf",
+            "origen": {
+              "lengua": "Persa/Arabe Esoterico",
+              "raiz_original": "Persa بهرام (Bahrām) 'Marte, dios de la victoria' (del Avestan 𐬬𐬆𐬭𐬆𐬚𐬭𐬀𐬖𐬥𐬀 vərəθraɣna) + Árabe esotérico صوف (ṣūf) 'espíritu' → bahrāmsūf (fusión: Bahrām + ṣūf). 2 lenguas. El ímpetu guerrero del cosmos personificado.",
+              "corpus": "Bahrām Yašt; Shāh-Nāmeh"
+            },
+            "pos": "noun",
+            "derivaciones": [],
+            "transformacion": [
+              "compatible"
+            ]
+          },
+          {
+            "concepto": "espíritu planetario de Júpiter, regente de la sabiduría, la expansión y la realeza",
+            "forma_final": "hormsūf",
+            "ipa": "/ˈhorm.suːf/",
+            "kalfirvach": "hormsūf",
+            "origen": {
+              "lengua": "Persa/Arabe Esoterico",
+              "raiz_original": "Persa هرمز (Hormoz) 'Júpiter' (del Avestan 𐬀𐬵𐬎𐬭𐬀 𐬨𐬀𐬰𐬛𐬁 Ahura Mazdā, Señor Sabiduría) + Árabe esotérico صوف (ṣūf) 'espíritu' → hormsūf (fusión: Hormoz + ṣūf, con pérdida de /oz/). 2 lenguas. La realeza espiritual del cosmos ampliando los límites.",
+              "corpus": "Bundahišn; Rasā'il Ikhwān al-Ṣafā'"
+            },
+            "pos": "noun",
+            "derivaciones": [],
+            "transformacion": [
+              "compatible"
+            ]
+          },
+          {
+            "concepto": "espíritu planetario de Saturno, regente del tiempo, la estructura y el karma",
+            "forma_final": "kaywānsūf",
+            "ipa": "/kajˈwaːn.suːf/",
+            "kalfirvach": "kaywānsūf",
+            "origen": {
+              "lengua": "Persa/Arabe/Arabe Esoterico",
+              "raiz_original": "Persa medio کیوان (Kaywān) + Árabe كيوان (Kaywān) 'Saturno, el benéfico severo' + Árabe esotérico صوف (ṣūf) 'espíritu' → kaywānsūf (fusión: Kaywān + ṣūf). 3 lenguas. El guardián del tiempo cósmico y las estructuras del destino.",
+              "corpus": "Picatrix; Ghāyat al-Ḥakīm; al-Būnī"
+            },
+            "pos": "noun",
+            "derivaciones": [],
+            "transformacion": [
+              "compatible"
+            ]
+          },
+          {
+            "concepto": "espíritu planetario de Urano, regente de lo repentino, lo original y lo disruptivo",
+            "forma_final": "urānsūf",
+            "ipa": "/uˈraːn.suːf/",
+            "kalfirvach": "urānsūf",
+            "origen": {
+              "lengua": "Griego/Arabe Esoterico",
+              "raiz_original": "Griego Οὐρανός (Ouranos) 'el cielo primordial, Urano' + Árabe esotérico صوف (ṣūf) 'espíritu' → urānsūf (fusión: Ouranos + ṣūf, con /ou/→/u/ y /nos/→/n/). 2 lenguas. El espíritu del cielo profundo que irrumpe desde lo insospechado.",
+              "corpus": "Teogonía de Hesíodo; Picatrix; Corpus Hermeticum"
+            },
+            "pos": "noun",
+            "derivaciones": [],
+            "transformacion": [
+              "compatible"
+            ]
+          },
+          {
+            "concepto": "espíritu planetario de Neptuno, regente de los abismos, los sueños y lo trascendente",
+            "forma_final": "posītsūf",
+            "ipa": "/poˈsiːt.suːf/",
+            "kalfirvach": "posīdsūf",
+            "origen": {
+              "lengua": "Griego/Arabe Esoterico",
+              "raiz_original": "Griego Ποσειδῶν (Poseidōn) 'dios del mar, Neptuno, señor de las profundidades' + Árabe esotérico صوف (ṣūf) 'espíritu' → posīdsūf (fusión: Poseidōn + ṣūf, con /sei/→/sī/, /dōn/→/d/, y /z/ en coda → /t/ por ensordecimiento). 2 lenguas. La voz del abismo oceánico que susurra en los sueños.",
+              "corpus": "Odisea; Rasā'il Ikhwān al-Ṣafā'; Picatrix"
+            },
+            "pos": "noun",
+            "derivaciones": [],
+            "transformacion": [
+              "/d/→/t/ en coda por §3.3"
+            ]
+          },
+          {
+            "concepto": "espíritu planetario de la Tierra, regente de lo material, lo denso y lo fértil",
+            "forma_final": "būmsūf",
+            "ipa": "/ˈbuːm.suːf/",
+            "kalfirvach": "būmsūf",
+            "origen": {
+              "lengua": "Persa/Arabe Esoterico",
+              "raiz_original": "Persa بوم (būm) 'tierra, suelo, territorio' + Árabe esotérico صوف (ṣūf) 'espíritu' → būmsūf (fusión: būm + ṣūf). 2 lenguas. El espíritu telúrico que sustenta toda vida material.",
+              "corpus": "Bundahišn; Shāh-Nāmeh; Futūḥāt al-Makkiyya"
+            },
+            "pos": "noun",
+            "derivaciones": [],
+            "transformacion": [
+              "compatible"
+            ]
+          },
+          {
+            "concepto": "universo, totalidad de la existencia",
+            "forma_final": "vijulta",
+            "kalfirvach": "vijulta",
+            "ipa": "/vi.ˈjul.ta/",
+            "pos": "noun",
+            "origen": {
+              "lengua": "Sánscrito/Árabe/Griego/Avestan",
+              "raiz_original": "viśva 'universo' (Skt) / al-wujūd 'existencia' (Ar) / tó hólon 'el todo' (Gr) / gaēθā- 'mundo' (Av)",
+              "corpus": ""
+            },
+            "transformacion": [
+              "viśva (Skt) + wujūd (Ar) + hólon (Gr) + gaēθā (Av) → vi- + -jul- + -ta",
+              "/ś/→/dʒ/ por palatalización, /h/→/l/ asimilada",
+              "/dʒ/ onset permitido §3.2, penúltima — acento en -jul-"
+            ],
+            "derivaciones": []
+          },
+          {
+            "concepto": "cosmos, orden universal, armonía cósmica",
+            "forma_final": "raskal",
+            "kalfirvach": "raskal",
+            "ipa": "/ˈras.kal/",
+            "pos": "noun",
+            "origen": {
+              "lengua": "Sánscrito/Árabe/Avestan/Griego",
+              "raiz_original": "ṛta 'orden cósmico' (Skt) / al-falak 'esfera celeste' (Ar) / aṣ̌a- 'verdad, orden' (Av) / kósmos 'cosmos' (Gr)",
+              "corpus": ""
+            },
+            "transformacion": [
+              "ṛta (Skt) + falak (Ar) + aṣ̌a (Av) + kósmos (Gr) → ras- + -kal",
+              "/ṣ̌/→/s/, /f/→/k/ por convergencia",
+              "CC coda /sk/ permitida §10.3, /l/ coda permitido §3.3"
+            ],
+            "derivaciones": []
           }
         ]
       },
@@ -15796,6 +16426,264 @@
             "_re_etymologized": true,
             "pos": "noun",
             "ipa": "/ˈka.mas/"
+          },
+          {
+            "concepto": "programar (escribir código)",
+            "kalfirvach": "likhay",
+            "forma_final": "likhay",
+            "pos": "verb",
+            "ipa": "/li.ˈxaj/",
+            "origen": {
+              "lengua": "Sánscrito / Griego",
+              "raiz_original": "likh 'rayar, escribir' + gráphō 'escribir'",
+              "corpus": "Skt. Lexicón / NT Juan 8:6"
+            },
+            "transformacion": [
+              "likh + graph → likhay (-ay infinitivo)"
+            ],
+            "derivaciones": []
+          },
+          {
+            "concepto": "compilar (reunir código)",
+            "kalfirvach": "sangra",
+            "forma_final": "sangra",
+            "pos": "verb",
+            "ipa": "/ˈsaŋ.ɡra/",
+            "origen": {
+              "lengua": "Sánscrito / Griego",
+              "raiz_original": "saṃgraha 'colección' + synagein 'reunir'",
+              "corpus": "Skt. Filosofía / Hechos 19:22"
+            },
+            "transformacion": [
+              "saṃgraha → sangra (caída -ha)"
+            ],
+            "derivaciones": []
+          },
+          {
+            "concepto": "ejecutar (correr programa)",
+            "kalfirvach": "caray",
+            "forma_final": "caray",
+            "pos": "verb",
+            "ipa": "/tʃa.ˈraj/",
+            "origen": {
+              "lengua": "Sánscrito / Persa",
+              "raiz_original": "car 'moverse' + kardān 'hacer'",
+              "corpus": "Skt. Teatro / Shahnameh"
+            },
+            "transformacion": [
+              "car + kar → caray"
+            ],
+            "derivaciones": []
+          },
+          {
+            "concepto": "conectar (enlazar)",
+            "kalfirvach": "yunj",
+            "forma_final": "yunj",
+            "pos": "verb",
+            "ipa": "/junɟ/",
+            "origen": {
+              "lengua": "Sánscrito / Avestan",
+              "raiz_original": "yuj 'unir' + yuz 'preparar'",
+              "corpus": "Rigveda / Yasna"
+            },
+            "transformacion": [
+              "yuj + yuz → yunj"
+            ],
+            "derivaciones": []
+          },
+          {
+            "concepto": "cargar (datos)",
+            "kalfirvach": "bhar",
+            "forma_final": "bhar",
+            "pos": "verb",
+            "ipa": "/bʱar/",
+            "origen": {
+              "lengua": "Sánscrito / Griego",
+              "raiz_original": "bhṛ 'llevar' + pherō 'llevar'",
+              "corpus": "Skt. Clásico / Homero"
+            },
+            "transformacion": [
+              "bhṛ + pher → bhar"
+            ],
+            "derivaciones": []
+          },
+          {
+            "concepto": "guardar (archivo)",
+            "kalfirvach": "raksh",
+            "forma_final": "raksh",
+            "pos": "verb",
+            "ipa": "/rakʂ/",
+            "origen": {
+              "lengua": "Sánscrito / Avestan",
+              "raiz_original": "rakṣ 'proteger' + rāz 'guardar'",
+              "corpus": "Skt. Ley / Avesta"
+            },
+            "transformacion": [
+              "rakṣ + rāz → raksh"
+            ],
+            "derivaciones": []
+          },
+          {
+            "concepto": "borrar (eliminar)",
+            "kalfirvach": "mets",
+            "forma_final": "mets",
+            "pos": "verb",
+            "ipa": "/mets/",
+            "origen": {
+              "lengua": "Griego / Egipcio",
+              "raiz_original": "eksaleiphō 'borrar' + mḥ 'vaciar'",
+              "corpus": "NT Hechos 3:19 / PGM"
+            },
+            "transformacion": [
+              "eks → mets"
+            ],
+            "derivaciones": []
+          },
+          {
+            "concepto": "enviar (transmitir)",
+            "kalfirvach": "preṣ",
+            "forma_final": "preṣ",
+            "pos": "verb",
+            "ipa": "/preʂ/",
+            "origen": {
+              "lengua": "Sánscrito / Persa",
+              "raiz_original": "preṣ 'enviar' + firistādan 'enviar'",
+              "corpus": "Skt. Épica / Persa Clásico"
+            },
+            "transformacion": [
+              "preṣ (forma base)"
+            ],
+            "derivaciones": []
+          },
+          {
+            "concepto": "recibir (obtener)",
+            "kalfirvach": "labh",
+            "forma_final": "labh",
+            "pos": "verb",
+            "ipa": "/labʱ/",
+            "origen": {
+              "lengua": "Sánscrito / Griego",
+              "raiz_original": "labh 'obtener' + lambanō 'tomar'",
+              "corpus": "Skt. Comercial / NT Mateo 7:8"
+            },
+            "transformacion": [
+              "labh + lamb → labh"
+            ],
+            "derivaciones": []
+          },
+          {
+            "concepto": "buscar (rastrear)",
+            "kalfirvach": "gavesh",
+            "forma_final": "gavesh",
+            "pos": "verb",
+            "ipa": "/ɡa.ˈveʂ/",
+            "origen": {
+              "lengua": "Sánscrito / Persa",
+              "raiz_original": "gaveṣṇa 'buscando' + gayandan 'buscar'",
+              "corpus": "Skt. Narrativa / Shahnameh"
+            },
+            "transformacion": [
+              "gaveṣ + gayand → gavesh"
+            ],
+            "derivaciones": []
+          },
+          {
+            "concepto": "calcular (procesar)",
+            "kalfirvach": "gan",
+            "forma_final": "gan",
+            "pos": "verb",
+            "ipa": "/ɡan/",
+            "origen": {
+              "lengua": "Sánscrito / Griego",
+              "raiz_original": "gaṇ 'contar' + logizomai 'calcular'",
+              "corpus": "Skt. Matemática / NT Romanos 8:18"
+            },
+            "transformacion": [
+              "gaṇ (forma base)"
+            ],
+            "derivaciones": []
+          },
+          {
+            "concepto": "analizar (examinar)",
+            "kalfirvach": "vibhaj",
+            "forma_final": "vibhaj",
+            "pos": "verb",
+            "ipa": "/vib.ʱaɟ/",
+            "origen": {
+              "lengua": "Sánscrito / Griego",
+              "raiz_original": "vibhaj 'dividir' + analyō 'analizar'",
+              "corpus": "Skt. Lógica / Aristóteles"
+            },
+            "transformacion": [
+              "vibhaj (forma base)"
+            ],
+            "derivaciones": []
+          },
+          {
+            "concepto": "imprimir (copiar)",
+            "kalfirvach": "mudr",
+            "forma_final": "mudr",
+            "pos": "verb",
+            "ipa": "/mu.dr/",
+            "origen": {
+              "lengua": "Sánscrito / Persa",
+              "raiz_original": "mudrā 'sello' + muhr 'sello'",
+              "corpus": "Skt. Administrativo / Persa Sasánida"
+            },
+            "transformacion": [
+              "mudrā → mudr"
+            ],
+            "derivaciones": []
+          },
+          {
+            "concepto": "escanear (digitalizar)",
+            "kalfirvach": "drish",
+            "forma_final": "drish",
+            "pos": "verb",
+            "ipa": "/driʂ/",
+            "origen": {
+              "lengua": "Sánscrito / Griego",
+              "raiz_original": "dṛś 'ver' + skopeō 'examinar'",
+              "corpus": "Skt. Filosófico / NT Lucas 11:35"
+            },
+            "transformacion": [
+              "dṛś + skop → drish"
+            ],
+            "derivaciones": []
+          },
+          {
+            "concepto": "encriptar (cifrar)",
+            "kalfirvach": "guh",
+            "forma_final": "guh",
+            "pos": "verb",
+            "ipa": "/ɡuh/",
+            "origen": {
+              "lengua": "Sánscrito / Persa",
+              "raiz_original": "guh 'ocultar' + nihān 'esconder'",
+              "corpus": "Skt. Místico / Sufismo"
+            },
+            "transformacion": [
+              "guh (forma base)"
+            ],
+            "derivaciones": []
+          },
+          {
+            "concepto": "herramienta, instrumento, utensilio",
+            "forma_final": "adark",
+            "kalfirvach": "adark",
+            "ipa": "/a.ˈdark/",
+            "pos": "noun",
+            "origen": {
+              "lengua": "Árabe/Persa/Griego",
+              "raiz_original": "adāh 'herramienta' (Ar) / uzgāra- 'instrumento' (Pers) / ὄργανον (órganon) 'instrumento' (Gr)",
+              "corpus": ""
+            },
+            "transformacion": [
+              "adāh (Ar) + uzgāra- (Pers) + órganon (Gr) → ad- + -ar- + -k",
+              "/d/→/d/ preservada, /g/→/k/ por §3.3 coda ensordecida",
+              "CC coda /rk/ permitida §10.3 (líquida + oclusiva sorda)"
+            ],
+            "derivaciones": []
           }
         ]
       },
@@ -16095,7 +16983,7 @@
             "derivaciones": [],
             "kalfirvach": "ghat",
             "pos": "noun",
-            "ipa": "/ɣat/"
+            "ipa": "/ˈɣat/"
           },
           {
             "kalfirvach": "ghurup",
@@ -16161,7 +17049,7 @@
             "derivaciones": [],
             "kalfirvach": "nun",
             "pos": "noun",
-            "ipa": "/nun/"
+            "ipa": "/ˈnun/"
           },
           {
             "concepto": "primavera",
@@ -16226,7 +17114,7 @@
             "derivaciones": [],
             "kalfirvach": "sap",
             "pos": "noun",
-            "ipa": "/sap/"
+            "ipa": "/ˈsap/"
           },
           {
             "concepto": "mañana (temprano)",
@@ -16343,6 +17231,112 @@
             "kalfirvach": "qápal",
             "pos": "noun",
             "ipa": "/ˈka.pal/"
+          },
+          {
+            "concepto": "domingo (día del Sol)",
+            "forma_final": "suryamera",
+            "ipa": "/su.rjaˈme.ra/",
+            "origen": {
+              "lengua": "Sanscrito/Avestan/Griego",
+              "raiz_original": "sūrya 'sol' (Skt) + hvarə 'sol' (Av) + daimera 'día' (Gr hēmera)",
+              "corpus": "Ṛgveda (sūrya) / Avesta (hvarə) / PGM (hēmera)"
+            },
+            "transformacion": [
+              "surya (sol, del léxico existente) + mera (sufijo de daimera: día-luz)"
+            ],
+            "derivaciones": [],
+            "kalfirvach": "suryamera",
+            "pos": "noun"
+          },
+          {
+            "concepto": "lunes (día de la Luna)",
+            "forma_final": "mahselmera",
+            "ipa": "/mah.selˈme.ra/",
+            "origen": {
+              "lengua": "Persa/Griego/Arabe",
+              "raiz_original": "Māh 'luna' (Pe) + Selénē 'luna' (Gr) + Hilāl 'creciente' (Ar)"
+            },
+            "transformacion": [
+              "mahsel (luna) + mera (sufijo de daimera)"
+            ],
+            "derivaciones": [],
+            "kalfirvach": "mahselmera",
+            "pos": "noun"
+          },
+          {
+            "concepto": "martes (día de Marte)",
+            "forma_final": "hermarmera",
+            "ipa": "/her.marˈme.ra/",
+            "origen": {
+              "lengua": "Egipcio/Arabe/Tibetano",
+              "raiz_original": "Herdesher 'Marte' (Eg) + Marrikh 'Marte' (Ar) + Migmar 'Marte' (Tib)"
+            },
+            "transformacion": [
+              "hermar (Marte) + mera (sufijo de daimera)"
+            ],
+            "derivaciones": [],
+            "kalfirvach": "hermarmera",
+            "pos": "noun"
+          },
+          {
+            "concepto": "miércoles (día de Mercurio)",
+            "forma_final": "thutirmera",
+            "ipa": "/θu.tirˈme.ra/",
+            "origen": {
+              "lengua": "Egipcio/Persa/Griego",
+              "raiz_original": "Djehuty 'Thoth, Mercurio' (Eg) + Tīr 'Mercurio' (Pe) + Hermês 'Mercurio' (Gr)"
+            },
+            "transformacion": [
+              "thutir (Mercurio) + mera (sufijo de daimera)"
+            ],
+            "derivaciones": [],
+            "kalfirvach": "thutirmera",
+            "pos": "noun"
+          },
+          {
+            "concepto": "jueves (día de Júpiter)",
+            "forma_final": "hormusmera",
+            "ipa": "/hor.musˈme.ra/",
+            "origen": {
+              "lengua": "Persa/Griego/Arabe",
+              "raiz_original": "Hormazd 'Júpiter' (Pe) + Zeús 'Júpiter' (Gr) + Mushtarī 'Júpiter' (Ar)"
+            },
+            "transformacion": [
+              "hormus (Júpiter) + mera (sufijo de daimera)"
+            ],
+            "derivaciones": [],
+            "kalfirvach": "hormusmera",
+            "pos": "noun"
+          },
+          {
+            "concepto": "viernes (día de Venus)",
+            "forma_final": "anzumera",
+            "ipa": "/an.zuˈme.ra/",
+            "origen": {
+              "lengua": "Persa/Arabe/Griego",
+              "raiz_original": "Anāhitā 'Venus' (Pe) + Zahrā' 'Venus' (Ar) + Phōsphóros 'lucero' (Gr)"
+            },
+            "transformacion": [
+              "anzu (Venus) + mera (sufijo de daimera)"
+            ],
+            "derivaciones": [],
+            "kalfirvach": "anzumera",
+            "pos": "noun"
+          },
+          {
+            "concepto": "sábado (día de Saturno)",
+            "forma_final": "keyzumera",
+            "ipa": "/kej.zuˈme.ra/",
+            "origen": {
+              "lengua": "Persa/Arabe/Griego",
+              "raiz_original": "Keywān 'Saturno' (Pe) + Zuḥal 'Saturno' (Ar) + Krónos 'Saturno' (Gr)"
+            },
+            "transformacion": [
+              "keyzu (Saturno) + mera (sufijo de daimera)"
+            ],
+            "derivaciones": [],
+            "kalfirvach": "keyzumera",
+            "pos": "noun"
           }
         ]
       },
@@ -16604,7 +17598,7 @@
           {
             "concepto": "músculo (tejido contráctil del cuerpo)",
             "forma_final": "mysal",
-            "ipa": "/mjsal/",
+            "ipa": "/ˈmjsal/",
             "origen": {
               "lengua": "Griego/Arabe",
               "raiz_original": "μῦς (mŷs) 'músculo' (Gr) / ʿaḍal 'músculo' (Ar)",
@@ -16902,7 +17896,7 @@
               "bahata→baha→bhat (acortamiento, convergencia con sánscrito)"
             ],
             "derivaciones": [],
-            "ipa": "/bat/"
+            "ipa": "/ˈbat/"
           },
           {
             "kalfirvach": "baya",
@@ -16953,7 +17947,7 @@
               "deq→dekh→dukh (apertura vocálica e→u por influencia sánscrita, q→kh)"
             ],
             "derivaciones": [],
-            "ipa": "/dux/"
+            "ipa": "/ˈdux/"
           },
           {
             "kalfirvach": "garp",
@@ -16970,7 +17964,7 @@
               "garuua→garva→garv (convergencia con sánscrito)"
             ],
             "derivaciones": [],
-            "ipa": "/garp/"
+            "ipa": "/ˈgarp/"
           },
           {
             "kalfirvach": "ghen",
@@ -16987,7 +17981,7 @@
               "χολή→cholē→kholē→kholē→ghol→ghen (sonorización k→g por influencia sánscrita, cambio o→e)"
             ],
             "derivaciones": [],
-            "ipa": "/ɣen/"
+            "ipa": "/ˈɣen/"
           },
           {
             "kalfirvach": "hani",
@@ -17039,7 +18033,7 @@
               "idéntico en ambas lenguas — forma panetimológica indoirania"
             ],
             "derivaciones": [],
-            "ipa": "/kam/"
+            "ipa": "/ˈkam/"
           },
           {
             "kalfirvach": "krit",
@@ -17056,7 +18050,7 @@
               "cháris→kharis→kharis→karis→kris→krit (convergencia con sánscrito, s→t por asimilación)"
             ],
             "derivaciones": [],
-            "ipa": "/krit/"
+            "ipa": "/ˈkrit/"
           },
           {
             "kalfirvach": "khet",
@@ -17073,7 +18067,7 @@
               "kēdos→kēdos→kedos→ked→khet (convergencia con sánscrito, d→t)"
             ],
             "derivaciones": [],
-            "ipa": "/xet/"
+            "ipa": "/ˈxet/"
           },
           {
             "kalfirvach": "lal",
@@ -17090,7 +18084,7 @@
               "lāl→lal (acortamiento ā→a) — convergencia parcial"
             ],
             "derivaciones": [],
-            "ipa": "/lal/"
+            "ipa": "/ˈlal/"
           },
           {
             "kalfirvach": "lash",
@@ -17107,7 +18101,7 @@
               "khajal→khaj→kha→lash (pérdida de kh-, convergencia con sánscrito, l- inicial por analogía)"
             ],
             "derivaciones": [],
-            "ipa": "/laʃ/"
+            "ipa": "/ˈlaʃ/"
           },
           {
             "kalfirvach": "maun",
@@ -17141,7 +18135,7 @@
               "idéntico en ambas lenguas — forma panetimológica indoirania"
             ],
             "derivaciones": [],
-            "ipa": "/pap/"
+            "ipa": "/ˈpap/"
           },
           {
             "kalfirvach": "prem",
@@ -17159,7 +18153,7 @@
               "Forma convergente indoirania — misma raíz protoindoeuropea *prey-"
             ],
             "derivaciones": [],
-            "ipa": "/prem/"
+            "ipa": "/ˈprem/"
           },
           {
             "kalfirvach": "rosh",
@@ -17176,7 +18170,7 @@
               "aišma→aishma→aish→rosh (metátesis y convergencia con la raíz sánscrita)"
             ],
             "derivaciones": [],
-            "ipa": "/roʃ/"
+            "ipa": "/ˈroʃ/"
           },
           {
             "kalfirvach": "santi",
@@ -17210,7 +18204,7 @@
               "śītala→shital→shil→sil (elisión de -tala, sh→s por convergencia con el griego)"
             ],
             "derivaciones": [],
-            "ipa": "/sil/"
+            "ipa": "/ˈsil/"
           },
           {
             "kalfirvach": "sukha",
@@ -17244,7 +18238,7 @@
               "shakk→shak (geminación simplificada) — convergencia completa"
             ],
             "derivaciones": [],
-            "ipa": "/ʃak/"
+            "ipa": "/ˈʃak/"
           },
           {
             "kalfirvach": "tham",
@@ -17261,7 +18255,7 @@
               "dahash→dhash→thash→tham (asibilación d→th, convergencia con el griego)"
             ],
             "derivaciones": [],
-            "ipa": "/θam/"
+            "ipa": "/ˈθam/"
           },
           {
             "kalfirvach": "vir",
@@ -17278,7 +18272,7 @@
               "idéntico en ambas lenguas — forma panetimológica indoirania"
             ],
             "derivaciones": [],
-            "ipa": "/wir/"
+            "ipa": "/ˈwir/"
           },
           {
             "kalfirvach": "vish",
@@ -17295,7 +18289,7 @@
               "pístis→pistis→pist→pish→vish (sonorización p→v por influencia sánscrita)"
             ],
             "derivaciones": [],
-            "ipa": "/wiʃ/"
+            "ipa": "/ˈwiʃ/"
           },
           {
             "kalfirvach": "chint",
@@ -17312,7 +18306,295 @@
               "chin→chint (epéntesis de -t por influencia sánscrita)"
             ],
             "derivaciones": [],
-            "ipa": "/tʃint/"
+            "ipa": "/ˈtʃint/"
+          },
+          {
+            "concepto": "amar",
+            "forma_final": "preman",
+            "kalfirvach": "preman",
+            "pos": "verb",
+            "origen": {
+              "lengua": "Sánscrito/Griego",
+              "raiz_original": "preman 'amor' / phileō 'amar'",
+              "corpus": "Skt. Léxico / Gr. NT"
+            },
+            "transformacion": [
+              "Directo, nasal final"
+            ],
+            "derivaciones": [],
+            "ipa": "/ˈpre.man/"
+          },
+          {
+            "concepto": "odiar",
+            "forma_final": "dvesh",
+            "kalfirvach": "dvesh",
+            "pos": "verb",
+            "origen": {
+              "lengua": "Sánscrito/Griego",
+              "raiz_original": "dviṣ 'odiar' / miseō 'odiar'",
+              "corpus": "Skt. Léxico / Gr. Clásico"
+            },
+            "transformacion": [
+              "dviṣ → dvesh (guṇa + s→sh)"
+            ],
+            "derivaciones": [],
+            "ipa": "/ˈdveʃ/"
+          },
+          {
+            "concepto": "temer",
+            "forma_final": "bhay",
+            "kalfirvach": "bhay",
+            "pos": "verb",
+            "origen": {
+              "lengua": "Sánscrito/Griego",
+              "raiz_original": "bhī 'temer' / phobéomai 'tener miedo'",
+              "corpus": "Skt. Léxico / Gr. NT"
+            },
+            "transformacion": [
+              "bhī → bhay (diptongación)"
+            ],
+            "derivaciones": [],
+            "ipa": "/bʱaj/"
+          },
+          {
+            "concepto": "esperar",
+            "forma_final": "āsh",
+            "kalfirvach": "āsh",
+            "pos": "verb",
+            "origen": {
+              "lengua": "Sánscrito/Persa",
+              "raiz_original": "āśā 'esperanza' / ummid 'esperanza'",
+              "corpus": "Skt. Léxico / Pers. Clásico"
+            },
+            "transformacion": [
+              "āśā → āsh (acortamiento)"
+            ],
+            "derivaciones": [],
+            "ipa": "/ɑːʃ/"
+          },
+          {
+            "concepto": "desear",
+            "forma_final": "kām",
+            "kalfirvach": "kām",
+            "pos": "verb",
+            "origen": {
+              "lengua": "Sánscrito/Griego",
+              "raiz_original": "kāma 'deseo' / epithymía 'deseo'",
+              "corpus": "Skt. Léxico / Gr. Filosófico"
+            },
+            "transformacion": [
+              "kāma → kām (apócope)"
+            ],
+            "derivaciones": [],
+            "ipa": "/kɑːm/"
+          },
+          {
+            "concepto": "lamentar",
+            "forma_final": "shok",
+            "kalfirvach": "shok",
+            "pos": "verb",
+            "origen": {
+              "lengua": "Sánscrito/Griego",
+              "raiz_original": "śoka 'pesar' / penthéō 'lamentar'",
+              "corpus": "Skt. Léxico / Gr. Tragedia"
+            },
+            "transformacion": [
+              "śoka → shok (apócope, s→sh)"
+            ],
+            "derivaciones": [],
+            "ipa": "/ʃok/"
+          },
+          {
+            "concepto": "arrepentirse",
+            "forma_final": "metan",
+            "kalfirvach": "metan",
+            "pos": "verb",
+            "origen": {
+              "lengua": "Griego/Sánscrito",
+              "raiz_original": "metánoia 'arrepentimiento' / tap 'sufrir'",
+              "corpus": "Gr. NT / Skt. Léxico"
+            },
+            "transformacion": [
+              "metánoia → metan (acortamiento)"
+            ],
+            "derivaciones": [],
+            "ipa": "/me.ˈtan/"
+          },
+          {
+            "concepto": "perdonar",
+            "forma_final": "ksham",
+            "kalfirvach": "ksham",
+            "pos": "verb",
+            "origen": {
+              "lengua": "Sánscrito/Griego",
+              "raiz_original": "kṣam 'perdonar' / syngignṓskō 'perdonar'",
+              "corpus": "Skt. Léxico / Gr. NT"
+            },
+            "transformacion": [
+              "Directo, cluster kṣ → ksh"
+            ],
+            "derivaciones": [],
+            "ipa": "/kʂam/"
+          },
+          {
+            "concepto": "confiar",
+            "forma_final": "vishwās",
+            "kalfirvach": "vishwās",
+            "pos": "verb",
+            "origen": {
+              "lengua": "Sánscrito/Persa",
+              "raiz_original": "viśvāsa 'confianza' / bāvar 'creer'",
+              "corpus": "Skt. Léxico / Pers. Clásico"
+            },
+            "transformacion": [
+              "viśvāsa → vishwās (elisión vocal final)"
+            ],
+            "derivaciones": [],
+            "ipa": "/viʃ.ˈwɑːs/"
+          },
+          {
+            "concepto": "dudar",
+            "forma_final": "sandeh",
+            "kalfirvach": "sandeh",
+            "pos": "verb",
+            "origen": {
+              "lengua": "Sánscrito/Griego",
+              "raiz_original": "sandeha 'duda' / distázō 'dudar'",
+              "corpus": "Skt. Léxico / Gr. Clásico"
+            },
+            "transformacion": [
+              "sandeha → sandeh (apócope)"
+            ],
+            "derivaciones": [],
+            "ipa": "/san.ˈdeh/"
+          },
+          {
+            "concepto": "admirar",
+            "forma_final": "admir",
+            "kalfirvach": "admir",
+            "pos": "verb",
+            "origen": {
+              "lengua": "Latín/Sánscrito",
+              "raiz_original": "admirari 'admirar' / smi 'sonreír/asombrarse'",
+              "corpus": "Lat. Clásico / Skt. Léxico"
+            },
+            "transformacion": [
+              "admirari → admir (apócope)"
+            ],
+            "derivaciones": [],
+            "ipa": "/ad.ˈmir/"
+          },
+          {
+            "concepto": "despreciar",
+            "forma_final": "tirask",
+            "kalfirvach": "tirask",
+            "pos": "verb",
+            "origen": {
+              "lengua": "Sánscrito/Griego",
+              "raiz_original": "tiras 'desprecio' / exouthenéō 'despreciar'",
+              "corpus": "Skt. Léxico / Gr. NT"
+            },
+            "transformacion": [
+              "tiras → tirask (epéntesis -k final)"
+            ],
+            "derivaciones": [],
+            "ipa": "/ti.ˈrask/"
+          },
+          {
+            "concepto": "envidiar",
+            "forma_final": "irsh",
+            "kalfirvach": "irsh",
+            "pos": "verb",
+            "origen": {
+              "lengua": "Sánscrito/Griego",
+              "raiz_original": "īrṣyā 'envidia' / phthonéō 'envidiar'",
+              "corpus": "Skt. Léxico / Gr. Clásico"
+            },
+            "transformacion": [
+              "īrṣyā → irsh (simplificación)"
+            ],
+            "derivaciones": [],
+            "ipa": "/ˈiːrʃ/"
+          },
+          {
+            "concepto": "celebrar",
+            "forma_final": "utsar",
+            "kalfirvach": "utsar",
+            "pos": "verb",
+            "origen": {
+              "lengua": "Sánscrito/Griego",
+              "raiz_original": "utsava 'festival' / chará 'alegría'",
+              "corpus": "Skt. Léxico / Gr. NT"
+            },
+            "transformacion": [
+              "utsava → utsar (cambio sufijo)"
+            ],
+            "derivaciones": [],
+            "ipa": "/ˈut.sar/"
+          },
+          {
+            "concepto": "avergonzarse",
+            "forma_final": "laj",
+            "kalfirvach": "laj",
+            "pos": "verb",
+            "origen": {
+              "lengua": "Sánscrito/Griego",
+              "raiz_original": "lajjā 'vergüenza' / aischýnomai 'avergonzarse'",
+              "corpus": "Skt. Léxico / Gr. Clásico"
+            },
+            "transformacion": [
+              "lajjā → laj (apócope, ensordecimiento implícito)"
+            ],
+            "derivaciones": [],
+            "ipa": "/latʃ/"
+          },
+          {
+            "concepto": "enorgullecerse",
+            "forma_final": "garb",
+            "kalfirvach": "garb",
+            "pos": "verb",
+            "origen": {
+              "lengua": "Sánscrito/Griego",
+              "raiz_original": "garva 'orgullo' / kaucháomai 'gloriarse'",
+              "corpus": "Skt. Léxico / Gr. NT"
+            },
+            "transformacion": [
+              "garva → garb (apócope, ensordecimiento implícito)"
+            ],
+            "derivaciones": [],
+            "ipa": "/ɡarp/"
+          },
+          {
+            "concepto": "sorprenderse",
+            "forma_final": "vismay",
+            "kalfirvach": "vismay",
+            "pos": "verb",
+            "origen": {
+              "lengua": "Sánscrito/Griego",
+              "raiz_original": "vismaya 'sorpresa' / thaumázō 'admirarse'",
+              "corpus": "Skt. Léxico / Gr. Clásico"
+            },
+            "transformacion": [
+              "vismaya → vismay (apócope)"
+            ],
+            "derivaciones": [],
+            "ipa": "/vis.ˈmaj/"
+          },
+          {
+            "concepto": "anhelar",
+            "forma_final": "virah",
+            "kalfirvach": "virah",
+            "pos": "verb",
+            "origen": {
+              "lengua": "Sánscrito/Griego",
+              "raiz_original": "viraha 'separación/anhelo' / póthos 'añoranza'",
+              "corpus": "Skt. Léxico / Gr. Clásico"
+            },
+            "transformacion": [
+              "viraha → virah (apócope)"
+            ],
+            "derivaciones": [],
+            "ipa": "/vi.ˈrah/"
           }
         ]
       },
@@ -17384,7 +18666,7 @@
               "biryān → biryan → briy → briz (pérdida de -an)"
             ],
             "derivaciones": [],
-            "ipa": "/bris/"
+            "ipa": "/ˈbris/"
           },
           {
             "kalfirvach": "dal",
@@ -17401,7 +18683,7 @@
               "dāl → dal (acortamiento ā→a) — convergencia panetimológica"
             ],
             "derivaciones": [],
-            "ipa": "/dal/"
+            "ipa": "/ˈdal/"
           },
           {
             "kalfirvach": "digh",
@@ -17418,7 +18700,7 @@
               "qidr → qidr → qid → digh (convergencia, sonorización q→g)"
             ],
             "derivaciones": [],
-            "ipa": "/dix/"
+            "ipa": "/ˈdix/"
           },
           {
             "concepto": "desayuno (primera comida del día)",
@@ -17483,7 +18765,7 @@
               "kṣudh → kshudh → kshud → jos (pérdida del cluster ksh-)"
             ],
             "derivaciones": [],
-            "ipa": "/jos/"
+            "ipa": "/ˈjos/"
           },
           {
             "concepto": "canela (especia aromática, corteza del cinamomo)",
@@ -17551,7 +18833,7 @@
               "akala → aka → ak → khā (convergencia con el sánscrito)"
             ],
             "derivaciones": [],
-            "ipa": "/xaː/"
+            "ipa": "/ˈxaː/"
           },
           {
             "kalfirvach": "lapan",
@@ -17618,7 +18900,7 @@
               "zabadī → zaba → mast (convergencia)"
             ],
             "derivaciones": [],
-            "ipa": "/mast/"
+            "ipa": "/ˈmast/"
           },
           {
             "kalfirvach": "mayan",
@@ -17703,7 +18985,7 @@
               "πέσσω → pessō → pes → pakh (convergencia con el sánscrito)"
             ],
             "derivaciones": [],
-            "ipa": "/pax/"
+            "ipa": "/ˈpax/"
           },
           {
             "kalfirvach": "patar",
@@ -17739,7 +19021,7 @@
               "§10.3 fix: rizq→risk (z→s, /sk/ coda válida §10.3)"
             ],
             "derivaciones": [],
-            "ipa": "/risk/"
+            "ipa": "/ˈrisk/"
           },
           {
             "concepto": "azúcar (sacarosa, edulcorante cristalino)",
@@ -17758,8 +19040,8 @@
             "pos": "noun"
           },
           {
-            "kalfirvach": "sapsa",
-            "forma_final": "sapsa",
+            "kalfirvach": "sapdar",
+            "forma_final": "sapdar",
             "concepto": "verdura, vegetal, hortaliza, legumbre verde",
             "pos": "noun",
             "origen": {
@@ -17790,7 +19072,7 @@
               "γεῦσις → geusis → gheus → swad (convergencia, s- inicial por analogía sánscrita)"
             ],
             "derivaciones": [],
-            "ipa": "/swat/"
+            "ipa": "/ˈswat/"
           },
           {
             "kalfirvach": "shahat",
@@ -17876,7 +19158,7 @@
               "ẓama' → zama → zaa → tesh (convergencia con el persa)"
             ],
             "derivaciones": [],
-            "ipa": "/teʃ/"
+            "ipa": "/ˈteʃ/"
           },
           {
             "kalfirvach": "zayat",
@@ -17927,7 +19209,247 @@
               "čāqū → chāqū → chā → chur (convergencia con el sánscrito)"
             ],
             "derivaciones": [],
-            "ipa": "/tʃur/"
+            "ipa": "/ˈtʃur/"
+          },
+          {
+            "concepto": "hervir",
+            "kalfirvach": "kvathel",
+            "forma_final": "kvathel",
+            "pos": "verb",
+            "ipa": "/ˈkva.tʰel/",
+            "origen": {
+              "lengua": "Sánscrito/Griego",
+              "raiz_original": "kvathati 'hervir' + zéō 'hervir'",
+              "corpus": "Skt. Médicos / Gr. Recetarios"
+            },
+            "transformacion": [
+              "Adaptación directa"
+            ],
+            "derivaciones": []
+          },
+          {
+            "concepto": "hornear",
+            "kalfirvach": "pakar",
+            "forma_final": "pakar",
+            "pos": "verb",
+            "ipa": "/ˈpa.kar/",
+            "origen": {
+              "lengua": "Sánscrito/Persa",
+              "raiz_original": "pacati 'cocinar' + pukhtan 'cocer'",
+              "corpus": "Skt. Clásico / Persa Medio"
+            },
+            "transformacion": [
+              "Convergencia PAC"
+            ],
+            "derivaciones": []
+          },
+          {
+            "concepto": "mezclar",
+            "kalfirvach": "misal",
+            "forma_final": "misal",
+            "pos": "verb",
+            "ipa": "/ˈmi.sal/",
+            "origen": {
+              "lengua": "Sánscrito/Griego",
+              "raiz_original": "miśrayati 'mezclar' + mignymi 'mezclar'",
+              "corpus": "Skt. Clásico / Gr. Antiguo"
+            },
+            "transformacion": [
+              "miśra→misa"
+            ],
+            "derivaciones": []
+          },
+          {
+            "concepto": "cortar",
+            "kalfirvach": "kiras",
+            "forma_final": "kiras",
+            "pos": "verb",
+            "ipa": "/ˈki.ras/",
+            "origen": {
+              "lengua": "Sánscrito/Griego",
+              "raiz_original": "kṛntati 'cortar' + keírō 'cortar'",
+              "corpus": "Skt. Védico / Gr. Homérico"
+            },
+            "transformacion": [
+              "kṛt→kir"
+            ],
+            "derivaciones": []
+          },
+          {
+            "concepto": "pelar",
+            "kalfirvach": "tuvakar",
+            "forma_final": "tuvakar",
+            "pos": "verb",
+            "ipa": "/tu.ˈva.kar/",
+            "origen": {
+              "lengua": "Sánscrito/Griego",
+              "raiz_original": "tvac 'piel' + derma 'piel'",
+              "corpus": "Skt. Clásico / Gr. Antiguo"
+            },
+            "transformacion": [
+              "tvac→tuva (epéntesis)"
+            ],
+            "derivaciones": []
+          },
+          {
+            "concepto": "rallar",
+            "kalfirvach": "kharit",
+            "forma_final": "kharit",
+            "pos": "verb",
+            "ipa": "/ˈkʰa.rit/",
+            "origen": {
+              "lengua": "Sánscrito/Griego",
+              "raiz_original": "kharati 'rascar' + xéō 'raspar'",
+              "corpus": "Skt. Clásico / Gr. Antiguo"
+            },
+            "transformacion": [
+              "Ensordecimiento coda d→t"
+            ],
+            "derivaciones": []
+          },
+          {
+            "concepto": "batir",
+            "kalfirvach": "mathel",
+            "forma_final": "mathel",
+            "pos": "verb",
+            "ipa": "/ˈma.tʰel/",
+            "origen": {
+              "lengua": "Sánscrito/Griego",
+              "raiz_original": "mathnāti 'batir' + tarássō 'agitar'",
+              "corpus": "Skt. Clásico / Gr. Antiguo"
+            },
+            "transformacion": [
+              "math→mathe"
+            ],
+            "derivaciones": []
+          },
+          {
+            "concepto": "amasar",
+            "kalfirvach": "mardar",
+            "forma_final": "mardar",
+            "pos": "verb",
+            "ipa": "/ˈmar.dar/",
+            "origen": {
+              "lengua": "Sánscrito/Griego",
+              "raiz_original": "mardati 'amasar' + mássō 'amasar'",
+              "corpus": "Skt. Clásico / Gr. Antiguo"
+            },
+            "transformacion": [
+              "mard→mardar"
+            ],
+            "derivaciones": []
+          },
+          {
+            "concepto": "fermentar",
+            "kalfirvach": "suray",
+            "forma_final": "suray",
+            "pos": "verb",
+            "ipa": "/su.ˈraj/",
+            "origen": {
+              "lengua": "Sánscrito/Griego",
+              "raiz_original": "sura 'licor fermentado' + zytós 'levadura'",
+              "corpus": "Skt. Clásico / Gr. Antiguo"
+            },
+            "transformacion": [
+              "sura+zyp→suray"
+            ],
+            "derivaciones": []
+          },
+          {
+            "concepto": "marinar",
+            "kalfirvach": "lunik",
+            "forma_final": "lunik",
+            "pos": "verb",
+            "ipa": "/ˈlu.nik/",
+            "origen": {
+              "lengua": "Sánscrito/Griego",
+              "raiz_original": "lavana 'sal' + háls 'sal'",
+              "corpus": "Skt. Clásico / Gr. Antiguo"
+            },
+            "transformacion": [
+              "lav+lun→lunik"
+            ],
+            "derivaciones": []
+          },
+          {
+            "concepto": "glasear",
+            "kalfirvach": "ghrisay",
+            "forma_final": "ghrisay",
+            "pos": "verb",
+            "ipa": "/ˈɣri.saj/",
+            "origen": {
+              "lengua": "Sánscrito/Griego",
+              "raiz_original": "ghṛta 'grasa/mantequilla' + chrísma 'ungüento'",
+              "corpus": "Skt. Clásico / Gr. Antiguo"
+            },
+            "transformacion": [
+              "ghr→ghri"
+            ],
+            "derivaciones": []
+          },
+          {
+            "concepto": "escaldar",
+            "kalfirvach": "dahul",
+            "forma_final": "dahul",
+            "pos": "verb",
+            "ipa": "/ˈda.hul/",
+            "origen": {
+              "lengua": "Sánscrito/Persa",
+              "raiz_original": "dahati 'quemar' + dāgh 'marca de quemadura'",
+              "corpus": "Skt. Clásico / Persa Medio"
+            },
+            "transformacion": [
+              "dah+dag→dahul"
+            ],
+            "derivaciones": []
+          },
+          {
+            "concepto": "pochar",
+            "kalfirvach": "manday",
+            "forma_final": "manday",
+            "pos": "verb",
+            "ipa": "/man.ˈdaj/",
+            "origen": {
+              "lengua": "Sánscrito/Griego",
+              "raiz_original": "mandam 'líquido suave' + bradýs 'lento'",
+              "corpus": "Skt. Clásico / Gr. Antiguo"
+            },
+            "transformacion": [
+              "mand+bra→manday"
+            ],
+            "derivaciones": []
+          },
+          {
+            "concepto": "saltear",
+            "kalfirvach": "plavas",
+            "forma_final": "plavas",
+            "pos": "verb",
+            "ipa": "/ˈpla.vas/",
+            "origen": {
+              "lengua": "Sánscrito/Griego",
+              "raiz_original": "plavate 'flotar/saltar' + hallomai 'saltar'",
+              "corpus": "Skt. Clásico / Gr. Antiguo"
+            },
+            "transformacion": [
+              "plav+hal→plavas"
+            ],
+            "derivaciones": []
+          },
+          {
+            "concepto": "gratinar",
+            "kalfirvach": "zarik",
+            "forma_final": "zarik",
+            "pos": "verb",
+            "ipa": "/ˈza.rik/",
+            "origen": {
+              "lengua": "Persa/Sánscrito",
+              "raiz_original": "zar 'oro' + svarṇa 'oro'",
+              "corpus": "Persa Medio / Skt. Clásico"
+            },
+            "transformacion": [
+              "zar+svar→zarik"
+            ],
+            "derivaciones": []
           }
         ]
       },
@@ -17949,7 +19471,7 @@
               "dvāra → dvara → dvar → bab (simplificación del cluster dv-, convergencia)"
             ],
             "derivaciones": [],
-            "ipa": "/bap/"
+            "ipa": "/ˈbap/"
           },
           {
             "kalfirvach": "bashk",
@@ -17966,7 +19488,7 @@
               "vāṭikā → vatika → vatik → bashk (convergencia)"
             ],
             "derivaciones": [],
-            "ipa": "/baʃk/"
+            "ipa": "/ˈbaʃk/"
           },
           {
             "concepto": "altar (estructura elevada para ofrendas rituales)",
@@ -17999,7 +19521,7 @@
               "πέδον → pedon → ped → bhum (convergencia)"
             ],
             "derivaciones": [],
-            "ipa": "/bum/"
+            "ipa": "/ˈbum/"
           },
           {
             "kalfirvach": "burja",
@@ -18034,7 +19556,7 @@
               "damāna → damān → dam → dar (convergencia con el árabe)"
             ],
             "derivaciones": [],
-            "ipa": "/dar/"
+            "ipa": "/ˈdar/"
           },
           {
             "kalfirvach": "divar",
@@ -18201,7 +19723,7 @@
               "khaṇḍa → khanda → khand (elisión de -a)"
             ],
             "derivaciones": [],
-            "ipa": "/xant/"
+            "ipa": "/ˈxant/"
           },
           {
             "concepto": "cocina (espacio o estancia para preparar alimentos)",
@@ -18234,7 +19756,7 @@
               "mīz → miz (acortamiento ī→i)"
             ],
             "derivaciones": [],
-            "ipa": "/mis/"
+            "ipa": "/ˈmis/"
           },
           {
             "kalfirvach": "nak",
@@ -18251,7 +19773,7 @@
               "binā' → bina → bin → nag (convergencia con el sánscrito)"
             ],
             "derivaciones": [],
-            "ipa": "/nak/"
+            "ipa": "/ˈnak/"
           },
           {
             "concepto": "templo (edificio sagrado para el culto)",
@@ -18317,7 +19839,7 @@
               "jisr → jisr → jis → pul (convergencia)"
             ],
             "derivaciones": [],
-            "ipa": "/pul/"
+            "ipa": "/ˈpul/"
           },
           {
             "kalfirvach": "sanduq",
@@ -18404,7 +19926,7 @@
               "λύχνος → lychnos → lykhn → sham (convergencia)"
             ],
             "derivaciones": [],
-            "ipa": "/ʃam/"
+            "ipa": "/ˈʃam/"
           },
           {
             "kalfirvach": "shar",
@@ -18421,7 +19943,7 @@
               "rāh → rah → rā → shar (convergencia)"
             ],
             "derivaciones": [],
-            "ipa": "/ʃar/"
+            "ipa": "/ˈʃar/"
           },
           {
             "kalfirvach": "shubak",
@@ -18473,6 +19995,25 @@
             ],
             "derivaciones": [],
             "ipa": "/ˈka.sar/"
+          },
+          {
+            "kalfirvach": "makhērshilp",
+            "forma_final": "makhērshilp",
+            "concepto": "laboratorio (sala de investigación científica, experimentación y análisis)",
+            "pos": "noun",
+            "origen": {
+              "lengua": "Arabe/Griego/Sanscrito",
+              "raiz_original": "مَخْدة (makhda) 'cámara privada, lugar secreto' (Ar) / ἔργον (ergon) 'trabajo, función, obra' (Gr) / शिल्प (śilpa) 'habilidad, ciencia, artesanía' (Skt)",
+              "corpus": "Textos de Ilm al-Huruf (Árabe esotérico) / Corpus Hermeticum (Griego) / Mantraśāstra (Sánscrito)"
+            },
+            "transformacion": [
+              "makhda → makh- (síncopa: -da → Ø, preservación de la raíz triconsonántica m-x-d)",
+              "ergon → -ēr- (síncopa: -gon → Ø, vocal larga ē preservada por posición acentuada §2.1.b)",
+              "śilpa → -shilp- (asibilación ś→sh, preservación de -lp- como coda válida §10.3: líquida+oclusiva)",
+              "Composición: makh + ēr + shilp → makhērshilp (3 sílabas: CVC.CVCC.CVCC)"
+            ],
+            "derivaciones": [],
+            "ipa": "/mak.heːr.ʃilp/"
           }
         ]
       },
@@ -18557,7 +20098,7 @@
             "derivaciones": [],
             "kalfirvach": "hál",
             "pos": "interjection",
-            "ipa": "/hal/"
+            "ipa": "/ˈhal/"
           },
           {
             "concepto": "he aquí (atención visual, demostración)",
@@ -18594,7 +20135,7 @@
           {
             "concepto": "no (negación, rechazo)",
             "forma_final": "la",
-            "ipa": "/la/",
+            "ipa": "/ˈla/",
             "origen": {
               "lengua": "Arabe/Hebreo/Avestan",
               "raiz_original": "lā 'no' (Ar) / lōʾ 'no' (Heb) / naē 'no' (Av)",
@@ -18610,7 +20151,7 @@
           {
             "concepto": "sí (afirmación, asentimiento)",
             "forma_final": "nam",
-            "ipa": "/nam/",
+            "ipa": "/ˈnam/",
             "origen": {
               "lengua": "Griego/Arabe/Sanscrito",
               "raiz_original": "ναί (naí) 'sí' (Gr) / na'am 'sí' (Ar) / āma 'sí' (Skt)",
@@ -18674,7 +20215,7 @@
           {
             "concepto": "¡oh! (asombro, vocativo admirativo)",
             "forma_final": "ya",
-            "ipa": "/ja/",
+            "ipa": "/ˈja/",
             "origen": {
               "lengua": "Arabe/Hebreo/Griego",
               "raiz_original": "yā '¡oh!' (Ar) / hôy '¡ay! ¡oh!' (Heb) / ὦ (ō) '¡oh!' (Gr)",
@@ -18705,7 +20246,8 @@
               ]
             },
             "ipa": "/ˈwan.xa/",
-            "kalfirvach": "vankha"
+            "kalfirvach": "vankha",
+            "pos": "noun"
           },
           {
             "forma_final": "vargha",
@@ -18719,7 +20261,8 @@
               ]
             },
             "ipa": "/ˈwar.ɣa/",
-            "kalfirvach": "vargha"
+            "kalfirvach": "vargha",
+            "pos": "noun"
           },
           {
             "forma_final": "thalur",
@@ -18732,7 +20275,9 @@
                 "dhā (धा) 'sostener, contener' (Sánscrito)"
               ]
             },
-            "ipa": "/ˈθa.lur/"
+            "ipa": "/ˈθa.lur/",
+            "pos": "noun",
+            "kalfirvach": "thalur"
           },
           {
             "forma_final": "kharnu",
@@ -18745,7 +20290,9 @@
                 "sde (སྡེ) 'núcleo, conjunto' (Tibetano)"
               ]
             },
-            "ipa": "/ˈxar.nu/"
+            "ipa": "/ˈxar.nu/",
+            "pos": "noun",
+            "kalfirvach": "kharnu"
           },
           {
             "forma_final": "pilakh",
@@ -18758,7 +20305,9 @@
                 "parṇa (पर्ण) 'hoja, capa' (Sánscrito)"
               ]
             },
-            "ipa": "/ˈpi.lax/"
+            "ipa": "/ˈpi.lax/",
+            "pos": "noun",
+            "kalfirvach": "pilakh"
           },
           {
             "forma_final": "wastu",
@@ -18771,7 +20320,9 @@
                 "οὐσία (ousía) 'sustancia' (Griego)"
               ]
             },
-            "ipa": "/ˈwas.tu/"
+            "ipa": "/ˈwas.tu/",
+            "pos": "noun",
+            "kalfirvach": "wastu"
           },
           {
             "forma_final": "nargha",
@@ -18784,7 +20335,9 @@
                 "ἔργον (ergon) 'trabajo, función' (Griego)"
               ]
             },
-            "ipa": "/ˈnar.ɣa/"
+            "ipa": "/ˈnar.ɣa/",
+            "pos": "noun",
+            "kalfirvach": "nargha"
           },
           {
             "forma_final": "dikha",
@@ -18797,7 +20350,9 @@
                 "δίπτυον (díptyon) 'doble pliegue' (Griego)"
               ]
             },
-            "ipa": "/ˈdi.xa/"
+            "ipa": "/ˈdi.xa/",
+            "pos": "noun",
+            "kalfirvach": "dikha"
           },
           {
             "forma_final": "shanik",
@@ -18810,7 +20365,9 @@
                 "sabik (سَبِيل) 'fibra' (Árabe)"
               ]
             },
-            "ipa": "/ˈʃa.nik/"
+            "ipa": "/ˈʃa.nik/",
+            "pos": "noun",
+            "kalfirvach": "shanik"
           },
           {
             "forma_final": "rimash",
@@ -18823,7 +20380,9 @@
                 "mad- (mad-) 'medio' (Avéstico)"
               ]
             },
-            "ipa": "/ˈri.maʃ/"
+            "ipa": "/ˈri.maʃ/",
+            "pos": "noun",
+            "kalfirvach": "rimash"
           },
           {
             "forma_final": "yukar",
@@ -18836,7 +20395,9 @@
                 "yuj (युज) 'unir, vincular' (Sánscrito)"
               ]
             },
-            "ipa": "/ˈju.kar/"
+            "ipa": "/ˈju.kar/",
+            "pos": "noun",
+            "kalfirvach": "yukar"
           },
           {
             "forma_final": "wahna",
@@ -18849,7 +20410,9 @@
                 "nāḍī (नाडी) 'canal, hilo' (Sánscrito)"
               ]
             },
-            "ipa": "/ˈwah.na/"
+            "ipa": "/ˈwah.na/",
+            "pos": "noun",
+            "kalfirvach": "wahna"
           },
           {
             "forma_final": "rahna",
@@ -18862,7 +20425,9 @@
                 "ῥοή (rhoḗ) 'flujo' (Griego)"
               ]
             },
-            "ipa": "/ˈrah.na/"
+            "ipa": "/ˈrah.na/",
+            "pos": "noun",
+            "kalfirvach": "rahna"
           },
           {
             "forma_final": "parna",
@@ -18875,7 +20440,9 @@
                 "parṇa (पर्ण) 'hoja, capa' (Sánscrito)"
               ]
             },
-            "ipa": "/ˈpar.na/"
+            "ipa": "/ˈpar.na/",
+            "pos": "noun",
+            "kalfirvach": "parna"
           },
           {
             "forma_final": "warakh",
@@ -18888,7 +20455,9 @@
                 "harāq (حَرَق) 'activar, encender' (Árabe)"
               ]
             },
-            "ipa": "/ˈwa.rax/"
+            "ipa": "/ˈwa.rax/",
+            "pos": "noun",
+            "kalfirvach": "warakh"
           },
           {
             "forma_final": "dimash",
@@ -18901,7 +20470,9 @@
                 "wr (𓂝𓂋) 'muralla' (Egipcio)"
               ]
             },
-            "ipa": "/ˈdi.maʃ/"
+            "ipa": "/ˈdi.maʃ/",
+            "pos": "noun",
+            "kalfirvach": "dimash"
           },
           {
             "forma_final": "sukah",
@@ -18914,7 +20485,9 @@
                 "κοῖλος (koîlos) 'hueco' (Griego)"
               ]
             },
-            "ipa": "/ˈsu.kah/"
+            "ipa": "/ˈsu.kah/",
+            "pos": "noun",
+            "kalfirvach": "sukah"
           },
           {
             "forma_final": "hiama",
@@ -18927,7 +20500,9 @@
                 "thag (ཐག) 'hebra, fibra' (Tibetano)"
               ]
             },
-            "ipa": "/ˈhi.a.ma/"
+            "ipa": "/ˈhi.a.ma/",
+            "pos": "noun",
+            "kalfirvach": "hiama"
           },
           {
             "forma_final": "mikhel",
@@ -18940,7 +20515,9 @@
                 "mūš (mūš) 'ratón' (Avéstico)"
               ]
             },
-            "ipa": "/ˈmi.xel/"
+            "ipa": "/ˈmi.xel/",
+            "pos": "noun",
+            "kalfirvach": "mikhel"
           },
           {
             "forma_final": "sarakh",
@@ -18953,7 +20530,9 @@
                 "abr (أَبْر) 'semilla, grano' (Árabe)"
               ]
             },
-            "ipa": "/ˈsa.rax/"
+            "ipa": "/ˈsa.rax/",
+            "pos": "noun",
+            "kalfirvach": "sarakh"
           },
           {
             "forma_final": "pikar",
@@ -18966,7 +20545,9 @@
                 "zhwa (ཞྭ) 'sombrero' (Tibetano)"
               ]
             },
-            "ipa": "/ˈpi.kar/"
+            "ipa": "/ˈpi.kar/",
+            "pos": "noun",
+            "kalfirvach": "pikar"
           },
           {
             "forma_final": "tishta",
@@ -18979,7 +20560,9 @@
                 "ka-ba (ཀ་པ) 'pilar' (Tibetano)"
               ]
             },
-            "ipa": "/ˈtiʃ.ta/"
+            "ipa": "/ˈtiʃ.ta/",
+            "pos": "noun",
+            "kalfirvach": "tishta"
           },
           {
             "forma_final": "lamannu",
@@ -18992,7 +20575,9 @@
                 "mn (𓇋𓅓) 'placa, tabla' (Egipcio)"
               ]
             },
-            "ipa": "/ˈla.man.nu/"
+            "ipa": "/ˈla.man.nu/",
+            "pos": "noun",
+            "kalfirvach": "lamannu"
           },
           {
             "forma_final": "bari",
@@ -19005,7 +20590,9 @@
                 "bāz- (bāz-) 'base, cimiento' (Avéstico)"
               ]
             },
-            "ipa": "/ˈba.ri/"
+            "ipa": "/ˈba.ri/",
+            "pos": "noun",
+            "kalfirvach": "bari"
           },
           {
             "forma_final": "ashka",
@@ -19018,7 +20605,9 @@
                 "sbu (སྦུ) 'odre, vejiga' (Tibetano)"
               ]
             },
-            "ipa": "/ˈaʃ.ka/"
+            "ipa": "/ˈaʃ.ka/",
+            "pos": "noun",
+            "kalfirvach": "ashka"
           },
           {
             "forma_final": "koni",
@@ -19031,7 +20620,9 @@
                 "kūṇa (कूण) 'polvo' (Sánscrito)"
               ]
             },
-            "ipa": "/ˈko.ni/"
+            "ipa": "/ˈko.ni/",
+            "pos": "noun",
+            "kalfirvach": "koni"
           },
           {
             "forma_final": "rishakh",
@@ -19044,7 +20635,9 @@
                 "raz- (raz-) 'raíz' (Avéstico)"
               ]
             },
-            "ipa": "/ˈri.ʃax/"
+            "ipa": "/ˈri.ʃax/",
+            "pos": "noun",
+            "kalfirvach": "rishakh"
           },
           {
             "forma_final": "sharu",
@@ -19057,7 +20650,9 @@
                 "skr (𓋴𓎡𓂋) 'endurecer' (Egipcio)"
               ]
             },
-            "ipa": "/ˈʃa.ru/"
+            "ipa": "/ˈʃa.ru/",
+            "pos": "noun",
+            "kalfirvach": "sharu"
           },
           {
             "forma_final": "miukhel",
@@ -19070,7 +20665,9 @@
                 "myul (མཉུལ) 'entrelazarse' + rigs (རིགས) 'linaje' (Tibetano)"
               ]
             },
-            "ipa": "/ˈmi.u.xel/"
+            "ipa": "/ˈmi.u.xel/",
+            "pos": "noun",
+            "kalfirvach": "miukhel"
           },
           {
             "forma_final": "seshu",
@@ -19083,7 +20680,9 @@
                 "sadd (سَدّ) 'barrera, tabique' (Árabe)"
               ]
             },
-            "ipa": "/ˈse.ʃu/"
+            "ipa": "/ˈse.ʃu/",
+            "pos": "noun",
+            "kalfirvach": "seshu"
           },
           {
             "forma_final": "kalama",
@@ -19096,7 +20695,9 @@
                 "khram (ཁྲམ) 'abrazadera' (Tibetano)"
               ]
             },
-            "ipa": "/ˈka.la.ma/"
+            "ipa": "/ˈka.la.ma/",
+            "pos": "noun",
+            "kalfirvach": "kalama"
           },
           {
             "forma_final": "sanku",
@@ -19109,7 +20710,9 @@
                 "sparśa (स्पर्श) + anga (अङ्ग) 'miembro' (Sánscrito)"
               ]
             },
-            "ipa": "/ˈsan.ku/"
+            "ipa": "/ˈsan.ku/",
+            "pos": "noun",
+            "kalfirvach": "sanku"
           },
           {
             "forma_final": "shorfi",
@@ -19122,7 +20725,9 @@
                 "abr (أَبْر) + ḥamal (حَمَل) 'cargar' (Árabe)"
               ]
             },
-            "ipa": "/ˈʃor.fi/"
+            "ipa": "/ˈʃor.fi/",
+            "pos": "noun",
+            "kalfirvach": "shorfi"
           },
           {
             "forma_final": "baspor",
@@ -19135,7 +20740,9 @@
                 "gzhi (གཞི) 'base' + sa bon (ས་བོན) 'semilla' (Tibetano)"
               ]
             },
-            "ipa": "/ˈbas.por/"
+            "ipa": "/ˈbas.por/",
+            "pos": "noun",
+            "kalfirvach": "baspor"
           },
           {
             "forma_final": "aspor",
@@ -19148,7 +20755,9 @@
                 "kūṭa (कूट) 'cubo, saco' + biya (बीज) 'semilla' (Sánscrito)"
               ]
             },
-            "ipa": "/ˈas.por/"
+            "ipa": "/ˈas.por/",
+            "pos": "noun",
+            "kalfirvach": "aspor"
           },
           {
             "forma_final": "fula",
@@ -19162,7 +20771,8 @@
               ]
             },
             "ipa": "/ˈfu.la/",
-            "kalfirvach": ""
+            "kalfirvach": "fula",
+            "pos": "noun"
           },
           {
             "forma_final": "takha",
@@ -19175,7 +20785,9 @@
                 "τάξις (táxis) 'orden, disposición' (Griego)"
               ]
             },
-            "ipa": "/ˈta.xa/"
+            "ipa": "/ˈta.xa/",
+            "pos": "noun",
+            "kalfirvach": "takha"
           },
           {
             "forma_final": "khani",
@@ -19188,7 +20800,9 @@
                 "āl (آل) 'linaje, familia' (Árabe)"
               ]
             },
-            "ipa": "/ˈxa.ni/"
+            "ipa": "/ˈxa.ni/",
+            "pos": "noun",
+            "kalfirvach": "khani"
           },
           {
             "forma_final": "gama",
@@ -19201,7 +20815,9 @@
                 "rigs (རིགས) 'linaje, género' (Tibetano)"
               ]
             },
-            "ipa": "/ˈga.ma/"
+            "ipa": "/ˈga.ma/",
+            "pos": "noun",
+            "kalfirvach": "gama"
           },
           {
             "forma_final": "pari",
@@ -19214,7 +20830,9 @@
                 "εἶδος (eîdos) 'forma, especie' (Griego)"
               ]
             },
-            "ipa": "/ˈpa.ri/"
+            "ipa": "/ˈpa.ri/",
+            "pos": "noun",
+            "kalfirvach": "pari"
           },
           {
             "forma_final": "wari",
@@ -19227,7 +20845,9 @@
                 "vərəz- (vərəž-) 'transformación' (Avéstico)"
               ]
             },
-            "ipa": "/ˈwa.ri/"
+            "ipa": "/ˈwa.ri/",
+            "pos": "noun",
+            "kalfirvach": "wari"
           },
           {
             "forma_final": "jahwah",
@@ -19240,7 +20860,9 @@
                 "γένεσις (génesis) 'nacimiento, origen' (Griego)"
               ]
             },
-            "ipa": "/ˈjah.wah/"
+            "ipa": "/ˈjah.wah/",
+            "pos": "noun",
+            "kalfirvach": "jahwah"
           },
           {
             "forma_final": "mika",
@@ -19253,7 +20875,9 @@
                 "sharika (شَرِكَة) 'asociación' (Árabe)"
               ]
             },
-            "ipa": "/ˈmi.ka/"
+            "ipa": "/ˈmi.ka/",
+            "pos": "noun",
+            "kalfirvach": "mika"
           },
           {
             "forma_final": "parash",
@@ -19266,7 +20890,9 @@
                 "ṭa'ūn (طَاعُون) 'plaga, parasitismo' (Árabe)"
               ]
             },
-            "ipa": "/ˈpa.raʃ/"
+            "ipa": "/ˈpa.raʃ/",
+            "pos": "noun",
+            "kalfirvach": "parash"
           },
           {
             "forma_final": "janakh",
@@ -19279,7 +20905,9 @@
                 "γόνος (gónos) 'descendencia, brote' (Griego)"
               ]
             },
-            "ipa": "/ˈja.nax/"
+            "ipa": "/ˈja.nax/",
+            "pos": "noun",
+            "kalfirvach": "janakh"
           },
           {
             "forma_final": "sokha",
@@ -19292,7 +20920,9 @@
                 "od (འོད) 'luz' + bsags (བསྒུར) 'almacenar' (Tibetano)"
               ]
             },
-            "ipa": "/ˈso.xa/"
+            "ipa": "/ˈso.xa/",
+            "pos": "noun",
+            "kalfirvach": "sokha"
           },
           {
             "forma_final": "parnash",
@@ -19305,7 +20935,9 @@
                 "vayu- (vayu-) 'viento, aliento' (Avéstico)"
               ]
             },
-            "ipa": "/ˈpar.naʃ/"
+            "ipa": "/ˈpar.naʃ/",
+            "pos": "noun",
+            "kalfirvach": "parnash"
           },
           {
             "forma_final": "wikhash",
@@ -19318,7 +20950,9 @@
                 "takwīm (تَكْوِين) 'transformación' (Árabe)"
               ]
             },
-            "ipa": "/ˈwi.xaʃ/"
+            "ipa": "/ˈwi.xaʃ/",
+            "pos": "noun",
+            "kalfirvach": "wikhash"
           },
           {
             "forma_final": "mikash",
@@ -19331,7 +20965,9 @@
                 "dwꜣ (𓏏𓅱𓂝) 'hongo, seta' (Egipcio)"
               ]
             },
-            "ipa": "/ˈmi.kaʃ/"
+            "ipa": "/ˈmi.kaʃ/",
+            "pos": "noun",
+            "kalfirvach": "mikash"
           },
           {
             "forma_final": "sankhash",
@@ -19344,7 +20980,45 @@
                 "mīṭaḥ (مِیْطَاح) 'medio ambiente' (Árabe)"
               ]
             },
-            "ipa": "/ˈsan.xaʃ/"
+            "ipa": "/ˈsan.xaʃ/",
+            "pos": "noun",
+            "kalfirvach": "sankhash"
+          },
+          {
+            "concepto": "insecto, artrópodo, bicho",
+            "forma_final": "kithast",
+            "kalfirvach": "kithast",
+            "ipa": "/ˈki.θast/",
+            "pos": "noun",
+            "origen": {
+              "lengua": "Sánscrito/Árabe/Persa/Griego",
+              "raiz_original": "kīṭa 'insecto' (Skt) / ḥašra 'insecto' (Ar) / xrafstra- 'criatura dañina' (Av) / éntomon 'insecto' (Gr)",
+              "corpus": ""
+            },
+            "transformacion": [
+              "kīṭa (Skt) + ḥašra (Ar) + xrafstra (Av) + éntomon (Gr) → kith- + -ast",
+              "/ṭ/→/θ/, /ḥ/→/h/→Ø, /x/→/k/",
+              "CC coda /st/ permitida §10.3, /θ/ medial permitido"
+            ],
+            "derivaciones": []
+          },
+          {
+            "concepto": "hormiga",
+            "forma_final": "pimarkom",
+            "kalfirvach": "pimarkom",
+            "ipa": "/pi.ˈmar.kom/",
+            "pos": "noun",
+            "origen": {
+              "lengua": "Sánscrito/Árabe/Tibetano/Griego",
+              "raiz_original": "pipīlikā 'hormiga' (Skt) / namla 'hormiga' (Ar) / grog ma 'hormiga' (Tib) / mýrmēx 'hormiga' (Gr)",
+              "corpus": ""
+            },
+            "transformacion": [
+              "pipīlikā (Skt) + namla (Ar) + grog (Tib) + mýrmēx (Gr) → pim- + -ar- + -kom",
+              "/p/→/p/, /m/→/m/, /g/→/k/ por §3.3 coda ensordecida",
+              "CC coda /rk/ permitida §10.3 (líquida + oclusiva sorda), acento en penúltima -ar-"
+            ],
+            "derivaciones": []
           }
         ]
       },
@@ -19366,7 +21040,7 @@
             "derivaciones": [],
             "kalfirvach": "-khán",
             "pos": "suffix",
-            "ipa": "/xan/"
+            "ipa": "/ˈxan/"
           },
           {
             "concepto": "fundador, padre fundador (prefijo)",
@@ -19382,7 +21056,7 @@
             "derivaciones": [],
             "kalfirvach": "báp",
             "pos": "prefix",
-            "ipa": "/bap/"
+            "ipa": "/ˈbap/"
           },
           {
             "forma_final": "dishk",
@@ -19395,8 +21069,9 @@
                 "dhik (धिक) sentencia (Sánscrito)"
               ]
             },
-            "ipa": "/diʃk/",
-            "kalfirvach": "dishk"
+            "ipa": "/ˈdiʃk/",
+            "kalfirvach": "dishk",
+            "pos": "noun"
           },
           {
             "forma_final": "dāshak",
@@ -19410,7 +21085,8 @@
               ]
             },
             "ipa": "/ˈdaː.ʃak/",
-            "kalfirvach": "dāshak"
+            "kalfirvach": "dāshak",
+            "pos": "noun"
           },
           {
             "forma_final": "gāndhar",
@@ -19424,7 +21100,8 @@
               ]
             },
             "ipa": "/ˈgaːn.ðar/",
-            "kalfirvach": "gāndhar"
+            "kalfirvach": "gāndhar",
+            "pos": "noun"
           },
           {
             "forma_final": "ghārī",
@@ -19438,7 +21115,8 @@
               ]
             },
             "ipa": "/ˈɣaː.riː/",
-            "kalfirvach": "ghārī"
+            "kalfirvach": "ghārī",
+            "pos": "noun"
           },
           {
             "forma_final": "ghōsh",
@@ -19451,8 +21129,9 @@
                 "ghōṣa (घोष) proclamación (Sánscrito)"
               ]
             },
-            "ipa": "/ɣoːʃ/",
-            "kalfirvach": "ghōsh"
+            "ipa": "/ˈɣoːʃ/",
+            "kalfirvach": "ghōsh",
+            "pos": "noun"
           },
           {
             "forma_final": "hārsh",
@@ -19465,8 +21144,9 @@
                 "hiraṇya (हिरण्य) bienes (Sánscrito)"
               ]
             },
-            "ipa": "/haːrʃ/",
-            "kalfirvach": "hārsh"
+            "ipa": "/ˈhaːrʃ/",
+            "kalfirvach": "hārsh",
+            "pos": "noun"
           },
           {
             "forma_final": "krishak",
@@ -19480,7 +21160,8 @@
               ]
             },
             "ipa": "/ˈkri.ʃak/",
-            "kalfirvach": "krishak"
+            "kalfirvach": "krishak",
+            "pos": "noun"
           },
           {
             "forma_final": "kōmak",
@@ -19494,7 +21175,8 @@
               ]
             },
             "ipa": "/ˈkoː.mak/",
-            "kalfirvach": "kōmak"
+            "kalfirvach": "kōmak",
+            "pos": "noun"
           },
           {
             "forma_final": "kāmak",
@@ -19508,7 +21190,8 @@
               ]
             },
             "ipa": "/ˈkaː.mak/",
-            "kalfirvach": "kāmak"
+            "kalfirvach": "kāmak",
+            "pos": "noun"
           },
           {
             "forma_final": "kāmik",
@@ -19522,7 +21205,8 @@
               ]
             },
             "ipa": "/ˈkaː.mik/",
-            "kalfirvach": "kāmik"
+            "kalfirvach": "kāmik",
+            "pos": "noun"
           },
           {
             "forma_final": "kārakh",
@@ -19536,7 +21220,8 @@
               ]
             },
             "ipa": "/ˈkaː.rax/",
-            "kalfirvach": "kārakh"
+            "kalfirvach": "kārakh",
+            "pos": "noun"
           },
           {
             "forma_final": "kōsh",
@@ -19549,8 +21234,9 @@
                 "koṣa (कोश) tesoro (Sánscrito)"
               ]
             },
-            "ipa": "/koːʃ/",
-            "kalfirvach": "kōsh"
+            "ipa": "/ˈkoːʃ/",
+            "kalfirvach": "kōsh",
+            "pos": "noun"
           },
           {
             "forma_final": "kāsh",
@@ -19563,8 +21249,9 @@
                 "kāś (काश) ver (Sánscrito)"
               ]
             },
-            "ipa": "/kaːʃ/",
-            "kalfirvach": "kāsh"
+            "ipa": "/ˈkaːʃ/",
+            "kalfirvach": "kāsh",
+            "pos": "noun"
           },
           {
             "forma_final": "kāshikh",
@@ -19578,7 +21265,8 @@
               ]
             },
             "ipa": "/ˈkaː.ʃix/",
-            "kalfirvach": "kāshikh"
+            "kalfirvach": "kāshikh",
+            "pos": "noun"
           },
           {
             "forma_final": "lāwak",
@@ -19592,7 +21280,8 @@
               ]
             },
             "ipa": "/ˈlaː.wak/",
-            "kalfirvach": "lāwak"
+            "kalfirvach": "lāwak",
+            "pos": "noun"
           },
           {
             "forma_final": "mālak",
@@ -19606,7 +21295,8 @@
               ]
             },
             "ipa": "/ˈmaː.lak/",
-            "kalfirvach": "mālak"
+            "kalfirvach": "mālak",
+            "pos": "noun"
           },
           {
             "forma_final": "māsh",
@@ -19619,8 +21309,9 @@
                 "ācārya (आचार्य) maestro (Sánscrito)"
               ]
             },
-            "ipa": "/maːʃ/",
-            "kalfirvach": "māsh"
+            "ipa": "/ˈmaːʃ/",
+            "kalfirvach": "māsh",
+            "pos": "noun"
           },
           {
             "forma_final": "nāwak",
@@ -19634,7 +21325,8 @@
               ]
             },
             "ipa": "/ˈnaː.wak/",
-            "kalfirvach": "nāwak"
+            "kalfirvach": "nāwak",
+            "pos": "noun"
           },
           {
             "forma_final": "nāwik",
@@ -19648,7 +21340,8 @@
               ]
             },
             "ipa": "/ˈnaː.wik/",
-            "kalfirvach": "nāwik"
+            "kalfirvach": "nāwik",
+            "pos": "noun"
           },
           {
             "forma_final": "nāyak",
@@ -19662,7 +21355,8 @@
               ]
             },
             "ipa": "/ˈnaː.jak/",
-            "kalfirvach": "nāyak"
+            "kalfirvach": "nāyak",
+            "pos": "noun"
           },
           {
             "concepto": "gran maestro, guia espiritual (prefijo)",
@@ -19678,7 +21372,7 @@
             "derivaciones": [],
             "kalfirvach": "pir",
             "pos": "prefix",
-            "ipa": "/pir/"
+            "ipa": "/ˈpir/"
           },
           {
             "forma_final": "ratshi",
@@ -19692,7 +21386,8 @@
               ]
             },
             "ipa": "/ˈra.tʃi/",
-            "kalfirvach": "ratshi"
+            "kalfirvach": "ratshi",
+            "pos": "noun"
           },
           {
             "forma_final": "rāksh",
@@ -19705,8 +21400,9 @@
                 "rakṣ (रक्ष) proteger (Sánscrito)"
               ]
             },
-            "ipa": "/raːkʃ/",
-            "kalfirvach": "rāksh"
+            "ipa": "/ˈraːkʃ/",
+            "kalfirvach": "rāksh",
+            "pos": "noun"
           },
           {
             "forma_final": "rās",
@@ -19719,8 +21415,9 @@
                 "ratha (रथ) carro (Sánscrito)"
               ]
             },
-            "ipa": "/raːs/",
-            "kalfirvach": "rās"
+            "ipa": "/ˈraːs/",
+            "kalfirvach": "rās",
+            "pos": "noun"
           },
           {
             "forma_final": "rāwak",
@@ -19734,7 +21431,8 @@
               ]
             },
             "ipa": "/ˈraː.wak/",
-            "kalfirvach": "rāwak"
+            "kalfirvach": "rāwak",
+            "pos": "noun"
           },
           {
             "forma_final": "waidya",
@@ -19748,7 +21446,8 @@
               ]
             },
             "ipa": "/ˈwa.i.dja/",
-            "kalfirvach": "waidya"
+            "kalfirvach": "waidya",
+            "pos": "noun"
           },
           {
             "forma_final": "wakash",
@@ -19762,7 +21461,8 @@
               ]
             },
             "ipa": "/ˈwa.kaʃ/",
-            "kalfirvach": "wakash"
+            "kalfirvach": "wakash",
+            "pos": "noun"
           },
           {
             "forma_final": "wāhak",
@@ -19776,7 +21476,8 @@
               ]
             },
             "ipa": "/ˈwaː.hak/",
-            "kalfirvach": "wāhak"
+            "kalfirvach": "wāhak",
+            "pos": "noun"
           },
           {
             "forma_final": "yodha",
@@ -19790,7 +21491,8 @@
               ]
             },
             "ipa": "/ˈjo.ða/",
-            "kalfirvach": "yodha"
+            "kalfirvach": "yodha",
+            "pos": "noun"
           },
           {
             "forma_final": "āthal",
@@ -19804,7 +21506,299 @@
               ]
             },
             "ipa": "/ˈaː.θal/",
-            "kalfirvach": "āthal"
+            "kalfirvach": "āthal",
+            "pos": "noun"
+          }
+        ]
+      },
+      "gobierno_politica_derecho": {
+        "descripcion": "Gobierno, política, derecho, justicia y organización social",
+        "entradas": [
+          {
+            "concepto": "ley, estatuto, norma jurídica",
+            "forma_final": "hapdāta",
+            "ipa": "/hapˈdaː.ta/",
+            "kalfirvach": "hapdāta",
+            "origen": {
+              "lengua": "Egipcio/Avestan",
+              "raiz_original": "Egipcio ḥp (hp) 'ley, justicia' + Avestan 𐬛𐬁𐬙𐬀 (dāta) 'ley, decreto, estatuto' → hapdāta (fusión: ḥap + dāta, con elisión de la faringal egipcia). 2 lenguas. La norma fundamental que rige la comunidad."
+            },
+            "pos": "noun",
+            "derivaciones": [],
+            "transformacion": [
+              "compatible"
+            ]
+          },
+          {
+            "concepto": "derecho, justicia, lo que corresponde por ley y orden cósmico",
+            "forma_final": "mēimat",
+            "ipa": "/mejˈmat/",
+            "kalfirvach": "mēimat",
+            "origen": {
+              "lengua": "Copto/Egipcio",
+              "raiz_original": "Copto ⲙⲏⲓ (mēi) 'verdad, justicia, testimonio verdadero' + Egipcio mꜣꜥt (ma'at) 'orden cósmico, verdad, justicia, equidad' → mēimat (fusión: mēi + ma'at, con contracción vocálica). 2 lenguas. El principio de rectitud que equilibra la existencia."
+            },
+            "pos": "noun",
+            "derivaciones": [],
+            "transformacion": [
+              "compatible"
+            ]
+          },
+          {
+            "concepto": "juez, magistrado, quien dictamina según la ley",
+            "forma_final": "haprat",
+            "ipa": "/hapˈrat/",
+            "kalfirvach": "haprat",
+            "origen": {
+              "lengua": "Copto/Avestan",
+              "raiz_original": "Copto ϩⲁⲡ (hap) 'juicio, ley, veredicto' + Avestan 𐬭𐬀𐬙𐬎 (ratu) 'juez, señor, maestro, autoridad que juzga' → haprat (fusión: hap + ratu, contracción de -atu). 2 lenguas. La autoridad que interpreta y aplica la ley."
+            },
+            "pos": "noun",
+            "derivaciones": [],
+            "transformacion": [
+              "compatible"
+            ]
+          },
+          {
+            "concepto": "rey, monarca, soberano de un reino",
+            "forma_final": "romālik",
+            "ipa": "/roˈmaː.lik/",
+            "kalfirvach": "romālik",
+            "origen": {
+              "lengua": "Copto/Arabe",
+              "raiz_original": "Copto ⲣⲣⲟ (rro) 'rey, gobernante' + Árabe ملك (malik) 'rey, soberano, poseedor' → romālik (fusión: rro + malik, simplificación de /rr/ y /m/ inicial). 2 lenguas. El gobernante supremo de la nación."
+            },
+            "pos": "noun",
+            "derivaciones": [],
+            "transformacion": [
+              "compatible"
+            ]
+          },
+          {
+            "concepto": "reina, soberana, monarca",
+            "forma_final": "māliknīt",
+            "ipa": "/maːˈlik.niːt/",
+            "kalfirvach": "māliknīt",
+            "origen": {
+              "lengua": "Arabe/Egipcio",
+              "raiz_original": "Árabe ملكة (malika) 'reina' + Egipcio nb.t (neb-t, nībt) 'señora, dueña, ama' → māliknīt (fusión: mālika + nībt, con simplificación de /bt/ → /t/). 2 lenguas. La gobernante femenina del reino."
+            },
+            "pos": "noun",
+            "derivaciones": [],
+            "transformacion": [
+              "compatible"
+            ]
+          },
+          {
+            "concepto": "reino, territorio, dominio soberano",
+            "forma_final": "kahyul",
+            "ipa": "/kahˈjul/",
+            "kalfirvach": "kahyul",
+            "origen": {
+              "lengua": "Copto/Tibetano",
+              "raiz_original": "Copto ⲕⲁϩ (kah) 'tierra, suelo, territorio' + Tibetano clásico ཡུལ (yul) 'país, reino, región, tierra natal' → kahyul (fusión: kah + yul). 2 lenguas. El territorio bajo un dominio soberano."
+            },
+            "pos": "noun",
+            "derivaciones": [],
+            "transformacion": [
+              "compatible"
+            ]
+          },
+          {
+            "concepto": "gobierno, estado, administración del poder público",
+            "forma_final": "dawlakōt",
+            "ipa": "/ˈdaw.la.koːt/",
+            "kalfirvach": "dawlakōt",
+            "origen": {
+              "lengua": "Arabe/Copto",
+              "raiz_original": "Árabe دولة (dawla) 'estado, dinastía, turno de gobierno' + Copto ⲕⲱⲧ (kōt) 'construir, edificar, establecer' → dawlakōt (fusión: dawla + kōt). 2 lenguas. La estructura que edifica y sostiene el orden público."
+            },
+            "pos": "noun",
+            "derivaciones": [],
+            "transformacion": [
+              "compatible"
+            ]
+          },
+          {
+            "concepto": "gobernante, autoridad, quien ejerce el poder",
+            "forma_final": "wālrat",
+            "ipa": "/waːlˈrat/",
+            "kalfirvach": "wālrat",
+            "origen": {
+              "lengua": "Arabe/Avestan",
+              "raiz_original": "Árabe وال (wālī) 'gobernante, protector, autoridad' + Avestan 𐬭𐬀𐬙𐬎 (ratu) 'señor, juez, maestro' → wālrat (fusión: wāl + ratu, contracción de -ī y -u). 2 lenguas. Quien detenta la autoridad legítima sobre un territorio."
+            },
+            "pos": "noun",
+            "derivaciones": [],
+            "transformacion": [
+              "compatible"
+            ]
+          },
+          {
+            "concepto": "ciudad, urbe, asentamiento urbano amurallado",
+            "forma_final": "nīwtagrong",
+            "ipa": "/ˈniːw.ta.groŋ/",
+            "kalfirvach": "nīwtagrong",
+            "origen": {
+              "lengua": "Egipcio/Tibetano",
+              "raiz_original": "Egipcio njwt (niw-t) 'ciudad, asentamiento' + Tibetano clásico གྲོང (grong) 'pueblo, villa, asentamiento' → nīwtagrong (fusión: nīwt + grong con epéntesis /a/ para evitar /t.g/). 2 lenguas. El centro urbano de la vida política y social."
+            },
+            "pos": "noun",
+            "derivaciones": [],
+            "transformacion": [
+              "compatible"
+            ]
+          },
+          {
+            "concepto": "tratado, pacto, acuerdo vinculante entre partes",
+            "forma_final": "ahadāt",
+            "ipa": "/a.haˈdaːt/",
+            "kalfirvach": "ahadāt",
+            "origen": {
+              "lengua": "Arabe/Avestan",
+              "raiz_original": "Árabe عهد (ʿahd) 'tratado, pacto, compromiso' + Avestan 𐬛𐬁𐬙𐬀 (dāta) 'ley, decreto, estatuto' → ahadāt (epéntesis /a/ para disolver /hd/ coda ilegal; /h.d/ como núcleo silábico). 2 lenguas. El acuerdo solemne sellado por la ley."
+            },
+            "pos": "noun",
+            "derivaciones": [],
+            "transformacion": [
+              "compatible"
+            ]
+          },
+          {
+            "concepto": "alianza, coalición, unión estratégica entre pueblos",
+            "forma_final": "hilifārta",
+            "ipa": "/hi.liˈfaːr.ta/",
+            "kalfirvach": "hilifārta",
+            "origen": {
+              "lengua": "Arabe/Avestan",
+              "raiz_original": "Árabe حلف (ḥilf) 'alianza, pacto, juramento mutuo' + Avestan 𐬀𐬭𐬙𐬀 (arta) 'orden cósmico, verdad, justicia' → hilifārta (epéntesis /a/ para disolver /lf/ coda = líquida+fricativa no oclusiva, ilegal). 2 lenguas. La unión sagrada de dos fuerzas bajo un mismo orden."
+            },
+            "pos": "noun",
+            "derivaciones": [],
+            "transformacion": [
+              "compatible"
+            ]
+          },
+          {
+            "concepto": "guerra, conflicto armado, contienda entre fuerzas",
+            "forma_final": "magaharp",
+            "ipa": "/ma.ˈɡa.harp/",
+            "kalfirvach": "magaharb",
+            "origen": {
+              "lengua": "Tibetano/Arabe",
+              "raiz_original": "Tibetano clásico དམག (dmag) 'guerra, ejército, hueste' + Árabe حرب (ḥarb) 'guerra, conflicto, batalla' → magaharb (epéntesis /a/ entre mag y harb para separar morfemas). /b/ → /p/ en coda por §3.3. 2 lenguas. El enfrentamiento organizado entre comunidades."
+            },
+            "pos": "noun",
+            "derivaciones": [],
+            "transformacion": [
+              "b→p en forma_final por §3.3",
+              "/ɡ/ se mantiene por ser onset de sílaba -ga-"
+            ]
+          },
+          {
+            "concepto": "paz, armonía, ausencia de conflicto",
+            "forma_final": "silmarta",
+            "ipa": "/silˈmar.ta/",
+            "kalfirvach": "silmarta",
+            "origen": {
+              "lengua": "Arabe/Avestan",
+              "raiz_original": "Árabe سلم (silm) 'paz, concordia, sumisión voluntaria a la armonía' + Avestan 𐬀𐬭𐬙𐬀 (arta) 'orden cósmico, verdad' → silmarta (fusión: silm + arta). /lm/ coda = líquida+nasal permitida por §10.3 (raro). 2 lenguas. La paz como manifestación del orden cósmico."
+            },
+            "pos": "noun",
+            "derivaciones": [],
+            "transformacion": [
+              "compatible"
+            ]
+          },
+          {
+            "concepto": "impuesto, tributo, contribución al estado",
+            "forma_final": "rabāji",
+            "ipa": "/raˈbaː.dʒi/",
+            "kalfirvach": "rabāji",
+            "origen": {
+              "lengua": "Copto/Avestan",
+              "raiz_original": "Copto ⲣⲁⲃ (rab) 'tributo, impuesto, tasa' + Avestan 𐬠𐬁𐬘𐬌 (bāji) 'tributo, ofrenda, impuesto' → rabāji (fusión: rab + bāji, geminación /bb/ simplificada a /b/). 2 lenguas. La contribución que sostiene la administración."
+            },
+            "pos": "noun",
+            "derivaciones": [],
+            "transformacion": [
+              "compatible"
+            ]
+          },
+          {
+            "concepto": "decreto, edicto, mandato oficial de la autoridad",
+            "forma_final": "amarvit",
+            "ipa": "/aˈmar.wit/",
+            "kalfirvach": "amarwit",
+            "origen": {
+              "lengua": "Arabe/Egipcio",
+              "raiz_original": "Árabe أمر (amr) 'orden, mandato, comando' + Egipcio wḏ (wedj) 'decreto, mandato divino, palabra de autoridad' → amarwit (epéntesis /a/ en amr → amar por /mr/ coda ilegal; /d/ → /t/ en coda por §3.3). 2 lenguas. La palabra del gobernante que se convierte en ley."
+            },
+            "pos": "noun",
+            "derivaciones": [],
+            "transformacion": [
+              "d→t en forma_final por §3.3"
+            ]
+          },
+          {
+            "concepto": "asamblea, consejo, reunión deliberativa",
+            "forma_final": "majlisgros",
+            "ipa": "/madʒˈlis.gros/",
+            "kalfirvach": "majlisgros",
+            "origen": {
+              "lengua": "Arabe/Tibetano",
+              "raiz_original": "Árabe مجلس (majlis) 'asamblea, consejo, lugar de reunión' + Tibetano clásico གྲོས (gros) 'deliberación, consejo, discusión' → majlisgros (fusión directa: majlis + gros). 2 lenguas. El cuerpo colegiado que delibera y decide."
+            },
+            "pos": "noun",
+            "derivaciones": [],
+            "transformacion": [
+              "compatible"
+            ]
+          },
+          {
+            "concepto": "crimen, delito, transgresión grave de la ley",
+            "forma_final": "jurmbōn",
+            "ipa": "/dʒurmˈboːn/",
+            "kalfirvach": "jurmbōn",
+            "origen": {
+              "lengua": "Arabe/Copto",
+              "raiz_original": "Árabe جرم (jurm) 'crimen, delito, falta grave' + Copto ⲃⲟⲟⲛⲉ (boone) 'mal, maldad, cosa mala' → jurmbōn (fusión: jurm + boone, contracción de la terminación copta). /rm/ coda = líquida+nasal permitida por §10.3. 2 lenguas. La acción que quebranta el orden legal."
+            },
+            "pos": "noun",
+            "derivaciones": [],
+            "transformacion": [
+              "compatible"
+            ]
+          },
+          {
+            "concepto": "castigo, pena, sanción por transgresión de la ley",
+            "forma_final": "ikāpchad",
+            "ipa": "/iˈkaːp.tʃad/",
+            "kalfirvach": "ikāpchad",
+            "origen": {
+              "lengua": "Arabe/Tibetano",
+              "raiz_original": "Árabe عقاب (ʿiqāb) 'castigo, pena, retribución' + Tibetano clásico ཆད (chad) 'castigo, pena, sanción, corte' → ikāpchad (fusión: iqāb + chad, q→k, /b/→/p/ en coda por §3.3). 2 lenguas. La consecuencia jurídica de la transgresión."
+            },
+            "pos": "noun",
+            "derivaciones": [],
+            "transformacion": [
+              "q→k, b→p en forma_final por §3.3"
+            ]
+          },
+          {
+            "concepto": "frontera, límite, línea divisoria entre territorios",
+            "forma_final": "tāshhad",
+            "ipa": "/taːʃˈhad/",
+            "kalfirvach": "tāshhad",
+            "origen": {
+              "lengua": "Egipcio/Arabe",
+              "raiz_original": "Egipcio tꜣš (tjas) 'frontera, límite, borde' + Árabe حد (ḥadd) 'límite, frontera, confín' → tāshhad (fusión: tāš + ḥadd). /ʃ/ coda + /h/ onset a través del límite silábico. 2 lenguas. El confín que separa y define los territorios."
+            },
+            "pos": "noun",
+            "derivaciones": [],
+            "transformacion": [
+              "compatible"
+            ]
           }
         ]
       }

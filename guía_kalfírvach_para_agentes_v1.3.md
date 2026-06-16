@@ -1,12 +1,12 @@
 ---
-title: "Kalfírvach v1.2 — Guía para Agentes"
-version: v1.2
+title: "Kalfírvach v1.3 — Guía para Agentes"
+version: v1.3
 date: 2026-06-11
 lang: es
 status: stable
 ---
 
-# KALFÍRVACH v1.2 — Guía para Agentes Autónomos
+# KALFÍRVACH v1.3 — Guía para Agentes Autónomos
 
 Esta guía captura todo el conocimiento acumulado sobre Kalfírvach que un agente necesita para trabajar con el idioma **sin leer todos los documentos fuente**. Úsala como preflight antes de tocar cualquier archivo del proyecto.
 
@@ -17,13 +17,13 @@ Esta guía captura todo el conocimiento acumulado sobre Kalfírvach que un agent
 | Propiedad | Valor |
 |-----------|-------|
 | Nombre nativo | Kalfírvach (escrito καλφιρβαχ en griego politónico) |
-| Versión actual | **v1.2** |
+| Versión actual | **v1.3** |
 | Léxico | ~1.167 entradas en 23 categorías |
-| Archivo léxico | `kalfirvach_lexicon_v1.2.json` |
+| Archivo léxico | `kalfirvach_lexicon_v1.3.json` |
 | Glosario | `glosario.md` (1.118 entradas, 3 índices) |
-| Gramática | `gramatica_v1.2.md` (4.527 líneas) |
-| Fonología | `fonologia_v1.2.md` (1.298 líneas) |
-| Diccionario HTML | `diccionario_kalfírvach_v1.2.html` (con escritura griega politónica) |
+| Gramática | `gramatica_v1.3.md` (4.527 líneas) |
+| Fonología | `fonologia_v1.3.md` (1.298 líneas) |
+| Diccionario HTML | `diccionario_kalfírvach_v1.3.html` (con escritura griega politónica) |
 | Escritura oficial | **Griego politónico** + Transcripción Latina (LA) |
 | Lenguas fuente | Griego koiné, Sánscrito tántrico, Egipcio (demótico/antiguo), Persa/Avestan, Tibetano clásico, Árabe esotérico |
 | Orden de palabras | **SOV** (Sujeto-Objeto-Verbo) |
@@ -33,15 +33,15 @@ Esta guía captura todo el conocimiento acumulado sobre Kalfírvach que un agent
 ## 2. Archivos del Proyecto — Mapa Mental
 
 ```
-Kalfirvach_v1.2/
-├── kalfirvach_lexicon_v1.2.json        ← FUENTE DE VERDAD del léxico
+Kalfirvach_v1.3/
+├── kalfirvach_lexicon_v1.3.json        ← FUENTE DE VERDAD del léxico
 ├── glosario.md                          ← Reflejo EXACTO del JSON (regenerable vía json2md_lexicon.py)
-├── gramatica_v1.2.md                    ← Gramática completa con ejemplos
-├── fonologia_v1.2.md                    ← Fonología, fonotáctica, prosodia
-├── guía_kalfírvach_para_agentes_v1.2.md ← ESTE DOCUMENTO
-├── diccionario_kalfírvach_v1.2.html     ← Diccionario HTML con script griego politónico
+├── gramatica_v1.3.md                    ← Gramática completa con ejemplos
+├── fonologia_v1.3.md                    ← Fonología, fonotáctica, prosodia
+├── guía_kalfírvach_para_agentes_v1.3.md ← ESTE DOCUMENTO
+├── diccionario_kalfírvach_v1.3.html     ← Diccionario HTML con script griego politónico
 ├── lexicon_data.js                      ← Datos para el HTML (generado desde JSON)
-├── textos_modelo_v1.2.md               ← Textos de ejemplo
+├── textos_modelo_v1.3.md               ← Textos de ejemplo
 ├── cuento_sol_y_luna.md                ← Cuento
 ├── cuento_sol_y_luna_rom.md            ← Cuento (rom.)
 ├── sephirot_v0.4.md                     ← Árbol sefirótico
@@ -51,8 +51,8 @@ Kalfirvach_v1.2/
 
 **REGLAS DE MODIFICACIÓN:**
 
-1. **`kalfirvach_lexicon_v1.2.json` es la fuente de verdad.** Todo cambio léxico va aquí primero. `glosario.md` se regenera desde el JSON, no se edita a mano.
-2. Los ejemplos en `gramatica_v1.2.md` deben reflejar el léxico actual. Si se cambia una palabra en el JSON, revisar la gramática por ejemplos que la usen.
+1. **`kalfirvach_lexicon_v1.3.json` es la fuente de verdad.** Todo cambio léxico va aquí primero. `glosario.md` se regenera desde el JSON, no se edita a mano.
+2. Los ejemplos en `gramatica_v1.3.md` deben reflejar el léxico actual. Si se cambia una palabra en el JSON, revisar la gramática por ejemplos que la usen.
 3. Las IPAs en la gramática deben coincidir con las del léxico. Son fuente común de inconsistencias.
 4. `lexicon_data.js` se regenera desde el JSON. Si se modifica el JSON, regenerar el JS.
 
@@ -253,7 +253,7 @@ En el kalfirvach (LA), la letra **`v`** se conserva por razones etimológicas (d
 | viras | /-ˈwi.ras/ (no */ˈvi.ras/) | disgusto (sufijo) |
 | dvi | /dwi/ (no */dvi/) | 2 |
 
-**NUNCA** escribir IPA /v/ para palabras con `v` en LA. Siempre /w/. Este error ocurrió en ~29 entradas y se corrigió en la limpieza v1.2.
+**NUNCA** escribir IPA /v/ para palabras con `v` en LA. Siempre /w/. Este error ocurrió en ~29 entradas y se corrigió en la limpieza v1.3.
 
 ### 5.3 Otro Gotcha: /q/ en LA tiene IPA /k/
 
@@ -360,7 +360,7 @@ No aplica si el sufijo empieza con vocal, ni a temas en `-a` u `-o`.
 
 ### 6.7 Negación
 
-- **Prefijo** `na-` (cambiado de `ma-` en v1.2 para evitar colisión con pronombre 1sg `ma`)
+- **Prefijo** `na-` (cambiado de `ma-` en v1.3 para evitar colisión con pronombre 1sg `ma`)
 - `na-kár-a` = "no hace", `na-su-kár-a` = "no ha completado"
 - Negación de la cópula: `na-as-a` (junto, una palabra)
 
@@ -391,7 +391,7 @@ Los sustantivos NO flexionan por número. El número se expresa en el artículo.
 
 ```json
 {
-  "kalfirvach_lexicon_v1.2": {
+  "kalfirvach_lexicon_v1.3": {
     "categorias": {
       "verbos_basicos": {
         "entradas": [
@@ -493,7 +493,7 @@ Ejemplos: `raka` (fuego+cronos), `mil` (coerción+agua), `nu` (luna+fuego ascend
 
 ## 9. Escritura Griega Politónica en el Diccionario HTML
 
-El archivo `diccionario_kalfírvach_v1.2.html` carga `lexicon_data.js` (generado desde el JSON) y renderiza cada entrada con:
+El archivo `diccionario_kalfírvach_v1.3.html` carga `lexicon_data.js` (generado desde el JSON) y renderiza cada entrada con:
 
 - **Escritura griega** vía `latinToGreek()` (ϻ, ϡ, θ, χ, γ̓, ϐ, ϝ, etc.)
 - **Transcripción latina** entre paréntesis
@@ -503,20 +503,20 @@ Si se modifica el JSON, **hay que regenerar `lexicon_data.js`**:
 
 ```python
 import json
-with open('kalfirvach_lexicon_v1.2.json') as f:
+with open('kalfirvach_lexicon_v1.3.json') as f:
     data = json.load(f)
 js = "const LEXICON_DATA = \n" + json.dumps(data, ensure_ascii=False, indent=2) + ";\n"
 with open('lexicon_data.js', 'w') as f:
     f.write(js)
 ```
 
-El HTML referencia `LEXICON_DATA["kalfirvach_lexicon_v1.2"].categorias`. Si se cambia la key del JSON, hay que actualizar el HTML.
+El HTML referencia `LEXICON_DATA["kalfirvach_lexicon_v1.3"].categorias`. Si se cambia la key del JSON, hay que actualizar el HTML.
 
 ---
 
 ## 10. Errores Conocidos y Gotchas
 
-### 10.1 Errores Históricos (ya corregidos en v1.2)
+### 10.1 Errores Históricos (ya corregidos en v1.3)
 
 | Error | Ocurría en | Se corrigió |
 |-------|-----------|-------------|
@@ -527,8 +527,8 @@ El HTML referencia `LEXICON_DATA["kalfirvach_lexicon_v1.2"].categorias`. Si se c
 | Coda /v/ (vismay, viras) | Sufijos actitudinales | kf sin cambios, IPA /w/ |
 | 6 IPAs desactualizadas en gramática | -vismay, -viras, náva, lav, va, tís | /v/→/w/ y /z/→/s/ |
 | 9 carry-overs fonológicos en gramática | kád, tíz, báb, ghad, atáf, bákr, qábl, gétig, fajr | Formas coda-legal |
-| lexicon_data.js v0.2 obsoleto | JS para HTML | Regenerado desde v1.2 |
-| diccionario.html apuntaba a v0.2 | Referencia en HTML | Actualizado a v1.2 |
+| lexicon_data.js v0.2 obsoleto | JS para HTML | Regenerado desde v1.3 |
+| diccionario.html apuntaba a v0.2 | Referencia en HTML | Actualizado a v1.3 |
 
 ### 10.2 Gotchas Activos (que los agentes repiten)
 
@@ -539,7 +539,7 @@ El HTML referencia `LEXICON_DATA["kalfirvach_lexicon_v1.2"].categorias`. Si se c
 5. **Usar /z/ en IPA para "s" sonora** — en KFA "s" es siempre /s/ (sorda). La /z/ es un fonema separado, escrito "z".
 6. **Confundir el acento prosódico con el escrito** — el acento prosódico cae en penúltima (o antepenúltima por retroceso). El escrito SIEMPRE se marca con tilde aguda.
 7. **No aplicar apócope derivativa** — cuando una raíz termina en -e y se le agrega un sufijo consonántico, la -e se pierde: `θéle + -tár → θeltár`.
-8. **Negación ma- vs na-** — desde v1.2, la negación es `na-`. `ma-` ya no se usa (era el pronombre 1sg).
+8. **Negación ma- vs na-** — desde v1.3, la negación es `na-`. `ma-` ya no se usa (era el pronombre 1sg).
 
 ### 10.3 Cuidado con...
 
@@ -552,7 +552,7 @@ El HTML referencia `LEXICON_DATA["kalfirvach_lexicon_v1.2"].categorias`. Si se c
 
 ---
 
-## 11. Cambios Clave de v1.2 Respecto a Versiones Anteriores
+## 11. Cambios Clave de v1.3 Respecto a Versiones Anteriores
 
 | Cambio | Detalle |
 |--------|---------|
@@ -564,7 +564,7 @@ El HTML referencia `LEXICON_DATA["kalfirvach_lexicon_v1.2"].categorias`. Si se c
 | Fonosemántica §11 | Nuevo sistema generativo de bījas |
 | Apócope derivativa | Regla nueva §3.5.5 fonología |
 | Número de categorías | 23 (homogéneas, sin duplicados) |
-| Diccionario HTML | Actualizado a v1.2 con script griego politónico |
+| Diccionario HTML | Actualizado a v1.3 con script griego politónico |
 
 ---
 
@@ -598,4 +598,4 @@ El HTML referencia `LEXICON_DATA["kalfirvach_lexicon_v1.2"].categorias`. Si se c
 
 ---
 
-*Documento generado como guía de referencia rápida para agentes autónomos que trabajen con Kalfírvach v1.2. Versión: 2026-06-11.*
+*Documento generado como guía de referencia rápida para agentes autónomos que trabajen con Kalfírvach v1.3. Versión: 2026-06-11.*

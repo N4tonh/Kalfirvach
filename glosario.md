@@ -1,1429 +1,1361 @@
-# Léxico Kalfírvach v1.2
+# Glosario Kalfírvach v1.3
 
-**Versión**: 1.2
-**Entradas**: 1254
-**Generado**: 2026-05-30
-**Última actualización**: 2026-06-10
-**Lenguas fuente**: Griego, Sanscrito, Avestan, Persa, Tibetano, Arabe, Egipcio
-**Sistema de escritura**: Alfabeto griego politonico con arcaicas
-**Cobertura IPA**: 100%
+**Total de entradas: 1280**
+**Última actualización: 2026-06-16**
 
-## Pronombres y Deícticos
+---
 
-Pronombres, demostrativos, interrogativos y cuantificadores basicos
+## Actitudinales
 
-| Kalfírvach | Forma final | IPA | Concepto |
-|-----------|-------------|-----|----------|
-| anya | anya | /ˈa.nja/ | otro |
-| asa | asa | /ˈa.sa/ | aquel (demostrativo distal, lejos del hablante y oyente) |
-| bahu | bahu | /ˈba.hu/ | mucho |
-| eta | eta | /ˈe.ta/ | ese (demostrativo medial, distancia media) |
-| ida | ida | /ˈi.da/ | aquí |
-| ima | ima | /ˈi.ma/ | este (demostrativo proximal, cerca del hablante) |
-| kada | kada | /ˈka.da/ | cuándo (interrogativo, tiempo) |
-| kanam | kanam | /ˈka.nam/ | poco |
-| katha | katha | /ˈka.θa/ | cómo (interrogativo, modo o manera) |
-| kachi | kachi | /ˈka.tʃi/ | alguno |
-| kesh | kesh | /ˈkeʃ/ | alguien (indefinido, persona no especificada) |
-| kima | kima | /ˈki.ma/ | qué/cuál (interrogativo, cosa o cualidad) |
-| kuda | kuda | /ˈku.da/ | dónde (interrogativo, lugar) |
-| kuta | kuta | /ˈku.ta/ | por qué (interrogativo, causa o razón) |
-| naka | naka | /ˈna.ka/ | nadie (indefinido negativo, persona alguna) |
-| sarwa | sarwa | /ˈsa.rwa/ | todo |
-| tara | tara | /ˈta.ra/ | alli/ahi |
-
-## Onomastica
-
-| Kalfírvach | Forma final | IPA | Concepto |
-|-----------|-------------|-----|----------|
-| bīj | bīj | /ˈbiːj/ | semilla, nombre esencial (capa I) |
-| gup | gup | /ˈgup/ | oculto, criptónimo, nombre cifrado (capa IV) |
-| nūm | nūm | /ˈnuːm/ | forma del nombre, nombre personal (capa II) |
-| samanta | samanta | /ˈsa.man.ta/ | función, oficio mágico, título (capa III) |
-
-## Números
-
-Sistema de numeracion decimal
-
-| Kalfírvach | Forma final | IPA | Concepto |
-|-----------|-------------|-----|----------|
-| áshta | áshta | /ˈaʃ.ta/ | ocho |
-| dásha | dásha | /ˈda.ʃa/ | diez |
-| dvi | dvi | /ˈdwi/ | dos |
-| éka | éka | /ˈe.ka/ | uno |
-| házar | házar | /ˈha.zar/ | mil |
-| náva | náva | /ˈna.wa/ | nueve |
-| páncha | páncha | /ˈpan.tʃa/ | cinco |
-| sápta | sápta | /ˈsap.ta/ | siete |
-| shásh | shásh | /ˈʃaʃ/ | seis |
-| sháta | sháta | /ˈʃa.ta/ | cien |
-| tiri | tiri | /ˈti.ri/ | tres |
-| chatúr | chatúr | /tʃa.ˈtur/ | cuatro |
-
-## Dimensiones y Adjetivos
-
-Adjetivos dimensionales y fisicos
-
-| Kalfírvach | Forma final | IPA | Concepto |
-|-----------|-------------|-----|----------|
-| alpa | alpa | /ˈal.pa/ | pequeno |
-| amik | amik | /ˈa.mik/ | profundo |
-| bati | bati | /ˈba.ti/ | lento |
-| dir | dir | /ˈdir/ | largo |
-| fash | fash | /ˈfaʃ/ | tibio |
-| forfir | forfir | /ˈfor.fir/ | púrpura, violeta, magenta |
-| garu | garu | /ˈga.ru/ | pesado |
-| herit | herit | /ˈhe.rit/ | verde, vegetal, viridiano |
-| jadit | jadit | /ˈja.dit/ | nuevo (novel) |
-| kris | kris | /ˈkris/ | negro, oscuro, tenebroso |
-| khal | khal | /ˈxal/ | vacío |
-| khap | khap | /ˈxap/ | oscuro |
-| khar | khar | /ˈxar/ | caliente |
-| khushk | khushk | /ˈxuʃk/ | seco |
-| mal | mal | /ˈmal/ | lleno |
-| nakhzir | nakhzir | /ˈnax.zir/ | brillante |
-| narin | narin | /ˈna.rin/ | naranja, anaranjado, azafranado |
-| narm | narm | /ˈnarm/ | suave (tacto) |
-| nil | nil | /ˈnil/ | azul, añil, índigo |
-| palin | palin | /ˈpa.lin/ | gris, ceniciento, plomizo |
-| pashcha | pashcha | /ˈpaʃ.tʃa/ | último/final (ordinal irregular) |
-| prathi | prathi | /ˈpra.θi/ | ancho |
-| purwa | purwa | /ˈpu.rwa/ | primero/primordial (ordinal irregular) |
-| rasa | rasa | /ˈra.sa/ | corto |
-| rik | rik | /ˈrik/ | grande |
-| rohik | rohik | /ˈro.hik/ | rojo, escarlata, bermellón |
-| sakhat | sakhat | /ˈsa.xat/ | duro |
-| sanhu | sanhu | /ˈsan.hu/ | estrecho |
-| sari | sari | /ˈsa.ri/ | rápido |
-| sarn | sarn | /ˈsarn/ | dorado, áureo, reluciente como el oro |
-| sart | sart | /ˈsart/ | frío |
-| sas | sas | /ˈsas/ | superficial |
-| sat | sat | /ˈsat/ | recto |
-| sofar | sofar | /ˈso.far/ | amarillo, dorado, áureo |
-| shap | shap | /ˈʃap/ | joven |
-| shirin | shirin | /ˈʃi.rin/ | dulce |
-| shwet | shwet | /ˈʃwet/ | blanco, claro, puro |
-| takh | takh | /ˈtax/ | mojado |
-| talakh | talakh | /ˈta.lax/ | amargo |
-| tamir | tamir | /ˈta.mir/ | marrón, pardo, castaño |
-| tanu | tanu | /ˈta.nu/ | delgado/flaco |
-| thul | thul | /ˈθul/ | gordo/grueso |
-| wart | wart | /ˈwart/ | rosa, rosado, rosáceo |
-| zat | zat | /ˈzat/ | curvo/torcido |
-| qadim | qadim | /ˈka.dim/ | viejo (antiguo) |
-
-## Personas y Parentesco
-
-Personas, familiares, roles sociales y sub-conceptos de parentesco
-
-| Kalfírvach | Forma final | IPA | Concepto |
-|-----------|-------------|-----|----------|
-| adar | adar | /ˈa.dar/ | cuñado |
-| adarī | adarī | /ˈa.da.riː/ | cuñada |
-| adelp | adelp | /ˈa.delp/ | hermana |
-| adelpmas | adelpmas | /a.ˈdelp.mas/ | hermana mayor |
-| adelpnap | adelpnap | /a.ˈdelp.nap/ | hermana menor |
-| afrat | afrat | /ˈa.frat/ | hermano |
-| afratmas | afratmas | /a.ˈfrat.mas/ | hermano mayor |
-| afratnap | afratnap | /a.ˈfrat.nap/ | hermano menor |
-| anepas | anepas | /ˈa.ne.pas/ | primo |
-| archit | archit | /ˈar.tʃit/ | ancestro |
-| bala | bala | /ˈba.la/ | nino/criatura |
-| bana | bana | /ˈba.na/ | nieto |
-| brat | brat | /ˈbrat/ | portador, cargador, sustentador |
-| dara | dara | /ˈda.ra/ | esposa |
-| didum | didum | /ˈdi.dum/ | gemelos |
-| gamar | gamar | /ˈga.mar/ | yerno |
-| ghenos | ghenos | /ˈɣe.nos/ | linaje/estirpe |
-| huya | huya | /ˈhu.ja/ | hijo |
-| khara | khara | /ˈxa.ra/ | viuda |
-| kheros | kheros | /ˈxe.ros/ | viudo |
-| mama | mama | /ˈma.ma/ | abuela |
-| manush | manush | /ˈma.nuʃ/ | persona/ser humano |
-| mata | mata | /ˈma.ta/ | madre |
-| nama | nama | /ˈna.ma/ | nombre |
-| napbut | napbut | /ˈnap.but/ | benjamín (hijo menor) |
-| nara | nara | /ˈna.ra/ | hombre adulto |
-| nari | nari | /ˈna.ri/ | mujer |
-| nimfa | nimfa | /ˈnim.fa/ | nuera |
-| oikos | oikos | /ˈo.i.kos/ | clan/familia |
-| orfan | orfan | /ˈor.fan/ | huérfano |
-| papu | papu | /ˈpa.pu/ | abuelo |
-| pati | pati | /ˈpa.ti/ | esposo |
-| pentir | pentir | /ˈpen.tir/ | suegro |
-| pentira | pentira | /ˈpen.ti.ra/ | suegra |
-| pita | pita | /ˈpi.ta/ | padre |
-| prathum | prathum | /ˈpra.θum/ | primogénito |
-| theia | theia | /ˈθe.i.a/ | tía |
-| theios | theios | /ˈθe.i.os/ | tío |
-| thuktar | thuktar | /ˈθuk.tar/ | hija |
-| vitmatar | vitmatar | /ˈwit.ma.tar/ | madrastra |
-| vitpitar | vitpitar | /ˈwit.pi.tar/ | padrastro |
-
-## Animales
-
-Animales y criaturas
-
-| Kalfírvach | Forma final | IPA | Concepto |
-|-----------|-------------|-----|----------|
-| akrap | akrap | /ˈa.krap/ | escorpión, alacrán |
-| ashp | ashp | /ˈaʃp/ | caballo |
-| bek | bek | /ˈbek/ | rana, sapo, anfibio |
-| bram | bram | /ˈbram/ | abeja |
-| bum | bum | /ˈbum/ | búho, lechuza, ave nocturna |
-| buza | buza | /ˈbu.za/ | cabra |
-| delp | delp | /ˈdelp/ | delfín, cetáceo, mamífero marino |
-| dik | dik | /ˈdik/ | gallo, gallina, ave de corral |
-| gap | gap | /ˈgap/ | vaca, toro, res, ganado vacuno |
-| ghanam | ghanam | /ˈɣa.nam/ | oveja, carnero, rebaño ovino |
-| hast | hast | /ˈhast/ | elefante |
-| jamal | jamal | /ˈja.mal/ | camello |
-| kapi | kapi | /ˈka.pi/ | mono, simio, primate |
-| kirimi | kirimi | /ˈki.ri.mi/ | gusano |
-| korak | korak | /ˈko.rak/ | cuervo, córvido |
-| kurma | kurma | /ˈkur.ma/ | tortuga, galápago |
-| khinas | khinas | /ˈxi.nas/ | cerdo, puerco, jabalí |
-| matsi | matsi | /ˈmat.si/ | pez/pescado |
-| mau | mau | /ˈma.u/ | gato |
-| mush | mush | /ˈmuʃ/ | rata, ratón, roedor |
-| nisar | nisar | /ˈni.sar/ | águila, ave rapaz mayor |
-| pipil | pipil | /ˈpi.pil/ | hormiga |
-| sarpa | sarpa | /ˈsar.pa/ | serpiente |
-| shir | shir | /ˈʃir/ | león, fiera, depredador mayor |
-| shwan | shwan | /ˈʃwan/ | perro |
-| timas | timas | /ˈti.mas/ | cocodrilo, lagarto acuático mayor |
-| waya | waya | /ˈwa.ja/ | pajaro/ave |
-| yuka | yuka | /ˈju.ka/ | piojo |
-
-## Seres Vivos — Plantas
-
-Plantas, arboles y partes vegetales
-
-| Kalfírvach | Forma final | IPA | Concepto |
-|-----------|-------------|-----|----------|
-| akanta | akanta | /ˈa.kan.ta/ | espina/aguijón |
-| aroma | aroma | /ˈa.ro.ma/ | especia (aromática) |
-| biya | biya | /ˈbi.ja/ | semilla |
-| doru | doru | /ˈdo.ru/ | madera/leño |
-| duruma | duruma | /ˈdu.ru.ma/ | arbol |
-| elaia | elaia | /ˈe.la.i.a/ | olivo/aceituna |
-| fala | fala | /ˈfa.la/ | fruta |
-| karpa | karpa | /ˈkar.pa/ | vid/uva |
-| kastha | kastha | /ˈkas.θa/ | palo/baston |
-| kaula | kaula | /ˈka.u.la/ | tallo |
-| korma | korma | /ˈkor.ma/ | tronco |
-| kriti | kriti | /ˈkri.ti/ | cebada |
-| liana | liana | /ˈli.a.na/ | enredadera/bejuco |
-| mula | mula | /ˈmu.la/ | raiz |
-| opara | opara | /ˈo.pa.ra/ | savia/resina |
-| pala | pala | /ˈpa.la/ | polen |
-| patara | patara | /ˈpa.ta.ra/ | hoja |
-| petala | petala | /ˈpe.ta.la/ | pétalo |
-| pushpa | pushpa | /ˈpuʃ.pa/ | flor |
-| rayu | rayu | /ˈra.ju/ | cuerda |
-| sfagna | sfagna | /ˈsfag.na/ | musgo |
-| sitos | sitos | /ˈsi.tos/ | trigo |
-| tarfas | tarfas | /ˈtar.fas/ | hongo/seta |
-| tirina | tirina | /ˈti.ri.na/ | hierba/pasto |
-| twak | twak | /ˈtwak/ | corteza (de arbol) |
+- **-ajap** /-ˈa.jap/ *(affix)* — actitudinal: asombro (maravilla)
+- **-aman** /-ˈa.man/ *(affix)* — actitudinal: confianza
+- **-anu** /ˈa.nu/ *(affix)* — actitudinal: inferido (evidencial inferencial)
+- **-ast** /ˈast/ *(affix)* — actitudinal: astral
+- **-basham** /-ˈba.ʃam/ *(affix)* — actitudinal: vergüenza
+- **-bay** /ˈ-baj/ *(affix)* — actitudinal: miedo
+- **-e** /ˈe/ *(affix)* — actitudinal: visual (testigo visual)
+- **-elpis** /-ˈel.pis/ *(affix)* — actitudinal: esperanza
+- **-ghiras** /-ˈɣi.ras/ *(affix)* — actitudinal: envidia
+- **-hék** /-ˈhek/ *(affix)* — actitudinal: autoridad hierática (sello ritual)
+- **-kal** /ˈkal/ *(affix)* — actitudinal: hipotetico
+- **-khamar** /-ˈxa.mar/ *(affix)* — actitudinal: melancolía
+- **-krot** /ˈ-krot/ *(affix)* — actitudinal: ira
+- **-nam** /ˈnam/ *(affix)* — actitudinal: reverencia (venerativo)
+- **-nant** /ˈ-nant/ *(affix)* — actitudinal: alegría
+- **-nos** /ˈ-nos/ *(affix)* — actitudinal: nostalgia
+- **-on** /ˈon/ *(affix)* — actitudinal: onirico
+- **-poi** /ˈpoi/ *(affix)* — actitudinal: performativo
+- **-prem** /ˈ-prem/ *(affix)* — actitudinal: amor
+- **-rak** /ˈ-rak/ *(affix)* — actitudinal: destierro, abjuración (coercitivo-abjurativo)
+- **-rakh** /ˈ-rax/ *(affix)* — actitudinal: deseo
+- **-rakham** /-ˈra.xam/ *(affix)* — actitudinal: compasión
+- **-ran** /ˈ-ran/ *(affix)* — actitudinal: ruego, invocación respetuosa (precativo)
+- **-rap** /ˈ-rap/ *(affix)* — actitudinal: atadura, ligadura ritual (coercitivo-vinculante)
+- **-ras** /ˈras/ *(affix)* — actitudinal: pasion, entusiasmo
+- **-sakan** /-ˈsa.kan/ *(affix)* — actitudinal: serenidad
+- **-salam** /-ˈsa.lam/ *(affix)* — actitudinal: paz
+- **-shant** /ˈ-ʃant/ *(affix)* — actitudinal: calma
+- **-shaukh** /-ˈʃa.ux/ *(affix)* — actitudinal: anhelo
+- **-shok** /ˈ-ʃok/ *(affix)* — actitudinal: tristeza
+- **-shukur** /-ˈʃu.kur/ *(affix)* — actitudinal: gratitud
+- **-sik** /ˈ-sik/ *(affix)* — actitudinal: silencio gnostico
+- **-som** /ˈsom/ *(affix)* — actitudinal: fisico (cuerpo)
+- **-sop** /ˈ-sop/ *(affix)* — actitudinal: sabiduria profunda (gnosis)
+- **-takh** /ˈ-tax/ *(affix)* — actitudinal: sorpresa
+- **-tax** /ˈtax/ *(affix)* — actitudinal: intensidad (enfatico)
+- **-tup** /ˈ-tup/ *(affix)* — actitudinal: desafio (coercitivo-desafiante)
+- **-viras** /-ˈwi.ras/ *(affix)* — actitudinal: disgusto
+- **-vismay** /-ˈwis.maj/ *(affix)* — actitudinal: asombro
+- **-wah** /ˈwah/ *(affix)* — actitudinal: revelado (revelacion)
+- **-wajat** /-ˈwa.dʒat/ *(affix)* — actitudinal: éxtasis
+- **-wil** /ˈwil/ *(affix)* — actitudinal: voluntad, determinacion
+- **-zal** /ˈ-zal/ *(affix)* — actitudinal: coraje
+- **-zir** /ˈzir/ *(affix)* — actitudinal: flujo (fluidez, continuidad)
 
 ## Anatomía y Cuerpo
 
-Partes del cuerpo, anatomía, líquidos corporales y sub-conceptos fisiológicos
+- **akip** /ˈa.kip/ *(noun)* — talón
+- **akshi** /ˈak.ʃi/ *(noun)* — ojo
+- **anda** /ˈan.da/ *(noun)* — huevo
+- **angsht** /ˈaŋ.ʃt/ *(noun)* — dedo
+- **antara** /ˈan.ta.ra/ *(noun)* — entranas/tripas
+- **apru** /ˈap.ru/ *(noun)* — ceja
+- **aqip** /ˈa.kip/ *(noun)* — tobillo
+- **aran** /ˈa.ran/ *(noun)* — codo
+- **arter** /ˈar.ter/ *(noun)* — arteria
+- **asthi** /ˈas.θi/ *(noun)* — hueso
+- **bashlam** /ˈbaʃ.lam/ *(noun)* — párpado
+- **blefar** /ˈble.far/ *(noun)* — pestaña
+- **dakru** /ˈda.kru/ *(noun)* — lágrima
+- **danta** /ˈdan.ta/ *(noun)* — diente
+- **flep** /ˈflep/ *(noun)* — vena
+- **glout** /ˈglo.ut/ *(noun)* — nalga
+- **gonos** /ˈgo.nos/ *(noun)* — semen
+- **gurzam** /ˈɡur.zam/ *(noun)* — garganta
+- **hasta** /ˈhas.ta/ *(noun)* — mano
+- **hidros** /ˈhi.dros/ *(noun)* — sudor
+- **kalya** /ˈka.lja/ *(noun)* — riñón
+- **kamar** /ˈka.mar/ *(noun)* — cintura
+- **kanta** /ˈkan.ta/ *(noun)* — cuello/pescuezo
+- **karna** /ˈkar.na/ *(noun)* — oreja/oido
+- **katamen** /ˈka.ta.men/ *(noun)* — menstruación
+- **kesha** /ˈke.ʃa/ *(noun)* — pelo/cabello
+- **khas** /ˈxas/ *(noun)* — cadera
+- **kholos** /ˈxo.los/ *(noun)* — bilis/hiel
+- **lap** /ˈlap/ *(noun)* — labio
+- **makhzir** /ˈmax.zir/ *(noun)* — cerebro
+- **mamsa** /ˈmam.sa/ *(noun)* — carne
+- **marmar** /ˈmar.mar/ *(noun)* — pupila
+- **maskhal** /ˈmas.xal/ *(noun)* — axila
+- **maza** /ˈma.za/ *(noun)* — pezón
+- **meda** /ˈme.da/ *(noun)* — grasa/manteca
+- **mekh** /ˈmex/ *(noun)* — estómago
+- **mestra** /ˈmes.tra/ *(noun)* — matriz/útero
+- **moch** /ˈmotʃ/ *(noun)* — muñeca
+- **mukha** /ˈmu.xa/ *(noun)* — boca
+- **mustak** /ˈmus.tak/ *(noun)* — bigote
+- **nakha** /ˈna.xa/ *(noun)* — una
+- **nar** /ˈnar/ *(noun)* — nervio
+- **nasa** /ˈna.sa/ *(noun)* — nariz
+- **om** /ˈom/ *(noun)* — hombro
+- **omfal** /ˈom.fal/ *(noun)* — ombligo
+- **ouron** /ˈo.u.ron/ *(noun)* — orina
+- **pada** /ˈpa.da/ *(noun)* — pie
+- **paksha** /ˈpak.ʃa/ *(noun)* — ala
+- **panka** /ˈpan.ka/ *(noun)* — pluma
+- **pirishtha** /ˈpi.riʃ.θa/ *(noun)* — espalda
+- **pogon** /ˈpo.gon/ *(noun)* — barba
+- **prosop** /ˈpro.sop/ *(noun)* — cara/rostro
+- **pucha** /ˈpu.tʃa/ *(noun)* — cola (de animal)
+- **rakhtar** /ˈrax.tar/ *(noun)* — muslo
+- **rakta** /ˈrak.ta/ *(noun)* — sangre
+- **rar** /ˈrar/ *(noun)* — intestino
+- **ridaya** /ˈri.da.ja/ *(noun)* — corazon
+- **rukhsar** /ˈrux.sar/ *(noun)* — mejilla
+- **sakh** /ˈsax/ *(noun)* — pantorrilla
+- **satra** /ˈsa.tra/ *(noun)* — pecho (tórax)
+- **seh** /ˈseh/ *(noun)* — frente
+- **shash** /ˈʃaʃ/ *(noun)* — pulmón
+- **shin** /ˈʃin/ *(noun)* — diente muela
+- **shira** /ˈʃi.ra/ *(noun)* — cabeza
+- **shiringa** /ˈʃi.ri.ŋa/ *(noun)* — cuerno
+- **siyal** /ˈsi.jal/ *(noun)* — saliva
+- **tarsar** /ˈtar.sar/ *(noun)* — músculo
+- **tenon** /ˈte.non/ *(noun)* — tendón
+- **thrix** /ˈθrix/ *(noun)* — vello corporal
+- **twacha** /ˈtwa.tʃa/ *(noun)* — piel/cuero
+- **udara** /ˈu.da.ra/ *(noun)* — vientre/barriga
+- **uras** /ˈu.ras/ *(noun)* — pecho/seno
+- **yakira** /ˈja.ki.ra/ *(noun)* — higado
+- **yanga** /ˈja.ŋa/ *(noun)* — pierna
+- **yanu** /ˈja.nu/ *(noun)* — rodilla
+- **yihwa** /ˈjih.wa/ *(noun)* — lengua (organo)
+- **zanakh** /ˈza.nax/ *(noun)* — mentón/barbilla
 
-| Kalfírvach | Forma final | IPA | Concepto |
-|-----------|-------------|-----|----------|
-| akip | akip | /ˈa.kip/ | talón |
-| akshi | akshi | /ˈak.ʃi/ | ojo |
-| anda | anda | /ˈan.da/ | huevo |
-| angsht | angsht | /ˈaŋ.ʃt/ | dedo |
-| antara | antara | /ˈan.ta.ra/ | entranas/tripas |
-| apru | apru | /ˈap.ru/ | ceja |
-| aran | aran | /ˈa.ran/ | codo |
-| arter | arter | /ˈar.ter/ | arteria |
-| asthi | asthi | /ˈas.θi/ | hueso |
-| aqip | aqip | /ˈa.kip/ | tobillo |
-| bashlam | bashlam | /ˈbaʃ.lam/ | párpado |
-| blefar | blefar | /ˈble.far/ | pestaña |
-| dakru | dakru | /ˈda.kru/ | lágrima |
-| danta | danta | /ˈdan.ta/ | diente |
-| flep | flep | /ˈflep/ | vena |
-| glout | glout | /ˈglo.ut/ | nalga |
-| gonos | gonos | /ˈgo.nos/ | semen |
-| gurzam | gurzam | /ˈɡur.zam/ | garganta |
-| hasta | hasta | /ˈhas.ta/ | mano |
-| hidros | hidros | /ˈhi.dros/ | sudor |
-| kalya | kalya | /ˈka.lja/ | riñón |
-| kamar | kamar | /ˈka.mar/ | cintura |
-| kanta | kanta | /ˈkan.ta/ | cuello/pescuezo |
-| karna | karna | /ˈkar.na/ | oreja/oido |
-| katamen | katamen | /ˈka.ta.men/ | menstruación |
-| kesha | kesha | /ˈke.ʃa/ | pelo/cabello |
-| khas | khas | /ˈxas/ | cadera |
-| kholos | kholos | /ˈxo.los/ | bilis/hiel |
-| lap | lap | /ˈlap/ | labio |
-| makhzir | makhzir | /ˈmax.zir/ | cerebro |
-| mamsa | mamsa | /ˈmam.sa/ | carne |
-| marmar | marmar | /ˈmar.mar/ | pupila |
-| maskhal | maskhal | /ˈmas.xal/ | axila |
-| maza | maza | /ˈma.za/ | pezón |
-| meda | meda | /ˈme.da/ | grasa/manteca |
-| mekh | mekh | /ˈmex/ | estómago |
-| mestra | mestra | /ˈmes.tra/ | matriz/útero |
-| moch | moch | /ˈmotʃ/ | muñeca |
-| mukha | mukha | /ˈmu.xa/ | boca |
-| mustak | mustak | /ˈmus.tak/ | bigote |
-| nakha | nakha | /ˈna.xa/ | una |
-| nar | nar | /ˈnar/ | nervio |
-| nasa | nasa | /ˈna.sa/ | nariz |
-| om | om | /ˈom/ | hombro |
-| omfal | omfal | /ˈom.fal/ | ombligo |
-| ouron | ouron | /ˈo.u.ron/ | orina |
-| pada | pada | /ˈpa.da/ | pie |
-| paksha | paksha | /ˈpak.ʃa/ | ala |
-| panka | panka | /ˈpan.ka/ | pluma |
-| pirishtha | pirishtha | /ˈpi.riʃ.θa/ | espalda |
-| pogon | pogon | /ˈpo.gon/ | barba |
-| prosop | prosop | /ˈpro.sop/ | cara/rostro |
-| pucha | pucha | /ˈpu.tʃa/ | cola (de animal) |
-| rakta | rakta | /ˈrak.ta/ | sangre |
-| rakhtar | rakhtar | /ˈrax.tar/ | muslo |
-| rar | rar | /ˈrar/ | intestino |
-| ridaya | ridaya | /ˈri.da.ja/ | corazon |
-| rukhsar | rukhsar | /ˈrux.sar/ | mejilla |
-| sakh | sakh | /ˈsax/ | pantorrilla |
-| satra | satra | /ˈsa.tra/ | pecho (tórax) |
-| seh | seh | /ˈseh/ | frente |
-| siyal | siyal | /ˈsi.jal/ | saliva |
-| shash | shash | /ˈʃaʃ/ | pulmón |
-| shin | shin | /ˈʃin/ | diente muela |
-| shira | shira | /ˈʃi.ra/ | cabeza |
-| shiringa | shiringa | /ˈʃi.ri.ŋa/ | cuerno |
-| tarsar | tarsar | /ˈtar.sar/ | músculo |
-| tenon | tenon | /ˈte.non/ | tendón |
-| twacha | twacha | /ˈtwa.tʃa/ | piel/cuero |
-| thrix | thrix | /ˈθrix/ | vello corporal |
-| udara | udara | /ˈu.da.ra/ | vientre/barriga |
-| uras | uras | /ˈu.ras/ | pecho/seno |
-| yakira | yakira | /ˈja.ki.ra/ | higado |
-| yanga | yanga | /ˈja.ŋa/ | pierna |
-| yanu | yanu | /ˈja.nu/ | rodilla |
-| yihwa | yihwa | /ˈjih.wa/ | lengua (organo) |
-| zanakh | zanakh | /ˈza.nax/ | mentón/barbilla |
+## Animales
 
-## Verbos Básicos
-
-Acciones fisiologicas, movimiento y verbos cotidianos
-
-| Kalfírvach | Forma final | IPA | Concepto |
-|-----------|-------------|-----|----------|
-| ada | ada | /ˈa.da/ | comer |
-| ajula | ajula | /ˈa.ju.la/ | apresurarse |
-| akarsha | akarsha | /ˈa.kar.ʃa/ | tirar/jalar |
-| ananka | ananka | /ˈa.nan.ka/ | necesitar/tener que |
-| aya | aya | /ˈa.ja/ | venir |
-| baga | baga | /ˈba.ga/ | rajar/dividir |
-| baklē | baklē | /ˈba.kleː/ | advertir |
-| banda | banda | /ˈban.da/ | atar/amarrar |
-| barza | barza | /ˈbar.za/ | cruzar |
-| bas | bas | /ˈbas/ | parar |
-| baya | baya | /ˈba.ja/ | temer/tener miedo |
-| bepēp | bepēp | /ˈbe.peːp/ | pulir |
-| bechke | bechke | /ˈbetʃ.ke/ | visualizar |
-| biūl | biūl | /ˈbi.uːl/ | crecer |
-| byal | byal | /ˈbjal/ | decidir |
-| byokh | byokh | /ˈbjox/ | sonreír |
-| bīk | bīk | /ˈbiːk/ | tallar |
-| būkhō | būkhō | /ˈbuː.xoː/ | hornear |
-| bēch | bēch | /ˈbeːtʃ/ | fermentar |
-| bīchūp | bīchūp | /ˈbiː.tʃuːp/ | cosechar |
-| dakhal | dakhal | /ˈda.xal/ | entrar |
-| danash | danash | /ˈda.naʃ/ | morder |
-| dapzaī | dapzaī | /ˈdap.za.iː/ | permitir |
-| dara | dara | /ˈda.ra/ | sostener/tener |
-| de | de | /ˈde/ | dar |
-| delwus | delwus | /ˈde.lwus/ | impedir |
-| deya | deya | /ˈde.ja/ | deber/tener obligación |
-| dech | dech | /ˈdetʃ/ | planificar |
-| dhawa | dhawa | /ˈða.wa/ | correr |
-| dirish | dirish | /ˈdi.riʃ/ | ver |
-| duhna | duhna | /ˈduh.na/ | comenzar |
-| dun | dun | /ˈdun/ | dar, ofrecer, entregar |
-| duna | duna | /ˈdu.na/ | poder/tener capacidad |
-| dēk | dēk | /ˈdeːk/ | crear |
-| dārchē | dārchē | /ˈdaːr.tʃeː/ | forzar |
-| dzehmi | dzehmi | /ˈʣeh.mi/ | encoger |
-| dziywū | dziywū | /ˈʣij.wuː/ | agradecer |
-| dzun | dzun | /ˈʣun/ | forjar |
-| dzutāp | dzutāp | /ˈʣu.taːp/ | tratar |
-| dzyūnā | dzyūnā | /ˈʣjuː.naː/ | contraer |
-| dzālo | dzālo | /ˈʣaː.lo/ | sincronizar |
-| dzēzēp | dzēzēp | /ˈʣeː.zeːp/ | rasgar |
-| ekhra | ekhra | /ˈe.xra/ | salir |
-| fap | fap | /ˈfap/ | plegar |
-| fasī | fasī | /ˈfa.siː/ | investigar |
-| fatshē | fatshē | /ˈfa.tʃeː/ | posponer |
-| fes | fes | /ˈfes/ | observar |
-| fira | fira | /ˈfi.ra/ | huir/escapar |
-| fitha | fitha | /ˈfi.θa/ | celebrar |
-| fiywo | fiywo | /ˈfij.wo/ | practicar |
-| fu | fu | /ˈfu/ | soplar |
-| fweros | fweros | /ˈfwe.ros/ | tejer |
-| fīkhā | fīkhā | /ˈfiː.xaː/ | despedir |
-| fūmkē | fūmkē | /ˈfuːm.keː/ | transformar |
-| fāp | fāp | /ˈfaːp/ | arriesgar |
-| fēu | fēu | /ˈfeː.u/ | enseñar |
-| fōchbō | fōchbō | /ˈfoːtʃ.boː/ | desplegar |
-| gana | gana | /ˈga.na/ | contar |
-| garda | garda | /ˈgar.da/ | rodar |
-| gashgī | gashgī | /ˈgaʃ.giː/ | hacer |
-| gaya | gaya | /ˈga.ja/ | cantar |
-| gacha | gacha | /ˈga.tʃa/ | caminar/andar |
-| gnotha | gnotha | /ˈgno.θa/ | saber (cómo) / tener conocimiento |
-| gomēch | gomēch | /ˈgo.meːtʃ/ | romper |
-| gīkhe | gīkhe | /ˈgiː.xe/ | imaginar |
-| gūp | gūp | /ˈguːp/ | comerciar |
-| gīra | gīra | /ˈgiː.ra/ | desafiar |
-| ghara | ghara | /ˈɣa.ra/ | oler |
-| gharka | gharka | /ˈɣar.ka/ | hundirse/sumergirse |
-| gharsha | gharsha | /ˈɣar.ʃa/ | frotar/estregar |
-| ghip | ghip | /ˈɣip/ | saludar |
-| ghyefu | ghyefu | /ˈɣje.fu/ | esperar |
-| ghyupu | ghyupu | /ˈɣju.pu/ | airear |
-| ghētāk | ghētāk | /ˈɣeː.taːk/ | desatar |
-| hadzya | hadzya | /ˈha.ʣja/ | luchar |
-| halasa | halasa | /ˈha.la.sa/ | soltar/dejar ir |
-| hamila | hamila | /ˈha.mi.la/ | llevar/transportar |
-| hana | hana | /ˈha.na/ | matar |
-| hap | hap | /ˈhap/ | fallar |
-| hasa | hasa | /ˈha.sa/ | reir |
-| herpa | herpa | /ˈher.pa/ | arrastrarse |
-| hidi | hidi | /ˈhi.di/ | moldear |
-| hofē | hofē | /ˈho.feː/ | brillar |
-| hukhūh | hukhūh | /ˈhu.xuːh/ | mirar fijo |
-| hādu | hādu | /ˈhaː.du/ | tomar prestado |
-| hēfo | hēfo | /ˈheː.fo/ | retorcer |
-| ikmīp | ikmīp | /ˈik.miːp/ | asomarse |
-| imkhō | imkhō | /ˈim.xoː/ | olvidar |
-| ir | ir | /ˈir/ | expandir |
-| irwīkh | irwīkh | /ˈi.rwiːx/ | atar |
-| ithi | ithi | /ˈi.θi/ | chispear |
-| ich | ich | /ˈitʃ/ | querer, desear, anhelar |
-| icha | icha | /ˈi.tʃa/ | querer/desear |
-| kadhā | kadhā | /ˈka.ðaː/ | sollozar |
-| kasha | kasha | /ˈka.ʃa/ | aranhar/rascar |
-| kashala | kashala | /ˈka.ʃa.la/ | lavar |
-| kashipa | kashipa | /ˈka.ʃi.pa/ | tirar/lanzar |
-| katdhi | katdhi | /ˈkat.ði/ | susurrar |
-| kipta | kipta | /ˈkip.ta/ | agacharse/inclinarse |
-| kirida | kirida | /ˈki.ri.da/ | jugar |
-| kithō | kithō | /ˈki.θoː/ | existir |
-| kuntyu | kuntyu | /ˈkun.tju/ | lijar |
-| kyēs | kyēs | /ˈkjeːs/ | llorar |
-| kānyā | kānyā | /ˈkaː.njaː/ | proponer |
-| kīr | kīr | /ˈkiːr/ | obligar |
-| kāsfyō | kāsfyō | /ˈkaːs.fjoː/ | desenvolver |
-| kūsh | kūsh | /ˈkuːʃ/ | curar |
-| khana | khana | /ˈxa.na/ | cavar |
-| khapa | khapa | /ˈxa.pa/ | esconderse/ocultarse |
-| khinyī | khinyī | /ˈxi.njiː/ | convenir |
-| khwowa | khwowa | /ˈxwo.wa/ | jurar |
-| khyohe | khyohe | /ˈxjo.he/ | deber |
-| khyīch | khyīch | /ˈxjiːtʃ/ | invitar |
-| khābīr | khābīr | /ˈxaː.biːr/ | vender |
-| khāfē | khāfē | /ˈxaː.feː/ | gritar |
-| khānīs | khānīs | /ˈxaː.niːs/ | segar |
-| khācha | khācha | /ˈxaː.tʃa/ | ungir |
-| langa | langa | /ˈla.ŋa/ | saltar |
-| lekhtu | lekhtu | /ˈlex.tu/ | necesitar |
-| lighza | lighza | /ˈliɣ.za/ | deslizarse |
-| lodzwē | lodzwē | /ˈlo.ʣweː/ | terminar |
-| loē | loē | /ˈlo.eː/ | aprovechar |
-| lwe | lwe | /ˈlwe/ | merecer |
-| lwuwī | lwuwī | /ˈlwu.wiː/ | cantar ritual |
-| lēfōī | lēfōī | /ˈleː.foː.iː/ | aprender |
-| līkhū | līkhū | /ˈliː.xuː/ | enojarse |
-| madada | madada | /ˈma.da.da/ | estirarse |
-| mar | mar | /ˈmar/ | morir, extinguirse, cesar |
-| mara | mara | /ˈma.ra/ | morir |
-| mibōm | mibōm | /ˈmi.boːm/ | germinar |
-| miriga | miriga | /ˈmi.ri.ga/ | cazar |
-| mok | mok | /ˈmok/ | preparar |
-| mwōp | mwōp | /ˈmwoːp/ | elegir |
-| mēr | mēr | /ˈmeːr/ | aconsejar |
-| mūsēbū | mūsēbū | /ˈmuː.seː.buː/ | tararear |
-| mīsh | mīsh | /ˈmiːʃ/ | preguntar |
-| mōch | mōch | /ˈmoːtʃ/ | apagar |
-| napalū | napalū | /ˈna.pa.luː/ | encender |
-| nava | nava | /ˈna.wa/ | navegar, cruzar aguas, atravesar |
-| nacha | nacha | /ˈna.tʃa/ | bailar |
-| nerām | nerām | /ˈne.raːm/ | reír |
-| nop | nop | /ˈnop/ | responder |
-| nuta | nuta | /ˈnu.ta/ | empujar |
-| nōakō | nōakō | /ˈnoː.a.koː/ | causar |
-| nēgā | nēgā | /ˈneː.gaː/ | espiar |
-| nīhpū | nīhpū | /ˈniːh.puː/ | regalar |
-| nūswom | nūswom | /ˈnuː.swom/ | saborear |
-| nēzu | nēzu | /ˈneː.zu/ | gemir |
-| ofmō | ofmō | /ˈof.moː/ | pausar |
-| parana | parana | /ˈpa.ra.na/ | respirar |
-| parpa | parpa | /ˈpar.pa/ | agarrar/alcanzar |
-| pata | pata | /ˈpa.ta/ | volar |
-| pati | pati | /ˈpa.ti/ | caer |
-| pazwīh | pazwīh | /ˈpaz.wiːh/ | apresurar |
-| piba | piba | /ˈpi.ba/ | beber/tomar |
-| pida | pida | /ˈpi.da/ | apretar/exprimir |
-| pilawa | pilawa | /ˈpi.la.wa/ | flotar |
-| pom | pom | /ˈpom/ | honrar |
-| pothā | pothā | /ˈpo.θaː/ | centellear |
-| pyīr | pyīr | /ˈpjiːr/ | prestar |
-| pādzō | pādzō | /ˈpaː.ʣoː/ | suspirar |
-| pākh | pākh | /ˈpaːx/ | triturar |
-| pōch | pōch | /ˈpoːtʃ/ | pagar |
-| rashe | rashe | /ˈra.ʃe/ | autorizar |
-| rat | rat | /ˈrat/ | brillar, resplandecer, irradiar |
-| rep | rep | /ˈrep/ | repetir |
-| rechep | rechep | /ˈre.tʃep/ | podar |
-| rodil | rodil | /ˈro.dil/ | calmar |
-| roha | roha | /ˈro.ha/ | gatear/trepar |
-| ryēlo | ryēlo | /ˈrjeː.lo/ | continuar |
-| rēdyē | rēdyē | /ˈreː.djeː/ | envolver |
-| rūpe | rūpe | /ˈruː.pe/ | vendar |
-| rūt | rūt | /ˈruːt/ | disculparse |
-| rīch | rīch | /ˈriːtʃ/ | cesar |
-| sada | sada | /ˈsa.da/ | sentarse |
-| safar | safar | /ˈsa.far/ | viajar |
-| sakata | sakata | /ˈsa.ka.ta/ | tropezar |
-| sakhu | sakhu | /ˈsa.xu/ | oler |
-| sarana | sarana | /ˈsa.ra.na/ | vagar/deambular |
-| satha | satha | /ˈsa.θa/ | estar de pie/pararse |
-| sirawa | sirawa | /ˈsi.ra.wa/ | fluir/correr (agua) |
-| siwa | siwa | /ˈsi.wa/ | coser |
-| swapna | swapna | /ˈswap.na/ | dormir |
-| shaya | shaya | /ˈʃa.ja/ | echarse/acostarse |
-| ship | ship | /ˈʃip/ | ordenar |
-| shithiwa | shithiwa | /ˈʃi.θi.wa/ | escupir |
-| shuda | shuda | /ˈʃu.da/ | limpiar |
-| shuru | shuru | /ˈʃu.ru/ | oir/escuchar |
-| shwa | shwa | /ˈʃwa/ | hincharse |
-| tada | tada | /ˈta.da/ | golpear/pegar |
-| talaba | talaba | /ˈta.la.ba/ | seguir/perseguir |
-| talwa | talwa | /ˈta.lwa/ | balancearse/columpiarse |
-| tara | tara | /ˈta.ra/ | nadar |
-| tefūk | tefūk | /ˈte.fuːk/ | maldecir |
-| teē | teē | /ˈte.eː/ | diseñar |
-| tii | tii | /ˈti.i/ | doblar |
-| tofō | tofō | /ˈto.foː/ | regar |
-| tolma | tolma | /ˈtol.ma/ | osar/atreverse |
-| tor | tor | /ˈtor/ | inventar |
-| tumā | tumā | /ˈtu.maː/ | frotar |
-| tōdā | tōdā | /ˈtoː.daː/ | bendecir |
-| tīī | tīī | /ˈtiː.iː/ | diagnosticar |
-| thalo | thalo | /ˈθa.lo/ | convertir |
-| thī | thī | /ˈθiː/ | escuchar |
-| tswu | tswu | /ˈtswu/ | barrer |
-| udgama | udgama | /ˈud.ga.ma/ | emerger/surgir |
-| ugi | ugi | /ˈu.gi/ | lograr |
-| waghyā | waghyā | /ˈwaɣ.jaː/ | ordenar |
-| wami | wami | /ˈwa.mi/ | vomitar |
-| wacha | wacha | /ˈwa.tʃa/ | decir/hablar |
-| wida | wida | /ˈwi.da/ | apunhalar/clavar |
-| wiri | wiri | /ˈwi.ri/ | volver/girar |
-| wornōp | wornōp | /ˈwor.noːp/ | destrozar |
-| wukdhe | wukdhe | /ˈwuk.ðe/ | comprar |
-| wōp | wōp | /ˈwoːp/ | reparar |
-| yadahā | yadahā | /ˈja.da.haː/ | persistir |
-| yafdze | yafdze | /ˈjaf.ʣe/ | prohibir |
-| yana | yana | /ˈja.na/ | saber/conocer |
-| yine | yine | /ˈji.ne/ | afeitarse |
-| yiwa | yiwa | /ˈji.wa/ | vivir |
-| yoūs | yoūs | /ˈjo.uːs/ | reanudar |
-| yuda | yuda | /ˈju.da/ | pelear/combatir |
-| yū | yū | /ˈjuː/ | atreverse |
-| yōdzyā | yōdzyā | /ˈjoː.ʣjaː/ | limpiar |
-| yūfrē | yūfrē | /ˈjuː.freː/ | tender |
-| yēkhoē | yēkhoē | /ˈjeː.xo.eː/ | recoger |
-| yārā | yārā | /ˈjaː.raː/ | bañarse |
-| zihi | zihi | /ˈzi.hi/ | habilitar |
-| zoshpō | zoshpō | /ˈzoʃ.poː/ | intentar |
-| zwisru | zwisru | /ˈzwis.ru/ | cultivar |
-| zānoch | zānoch | /ˈzaː.notʃ/ | degustar |
-| zōrna | zōrna | /ˈzoːr.na/ | cocinar |
-| zīssyō | zīssyō | /ˈziːss.joː/ | sembrar |
-| ūfo | ūfo | /ˈuː.fo/ | recordar |
-| chal | chal | /ˈtʃal/ | moverse, desplazarse, andar |
-| chida | chida | /ˈtʃi.da/ | cortar |
-| chikhū | chikhū | /ˈtʃi.xuː/ | prometer |
-| chinta | chinta | /ˈtʃin.ta/ | pensar |
-| chuwa | chuwa | /ˈtʃu.wa/ | chupar |
-| āktīp | āktīp | /ˈaːk.tiːp/ | abonar |
-| ānō | ānō | /ˈaː.noː/ | estudiar |
-| ēnē | ēnē | /ˈeː.neː/ | memorizar |
-| ūtīkūm | ūtīkūm | /ˈuː.tiː.kuːm/ | ensamblar |
-
-## Naturaleza y Elementos
-
-Astros, fenomenos naturales y elementos
-
-| Kalfírvach | Forma final | IPA | Concepto |
-|-----------|-------------|-----|----------|
-| apa | apa | /ˈa.pa/ | agua |
-| barkhas | barkhas | /ˈbar.xas/ | relámpago |
-| basma | basma | /ˈbas.ma/ | ceniza |
-| bumi | bumi | /ˈbu.mi/ | tierra (suelo) |
-| burkan | burkan | /ˈbur.kan/ | volcán, montaña de fuego |
-| dah | dah | /ˈdah/ | quemar |
-| dip | dip | /ˈdip/ | isla, ínsula |
-| diwa | diwa | /ˈdi.wa/ | cielo |
-| duli | duli | /ˈdu.li/ | polvo |
-| duma | duma | /ˈdu.ma/ | humo |
-| fir | fir | /ˈfir/ | fuego |
-| gir | gir | /ˈgir/ | montaña, monte, elevación rocosa |
-| giyah | giyah | /ˈɡi.jah/ | pasto/hierba |
-| guh | guh | /ˈguh/ | cueva, caverna, gruta |
-| ghas | ghas | /ˈɣas/ | pastizal, sabana, pradera |
-| ghat | ghat | /ˈɣat/ | valle, cañada, depresión |
-| ghor | ghor | /ˈɣor/ | barranco, abismo, precipicio, sima |
-| ghuras | ghuras | /ˈɣu.ras/ | atardecer |
-| harada | harada | /ˈha.ra.da/ | lago |
-| him | him | /ˈhim/ | hielo |
-| hima | hima | /ˈhi.ma/ | nieve, helar, congelar |
-| jas | jas | /ˈjas/ | isla |
-| kanan | kanan | /ˈka.nan/ | selva, jungla, monte espeso |
-| kash | kash | /ˈkaʃ/ | costa, orilla, litoral |
-| khamzir | khamzir | /ˈxam.zir/ | arcoíris |
-| khan | khan | /ˈxan/ | cañón, garganta, desfiladero |
-| khir | khir | /ˈxir/ | bosque |
-| lona | lona | /ˈlo.na/ | sal |
-| mauj | mauj | /ˈma.uj/ | ola |
-| megha | megha | /ˈme.ɣa/ | nube |
-| mukh | mukh | /ˈmux/ | bahía, ensenada, golfo pequeño |
-| nat | nat | /ˈnat/ | río, corriente de agua |
-| nihar | nihar | /ˈni.har/ | niebla |
-| nur | nur | /ˈnur/ | luz, claridad, iluminación |
-| parzam | parzam | /ˈpar.zam/ | fruta |
-| pawan | pawan | /ˈpa.wan/ | viento |
-| pet | pet | /ˈpet/ | llanura, planicie, campo abierto |
-| radar | radar | /ˈra.dar/ | trueno |
-| rish | rish | /ˈriʃ/ | raíz |
-| rúng | rúng | /ˈruŋ/ | energía vital/viento |
-| sagar | sagar | /ˈsa.gar/ | océano profundo, alta mar, abismo marino |
-| sah | sah | /ˈsah/ | desierto, yermo, árido |
-| sahrah | sahrah | /ˈsah.rah/ | desierto |
-| sakh | sakh | /ˈsax/ | campo |
-| samuda | samuda | /ˈsa.mu.da/ | mar |
-| samut | samut | /ˈsa.mut/ | mar, océano, gran masa de agua |
-| sant | sant | /ˈsant/ | estrecho, paso angosto, canal |
-| sar | sar | /ˈsar/ | lago, laguna, espejo de agua |
-| sika | sika | /ˈsi.ka/ | arena |
-| sota | sota | /ˈso.ta/ | rio |
-| surya | surya | /ˈsu.rja/ | sol |
-| shakh | shakh | /ˈʃax/ | rama |
-| shal | shal | /ˈʃal/ | cascada, salto de agua, catarata |
-| shap | shap | /ˈʃap/ | costa/orilla |
-| shaprak | shaprak | /ˈʃap.rak/ | amanecer |
-| sher | sher | /ˈʃer/ | cordillera, sierra, cadena montañosa |
-| shikh | shikh | /ˈʃix/ | pico, cumbre, cima |
-| shila | shila | /ˈʃi.la/ | piedra |
-| shinshar | shinshar | /ˈʃin.ʃar/ | árbol |
-| takham | takham | /ˈta.xam/ | semilla |
-| tal | tal | /ˈtal/ | colina |
-| tara | tara | /ˈta.ra/ | estrella |
-| thil | thil | /ˈθil/ | colina, loma, altozano |
-| wakhi | wakhi | /ˈwak.hi/ | valle |
-| walgar | walgar | /ˈwal.ɡar/ | hoja |
-| wana | wana | /ˈwa.na/ | bosque, arboleda, floresta |
-| war | war | /ˈwar/ | flor |
-| warsha | warsha | /ˈwar.ʃa/ | lluvia |
-| zal | zal | /ˈzal/ | sombra |
-| chandara | chandara | /ˈtʃan.da.ra/ | luna |
-
-## Conceptos Espaciales y Calidades
-
-Colores, cualidades y conceptos espaciales
-
-| Kalfírvach | Forma final | IPA | Concepto |
-|-----------|-------------|-----|----------|
-| antar | antar | /ˈan.tar/ | en/dentro de |
-| antár | antár | /anˈtar/ | dentro, adentro (locativo) |
-| atiksha | atiksha | /ˈa.ti.kʃa/ | romo/embotado |
-| atísh | atísh | /ˈa.tiʃ/ | demasiado, excesivamente (exceso) |
-| bahí | bahí | /baˈhi/ | fuera, afuera (locativo) |
-| dakshina | dakshina | /ˈdak.ʃi.na/ | derecha |
-| dina | dina | /ˈdi.na/ | dia |
-| dura | dura | /ˈdu.ra/ | lejos |
-| giri | giri | /ˈgi.ri/ | montana |
-| harita | harita | /ˈha.ri.ta/ | verde |
-| kala | kala | /ˈka.la/ | negro |
-| káp | káp | /ˈkap/ | bastante, suficiente (suficiencia) |
-| kuna | kuna | /ˈku.na/ | podrido |
-| lav | lav | /ˈlaw/ | poco, apenas (atenuador) |
-| mala | mala | /ˈma.la/ | sucio |
-| manas | manas | /ˈma.nas/ | mente, psique, facultad mental |
-| nawa | nawa | /ˈna.wa/ | nuevo |
-| nukh | nukh | /ˈnux/ | sabiduría, conocimiento esotérico |
-| pantha | pantha | /ˈpan.θa/ | camino/via |
-| papa | papa | /ˈpa.pa/ | malo |
-| pita | pita | /ˈpi.ta/ | amarillo |
-| puran | puran | /ˈpu.ran/ | viejo |
-| purna | purna | /ˈpur.na/ | lleno |
-| rakta | rakta | /ˈrak.ta/ | rojo |
-| ratiri | ratiri | /ˈra.ti.ri/ | noche |
-| rit | rit | /ˈrit/ | orden cósmico, ciclo, rita |
-| riyu | riyu | /ˈri.ju/ | recto/derecho |
-| sadu | sadu | /ˈsa.du/ | bueno |
-| sah | sah | /ˈsah/ | con |
-| saha | saha | /ˈsa.ha/ | en/a/junto a |
-| sami | sami | /ˈsa.mi/ | cerca |
-| samwa | samwa | /ˈsa.mwa/ | anho |
-| satya | satya | /ˈsa.tja/ | correcto/verdadero |
-| sháyat | sháyat | /ˈʃa.jat/ | quizas, tal vez (dubitativo) |
-| shilak | shilak | /ˈʃi.lak/ | liso/suave |
-| shita | shita | /ˈʃi.ta/ | frío, invierno |
-| shushka | shushka | /ˈʃuʃ.ka/ | seco |
-| shweta | shweta | /ˈʃwe.ta/ | blanco |
-| tiksha | tiksha | /ˈtik.ʃa/ | afilado/agudo |
-| tina | tina | /ˈti.na/ | humedo/mojado |
-| tís | tís | /ˈtis/ | muy (intensificador positivo) |
-| thel | thel | /ˈθel/ | voluntad, intención consciente |
-| thes | thes | /ˈθes/ | acto de voluntad, acción volitiva |
-| ushna | ushna | /ˈuʃ.na/ | caliente/calido |
-| wama | wama | /ˈwa.ma/ | izquierda |
-| wirita | wirita | /ˈwi.ri.ta/ | redondo |
-
-## Conjunciones y Partículas
-
-Conjunciones, particulas gramaticales y verbo copulativo
-
-| Kalfírvach | Forma final | IPA | Concepto |
-|-----------|-------------|-----|----------|
-| as | as | /ˈas/ | cópula (ser/estar) |
-| ár | ár | /ˈar/ | aunque, a pesar de (adversativa) |
-| ét | ét | /ˈet/ | precisamente, exactamente (precision) |
-| hán | hán | /ˈhan/ | pues bien, ahora (inicio discursivo) |
-| hát | hát | /ˈhat/ | hasta que (temporal final) |
-| kar | kar | /ˈkar/ | porque (conjunción causal) |
-| kás | kás | /ˈkas/ | para que, a fin de que (final) |
-| kát | kát | /ˈkat/ | dicen que, se dice (citativo) |
-| lám | lám | /ˈlam/ | de ningun modo (negacion enfatica) |
-| máh | máh | /ˈmah/ | en verdad, ciertamente (enfasis) |
-| mét | mét | /ˈmet/ | despues de que (temporal posterior) |
-| o | o | /ˈo/ | vocativo, partícula de invocación |
-| pári | pári | /ˈpa.ri/ | antes de que (temporal anterior) |
-| sáma | sáma | /ˈsa.ma/ | tan...como (equativo) |
-| súm | súm | /ˈsum/ | en resumen, asi pues (conclusion) |
-| tát | tát | /ˈtat/ | por lo tanto, entonces (consecutiva) |
-| tés | tés | /ˈtes/ | mientras (simultaneo) |
-| ti | ti | /ˈti/ | que (complementizante) |
-| tu | tu | /ˈtu/ | pero (conjunción adversativa) |
-| va | va | /ˈwa/ | o (conjunción disyuntiva) |
-| wá | wá | /ˈwa/ | mientras que, en cambio (contraste) |
-| wáy | wáy | /ˈwaj/ | por otra parte, ademas (transicion) |
-| yas | yas | /ˈjas/ | si (condicional) |
-| yat | yat | /ˈjat/ | si (condicional) |
-| cha | cha | /ˈtʃa/ | y (conjunción) |
-
-## Actitudinales y Evidenciales
-
-Sufijos actitudinales rituales y emocionales
-
-| Kalfírvach | Forma final | IPA | Concepto |
-|-----------|-------------|-----|----------|
-| -ajap | -ajap | /-ˈa.jap/ | actitudinal: asombro (maravilla) |
-| -aman | -aman | /-ˈa.man/ | actitudinal: confianza |
-| -anu | -anu | /ˈa.nu/ | actitudinal: inferido (evidencial inferencial) |
-| -ast | -ast | /ˈast/ | actitudinal: astral |
-| -basham | -basham | /-ˈba.ʃam/ | actitudinal: vergüenza |
-| -bay | -bay | /ˈ-baj/ | actitudinal: miedo |
-| -e | -e | /ˈe/ | actitudinal: visual (testigo visual) |
-| -elpis | -elpis | /-ˈel.pis/ | actitudinal: esperanza |
-| -ghiras | -ghiras | /-ˈɣi.ras/ | actitudinal: envidia |
-| -hék | -hék | /-ˈhek/ | actitudinal: autoridad hierática (sello ritual) |
-| -kal | -kal | /ˈkal/ | actitudinal: hipotetico |
-| -krot | -krot | /ˈ-krot/ | actitudinal: ira |
-| -khamar | -khamar | /-ˈxa.mar/ | actitudinal: melancolía |
-| -nam | -nam | /ˈnam/ | actitudinal: reverencia (venerativo) |
-| -nant | -nant | /ˈ-nant/ | actitudinal: alegría |
-| -nos | -nos | /ˈ-nos/ | actitudinal: nostalgia |
-| -on | -on | /ˈon/ | actitudinal: onirico |
-| -poi | -poi | /ˈpoi/ | actitudinal: performativo |
-| -prem | -prem | /ˈ-prem/ | actitudinal: amor |
-| -rak | -rak | /ˈ-rak/ | actitudinal: destierro, abjuración (coercitivo-abjurativo) |
-| -rakh | -rakh | /ˈ-rax/ | actitudinal: deseo |
-| -rakham | -rakham | /-ˈra.xam/ | actitudinal: compasión |
-| -ran | -ran | /ˈ-ran/ | actitudinal: ruego, invocación respetuosa (precativo) |
-| -rap | -rap | /ˈ-rap/ | actitudinal: atadura, ligadura ritual (coercitivo-vinculante) |
-| -ras | -ras | /ˈras/ | actitudinal: pasion, entusiasmo |
-| -sakan | -sakan | /-ˈsa.kan/ | actitudinal: serenidad |
-| -salam | -salam | /-ˈsa.lam/ | actitudinal: paz |
-| -sik | -sik | /ˈ-sik/ | actitudinal: silencio gnostico |
-| -som | -som | /ˈsom/ | actitudinal: fisico (cuerpo) |
-| -sop | -sop | /ˈ-sop/ | actitudinal: sabiduria profunda (gnosis) |
-| -shant | -shant | /ˈ-ʃant/ | actitudinal: calma |
-| -shaukh | -shaukh | /-ˈʃa.ux/ | actitudinal: anhelo |
-| -shok | -shok | /ˈ-ʃok/ | actitudinal: tristeza |
-| -shukur | -shukur | /-ˈʃu.kur/ | actitudinal: gratitud |
-| -takh | -takh | /ˈ-tax/ | actitudinal: sorpresa |
-| -tax | -tax | /ˈtax/ | actitudinal: intensidad (enfatico) |
-| -tup | -tup | /ˈ-tup/ | actitudinal: desafio (coercitivo-desafiante) |
-| -viras | -viras | /-ˈwi.ras/ | actitudinal: disgusto |
-| -vismay | -vismay | /-ˈwis.maj/ | actitudinal: asombro |
-| -wah | -wah | /ˈwah/ | actitudinal: revelado (revelacion) |
-| -wajat | -wajat | /-ˈwa.dʒat/ | actitudinal: éxtasis |
-| -wil | -wil | /ˈwil/ | actitudinal: voluntad, determinacion |
-| -zal | -zal | /ˈ-zal/ | actitudinal: coraje |
-| -zir | -zir | /ˈzir/ | actitudinal: flujo (fluidez, continuidad) |
-
-## Magia y Mitología
-
-Terminos esotericos, magicos y mitologicos originales
-
-| Kalfírvach | Forma final | IPA | Concepto |
-|-----------|-------------|-----|----------|
-| ainakos | ainakos | /ˈa.i.na.kos/ | Espejo del Mundo |
-| aither | aither | /ˈa.i.θer/ | plano etérico / energía vital |
-| altara | altara | /ˈal.ta.ra/ | altar (mesa o piedra de ofrenda) |
-| anrak | anrak | /ˈan.rak/ | desterrar (verbo ritual) |
-| anus | anus | /ˈa.nus/ | inconsciente |
-| astara | astara | /ˈas.ta.ra/ | plano astral / emociones |
-| atma | atma | /ˈat.ma/ | plano espiritual / átmico |
-| atyata | atyata | /ˈat.ja.ta/ | Templo Interior |
-| athama | athama | /ˈa.θa.ma/ | athame, daga ritual |
-| ásha | ásha | /ˈa.ʃa/ | verdad/orden cósmico |
-| áyna | áyna | /ˈaj.na/ | espejo |
-| bá | bá | /ˈba/ | espiento/aliado |
-| bárzakh | bárzakh | /ˈbar.zax/ | barrera/istmo |
-| bewīs | bewīs | /ˈbe.wiːs/ | sellar (cerrar portal) - verbo ritual v1.2 |
-| binwī | binwī | /ˈbi.nwiː/ | proteger (poner resguardo) - verbo ritual v1.2 |
-| bíndu | bíndu | /ˈbin.du/ | punto central/esencia |
-| bomkan | bomkan | /ˈbom.kan/ | Altar primordial |
-| buda | buda | /ˈbu.da/ | plano mental superior / búdico |
-| darmut | darmut | /ˈdar.mut/ | Puerta Sellada |
-| dár | dár | /ˈdar/ | umbral/portal |
-| dáyena | dáyena | /ˈda.je.na/ | conciencia interior |
-| díksha | díksha | /ˈdik.ʃa/ | iniciación |
-| druma | druma | /ˈdru.ma/ | Árbol del Mundo |
-| dze | dze | /ˈʣe/ | purificar ritual (limpiar energético) - verbo ritual v1.2 |
-| fír | fír | /ˈfir/ | fuego intelectual |
-| garfa | garfa | /ˈgar.fa/ | Cueva del Renacimiento |
-| gesira | gesira | /ˈge.si.ra/ | Puente de los Planos |
-| gétik | gétik | /ˈge.tik/ | material/físico |
-| gnósis | gnósis | /ˈgno.sis/ | gnosis/conocimiento directo |
-| gúrú | gúrú | /ˈgu.ru/ | maestro/guía |
-| ghul | ghul | /ˈɣul/ | sellar (cerrar ritual) |
-| ghēl | ghēl | /ˈɣeːl/ | exorcizar (expulsar entidad) - verbo ritual v1.2 |
-| heka | heka | /ˈhe.ka/ | magia, heka, poder mágico primordial |
-| hisopa | hisopa | /ˈhi.so.pa/ | hisopo (aspergillum) |
-| híkma | híkma | /ˈhik.ma/ | sabiduría |
-| hóm | hóm | /ˈhom/ | ofrenda |
-| ilū | ilū | /ˈi.luː/ | purificar (limpiar ritual) |
-| incensa | incensa | /ˈin.cen.sa/ | incensario (recipiente para quemar incienso) |
-| ichfo | ichfo | /ˈitʃ.fo/ | consagrar (dedicar a divinidad) - verbo ritual v1.2 |
-| kalika | kalika | /ˈka.li.ka/ | cáliz (recipiente ritual) |
-| karan | karan | /ˈka.ran/ | cargar (objeto con energía ritual) |
-| karana | karana | /ˈka.ra.na/ | plano causal / alma superior |
-| kavá | kavá | /ka.ˈwa/ | protección/escudo |
-| ká | ká | /ˈka/ | alma/centro vital |
-| kásha | kásha | /ˈka.ʃa/ | templo/centro |
-| kiklota | kiklota | /ˈki.klo.ta/ | Círculo de Unidad |
-| khi | khi | /ˈxi/ | romper hechizo (desencantar) |
-| khwá | khwá | /ˈxwa/ | gloria/luz divina |
-| lampa | lampa | /ˈlam.pa/ | lamparilla, vela ritual |
-| lapyara | lapyara | /ˈla.pja.ra/ | Laberinto / Espiral iniciática |
-| limu | limu | /ˈli.mu/ | encantar (hechizar) |
-| manasa | manasa | /ˈma.na.sa/ | plano mental / pensamiento discursivo |
-| maya | maya | /ˈma.ja/ | ilusión, apariencia, manifestación fenoménica |
-| mántra | mántra | /ˈman.tra/ | palabra-poder |
-| mánthala | mánthala | /ˈman.θa.la/ | círculo/mandala |
-| mínok | mínok | /ˈmi.nok/ | espíritu/mente sutil |
-| mnéme | mnéme | /ˈmne.me/ | memoria/registro |
-| mukfī | mukfī | /ˈmuk.fiː/ | desencantar (romper hechizo) - verbo ritual v1.2 |
-| mulrup | mulrup | /ˈmul.rup/ | arquetipo |
-| múdra | múdra | /ˈmu.dra/ | sello/marca |
-| náda | náda | /ˈna.da/ | sonido primordial |
-| nuī | nuī | /ˈnu.iː/ | exorcizar (expulsar demonio) |
-| ónoma | ónoma | /ˈo.no.ma/ | nombre verdadero |
-| ópsis | ópsis | /ˈop.sis/ | visión/claridad |
-| pagana | pagana | /ˈpa.ga.na/ | Fuente de la Memoria |
-| paradesh | paradesh | /ˈpa.ra.deʃ/ | Jardín de Contemplación |
-| paraka | paraka | /ˈpa.ra.ka/ | purificar (verbo ritual) |
-| parisham | parisham | /ˈpa.ri.ʃam/ | proyección |
-| pejap | pejap | /ˈpe.jap/ | Velo / Umbral |
-| pentaka | pentaka | /ˈpen.ta.ka/ | pentáculo (disco de cinco puntas) |
-| purkap | purkap | /ˈpur.kap/ | Torre de Vigilancia |
-| ríga | ríga | /ˈri.ga/ | conciencia |
-| rupa | rupa | /ˈru.pa/ | plano físico / mundo material |
-| samalek | samalek | /ˈsa.ma.lek/ | sincronicidad |
-| samunda | samunda | /ˈsa.mun.da/ | Océano de Conciencia |
-| sat | sat | /ˈsat/ | práctica espiritual, realización, sadhana |
-| sáp | sáp | /ˈsap/ | eco/resonancia |
-| sirra | sirra | /ˈsir.ra/ | secreto/misterio |
-| solve | solve | /ˈsol.we/ | disolver (operación alquímica) |
-| shakti | shakti | /ˈʃak.ti/ | poder, fuerza, energía dinámica |
-| shám | shám | /ˈʃam/ | sombra/lo oculto |
-| sháp | sháp | /ˈʃap/ | símbolo/signo |
-| shúnya | shúnya | /ˈʃu.nja/ | vacío/potencial |
-| tíkle | tíkle | /ˈti.kle/ | gota/esencia |
-| tunika | tunika | /ˈtu.ni.ka/ | túnica ritual |
-| turkos | turkos | /ˈtur.kos/ | Montaña Cósmica / Eje del Mundo |
-| tēbe | tēbe | /ˈteː.be/ | sacrificar (ofrendar a deidad) - verbo ritual v1.2 |
-| thak | thak | /ˈθak/ | encantar (aplicar hechizo) - verbo ritual v1.2 |
-| thén | thén | /ˈθen/ | ritual |
-| virga | virga | /ˈwir.ga/ | varita (instrumento ritual) |
-| vísha | vísha | /ˈwi.ʃa/ | veneno/sabiduría |
-| wīli | wīli | /ˈwiː.li/ | sacrificar (ofrendar) |
-| yoga | yoga | /ˈjo.ga/ | unión, integración, yoga |
-| yóga | yóga | /ˈjo.ga/ | integración |
-| zīdhū | zīdhū | /ˈziː.ðuː/ | invocar (llamar entidad) - verbo ritual v1.2 |
-| qadesh | qadesh | /ˈka.deʃ/ | consagrar (verbo ritual) |
-| θéle | θéle | /ˈθe.le/ | voluntad |
-| chā | chā | /ˈtʃaː/ | proteger (amparar) |
-| āmo | āmo | /ˈaː.mo/ | adivinar (predecir futuro) - verbo ritual v1.2 |
-| coagula | coagula | /ˈco.a.gu.la/ | coagular (operación alquímica) |
-| chásdruying | chásdruying | /ˈtʃas.dru.jiŋ/ | portal dimensional, grieta en el éter que funciona como puerta entre planos |
-| séshkatip | séshkatip | /ˈseʃ.ka.tip/ | escriba, copista de textos sagrados y rituales |
-| damqírtas | damqírtas | /damˈkir.tas/ | papiro, rollo de escritura, manuscrito sagrado |
-| malkángra | malkángra | /ˈmal.kaŋ.gra/ | ángel, mensajero divino (puede ser persona o espíritu) |
-| árchamaqal | árchamaqal | /ˈar.tʃa.ma.kal/ | arcángel, parte de Dios que crea en el plano mental |
-| dáymojin | dáymojin | /ˈdaj.mo.jin/ | demonio, genio espiritual (puede ser benéfico o maléfico) |
-| séypari | séypari | /ˈsej.pa.ri/ | sirena, espíritu elemental del agua |
-| vayrūh | vayrūh | /ˈwaj.ruːh/ | silfo, espíritu elemental del aire |
-| gazámsa | gazámsa | /gaˈzam.sa/ | duende, gnomo, espíritu elemental de la tierra |
-| médhya | médhya | /ˈme.dja/ | meditar, contemplación profunda |
-| akhásmara | akhásmara | /ˈa.xas.ma.ra/ | parásito astral, entidad que drena energía en el plano sutil |
-| dámiuqara | dámiuqara | /ˈda.mi.u.ka.ra/ | demiurgo, artífice divino del mundo material |
-| hūrsūf | hūrsūf | /ˈhuːr.suːf/ | espíritu planetario del Sol, espíritu solar, regente del fuego astral y la vitalidad |
-| tīrsūf | tīrsūf | /ˈtiːr.suːf/ | espíritu planetario de Mercurio, regente de la comunicación y el ingenio |
-| anāhīsūf | anāhīsūf | /aˈnaː.hiː.suːf/ | espíritu planetario de Venus, regente del amor, la belleza y la atracción |
-| bahrāmsūf | bahrāmsūf | /bahˈraːm.suːf/ | espíritu planetario de Marte, regente de la fuerza, la guerra y la voluntad |
-| hormsūf | hormsūf | /ˈhorm.suːf/ | espíritu planetario de Júpiter, regente de la sabiduría, la expansión y la realeza |
-| kaywānsūf | kaywānsūf | /kajˈwaːn.suːf/ | espíritu planetario de Saturno, regente del tiempo, la estructura y el karma |
-| urānsūf | urānsūf | /uˈraːn.suːf/ | espíritu planetario de Urano, regente de lo repentino, lo original y lo disruptivo |
-| posīdsūf | posītsūf | /poˈsiːt.suːf/ | espíritu planetario de Neptuno, regente de los abismos, los sueños y lo trascendente |
-| būmsūf | būmsūf | /ˈbuːm.suːf/ | espíritu planetario de la Tierra, regente de lo material, lo denso y lo fértil |
-
-## Tecnología
-
-Terminos de tecnologia, informatica y desarrollo
-
-| Kalfírvach | Forma final | IPA | Concepto |
-|-----------|-------------|-----|----------|
-| adholikh | adholikh | /ˈa.ðo.lix/ | underline/subrayado |
-| akhal | akhal | /ˈak.hal/ | undo/deshacer |
-| amalzul | amalzul | /a.ˈmal.zul/ | cloud/nube |
-| awanswak | awanswak | /ˈa.wan.swak/ | help/ayuda |
-| achaya | achaya | /ˈa.tʃa.ja/ | deselect/deseleccionar |
-| bahsan | bahsan | /ˈbah.san/ | search/buscar |
-| bashal | bashal | /ˈbas.hal/ | alpha/primera fase |
-| bránti | bránti | /ˈbran.ti/ | error/fallo |
-| buddhimayina | buddhimayina | /bu.dði.ˈma.ji.na/ | inteligencia artificial |
-| damwak | damwak | /ˈdam.wak/ | merge/fusión |
-| dasras | dasras | /ˈdas.ras/ | settings/configuración |
-| daybak | daybak | /ˈdaj.bak/ | commit/envío |
-| duhul | duhul | /ˈdu.hul/ | login/acceso |
-| fahaskan | fahaskan | /ˈfa.has.kan/ | review/revisión |
-| fakras | fakras | /ˈfak.ras/ | highlight/resaltar |
-| faskhas | faskhas | /ˈfas.xas/ | strikethrough/tachado |
-| fasnos | fasnos | /ˈfas.nos/ | virus/malware |
-| firmur | firmur | /ˈfir.mur/ | firewall |
-| guptata | guptata | /ˈɡu.pta.ta/ | privacy/privacidad |
-| gharfal | gharfal | /ˈɣar.fal/ | filter/filtrar |
-| harfil | harfil | /ˈhar.fil/ | video |
-| harkar | harkar | /ˈhar.kar/ | debug/depuración |
-| harkhas | harkhas | /ˈhar.xas/ | play/pausa |
-| harsum | harsum | /ˈhar.sum/ | edit/editar |
-| hasam | hasam | /ˈha.sam/ | cut/cortar |
-| haszar | haszar | /ˈhas.zar/ | warning/advertencia |
-| hashram | hashram | /ˈhaʃ.ram/ | padding/relleno |
-| hawfash | hawfash | /ˈhaw.faʃ/ | margin/margen |
-| hawlas | hawlas | /ˈhaw.las/ | about/acerca de |
-| hawnik | hawnik | /ˈhaw.nik/ | antena/receptor |
-| himlas | himlas | /ˈhim.las/ | loading/carga |
-| ishra | ishra | /ˈiʃ.ra/ | cursor/puntero |
-| ishshar | ishshar | /ˈiʃ.ʃar/ | señal |
-| itrum | itrum | /ˈit.rum/ | license/licencia |
-| jamkhas | jamkhas | /ˈdʒam.xas/ | algoritmo |
-| jamkhi | jamkhi | /ˈdʒam.xi/ | compile/compilar |
-| jarah | jarah | /ˈdʒa.rah/ | drag/arrastrar |
-| jawbal | jawbal | /ˈdʒaw.bal/ | response/respuesta |
-| kaszah | kaszah | /ˈkas.zah/ | cookies |
-| kashal | kashal | /ˈkas.hal/ | redo/rehacer |
-| katradjah | katradjah | /ˈka.tra.dʒah/ | volume |
-| kiberfada | kiberfada | /ki.ˈber.fa.da/ | ciberespacio |
-| kosha | kosha | /ˈko.ʃa/ | repository/repositorio |
-| kriptasha | kriptasha | /ˈkri.pta.ʃa/ | criptografía |
-| khadul | khadul | /ˈxa.dul/ | servidor (tecnología) |
-| khalras | khalras | /ˈxal.ras/ | background/fondo |
-| khara | khara | /ˈxa.ra/ | deprecated/obsoleto |
-| kharuk | kharuk | /ˈxa.ruk/ | font/tipografía |
-| khasluk | khasluk | /ˈxas.luk/ | código |
-| khasmas | khasmas | /ˈxas.mas/ | batería/acumulador |
-| khasmem | khasmem | /ˈxas.mem/ | cache/memoria temporal |
-| khasram | khasram | /ˈxas.ram/ | zoom/ampliar |
-| khreyar | khreyar | /ˈxre.jar/ | usuario |
-| khuras | khuras | /ˈxu.ras/ | logout/salida |
-| mahway | mahway | /ˈmah.waj/ | delete/eliminar |
-| margadar | margadar | /ˈma.rɡa.dar/ | router |
-| masbal | masbal | /ˈmas.bal/ | contact/contacto |
-| mayasom | mayasom | /ˈma.ja.som/ | realidad virtual |
-| maylas | maylas | /ˈmaj.las/ | italic/cursiva |
-| mnemesha | mnemesha | /ˈmne.me.ʃa/ | base de datos |
-| muktalikh | muktalikh | /ˈmu.kta.lix/ | open source/código abierto |
-| múkhya | múkhya | /ˈmu.xja/ | main/contenido principal |
-| múrdhá | múrdhá | /ˈmur.ða/ | header/cabecera |
-| nadaprava | nadaprava | /na.ˈda.pra.wa/ | audio |
-| nakra | nakra | /ˈnak.ra/ | click/pulsar |
-| nasan | nasan | /ˈna.san/ | save/guardar |
-| nasardam | nasardam | /ˈna.sar.dam/ | deploy/desplegar |
-| navín | navín | /na.ˈwin/ | update/actualización |
-| nihal | nihal | /ˈni.hal/ | notification |
-| nuspas | nuspas | /ˈnus.pas/ | backup/copia |
-| nusran | nusran | /ˈnus.ran/ | version/versión |
-| núrupa | núrupa | /ˈnu.ru.pa/ | light mode |
-| parivésh | parivésh | /pa.ri.ˈweʃ/ | wrap/ajuste de línea |
-| paríkshá | paríkshá | /pa.ˈrik.ʃa/ | beta/prueba |
-| párashvá | párashvá | /ˈpa.raʃ.wa/ | sidebar/lateral |
-| ployar | ployar | /ˈplo.jar/ | navegador |
-| prakásh | prakásh | /pra.ˈkaʃ/ | release/lanzamiento |
-| prárthaná | prárthaná | /ˈprar.θa.na/ | pull request/solicitud |
-| punarkar | punarkar | /pu.ˈnar.kar/ | redo/rehacer |
-| punarpravesh | punarpravesh | /pu.ˈnar.pra.weʃ/ | refresh |
-| rahlas | rahlas | /ˈrah.las/ | paste/pegar |
-| rahzan | rahzan | /ˈrah.zan/ | maintenance/mantenimiento |
-| ramkon | ramkon | /ˈram.kon/ | blockchain |
-| ramzak | ramzak | /ˈram.zak/ | contraseña |
-| rasdom | rasdom | /ˈras.dom/ | approve/aprobar |
-| raslam | raslam | /ˈras.lam/ | reject/rechazar |
-| rasnus | rasnus | /ˈras.nus/ | red (tecnología) |
-| rismar | rismar | /ˈris.mar/ | protocolo |
-| sahalam | sahalam | /ˈsa.hal.ram/ | tooltip |
-| sahlikh | sahlikh | /ˈsah.lix/ | eco digital |
-| sahshar | sahshar | /ˈsah.ʃar/ | banda ancha |
-| sakram | sakram | /ˈsak.ram/ | stable/estable |
-| salwur | salwur | /ˈsal.wur/ | traffic/tráfico |
-| samkas | samkas | /ˈsam.kas/ | bold/negrita |
-| samsakar | samsakar | /ˈsam.sa.kar/ | settings/ajustes |
-| sayalkhas | sayalkhas | /ˈsa.jal.xas/ | streaming |
-| sayalro | sayalro | /ˈsa.jal.ro/ | flujo (datos/energía) |
-| sayfal | sayfal | /ˈsaj.fal/ | dominio (web) |
-| sámá | sámá | /ˈsa.ma/ | justify/justificar |
-| sámyá | sámyá | /ˈsa.mja/ | align/alinéar |
-| silmah | silmah | /ˈsil.mah/ | enlace/hyperlink |
-| sídhi | sídhi | /ˈsi.ði/ | success/éxito |
-| síma | síma | /ˈsi.ma/ | border/borde |
-| sthiti | sthiti | /ˈsθi.ti/ | uptime/disponibilidad |
-| sual | sual | /ˈsu.al/ | query/consulta |
-| surah | surah | /ˈsu.rah/ | avatar/usuario digital |
-| surak | surak | /ˈsu.rak/ | image/imagen |
-| suwar | suwar | /ˈsu.war/ | copy/copiar |
-| súchná | súchná | /ˈsutʃ.na/ | info/información |
-| svatva | svatva | /ˈswa.twa/ | copyright |
-| shakza | shakza | /ˈʃak.za/ | branch/rama |
-| shamrupa | shamrupa | /ˈʃam.ru.pa/ | dark mode |
-| sharahzik | sharahzik | /ˈʃa.rah.zik/ | comment/comentario |
-| shashnam | shashnam | /ˈʃaʃ.nam/ | pantalla |
-| shártá | shártá | /ˈʃar.ta/ | terms/términos |
-| takhkron | takhkron | /ˈtax.kron/ | ping/latencia |
-| tamlas | tamlas | /ˈtam.las/ | scroll/desplazar |
-| tarkah | tarkah | /ˈtar.kah/ | drop/soltar |
-| ukhnus | ukhnus | /ˈux.nus/ | nodo |
-| upayogamukh | upayogamukh | /u.pa.ˈjo.ɡa.mux/ | API |
-| várna | várna | /ˈwar.na/ | color |
-| vigráh | vigráh | /wi.ˈgrah/ | conflict/conflicto |
-| vishaka | vishaka | /ˈwi.ʃa.ka/ | malware (virus) |
-| vishlésh | vishlésh | /wiʃ.ˈleʃ/ | analytics/analítica |
-| vyúh | vyúh | /ˈwjuh/ | sort/ordenar |
-| wahram | wahram | /ˈwah.ram/ | badge/indicador |
-| wajahrum | wajahrum | /ˈwa.dʒah.rum/ | interfaz |
-| waksar | waksar | /ˈwak.sar/ | proxy |
-| warnas | warnas | /ˈwar.nas/ | grid/cuadrícula |
-| wastal | wastal | /ˈwas.tal/ | center/centro |
-| yalsam | yalsam | /ˈjal.sam/ | left/izquierda |
-| yasmin | yasmin | /ˈjas.min/ | right/derecha |
-| zankal | zankal | /ˈzan.kal/ | theme/tema visual |
-| zuhrus | zuhrus | /ˈzuh.rus/ | ventana |
-| qalam | qalam | /ˈka.lam/ | modal/diálogo |
-| qamas | qamas | /ˈka.mas/ | downtime/caída |
-| likhay | likhay | /li.ˈxaj/ | programar (escribir código) |
-| sangra | sangra | /ˈsaŋ.ɡra/ | compilar (reunir código) |
-| caray | caray | /tʃa.ˈraj/ | ejecutar (correr programa) |
-| yunj | yunj | /junɟ/ | conectar (enlazar) |
-| bhar | bhar | /bʱar/ | cargar (datos) |
-| raksh | raksh | /rakʂ/ | guardar (archivo) |
-| mets | mets | /mets/ | borrar (eliminar) |
-| preṣ | preṣ | /preʂ/ | enviar (transmitir) |
-| labh | labh | /labʱ/ | recibir (obtener) |
-| gavesh | gavesh | /ɡa.ˈveʂ/ | buscar (rastrear) |
-| gan | gan | /ɡan/ | calcular (procesar) |
-| vibhaj | vibhaj | /vib.ʱaɟ/ | analizar (examinar) |
-| mudr | mudr | /mu.dr/ | imprimir (copiar) |
-| drish | drish | /driʂ/ | escanear (digitalizar) |
-| guh | guh | /ɡuh/ | encriptar (cifrar) |
-
-## Tiempo Doméstico
-
-Tiempo cotidiano: momentos del dia, estaciones, duraciones
-
-| Kalfírvach | Forma final | IPA | Concepto |
-|-----------|-------------|-----|----------|
-| amas | amas | /ˈa.mas/ | ayer |
-| apt | apt | /ˈap.t/ | nunca |
-| ashar | ashar | /ˈa.ʃar/ | tarde |
-| atap | atap | /ˈa.tap/ | tarde (hora) |
-| atáp | atáp | /ˈa.tap/ | tarde (hora tardia) |
-| ápda | ápda | /ˈap.da/ | nunca |
-| bakar | bakar | /ˈba.kar/ | temprano |
-| bakat | bakat | /ˈba.kat/ | después |
-| batzam | batzam | /ˈbat.zam/ | a veces |
-| bákda | bákda | /ˈbak.da/ | despues (posterioridad) |
-| bákra | bákra | /ˈba.kra/ | temprano |
-| bátzam | bátzam | /ˈbat.zam/ | a veces (ocasionalmente) |
-| daim | daim | /ˈda.im/ | siempre |
-| dáim | dáim | /ˈda.im/ | siempre |
-| duha | duha | /ˈdu.ha/ | media mañana, mañana avanzada, horas de luz plena |
-| fajar | fajar | /ˈfa.dʒar/ | alba, amanecer, aurora, primera luz del día |
-| ghasak | ghasak | /ˈɣa.sak/ | oscuridad nocturna, tinieblas, noche cerrada |
-| ghat | ghat | /ˈɣat/ | mañana (siguiente) |
-| ghurup | ghurup | /ˈɣu.rup/ | ocaso, puesta del sol, sol poniente, atardecer |
-| kharip | kharip | /ˈxa.rip/ | otoño |
-| nahar | nahar | /ˈna.har/ | mediodía |
-| nun | nun | /ˈnun/ | ahora |
-| rabi | rabi | /ˈra.bi/ | primavera |
-| sabu | sabu | /ˈsa.bu/ | semana |
-| sahar | sahar | /ˈsa.har/ | madrugada, antes del alba, pre-amanecer |
-| sap | sap | /ˈsap/ | verano |
-| sapkhah | sapkhah | /ˈsap.xah/ | mañana (temprano) |
-| shafak | shafak | /ˈʃa.fak/ | crepúsculo, anochecer, penumbra vespertina |
-| shapzir | shapzir | /ˈʃap.zir/ | medianoche |
-| shuruk | shuruk | /ˈʃu.ruk/ | orto, salida del sol, sol naciente |
-| yawam | yawam | /ˈja.wam/ | hoy |
-| qábal | qábal | /ˈka.bal/ | antes (anterioridad) |
-| qápal | qápal | /ˈka.pal/ | antes (previo) |
-
-## Medicina y Salud
-
-Salud, enfermedad, curacion y medicina
-
-| Kalfírvach | Forma final | IPA | Concepto |
-|-----------|-------------|-----|----------|
-| akopa | akopa | /ˈa.ko.pa/ | amputar/cortar miembro |
-| alama | alama | /ˈa.la.ma/ | dolor |
-| asip | asip | /ˈa.sip/ | médico/curandero |
-| ashap | ashap | /ˈa.ʃap/ | herborista/boticario |
-| dawa | dawa | /ˈda.wa/ | medicina/remedio |
-| enka | enka | /ˈen.ka/ | cerebro (órgano del pensamiento y sede de la mente) |
-| farmak | farmak | /ˈfar.mak/ | veneno/toxina |
-| gnosa | gnosa | /ˈgno.sa/ | diagnosticar |
-| iksir | iksir | /ˈik.sir/ | elixir/pócima |
-| karda | karda | /ˈkar.da/ | corazón (órgano central de la circulación y centro emocional) |
-| kauta | kauta | /ˈka.u.ta/ | cauterizar/quemar |
-| kibda | kibda | /ˈkib.da/ | hígado (órgano de la sangre y la bilis) |
-| khenu | khenu | /ˈxe.nu/ | herida/llaga |
-| maida | maida | /ˈma.i.da/ | estómago (órgano de la digestión) |
-| merhet | merhet | /ˈmer.het/ | ungüento/pomada |
-| mysal | mysal | /ˈmjsal/ | músculo (tejido contráctil del cuerpo) |
-| nabda | nabda | /ˈnab.da/ | pulso (latido arterial palpable) |
-| nafas | nafas | /ˈna.fas/ | respiración/espíritu vital (aliento, prāṇa) |
-| nerwa | nerwa | /ˈne.rwa/ | nervio (haz conductor de señales) |
-| nifra | nifra | /ˈni.fra/ | riñón (órgano de la filtración) |
-| nosa | nosa | /ˈno.sa/ | enfermedad/peste |
-| oedma | oedma | /ˈo.ed.ma/ | hinchazón/inflamación |
-| ostun | ostun | /ˈos.tun/ | hueso (estructura rígida del esqueleto) |
-| pyona | pyona | /ˈpjo.na/ | infección/pus |
-| sekta | sekta | /ˈsek.ta/ | cirugía/incisión |
-| shemem | shemem | /ˈʃe.mem/ | fiebre/calentura |
-| tenar | tenar | /ˈte.nar/ | tendón (tejido que une músculo a hueso) |
-| téryak | téryak | /ˈte.rjak/ | antídoto/contraveneno |
-| thera | thera | /ˈθe.ra/ | curar/sanar |
-| wilat | wilat | /ˈwi.lat/ | parto/nacimiento (evento de dar a luz) |
-| yiya | yiya | /ˈji.ja/ | salud/sanidad |
-
-## Emociones y Estados Afectivos
-
-Emociones, estados afectivos y sentimientos
-
-| Kalfírvach | Forma final | IPA | Concepto |
-|-----------|-------------|-----|----------|
-| asha | asha | /ˈa.ʃa/ | esperanza, expectativa, anhelo positivo |
-| bat | bat | /ˈbat/ | confusión, desconcierto, perplejidad |
-| baya | baya | /ˈba.ja/ | miedo, temor, pavor |
-| daya | daya | /ˈda.ja/ | compasión, piedad, misericordia |
-| dukh | dukh | /ˈdux/ | tristeza, aflicción, pesar, sufrimiento |
-| garp | garp | /ˈgarp/ | orgullo, soberbia, dignidad |
-| ghen | ghen | /ˈɣen/ | repulsión, asco, aversión intensa |
-| hani | hani | /ˈha.ni/ | nostalgia, melancolía, añoranza |
-| irash | irash | /ˈi.raʃ/ | envidia, celos, resentimiento |
-| kam | kam | /ˈkam/ | deseo sexual, pasión, lujuria, excitación erótica |
-| krit | krit | /ˈkrit/ | gratitud, agradecimiento, reconocimiento |
-| khet | khet | /ˈxet/ | aburrimiento, hastío, tedio, desgano |
-| lal | lal | /ˈlal/ | ternura, dulzura, cariño, delicadeza afectiva |
-| lash | lash | /ˈlaʃ/ | vergüenza, pudor, bochorno |
-| maun | maun | /ˈma.un/ | soledad, aislamiento, retiro solitario |
-| pap | pap | /ˈpap/ | culpa, pecado, transgresión |
-| prem | prem | /ˈprem/ | amor, afecto profundo, devoción amorosa |
-| rosh | rosh | /ˈroʃ/ | enojo, ira, furia, cólera |
-| santi | santi | /ˈsan.ti/ | paz, serenidad, sosiego, tranquilidad profunda |
-| sil | sil | /ˈsil/ | calma, tranquilidad, sosiego, placidez |
-| sukha | sukha | /ˈsu.xa/ | felicidad, dicha, bienestar, júbilo |
-| shak | shak | /ˈʃak/ | sospecha, duda, desconfianza, recelo |
-| tham | tham | /ˈθam/ | asombro, sorpresa, estupefacción |
-| vir | vir | /ˈwir/ | valentía, coraje, heroicidad, bravura |
-| vish | vish | /ˈwiʃ/ | confianza, fe, seguridad interior |
-| chint | chint | /ˈtʃint/ | ansiedad, preocupación, inquietud |
-| preman | preman | /ˈpre.man/ | amar |
-| dvesh | dvesh | /ˈdveʃ/ | odiar |
-| bhay | bhay | /bʱaj/ | temer |
-| āsh | āsh | /ɑːʃ/ | esperar |
-| kām | kām | /kɑːm/ | desear |
-| shok | shok | /ʃok/ | lamentar |
-| metan | metan | /me.ˈtan/ | arrepentirse |
-| ksham | ksham | /kʂam/ | perdonar |
-| vishwās | vishwās | /viʃ.ˈwɑːs/ | confiar |
-| sandeh | sandeh | /san.ˈdeh/ | dudar |
-| admir | admir | /ad.ˈmir/ | admirar |
-| tirask | tirask | /ti.ˈrask/ | despreciar |
-| irsh | irsh | /ˈiːrʃ/ | envidiar |
-| utsar | utsar | /ˈut.sar/ | celebrar |
-| laj | laj | /latʃ/ | avergonzarse |
-| garb | garb | /ɡarp/ | enorgullecerse |
-| vismay | vismay | /vis.ˈmaj/ | sorprenderse |
-| virah | virah | /vi.ˈrah/ | anhelar |
-
-## Comida y Cocina
-
-Alimentos, bebidas, cocina, utensilios y gastronomia
-
-| Kalfírvach | Forma final | IPA | Concepto |
-|-----------|-------------|-----|----------|
-| ashi | ashi | /ˈa.ʃi/ | cena (última comida del día) |
-| bayda | bayda | /ˈbaj.da/ | huevo (célula reproductiva de aves, alimento básico) |
-| bishar | bishar | /ˈbi.ʃar/ | carne, vianda, alimento cárnico |
-| bris | bris | /ˈbris/ | freír, asar, cocinar en grasa o fuego directo |
-| dal | dal | /ˈdal/ | legumbre, lenteja, leguminosa |
-| digh | dikh | /ˈdix/ | olla, caldero, pote, marmita |
-| fatur | fatur | /ˈfa.tur/ | desayuno (primera comida del día) |
-| ghada | ghada | /ˈɣa.da/ | almuerzo (comida del mediodía) |
-| harip | harip | /ˈha.rip/ | picante (sabor que irrita o quema la lengua) |
-| jos | jos | /ˈjos/ | hambre, inanición, apetito intenso |
-| kirfa | kirfa | /ˈkir.fa/ | canela (especia aromática, corteza del cinamomo) |
-| khalip | khalip | /ˈxa.lip/ | leche, lácteo, producto lácteo |
-| khupsa | khupsa | /ˈxup.sa/ | pan, alimento básico de trigo o cereal |
-| khā | khā | /ˈxaː/ | comida, alimento, vianda, sustento |
-| lapan | lapan | /ˈla.pan/ | queso, producto lácteo fermentado sólido |
-| madhur | madhur | /ˈma.ður/ | dulce (sabor del azúcar o de la miel) |
-| maric | maric | /ˈma.ric/ | pimienta (especia picante, grano del piper) |
-| mast | mast | /ˈmast/ | yogur, leche fermentada, cuajada |
-| mayan | mayan | /ˈma.jan/ | vino, bebida fermentada, licor |
-| milak | milak | /ˈmi.lak/ | cuchara (utensilio cóncavo para líquidos) |
-| murak | murak | /ˈmu.rak/ | caldo, sopa, cocido, guiso líquido |
-| oris | oris | /ˈo.ris/ | arroz, cereal, grano |
-| pakh | pakh | /ˈpax/ | cocinar, preparar alimentos, guisar |
-| patar | patar | /ˈpa.tar/ | plato, vasija, recipiente, cuenco |
-| risk | risk | /ˈrisk/ | sustento, provisión, alimento diario, pan de cada día |
-| sakar | sakar | /ˈsa.kar/ | azúcar (sacarosa, edulcorante cristalino) |
-| sapsa | sapsa | /ˈsap.sa/ | verdura, vegetal, hortaliza, legumbre verde |
-| swat | swat | /ˈswat/ | sabor, gusto, sabor agradable, condimento |
-| shahat | shahat | /ˈʃa.hat/ | miel, dulce natural, néctar |
-| shauka | shauka | /ˈʃa.u.ka/ | tenedor (utensilio con púas para comer sólidos) |
-| tamar | tamar | /ˈta.mar/ | dátil, fruta seca, fruto deshidratado |
-| tanur | tanur | /ˈta.nur/ | horno, fogón, lugar de cocción |
-| tesh | tesh | /ˈteʃ/ | sed |
-| zayat | zayat | /ˈza.jat/ | aceite, grasa vegetal, óleo |
-| zubda | zubda | /ˈzub.da/ | mantequilla (grasa láctea solidificada) |
-| chur | chur | /ˈtʃur/ | cuchillo, hoja cortante, cuchilla |
-| kvathel | kvathel | /ˈkva.tʰel/ | hervir |
-| pakar | pakar | /ˈpa.kar/ | hornear |
-| misal | misal | /ˈmi.sal/ | mezclar |
-| kiras | kiras | /ˈki.ras/ | cortar |
-| tuvakar | tuvakar | /tu.ˈva.kar/ | pelar |
-| kharit | kharit | /ˈkʰa.rit/ | rallar |
-| mathel | mathel | /ˈma.tʰel/ | batir |
-| mardar | mardar | /ˈmar.dar/ | amasar |
-| suray | suray | /su.ˈraj/ | fermentar |
-| lunik | lunik | /ˈlu.nik/ | marinar |
-| ghrisay | ghrisay | /ˈɣri.saj/ | glasear |
-| dahul | dahul | /ˈda.hul/ | escaldar |
-| manday | manday | /man.ˈdaj/ | pochar |
-| plavas | plavas | /ˈpla.vas/ | saltear |
-| zarik | zarik | /ˈza.rik/ | gratinar |
-
-## Vivienda y Arquitectura
-
-Vivienda, edificios, construccion, mobiliario y urbanismo
-
-| Kalfírvach | Forma final | IPA | Concepto |
-|-----------|-------------|-----|----------|
-| bap | bap | /ˈbap/ | puerta, entrada, portal, acceso |
-| bashk | bashk | /ˈbaʃk/ | jardín, huerto, vergel, parque |
-| bomos | bomos | /ˈbo.mos/ | altar (estructura elevada para ofrendas rituales) |
-| bum | bum | /ˈbum/ | piso, suelo, pavimento, base |
-| burja | burja | /ˈbur.dʒa/ | torre, atalaya, fortificación vertical |
-| dar | dar | /ˈdar/ | casa, hogar, morada, vivienda |
-| divar | divar | /ˈdi.war/ | muro, pared, muralla, tabique |
-| firash | firash | /ˈfi.raʃ/ | cama, lecho, yacija, lugar de descanso |
-| hamam | hamam | /ˈha.mam/ | baño (estancia para el aseo o para inmersión ritual) |
-| hujar | hujar | /ˈhu.dʒar/ | celda, cuarto pequeño, aposento, camarín |
-| kalit | kalit | /ˈka.lit/ | llave (instrumento para abrir cerradura) |
-| kamin | kamin | /ˈka.min/ | chimenea (conducto para humo o estructura para el fuego del hogar) |
-| klimak | klimak | /ˈkli.mak/ | escalera (serie de escalones para subir o bajar) |
-| kupa | kupa | /ˈku.pa/ | pozo (excavación vertical para acceder a aguas subterráneas) |
-| kuras | kuras | /ˈku.ras/ | silla, asiento, banco, trono |
-| khant | khant | /ˈxant/ | cimientos, fosa, zanja, excavación basal |
-| matbak | matbak | /ˈmat.bak/ | cocina (espacio o estancia para preparar alimentos) |
-| mis | mis | /ˈmis/ | mesa, tablero, superficie de apoyo |
-| nak | nak | /ˈnak/ | edificio, construcción, estructura |
-| naos | naos | /ˈna.os/ | templo (edificio sagrado para el culto) |
-| nawma | nawma | /ˈnaw.ma/ | dormitorio (estancia para dormir) |
-| otaq | otak | /ˈo.tak/ | habitación, cuarto, aposento, sala |
-| pul | pul | /ˈpul/ | puente, paso elevado, conexión |
-| sanduq | sanduk | /ˈsan.duk/ | cofre, caja, arca, baúl |
-| saqap | saqap | /ˈsa.kap/ | techo, cubierta, cielo raso |
-| sutun | sutun | /ˈsu.tun/ | columna, pilar, poste vertical |
-| shahar | shahar | /ˈʃa.har/ | ciudad, urbe, poblado grande |
-| sham | sham | /ˈʃam/ | lámpara, luminaria, vela, antorcha |
-| shar | shar | /ˈʃar/ | calle, vía, camino urbano, callejuela |
-| shubak | shubak | /ˈʃu.bak/ | ventana, vano, abertura en muro |
-| tafos | tafos | /ˈta.fos/ | tumba (estructura funeraria, lugar de descanso de difuntos) |
-| qasar | qasar | /ˈka.sar/ | fortaleza, castillo, ciudadela, palacio fortificado |
-
-## Interjecciones y Exclamaciones
-
-Interjecciones, exclamaciones, llamadas atencionales y partículas pragmáticas independientes
-
-| Kalfírvach | Forma final | IPA | Concepto |
-|-----------|-------------|-----|----------|
-| amen | amen | /ˈa.men/ | amén (afirmación ritual, cierre consagratorio) |
-| aum | aum | /ˈa.um/ | om/aum (sonido primordial, mantra) |
-| baruk | baruk | /ˈba.ruk/ | ¡bendito! (declaración de bendición) |
-| halel | halel | /ˈha.lel/ | ¡aleluya! (alabanza, júbilo) |
-| hál | hál | /ˈhal/ | he aqui, mira (exclamacion presentativa) |
-| hina | hina | /ˈhi.na/ | he aquí (atención visual, demostración) |
-| kafa | kafa | /ˈka.fa/ | ¡basta! (finalización, completitud, suficiencia) |
-| la | la | /ˈla/ | no (negación, rechazo) |
-| nam | nam | /ˈnam/ | sí (afirmación, asentimiento) |
-| shalam | shalam | /ˈʃa.lam/ | paz (salutación, bendición) |
-| shama | shama | /ˈʃa.ma/ | ¡escucha! (atención auditiva, llamado a oír) |
-| wai | wai | /ˈwa.i/ | ¡ay! (dolor, lamento) |
-| ya | ya | /ˈja/ | ¡oh! (asombro, vocativo admirativo) |
+- **akrap** /ˈa.krap/ *(noun)* — escorpión, alacrán
+- **ashp** /ˈaʃp/ *(noun)* — caballo
+- **bek** /ˈbek/ *(noun)* — rana, sapo, anfibio
+- **bram** /ˈbram/ *(noun)* — abeja
+- **bum** /ˈbum/ *(noun)* — búho, lechuza, ave nocturna
+- **buza** /ˈbu.za/ *(noun)* — cabra
+- **byabstak** /bja.ˈstak/ *(noun)* — tigre
+- **delp** /ˈdelp/ *(noun)* — delfín, cetáceo, mamífero marino
+- **dik** /ˈdik/ *(noun)* — gallo, gallina, ave de corral
+- **gap** /ˈgap/ *(noun)* — vaca, toro, res, ganado vacuno
+- **ghanam** /ˈɣa.nam/ *(noun)* — oveja, carnero, rebaño ovino
+- **hast** /ˈhast/ *(noun)* — elefante
+- **jamal** /ˈja.mal/ *(noun)* — camello
+- **kapi** /ˈka.pi/ *(noun)* — mono, simio, primate
+- **khayta** /ˈxaj.ta/ *(noun)* — pájaro, ave
+- **khinas** /ˈxi.nas/ *(noun)* — cerdo, puerco, jabalí
+- **kirimi** /ˈki.ri.mi/ *(noun)* — gusano
+- **korak** /ˈko.rak/ *(noun)* — cuervo, córvido
+- **kurma** /ˈkur.ma/ *(noun)* — tortuga, galápago
+- **matsi** /ˈmat.si/ *(noun)* — pez/pescado
+- **mau** /ˈma.u/ *(noun)* — gato
+- **mush** /ˈmuʃ/ *(noun)* — rata, ratón, roedor
+- **nisar** /ˈni.sar/ *(noun)* — águila, ave rapaz mayor
+- **pashwan** /ˈpaʃ.wan/ *(noun)* — animal, ser animado, criatura
+- **sapan** /ˈsa.pan/ *(noun)* — perro, can
+- **sarpa** /ˈsar.pa/ *(noun)* — serpiente
+- **shir** /ˈʃir/ *(noun)* — león, fiera, depredador mayor
+- **shwan** /ˈʃwan/ *(noun)* — perro
+- **timas** /ˈti.mas/ *(noun)* — cocodrilo, lagarto acuático mayor
+- **waya** /ˈwa.ja/ *(noun)* — pajaro/ave
+- **yuka** /ˈju.ka/ *(noun)* — piojo
 
 ## Biología y Micología
 
-Términos de biología celular, micología, taxonomía y procesos biológicos
+- **ashka** /ˈaʃ.ka/ *(noun)* — asco, saco reproductivo de ascomicetos
+- **aspor** /ˈas.por/ *(noun)* — ascospora, espora producida en asco
+- **bari** /ˈba.ri/ *(noun)* — basidio, estructura reproductiva de basidiomicetos
+- **baspor** /ˈbas.por/ *(noun)* — basidiospora, espora producida en basidio
+- **dikha** /ˈdi.xa/ *(noun)* — mitocondria, powerhouse celular
+- **dimash** /ˈdi.maʃ/ *(noun)* — pared celular, estructura de soporte
+- **fula** /ˈfu.la/ *(noun)* — phylum, categoría taxonómica
+- **gama** /ˈga.ma/ *(noun)* — género, categoría taxonómica
+- **hiama** /ˈhi.a.ma/ *(noun)* — hifa, filamento micelial
+- **jahwah** /ˈjah.wah/ *(noun)* — evolución, transformación gradual
+- **janakh** /ˈja.nax/ *(noun)* — germinación, inicio del crecimiento
+- **kalama** /ˈka.la.ma/ *(noun)* — abrazadera (clamp), conexión entre hifas
+- **khani** /ˈxa.ni/ *(noun)* — familia, categoría taxonómica
+- **kharnu** /ˈxar.nu/ *(noun)* — núcleo celular, centro vital
+- **kithast** /ˈki.θast/ *(noun)* — insecto, artrópodo, bicho
+- **koni** /ˈko.ni/ *(noun)* — conidio, espora asexual externa
+- **lamannu** /ˈla.man.nu/ *(noun)* — láminas (gills), láminas bajo el sombrero
+- **mika** /ˈmi.ka/ *(noun)* — simbiosis, relación mutuamente beneficiosa
+- **mikash** /ˈmi.kaʃ/ *(noun)* — hongos, reino de organismos micorrízicos
+- **mikhel** /ˈmi.xel/ *(noun)* — micelio, red de hifas
+- **miukhel** /ˈmi.u.xel/ *(noun)* — micorriza, simbiosis hongo-raíz
+- **nargha** /ˈnar.ɣa/ *(noun)* — orgánulo, estructura celular funcional
+- **parash** /ˈpa.raʃ/ *(noun)* — parasitismo, relación parásito-hospedador
+- **pari** /ˈpa.ri/ *(noun)* — especie, categoría taxonómica
+- **parna** /ˈpar.na/ *(noun)* — proteína, macromolécula funcional
+- **parnash** /ˈpar.naʃ/ *(noun)* — respiración, intercambio gaseoso
+- **pikar** /ˈpi.kar/ *(noun)* — sombrero (pileus), cap del cuerpo fructífero
+- **pilakh** /ˈpi.lax/ *(noun)* — membrana celular, límite externo
+- **pimarkom** /pi.ˈmar.kom/ *(noun)* — hormiga
+- **rahna** /ˈrah.na/ *(noun)* — ARN, ácido ribonucleico
+- **rimash** /ˈri.maʃ/ *(noun)* — cromosoma, portador de información genética
+- **rishakh** /ˈri.ʃax/ *(noun)* — rizomorfo, cordón de hifas
+- **sankhash** /ˈsan.xaʃ/ *(noun)* — ecosistema, comunidad de organismos
+- **sanku** /ˈsan.ku/ *(noun)* — esporangio, estructura portadora de esporas
+- **sarakh** /ˈsa.rax/ *(noun)* — espora, unidad de dispersión fúngica
+- **seshu** /ˈse.ʃu/ *(noun)* — septo, tabique en hifas
+- **shanik** /ˈʃa.nik/ *(noun)* — ribosoma, fábrica de proteínas
+- **sharu** /ˈʃa.ru/ *(noun)* — esclerocio, estructura de resistencia
+- **shorfi** /ˈʃor.fi/ *(noun)* — esporóforo, tallo portador de esporas
+- **sokha** /ˈso.xa/ *(noun)* — fotosíntesis, conversión de luz en energía
+- **sukah** /ˈsu.kah/ *(noun)* — vacuolo, cavidad celular
+- **takha** /ˈta.xa/ *(noun)* — orden, categoría taxonómica
+- **thalur** /ˈθa.lur/ *(noun)* — célula, unidad básica de la vida
+- **tishta** /ˈtiʃ.ta/ *(noun)* — estípite, pie o tallo del cuerpo fructífero
+- **vankha** /ˈwan.xa/ *(noun)* — reino, categoría taxonómica máxima
+- **vargha** /ˈwar.ɣa/ *(noun)* — clase, categoría taxonómica
+- **wahna** /ˈwah.na/ *(noun)* — ADN, ácido desoxirribonucleico
+- **warakh** /ˈwa.rax/ *(noun)* — enzima, catalizador biológico
+- **wari** /ˈwa.ri/ *(noun)* — mutación, cambio genético
+- **wastu** /ˈwas.tu/ *(noun)* — citoplasma, sustancia interna de la célula
+- **wikhash** /ˈwi.xaʃ/ *(noun)* — descomposición, ruptura de materia orgánica
+- **yukar** /ˈju.kar/ *(noun)* — gen, unidad de herencia
 
-| Kalfírvach | Forma final | IPA | Concepto |
-|-----------|-------------|-----|----------|
-| vankha | vankha | /ˈwan.xa/ | reino, categoría taxonómica máxima |
-| vargha | vargha | /ˈwar.ɣa/ | clase, categoría taxonómica |
-| thalur | thalur | /ˈθa.lur/ | célula, unidad básica de la vida |
-| kharnu | kharnu | /ˈxar.nu/ | núcleo celular, centro vital |
-| pilakh | pilakh | /ˈpi.lax/ | membrana celular, límite externo |
-| wastu | wastu | /ˈwas.tu/ | citoplasma, sustancia interna de la célula |
-| nargha | nargha | /ˈnar.ɣa/ | orgánulo, estructura celular funcional |
-| dikha | dikha | /ˈdi.xa/ | mitocondria, powerhouse celular |
-| shanik | shanik | /ˈʃa.nik/ | ribosoma, fábrica de proteínas |
-| rimash | rimash | /ˈri.maʃ/ | cromosoma, portador de información genética |
-| yukar | yukar | /ˈju.kar/ | gen, unidad de herencia |
-| wahna | wahna | /ˈwah.na/ | ADN, ácido desoxirribonucleico |
-| rahna | rahna | /ˈrah.na/ | ARN, ácido ribonucleico |
-| parna | parna | /ˈpar.na/ | proteína, macromolécula funcional |
-| warakh | warakh | /ˈwa.rax/ | enzima, catalizador biológico |
-| dimash | dimash | /ˈdi.maʃ/ | pared celular, estructura de soporte |
-| sukah | sukah | /ˈsu.kah/ | vacuolo, cavidad celular |
-| hiama | hiama | /ˈhi.a.ma/ | hifa, filamento micelial |
-| mikhel | mikhel | /ˈmi.xel/ | micelio, red de hifas |
-| sarakh | sarakh | /ˈsa.rax/ | espora, unidad de dispersión fúngica |
-| pikar | pikar | /ˈpi.kar/ | sombrero (pileus), cap del cuerpo fructífero |
-| tishta | tishta | /ˈtiʃ.ta/ | estípite, pie o tallo del cuerpo fructífero |
-| lamannu | lamannu | /ˈla.man.nu/ | láminas (gills), láminas bajo el sombrero |
-| bari | bari | /ˈba.ri/ | basidio, estructura reproductiva de basidiomicetos |
-| ashka | ashka | /ˈaʃ.ka/ | asco, saco reproductivo de ascomicetos |
-| koni | koni | /ˈko.ni/ | conidio, espora asexual externa |
-| rishakh | rishakh | /ˈri.ʃax/ | rizomorfo, cordón de hifas |
-| sharu | sharu | /ˈʃa.ru/ | esclerocio, estructura de resistencia |
-| miukhel | miukhel | /ˈmi.u.xel/ | micorriza, simbiosis hongo-raíz |
-| seshu | seshu | /ˈse.ʃu/ | septo, tabique en hifas |
-| kalama | kalama | /ˈka.la.ma/ | abrazadera (clamp), conexión entre hifas |
-| sanku | sanku | /ˈsan.ku/ | esporangio, estructura portadora de esporas |
-| shorfi | shorfi | /ˈʃor.fi/ | esporóforo, tallo portador de esporas |
-| baspor | baspor | /ˈbas.por/ | basidiospora, espora producida en basidio |
-| aspor | aspor | /ˈas.por/ | ascospora, espora producida en asco |
-| fula | fula | /ˈfu.la/ | phylum, categoría taxonómica |
-| takha | takha | /ˈta.xa/ | orden, categoría taxonómica |
-| khani | khani | /ˈxa.ni/ | familia, categoría taxonómica |
-| gama | gama | /ˈga.ma/ | género, categoría taxonómica |
-| pari | pari | /ˈpa.ri/ | especie, categoría taxonómica |
-| wari | wari | /ˈwa.ri/ | mutación, cambio genético |
-| jahwah | jahwah | /ˈjah.wah/ | evolución, transformación gradual |
-| mika | mika | /ˈmi.ka/ | simbiosis, relación mutuamente beneficiosa |
-| parash | parash | /ˈpa.raʃ/ | parasitismo, relación parásito-hospedador |
-| janakh | janakh | /ˈja.nax/ | germinación, inicio del crecimiento |
-| sokha | sokha | /ˈso.xa/ | fotosíntesis, conversión de luz en energía |
-| parnash | parnash | /ˈpar.naʃ/ | respiración, intercambio gaseoso |
-| wikhash | wikhash | /ˈwi.xaʃ/ | descomposición, ruptura de materia orgánica |
-| mikash | mikash | /ˈmi.kaʃ/ | hongos, reino de organismos micorrízicos |
-| sankhash | sankhash | /ˈsan.xaʃ/ | ecosistema, comunidad de organismos |
+## Comida y Cocina
 
-## Profesiones y Roles
+- **ashi** /ˈa.ʃi/ *(noun)* — cena (última comida del día)
+- **bayda** /ˈbaj.da/ *(noun)* — huevo (célula reproductiva de aves, alimento básico)
+- **bishar** /ˈbi.ʃar/ *(noun)* — carne, vianda, alimento cárnico
+- **bris** /ˈbris/ *(verb)* — freír, asar, cocinar en grasa o fuego directo
+- **chur** /ˈtʃur/ *(noun)* — cuchillo, hoja cortante, cuchilla
+- **dahul** /ˈda.hul/ *(verb)* — escaldar
+- **dal** /ˈdal/ *(noun)* — legumbre, lenteja, leguminosa
+- **digh** /ˈdix/ *(noun)* — olla, caldero, pote, marmita
+- **fatur** /ˈfa.tur/ *(noun)* — desayuno (primera comida del día)
+- **ghada** /ˈɣa.da/ *(noun)* — almuerzo (comida del mediodía)
+- **ghrisay** /ˈɣri.saj/ *(verb)* — glasear
+- **harip** /ˈha.rip/ *(noun)* — picante (sabor que irrita o quema la lengua)
+- **jos** /ˈjos/ *(noun)* — hambre, inanición, apetito intenso
+- **khalip** /ˈxa.lip/ *(noun)* — leche, lácteo, producto lácteo
+- **kharit** /ˈkʰa.rit/ *(verb)* — rallar
+- **khupsa** /ˈxup.sa/ *(noun)* — pan, alimento básico de trigo o cereal
+- **khā** /ˈxaː/ *(noun)* — comida, alimento, vianda, sustento
+- **kiras** /ˈki.ras/ *(verb)* — cortar
+- **kirfa** /ˈkir.fa/ *(noun)* — canela (especia aromática, corteza del cinamomo)
+- **kvathel** /ˈkva.tʰel/ *(verb)* — hervir
+- **lapan** /ˈla.pan/ *(noun)* — queso, producto lácteo fermentado sólido
+- **lunik** /ˈlu.nik/ *(verb)* — marinar
+- **madhur** /ˈma.ður/ *(noun)* — dulce (sabor del azúcar o de la miel)
+- **manday** /man.ˈdaj/ *(verb)* — pochar
+- **mardar** /ˈmar.dar/ *(verb)* — amasar
+- **maric** /ˈma.ric/ *(noun)* — pimienta (especia picante, grano del piper)
+- **mast** /ˈmast/ *(noun)* — yogur, leche fermentada, cuajada
+- **mathel** /ˈma.tʰel/ *(verb)* — batir
+- **mayan** /ˈma.jan/ *(noun)* — vino, bebida fermentada, licor
+- **milak** /ˈmi.lak/ *(noun)* — cuchara (utensilio cóncavo para líquidos)
+- **misal** /ˈmi.sal/ *(verb)* — mezclar
+- **murak** /ˈmu.rak/ *(noun)* — caldo, sopa, cocido, guiso líquido
+- **oris** /ˈo.ris/ *(noun)* — arroz, cereal, grano
+- **pakar** /ˈpa.kar/ *(verb)* — hornear
+- **pakh** /ˈpax/ *(verb)* — cocinar, preparar alimentos, guisar
+- **patar** /ˈpa.tar/ *(noun)* — plato, vasija, recipiente, cuenco
+- **plavas** /ˈpla.vas/ *(verb)* — saltear
+- **risk** /ˈrisk/ *(noun)* — sustento, provisión, alimento diario, pan de cada día
+- **sakar** /ˈsa.kar/ *(noun)* — azúcar (sacarosa, edulcorante cristalino)
+- **sapdar** /ˈsap.sa/ *(noun)* — verdura, vegetal, hortaliza, legumbre verde
+- **shahat** /ˈʃa.hat/ *(noun)* — miel, dulce natural, néctar
+- **shauka** /ˈʃa.u.ka/ *(noun)* — tenedor (utensilio con púas para comer sólidos)
+- **suray** /su.ˈraj/ *(verb)* — fermentar
+- **swat** /ˈswat/ *(noun)* — sabor, gusto, sabor agradable, condimento
+- **tamar** /ˈta.mar/ *(noun)* — dátil, fruta seca, fruto deshidratado
+- **tanur** /ˈta.nur/ *(noun)* — horno, fogón, lugar de cocción
+- **tesh** /ˈteʃ/ *(noun)* — sed
+- **tuvakar** /tu.ˈva.kar/ *(verb)* — pelar
+- **zarik** /ˈza.rik/ *(verb)* — gratinar
+- **zayat** /ˈza.jat/ *(noun)* — aceite, grasa vegetal, óleo
+- **zubda** /ˈzub.da/ *(noun)* — mantequilla (grasa láctea solidificada)
 
-Oficios, profesiones, roles sociales y jerarquías
+## Conceptos Espaciales y Calidades
 
-| Kalfírvach | Forma final | IPA | Concepto |
-|-----------|-------------|-----|----------|
-| -khán | -khán | /ˈxan/ | senor, soberano (sufijo) |
-| báp | báp | /ˈbap/ | fundador, padre fundador (prefijo) |
-| dishk | dishk | /ˈdiʃk/ | juez, árbitro |
-| dāshak | dāshak | /ˈdaː.ʃak/ | escriba, letrado, cronista |
-| gāndhar | gāndhar | /ˈgaːn.ðar/ | músico, cantante, artista sonoro |
-| ghārī | ghārī | /ˈɣaː.riː/ | ermitaño, asceta, solitario |
-| ghōsh | ghōsh | /ˈɣoːʃ/ | heraldo, pregonero |
-| hārsh | hārsh | /ˈhaːrʃ/ | mercader, comerciante |
-| krishak | krishak | /ˈkri.ʃak/ | agricultor, labrador |
-| kōmak | kōmak | /ˈkoː.mak/ | cocinero, chef |
-| kāmak | kāmak | /ˈkaː.mak/ | amante, devoto, fiel |
-| kāmik | kāmik | /ˈkaː.mik/ | pescador |
-| kārakh | kārakh | /ˈkaː.rax/ | constructor, arquitecto |
-| kōsh | kōsh | /ˈkoːʃ/ | tesorero, administrador de bienes |
-| kāsh | kāsh | /ˈkaːʃ/ | vidente, adivino, oráculo |
-| kāshikh | kāshikh | /ˈkaː.ʃix/ | sastre, costurero |
-| lāwak | lāwak | /ˈlaː.wak/ | abogado, defensor, jurista |
-| mālak | mālak | /ˈmaː.lak/ | jardinero, hortelano |
-| māsh | māsh | /ˈmaːʃ/ | maestro, profesor, instructor |
-| nāwak | nāwak | /ˈnaː.wak/ | navegante, marino |
-| nāwik | nāwik | /ˈnaː.wik/ | piloto, timonel |
-| nāyak | nāyak | /ˈnaː.jak/ | guía, conductor, líder |
-| pir | pir | /ˈpir/ | gran maestro, guia espiritual (prefijo) |
-| ratshi | ratshi | /ˈra.tʃi/ | rey, soberano, monarca |
-| rāksh | rāksh | /ˈraːkʃ/ | guardián, centinela, protector |
-| rās | rās | /ˈraːs/ | auriga, cochero, conductor de carros |
-| rāwak | rāwak | /ˈraː.wak/ | viajero, peregrino |
-| waidya | waidya | /ˈwa.i.dja/ | médico, sanador |
-| wakash | wakash | /ˈwa.kaʃ/ | mensajero, heraldo |
-| wāhak | wāhak | /ˈwaː.hak/ | pastor, cuidador de rebaños |
-| yodha | yodha | /ˈjo.ða/ | guerrero, combatiente |
-| āthal | āthal | /ˈaː.θal/ | atleta, deportista, competidor |
+- **antar** /ˈan.tar/ *(noun)* — en/dentro de
+- **antár** /anˈtar/ *(adverb)* — dentro, adentro (locativo)
+- **atiksha** /ˈa.ti.kʃa/ *(noun)* — romo/embotado
+- **atísh** /ˈa.tiʃ/ *(adverb)* — demasiado, excesivamente (exceso)
+- **bahí** /baˈhi/ *(adverb)* — fuera, afuera (locativo)
+- **daimera** /dajˈme.ra/ *(noun)* — dia
+- **dakshina** /ˈdak.ʃi.na/ *(noun)* — derecha
+- **dura** /ˈdu.ra/ *(noun)* — lejos
+- **giri** /ˈgi.ri/ *(noun)* — montana
+- **harita** /ˈha.ri.ta/ *(noun)* — verde
+- **kala** /ˈka.la/ *(noun)* — negro
+- **kuna** /ˈku.na/ *(noun)* — podrido
+- **káp** /ˈkap/ *(adverb)* — bastante, suficiente (suficiencia)
+- **lav** /ˈlaw/ *(adverb)* — poco, apenas (atenuador)
+- **mala** /ˈma.la/ *(noun)* — sucio
+- **manas** /ˈma.nas/ *(noun)* — mente, psique, facultad mental
+- **nawa** /ˈna.wa/ *(noun)* — nuevo
+- **nukh** /ˈnux/ *(noun)* — sabiduría, conocimiento esotérico
+- **pantha** /ˈpan.θa/ *(noun)* — camino/via
+- **papa** /ˈpa.pa/ *(noun)* — malo
+- **pita** /ˈpi.ta/ *(noun)* — amarillo
+- **puran** /ˈpu.ran/ *(noun)* — viejo
+- **purna** /ˈpur.na/ *(noun)* — lleno
+- **rakta** /ˈrak.ta/ *(noun)* — rojo
+- **ratiri** /ˈra.ti.ri/ *(noun)* — noche
+- **rit** /ˈrit/ *(noun)* — orden cósmico, ciclo, rita
+- **riyu** /ˈri.ju/ *(noun)* — recto/derecho
+- **sadu** /ˈsa.du/ *(noun)* — bueno
+- **sah** /ˈsah/ *(noun)* — con
+- **saha** /ˈsa.ha/ *(noun)* — en/a/junto a
+- **sami** /ˈsa.mi/ *(noun)* — cerca
+- **samwa** /ˈsa.mwa/ *(noun)* — anho
+- **satya** /ˈsa.tja/ *(noun)* — correcto/verdadero
+- **shilak** /ˈʃi.lak/ *(noun)* — liso/suave
+- **shita** /ˈʃi.ta/ *(noun)* — frío, invierno
+- **shushka** /ˈʃuʃ.ka/ *(noun)* — seco
+- **shweta** /ˈʃwe.ta/ *(noun)* — blanco
+- **sháyat** /ˈʃa.jat/ *(adverb)* — quizas, tal vez (dubitativo)
+- **thel** /ˈθel/ *(noun)* — voluntad, intención consciente
+- **thes** /ˈθes/ *(noun)* — acto de voluntad, acción volitiva
+- **tiksha** /ˈtik.ʃa/ *(noun)* — afilado/agudo
+- **tina** /ˈti.na/ *(noun)* — humedo/mojado
+- **tís** /ˈtis/ *(adverb)* — muy (intensificador positivo)
+- **ushna** /ˈuʃ.na/ *(noun)* — caliente/calido
+- **wama** /ˈwa.ma/ *(noun)* — izquierda
+- **wirita** /ˈwi.ri.ta/ *(noun)* — redondo
+
+## Conjunciones y Partículas
+
+- **as** /ˈas/ *(particle)* — cópula (ser/estar)
+- **cha** /ˈtʃa/ *(particle)* — y (conjunción)
+- **hán** /ˈhan/ *(particle)* — pues bien, ahora (inicio discursivo)
+- **hát** /ˈhat/ *(conjunction)* — hasta que (temporal final)
+- **kar** /ˈkar/ *(particle)* — porque (conjunción causal)
+- **kás** /ˈkas/ *(conjunction)* — para que, a fin de que (final)
+- **kát** /ˈkat/ *(particle)* — dicen que, se dice (citativo)
+- **lám** /ˈlam/ *(particle)* — de ningun modo (negacion enfatica)
+- **máh** /ˈmah/ *(particle)* — en verdad, ciertamente (enfasis)
+- **mét** /ˈmet/ *(conjunction)* — despues de que (temporal posterior)
+- **o** /ˈo/ *(particle)* — vocativo, partícula de invocación
+- **pári** /ˈpa.ri/ *(conjunction)* — antes de que (temporal anterior)
+- **sáma** /ˈsa.ma/ *(particle)* — tan...como (equativo)
+- **súm** /ˈsum/ *(particle)* — en resumen, asi pues (conclusion)
+- **ti** /ˈti/ *(particle)* — que (complementizante)
+- **tu** /ˈtu/ *(particle)* — pero (conjunción adversativa)
+- **tát** /ˈtat/ *(conjunction)* — por lo tanto, entonces (consecutiva)
+- **tés** /ˈtes/ *(conjunction)* — mientras (simultaneo)
+- **va** /ˈwa/ *(particle)* — o (conjunción disyuntiva)
+- **wá** /ˈwa/ *(conjunction)* — mientras que, en cambio (contraste)
+- **wáy** /ˈwaj/ *(particle)* — por otra parte, ademas (transicion)
+- **yas** /ˈjas/ *(conjunction)* — si (condicional)
+- **yat** /ˈjat/ *(particle)* — si (condicional)
+- **ár** /ˈar/ *(conjunction)* — aunque, a pesar de (adversativa)
+- **ét** /ˈet/ *(particle)* — precisamente, exactamente (precision)
+
+## Dimensiones y Adjetivos
+
+- **alpa** /ˈal.pa/ *(adjective)* — pequeno
+- **amik** /ˈa.mik/ *(adjective)* — profundo
+- **bati** /ˈba.ti/ *(adjective)* — lento
+- **dir** /ˈdir/ *(adjective)* — largo
+- **fash** /ˈfaʃ/ *(adjective)* — tibio
+- **forfir** /ˈfor.fir/ *(adjective)* — púrpura, violeta, magenta
+- **garu** /ˈga.ru/ *(adjective)* — pesado
+- **herit** /ˈhe.rit/ *(adjective)* — verde, vegetal, viridiano
+- **jadit** /ˈja.dit/ *(adjective)* — nuevo (novel)
+- **khal** /ˈxal/ *(adjective)* — vacío
+- **khap** /ˈxap/ *(adjective)* — oscuro
+- **khar** /ˈxar/ *(adjective)* — caliente
+- **khushk** /ˈxuʃk/ *(adjective)* — seco
+- **kris** /ˈkris/ *(adjective)* — negro, oscuro, tenebroso
+- **mal** /ˈmal/ *(adjective)* — lleno
+- **nakhzir** /ˈnax.zir/ *(adjective)* — brillante
+- **narin** /ˈna.rin/ *(adjective)* — naranja, anaranjado, azafranado
+- **narm** /ˈnarm/ *(adjective)* — suave (tacto)
+- **nil** /ˈnil/ *(adjective)* — azul, añil, índigo
+- **palin** /ˈpa.lin/ *(adjective)* — gris, ceniciento, plomizo
+- **pashcha** /ˈpaʃ.tʃa/ *(adjective)* — último/final (ordinal irregular)
+- **prathi** /ˈpra.θi/ *(adjective)* — ancho
+- **purwa** /ˈpu.rwa/ *(adjective)* — primero/primordial (ordinal irregular)
+- **qadim** /ˈka.dim/ *(adjective)* — viejo (antiguo)
+- **rasa** /ˈra.sa/ *(adjective)* — corto
+- **rik** /ˈrik/ *(adjective)* — grande
+- **rohik** /ˈro.hik/ *(adjective)* — rojo, escarlata, bermellón
+- **sakhat** /ˈsa.xat/ *(adjective)* — duro
+- **sanhu** /ˈsan.hu/ *(adjective)* — estrecho
+- **sari** /ˈsa.ri/ *(adjective)* — rápido
+- **sarn** /ˈsarn/ *(adjective)* — dorado, áureo, reluciente como el oro
+- **sart** /ˈsart/ *(adjective)* — frío
+- **sas** /ˈsas/ *(adjective)* — superficial
+- **sat** /ˈsat/ *(adjective)* — recto
+- **shap** /ˈʃap/ *(adjective)* — joven
+- **shirin** /ˈʃi.rin/ *(adjective)* — dulce
+- **shwet** /ˈʃwet/ *(adjective)* — blanco, claro, puro
+- **sofar** /ˈso.far/ *(adjective)* — amarillo, dorado, áureo
+- **takh** /ˈtax/ *(adjective)* — mojado
+- **talakh** /ˈta.lax/ *(adjective)* — amargo
+- **tamir** /ˈta.mir/ *(adjective)* — marrón, pardo, castaño
+- **tanu** /ˈta.nu/ *(adjective)* — delgado/flaco
+- **thul** /ˈθul/ *(adjective)* — gordo/grueso
+- **wart** /ˈwart/ *(adjective)* — rosa, rosado, rosáceo
+- **zat** /ˈzat/ *(adjective)* — curvo/torcido
+
+## Emociones y Estados Afectivos
+
+- **admir** /ad.ˈmir/ *(verb)* — admirar
+- **asha** /ˈa.ʃa/ *(noun)* — esperanza, expectativa, anhelo positivo
+- **bat** /ˈbat/ *(noun)* — confusión, desconcierto, perplejidad
+- **baya** /ˈba.ja/ *(noun)* — miedo, temor, pavor
+- **bhay** /bʱaj/ *(verb)* — temer
+- **chint** /ˈtʃint/ *(noun)* — ansiedad, preocupación, inquietud
+- **daya** /ˈda.ja/ *(noun)* — compasión, piedad, misericordia
+- **dukh** /ˈdux/ *(noun)* — tristeza, aflicción, pesar, sufrimiento
+- **dvesh** /ˈdveʃ/ *(verb)* — odiar
+- **garb** /ɡarp/ *(verb)* — enorgullecerse
+- **garp** /ˈgarp/ *(noun)* — orgullo, soberbia, dignidad
+- **ghen** /ˈɣen/ *(noun)* — repulsión, asco, aversión intensa
+- **hani** /ˈha.ni/ *(noun)* — nostalgia, melancolía, añoranza
+- **irash** /ˈi.raʃ/ *(noun)* — envidia, celos, resentimiento
+- **irsh** /ˈiːrʃ/ *(verb)* — envidiar
+- **kam** /ˈkam/ *(noun)* — deseo sexual, pasión, lujuria, excitación erótica
+- **khet** /ˈxet/ *(noun)* — aburrimiento, hastío, tedio, desgano
+- **krit** /ˈkrit/ *(noun)* — gratitud, agradecimiento, reconocimiento
+- **ksham** /kʂam/ *(verb)* — perdonar
+- **kām** /kɑːm/ *(verb)* — desear
+- **laj** /latʃ/ *(verb)* — avergonzarse
+- **lal** /ˈlal/ *(noun)* — ternura, dulzura, cariño, delicadeza afectiva
+- **lash** /ˈlaʃ/ *(noun)* — vergüenza, pudor, bochorno
+- **maun** /ˈma.un/ *(noun)* — soledad, aislamiento, retiro solitario
+- **metan** /me.ˈtan/ *(verb)* — arrepentirse
+- **pap** /ˈpap/ *(noun)* — culpa, pecado, transgresión
+- **prem** /ˈprem/ *(noun)* — amor, afecto profundo, devoción amorosa
+- **preman** /ˈpre.man/ *(verb)* — amar
+- **rosh** /ˈroʃ/ *(noun)* — enojo, ira, furia, cólera
+- **sandeh** /san.ˈdeh/ *(verb)* — dudar
+- **santi** /ˈsan.ti/ *(noun)* — paz, serenidad, sosiego, tranquilidad profunda
+- **shak** /ˈʃak/ *(noun)* — sospecha, duda, desconfianza, recelo
+- **shok** /ʃok/ *(verb)* — lamentar
+- **sil** /ˈsil/ *(noun)* — calma, tranquilidad, sosiego, placidez
+- **sukha** /ˈsu.xa/ *(noun)* — felicidad, dicha, bienestar, júbilo
+- **tham** /ˈθam/ *(noun)* — asombro, sorpresa, estupefacción
+- **tirask** /ti.ˈrask/ *(verb)* — despreciar
+- **utsar** /ˈut.sar/ *(verb)* — celebrar
+- **vir** /ˈwir/ *(noun)* — valentía, coraje, heroicidad, bravura
+- **virah** /vi.ˈrah/ *(verb)* — anhelar
+- **vish** /ˈwiʃ/ *(noun)* — confianza, fe, seguridad interior
+- **vishwās** /viʃ.ˈwɑːs/ *(verb)* — confiar
+- **vismay** /vis.ˈmaj/ *(verb)* — sorprenderse
+- **āsh** /ɑːʃ/ *(verb)* — esperar
 
 ## Gobierno, Política y Derecho
 
-Gobierno, política, derecho, justicia y organización social
+- **ahadāt** /a.haˈdaːt/ *(noun)* — tratado, pacto, acuerdo vinculante entre partes
+- **amarwit** /aˈmar.wit/ *(noun)* — decreto, edicto, mandato oficial de la autoridad
+- **dawlakōt** /ˈdaw.la.koːt/ *(noun)* — gobierno, estado, administración del poder público
+- **hapdāta** /hapˈdaː.ta/ *(noun)* — ley, estatuto, norma jurídica
+- **haprat** /hapˈrat/ *(noun)* — juez, magistrado, quien dictamina según la ley
+- **hilifārta** /hi.liˈfaːr.ta/ *(noun)* — alianza, coalición, unión estratégica entre pueblos
+- **ikāpchad** /iˈkaːp.tʃad/ *(noun)* — castigo, pena, sanción por transgresión de la ley
+- **jurmbōn** /dʒurmˈboːn/ *(noun)* — crimen, delito, transgresión grave de la ley
+- **kahyul** /kahˈjul/ *(noun)* — reino, territorio, dominio soberano
+- **magaharb** /ma.ˈɡa.harp/ *(noun)* — guerra, conflicto armado, contienda entre fuerzas
+- **majlisgros** /madʒˈlis.gros/ *(noun)* — asamblea, consejo, reunión deliberativa
+- **māliknīt** /maːˈlik.niːt/ *(noun)* — reina, soberana, monarca
+- **mēimat** /mejˈmat/ *(noun)* — derecho, justicia, lo que corresponde por ley y orden cósmico
+- **nīwtagrong** /ˈniːw.ta.groŋ/ *(noun)* — ciudad, urbe, asentamiento urbano amurallado
+- **rabāji** /raˈbaː.dʒi/ *(noun)* — impuesto, tributo, contribución al estado
+- **romālik** /roˈmaː.lik/ *(noun)* — rey, monarca, soberano de un reino
+- **silmarta** /silˈmar.ta/ *(noun)* — paz, armonía, ausencia de conflicto
+- **tāshhad** /taːʃˈhad/ *(noun)* — frontera, límite, línea divisoria entre territorios
+- **wālrat** /waːlˈrat/ *(noun)* — gobernante, autoridad, quien ejerce el poder
 
-| Kalfírvach | Forma final | IPA | Concepto |
-|-----------|-------------|-----|----------|
-| hapdāta | hapdāta | /hapˈdaː.ta/ | ley, estatuto, norma jurídica |
-| mēimat | mēimat | /mejˈmat/ | derecho, justicia, lo que corresponde por ley y orden cósmico |
-| haprat | haprat | /hapˈrat/ | juez, magistrado, quien dictamina según la ley |
-| romālik | romālik | /roˈmaː.lik/ | rey, monarca, soberano de un reino |
-| māliknīt | māliknīt | /maːˈlik.niːt/ | reina, soberana, monarca |
-| kahyul | kahyul | /kahˈjul/ | reino, territorio, dominio soberano |
-| dawlakōt | dawlakōt | /ˈdaw.la.koːt/ | gobierno, estado, administración del poder público |
-| wālrat | wālrat | /waːlˈrat/ | gobernante, autoridad, quien ejerce el poder |
-| nīwtagrong | nīwtagrong | /ˈniːw.ta.groŋ/ | ciudad, urbe, asentamiento urbano amurallado |
-| ahadāt | ahadāt | /a.haˈdaːt/ | tratado, pacto, acuerdo vinculante entre partes |
-| hilifārta | hilifārta | /hi.liˈfaːr.ta/ | alianza, coalición, unión estratégica entre pueblos |
-| magaharb | magaharp | /ma.ˈɡa.harp/ | guerra, conflicto armado, contienda entre fuerzas |
-| silmarta | silmarta | /silˈmar.ta/ | paz, armonía, ausencia de conflicto |
-| rabāji | rabāji | /raˈbaː.dʒi/ | impuesto, tributo, contribución al estado |
-| amarwit | amarvit | /aˈmar.wit/ | decreto, edicto, mandato oficial de la autoridad |
-| majlisgros | majlisgros | /madʒˈlis.gros/ | asamblea, consejo, reunión deliberativa |
-| jurmbōn | jurmbōn | /dʒurmˈboːn/ | crimen, delito, transgresión grave de la ley |
-| ikāpchad | ikāpchad | /iˈkaːp.tʃad/ | castigo, pena, sanción por transgresión de la ley |
-| tāshhad | tāshhad | /taːʃˈhad/ | frontera, límite, línea divisoria entre territorios |
+## Interjecciones y Exclamaciones
+
+- **amen** /ˈa.men/ *(interjection)* — amén (afirmación ritual, cierre consagratorio)
+- **aum** /ˈa.um/ *(interjection)* — om/aum (sonido primordial, mantra)
+- **baruk** /ˈba.ruk/ *(interjection)* — ¡bendito! (declaración de bendición)
+- **halel** /ˈha.lel/ *(interjection)* — ¡aleluya! (alabanza, júbilo)
+- **hina** /ˈhi.na/ *(interjection)* — he aquí (atención visual, demostración)
+- **hál** /ˈhal/ *(interjection)* — he aqui, mira (exclamacion presentativa)
+- **kafa** /ˈka.fa/ *(interjection)* — ¡basta! (finalización, completitud, suficiencia)
+- **la** /ˈla/ *(interjection)* — no (negación, rechazo)
+- **nam** /ˈnam/ *(interjection)* — sí (afirmación, asentimiento)
+- **shalam** /ˈʃa.lam/ *(interjection)* — paz (salutación, bendición)
+- **shama** /ˈʃa.ma/ *(interjection)* — ¡escucha! (atención auditiva, llamado a oír)
+- **wai** /ˈwa.i/ *(interjection)* — ¡ay! (dolor, lamento)
+- **ya** /ˈja/ *(interjection)* — ¡oh! (asombro, vocativo admirativo)
+
+## Magia y Mitología
+
+- **ainakos** /ˈa.i.na.kos/ *(noun)* — Espejo del Mundo
+- **aither** /ˈa.i.θer/ *(noun)* — plano etérico / energía vital
+- **akhásmara** /ˈa.xas.ma.ra/ *(noun)* — parásito astral, entidad que drena energía en el plano sutil
+- **altara** /ˈal.ta.ra/ *(noun)* — altar (mesa o piedra de ofrenda)
+- **anrak** /ˈan.rak/ *(verb)* — desterrar (verbo ritual)
+- **anus** /ˈa.nus/ *(noun)* — inconsciente
+- **anāhīsūf** /aˈnaː.hiː.suːf/ *(noun)* — espíritu planetario de Venus, regente del amor, la belleza y la atracción
+- **astara** /ˈas.ta.ra/ *(noun)* — plano astral / emociones
+- **athama** /ˈa.θa.ma/ *(noun)* — athame, daga ritual
+- **atma** /ˈat.ma/ *(noun)* — plano espiritual / átmico
+- **atyata** /ˈat.ja.ta/ *(noun)* — Templo Interior
+- **bahrāmsūf** /bahˈraːm.suːf/ *(noun)* — espíritu planetario de Marte, regente de la fuerza, la guerra y la voluntad
+- **bewīs** /ˈbe.wiːs/ *(verb)* — sellar (cerrar portal) - verbo ritual v1.2
+- **binwī** /ˈbi.nwiː/ *(verb)* — proteger (poner resguardo) - verbo ritual v1.2
+- **bomkan** /ˈbom.kan/ *(noun)* — Altar primordial
+- **buda** /ˈbu.da/ *(noun)* — plano mental superior / búdico
+- **bá** /ˈba/ *(noun)* — espiento/aliado
+- **bárzakh** /ˈbar.zax/ *(noun)* — barrera/istmo
+- **bíndu** /ˈbin.du/ *(noun)* — punto central/esencia
+- **būmsūf** /ˈbuːm.suːf/ *(noun)* — espíritu planetario de la Tierra, regente de lo material, lo denso y lo fértil
+- **chásdruying** /ˈtʃas.dru.jiŋ/ *(noun)* — portal dimensional, grieta en el éter que funciona como puerta entre planos
+- **chā** /ˈtʃaː/ *(verb)* — proteger (amparar)
+- **coagula** /ˈco.a.gu.la/ *(verb)* — coagular (operación alquímica)
+- **damqírtas** /damˈkir.tas/ *(noun)* — papiro, rollo de escritura, manuscrito sagrado
+- **darmut** /ˈdar.mut/ *(noun)* — Puerta Sellada
+- **druma** /ˈdru.ma/ *(noun)* — Árbol del Mundo
+- **dze** /ˈʣe/ *(verb)* — purificar ritual (limpiar energético) - verbo ritual v1.2
+- **dámiuqara** /ˈda.mi.u.ka.ra/ *(noun)* — demiurgo, artífice divino del mundo material
+- **dár** /ˈdar/ *(noun)* — umbral/portal
+- **dáyena** /ˈda.je.na/ *(noun)* — conciencia interior
+- **dáymojin** /ˈdaj.mo.jin/ *(noun)* — demonio, genio espiritual (puede ser benéfico o maléfico)
+- **díksha** /ˈdik.ʃa/ *(noun)* — iniciación
+- **fír** /ˈfir/ *(noun)* — fuego intelectual
+- **garfa** /ˈgar.fa/ *(noun)* — Cueva del Renacimiento
+- **gazámsa** /gaˈzam.sa/ *(noun)* — duende, gnomo, espíritu elemental de la tierra
+- **gesira** /ˈge.si.ra/ *(noun)* — Puente de los Planos
+- **ghul** /ˈɣul/ *(verb)* — sellar (cerrar ritual)
+- **ghēl** /ˈɣeːl/ *(verb)* — exorcizar (expulsar entidad) - verbo ritual v1.2
+- **gnósis** /ˈgno.sis/ *(noun)* — gnosis/conocimiento directo
+- **gétik** /ˈge.tik/ *(noun)* — material/físico
+- **gúrú** /ˈgu.ru/ *(noun)* — maestro/guía
+- **heka** /ˈhe.ka/ *(noun)* — magia, heka, poder mágico primordial
+- **hisopa** /ˈhi.so.pa/ *(noun)* — hisopo (aspergillum)
+- **hormsūf** /ˈhorm.suːf/ *(noun)* — espíritu planetario de Júpiter, regente de la sabiduría, la expansión y la realeza
+- **híkma** /ˈhik.ma/ *(noun)* — sabiduría
+- **hóm** /ˈhom/ *(noun)* — ofrenda
+- **hūrsūf** /ˈhuːr.suːf/ *(noun)* — espíritu planetario del Sol, espíritu solar, regente del fuego astral y la vitalidad
+- **ichfo** /ˈitʃ.fo/ *(verb)* — consagrar (dedicar a divinidad) - verbo ritual v1.2
+- **ilū** /ˈi.luː/ *(verb)* — purificar (limpiar ritual)
+- **incensa** /ˈin.cen.sa/ *(noun)* — incensario (recipiente para quemar incienso)
+- **kalika** /ˈka.li.ka/ *(noun)* — cáliz (recipiente ritual)
+- **karan** /ˈka.ran/ *(verb)* — cargar (objeto con energía ritual)
+- **karana** /ˈka.ra.na/ *(noun)* — plano causal / alma superior
+- **kavá** /ka.ˈwa/ *(noun)* — protección/escudo
+- **kaywānsūf** /kajˈwaːn.suːf/ *(noun)* — espíritu planetario de Saturno, regente del tiempo, la estructura y el karma
+- **khi** /ˈxi/ *(verb)* — romper hechizo (desencantar)
+- **khwá** /ˈxwa/ *(noun)* — gloria/luz divina
+- **kiklota** /ˈki.klo.ta/ *(noun)* — Círculo de Unidad
+- **ká** /ˈka/ *(noun)* — alma/centro vital
+- **kásha** /ˈka.ʃa/ *(noun)* — templo/centro
+- **lampa** /ˈlam.pa/ *(noun)* — lamparilla, vela ritual
+- **lapyara** /ˈla.pja.ra/ *(noun)* — Laberinto / Espiral iniciática
+- **limu** /ˈli.mu/ *(verb)* — encantar (hechizar)
+- **malkángra** /ˈmal.kaŋ.gra/ *(noun)* — ángel, mensajero divino (puede ser persona o espíritu)
+- **manasa** /ˈma.na.sa/ *(noun)* — plano mental / pensamiento discursivo
+- **maya** /ˈma.ja/ *(noun)* — ilusión, apariencia, manifestación fenoménica
+- **mnéme** /ˈmne.me/ *(noun)* — memoria/registro
+- **mukfī** /ˈmuk.fiː/ *(verb)* — desencantar (romper hechizo) - verbo ritual v1.2
+- **mulrup** /ˈmul.rup/ *(noun)* — arquetipo
+- **mánthala** /ˈman.θa.la/ *(noun)* — círculo/mandala
+- **mántra** /ˈman.tra/ *(noun)* — palabra-poder
+- **médhya** /ˈme.dja/ *(verb)* — meditar, contemplación profunda
+- **mínok** /ˈmi.nok/ *(noun)* — espíritu/mente sutil
+- **múdra** /ˈmu.dra/ *(noun)* — sello/marca
+- **nuī** /ˈnu.iː/ *(verb)* — exorcizar (expulsar demonio)
+- **náda** /ˈna.da/ *(noun)* — sonido primordial
+- **pagana** /ˈpa.ga.na/ *(noun)* — Fuente de la Memoria
+- **paradesh** /ˈpa.ra.deʃ/ *(noun)* — Jardín de Contemplación
+- **paraka** /ˈpa.ra.ka/ *(verb)* — purificar (verbo ritual)
+- **parisham** /ˈpa.ri.ʃam/ *(noun)* — proyección
+- **pejap** /ˈpe.jap/ *(noun)* — Velo / Umbral
+- **pentaka** /ˈpen.ta.ka/ *(noun)* — pentáculo (disco de cinco puntas)
+- **posīdsūf** /poˈsiːt.suːf/ *(noun)* — espíritu planetario de Neptuno, regente de los abismos, los sueños y lo trascendente
+- **purkap** /ˈpur.kap/ *(noun)* — Torre de Vigilancia
+- **qadesh** /ˈka.deʃ/ *(verb)* — consagrar (verbo ritual)
+- **raskal** /ˈras.kal/ *(noun)* — cosmos, orden universal, armonía cósmica
+- **rupa** /ˈru.pa/ *(noun)* — plano físico / mundo material
+- **ríga** /ˈri.ga/ *(noun)* — conciencia
+- **samalek** /ˈsa.ma.lek/ *(noun)* — sincronicidad
+- **samunda** /ˈsa.mun.da/ *(noun)* — Océano de Conciencia
+- **sat** /ˈsat/ *(noun)* — práctica espiritual, realización, sadhana
+- **shakti** /ˈʃak.ti/ *(noun)* — poder, fuerza, energía dinámica
+- **shám** /ˈʃam/ *(noun)* — sombra/lo oculto
+- **sháp** /ˈʃap/ *(noun)* — símbolo/signo
+- **shúnya** /ˈʃu.nja/ *(noun)* — vacío/potencial
+- **sirra** /ˈsir.ra/ *(noun)* — secreto/misterio
+- **solve** /ˈsol.we/ *(verb)* — disolver (operación alquímica)
+- **sáp** /ˈsap/ *(noun)* — eco/resonancia
+- **séshkatip** /ˈseʃ.ka.tip/ *(noun)* — escriba, copista de textos sagrados y rituales
+- **séypari** /ˈsej.pa.ri/ *(noun)* — sirena, espíritu elemental del agua
+- **thak** /ˈθak/ *(verb)* — encantar (aplicar hechizo) - verbo ritual v1.2
+- **thén** /ˈθen/ *(noun)* — ritual
+- **tunika** /ˈtu.ni.ka/ *(noun)* — túnica ritual
+- **turkos** /ˈtur.kos/ *(noun)* — Montaña Cósmica / Eje del Mundo
+- **tíkle** /ˈti.kle/ *(noun)* — gota/esencia
+- **tēbe** /ˈteː.be/ *(verb)* — sacrificar (ofrendar a deidad) - verbo ritual v1.2
+- **tīrsūf** /ˈtiːr.suːf/ *(noun)* — espíritu planetario de Mercurio, regente de la comunicación y el ingenio
+- **urānsūf** /uˈraːn.suːf/ *(noun)* — espíritu planetario de Urano, regente de lo repentino, lo original y lo disruptivo
+- **vayrūh** /ˈwaj.ruːh/ *(noun)* — silfo, espíritu elemental del aire
+- **vijulta** /vi.ˈjul.ta/ *(noun)* — universo, totalidad de la existencia
+- **virga** /ˈwir.ga/ *(noun)* — varita (instrumento ritual)
+- **vísha** /ˈwi.ʃa/ *(noun)* — veneno/sabiduría
+- **wīli** /ˈwiː.li/ *(verb)* — sacrificar (ofrendar)
+- **yoga** /ˈjo.ga/ *(noun)* — unión, integración, yoga
+- **yóga** /ˈjo.ga/ *(noun)* — integración
+- **zīdhū** /ˈziː.ðuː/ *(verb)* — invocar (llamar entidad) - verbo ritual v1.2
+- **árchamaqal** /ˈar.tʃa.ma.kal/ *(noun)* — arcángel, parte de Dios que crea en el plano mental
+- **ásha** /ˈa.ʃa/ *(noun)* — verdad/orden cósmico
+- **áyna** /ˈaj.na/ *(noun)* — espejo
+- **ónoma** /ˈo.no.ma/ *(noun)* — nombre verdadero
+- **ópsis** /ˈop.sis/ *(noun)* — visión/claridad
+- **āmo** /ˈaː.mo/ *(verb)* — adivinar (predecir futuro) - verbo ritual v1.2
+- **θéle** /ˈθe.le/ *(noun)* — voluntad
+
+## Medicina y Salud
+
+- **akopa** /ˈa.ko.pa/ *(noun)* — amputar/cortar miembro
+- **alama** /ˈa.la.ma/ *(noun)* — dolor
+- **ashap** /ˈa.ʃap/ *(noun)* — herborista/boticario
+- **asip** /ˈa.sip/ *(noun)* — médico/curandero
+- **dawa** /ˈda.wa/ *(noun)* — medicina/remedio
+- **enka** /ˈen.ka/ *(noun)* — cerebro (órgano del pensamiento y sede de la mente)
+- **farmak** /ˈfar.mak/ *(noun)* — veneno/toxina
+- **gnosa** /ˈgno.sa/ *(noun)* — diagnosticar
+- **iksir** /ˈik.sir/ *(noun)* — elixir/pócima
+- **karda** /ˈkar.da/ *(noun)* — corazón (órgano central de la circulación y centro emocional)
+- **kauta** /ˈka.u.ta/ *(noun)* — cauterizar/quemar
+- **khenu** /ˈxe.nu/ *(noun)* — herida/llaga
+- **kibda** /ˈkib.da/ *(noun)* — hígado (órgano de la sangre y la bilis)
+- **maida** /ˈma.i.da/ *(noun)* — estómago (órgano de la digestión)
+- **merhet** /ˈmer.het/ *(noun)* — ungüento/pomada
+- **mysal** /ˈmjsal/ *(noun)* — músculo (tejido contráctil del cuerpo)
+- **nabda** /ˈnab.da/ *(noun)* — pulso (latido arterial palpable)
+- **nafas** /ˈna.fas/ *(noun)* — respiración/espíritu vital (aliento, prāṇa)
+- **nerwa** /ˈne.rwa/ *(noun)* — nervio (haz conductor de señales)
+- **nifra** /ˈni.fra/ *(noun)* — riñón (órgano de la filtración)
+- **nosa** /ˈno.sa/ *(noun)* — enfermedad/peste
+- **oedma** /ˈo.ed.ma/ *(noun)* — hinchazón/inflamación
+- **ostun** /ˈos.tun/ *(noun)* — hueso (estructura rígida del esqueleto)
+- **pyona** /ˈpjo.na/ *(noun)* — infección/pus
+- **sekta** /ˈsek.ta/ *(noun)* — cirugía/incisión
+- **shemem** /ˈʃe.mem/ *(noun)* — fiebre/calentura
+- **tenar** /ˈte.nar/ *(noun)* — tendón (tejido que une músculo a hueso)
+- **thera** /ˈθe.ra/ *(noun)* — curar/sanar
+- **téryak** /ˈte.rjak/ *(noun)* — antídoto/contraveneno
+- **wilat** /ˈwi.lat/ *(noun)* — parto/nacimiento (evento de dar a luz)
+- **yiya** /ˈji.ja/ *(noun)* — salud/sanidad
+
+## Naturaleza y Elementos
+
+- **anzu** /ˈan.zu/ *(noun)* — Venus (planeta del lucero)
+- **apa** /ˈa.pa/ *(noun)* — agua
+- **barkhas** /ˈbar.xas/ *(noun)* — relámpago
+- **basma** /ˈbas.ma/ *(noun)* — ceniza
+- **bumi** /ˈbu.mi/ *(noun)* — tierra (suelo)
+- **burkan** /ˈbur.kan/ *(noun)* — volcán, montaña de fuego
+- **dah** /ˈdah/ *(noun)* — quemar
+- **dip** /ˈdip/ *(noun)* — isla, ínsula
+- **diwa** /ˈdi.wa/ *(noun)* — cielo
+- **duli** /ˈdu.li/ *(noun)* — polvo
+- **duma** /ˈdu.ma/ *(noun)* — humo
+- **fir** /ˈfir/ *(noun)* — fuego
+- **ghas** /ˈɣas/ *(noun)* — pastizal, sabana, pradera
+- **ghat** /ˈɣat/ *(noun)* — valle, cañada, depresión
+- **ghor** /ˈɣor/ *(noun)* — barranco, abismo, precipicio, sima
+- **ghuras** /ˈɣu.ras/ *(noun)* — atardecer
+- **gir** /ˈgir/ *(noun)* — montaña, monte, elevación rocosa
+- **giyah** /ˈɡi.jah/ *(noun)* — pasto/hierba
+- **grakaw** /ˈgra.kaw/ *(noun)* — planeta, cuerpo celeste errante
+- **guh** /ˈguh/ *(noun)* — cueva, caverna, gruta
+- **harada** /ˈha.ra.da/ *(noun)* — lago
+- **hermar** /ˈher.mar/ *(noun)* — Marte (planeta rojo)
+- **him** /ˈhim/ *(noun)* — hielo
+- **hima** /ˈhi.ma/ *(noun, verb)* — nieve, helar, congelar
+- **hormus** /ˈhor.mus/ *(noun)* — Júpiter (planeta mayor)
+- **jas** /ˈjas/ *(noun)* — isla
+- **kanan** /ˈka.nan/ *(noun)* — selva, jungla, monte espeso
+- **kash** /ˈkaʃ/ *(noun)* — costa, orilla, litoral
+- **keyzu** /ˈkej.zu/ *(noun)* — Saturno (planeta distante)
+- **khamzir** /ˈxam.zir/ *(noun)* — arcoíris
+- **khan** /ˈxan/ *(noun)* — cañón, garganta, desfiladero
+- **khir** /ˈxir/ *(noun)* — bosque
+- **lona** /ˈlo.na/ *(noun)* — sal
+- **mahsel** /ˈmah.sel/ *(noun)* — luna
+- **mauj** /ˈma.uj/ *(noun)* — ola
+- **megha** /ˈme.ɣa/ *(noun)* — nube
+- **mukh** /ˈmux/ *(noun)* — bahía, ensenada, golfo pequeño
+- **nakbursa** /nak.ˈbur.sa/ *(noun)* — constelación, grupo de estrellas
+- **nat** /ˈnat/ *(noun)* — río, corriente de agua
+- **nihar** /ˈni.har/ *(noun)* — niebla
+- **nur** /ˈnur/ *(noun)* — luz, claridad, iluminación
+- **parzam** /ˈpar.zam/ *(noun)* — fruta
+- **pawan** /ˈpa.wan/ *(noun)* — viento
+- **pet** /ˈpet/ *(noun)* — llanura, planicie, campo abierto
+- **radar** /ˈra.dar/ *(noun)* — trueno
+- **rish** /ˈriʃ/ *(noun)* — raíz
+- **rúng** /ˈruŋ/ *(noun)* — energía vital/viento
+- **sagar** /ˈsa.gar/ *(noun)* — océano profundo, alta mar, abismo marino
+- **sah** /ˈsah/ *(noun)* — desierto, yermo, árido
+- **sahrah** /ˈsah.rah/ *(noun)* — desierto
+- **sakh** /ˈsax/ *(noun)* — campo
+- **samuda** /ˈsa.mu.da/ *(noun)* — mar
+- **samut** /ˈsa.mut/ *(noun)* — mar, océano, gran masa de agua
+- **sant** /ˈsant/ *(noun)* — estrecho, paso angosto, canal
+- **sar** /ˈsar/ *(noun)* — lago, laguna, espejo de agua
+- **shakh** /ˈʃax/ *(noun)* — rama
+- **shal** /ˈʃal/ *(noun)* — cascada, salto de agua, catarata
+- **shap** /ˈʃap/ *(noun)* — costa/orilla
+- **shaprak** /ˈʃap.rak/ *(noun)* — amanecer
+- **sher** /ˈʃer/ *(noun)* — cordillera, sierra, cadena montañosa
+- **shikh** /ˈʃix/ *(noun)* — pico, cumbre, cima
+- **shila** /ˈʃi.la/ *(noun)* — piedra
+- **shinshar** /ˈʃin.ʃar/ *(noun)* — árbol
+- **sika** /ˈsi.ka/ *(noun)* — arena
+- **sota** /ˈso.ta/ *(noun)* — rio
+- **surya** /ˈsu.rja/ *(noun)* — sol
+- **takham** /ˈta.xam/ *(noun)* — semilla
+- **tal** /ˈtal/ *(noun)* — colina
+- **tara** /ˈta.ra/ *(noun)* — estrella
+- **thil** /ˈθil/ *(noun)* — colina, loma, altozano
+- **thutir** /ˈθu.tir/ *(noun)* — Mercurio (planeta mensajero)
+- **wakhi** /ˈwak.hi/ *(noun)* — valle
+- **walgar** /ˈwal.ɡar/ *(noun)* — hoja
+- **wana** /ˈwa.na/ *(noun)* — bosque, arboleda, floresta
+- **war** /ˈwar/ *(noun)* — flor
+- **warsha** /ˈwar.ʃa/ *(noun)* — lluvia
+- **zal** /ˈzal/ *(noun)* — sombra
+
+## Números
+
+- **chatúr** /tʃa.ˈtur/ *(numeral)* — cuatro
+- **dvi** /ˈdwi/ *(numeral)* — dos
+- **dásha** /ˈda.ʃa/ *(numeral)* — diez
+- **házar** /ˈha.zar/ *(numeral)* — mil
+- **náva** /ˈna.wa/ *(numeral)* — nueve
+- **páncha** /ˈpan.tʃa/ *(numeral)* — cinco
+- **shásh** /ˈʃaʃ/ *(numeral)* — seis
+- **sháta** /ˈʃa.ta/ *(numeral)* — cien
+- **sápta** /ˈsap.ta/ *(numeral)* — siete
+- **tiri** /ˈti.ri/ *(numeral)* — tres
+- **áshta** /ˈaʃ.ta/ *(numeral)* — ocho
+- **éka** /ˈe.ka/ *(numeral)* — uno
+
+## Onomástica
+
+- **bīj** /ˈbiːj/ *(particle)* — semilla, nombre esencial (capa I)
+- **gup** /ˈgup/ *(particle)* — oculto, criptónimo, nombre cifrado (capa IV)
+- **nūm** /ˈnuːm/ *(particle)* — forma del nombre, nombre personal (capa II)
+- **samanta** /ˈsa.man.ta/ *(particle)* — función, oficio mágico, título (capa III)
+
+## Personas y Parentesco
+
+- **adar** /ˈa.dar/ *(noun)* — cuñado
+- **adarī** /ˈa.da.riː/ *(noun)* — cuñada
+- **adelp** /ˈa.delp/ *(noun)* — hermana
+- **adelpmas** /a.ˈdelp.mas/ *(noun)* — hermana mayor
+- **adelpnap** /a.ˈdelp.nap/ *(noun)* — hermana menor
+- **afrat** /ˈa.frat/ *(noun)* — hermano
+- **afratmas** /a.ˈfrat.mas/ *(noun)* — hermano mayor
+- **afratnap** /a.ˈfrat.nap/ *(noun)* — hermano menor
+- **anepas** /ˈa.ne.pas/ *(noun)* — primo
+- **archit** /ˈar.tʃit/ *(noun)* — ancestro
+- **bala** /ˈba.la/ *(noun)* — nino/criatura
+- **bana** /ˈba.na/ *(noun)* — nieto
+- **brat** /ˈbrat/ *(noun)* — portador, cargador, sustentador
+- **dara** /ˈda.ra/ *(noun)* — esposa
+- **didum** /ˈdi.dum/ *(noun)* — gemelos
+- **gamar** /ˈga.mar/ *(noun)* — yerno
+- **ghenos** /ˈɣe.nos/ *(noun)* — linaje/estirpe
+- **huya** /ˈhu.ja/ *(noun)* — hijo
+- **khara** /ˈxa.ra/ *(noun)* — viuda
+- **kheros** /ˈxe.ros/ *(noun)* — viudo
+- **mama** /ˈma.ma/ *(noun)* — abuela
+- **manush** /ˈma.nuʃ/ *(noun)* — persona/ser humano
+- **mata** /ˈma.ta/ *(noun)* — madre
+- **nama** /ˈna.ma/ *(noun)* — nombre
+- **napbut** /ˈnap.but/ *(noun)* — benjamín (hijo menor)
+- **nara** /ˈna.ra/ *(noun)* — hombre adulto
+- **nari** /ˈna.ri/ *(noun)* — mujer
+- **nimfa** /ˈnim.fa/ *(noun)* — nuera
+- **oikos** /ˈo.i.kos/ *(noun)* — clan/familia
+- **orfan** /ˈor.fan/ *(noun)* — huérfano
+- **papu** /ˈpa.pu/ *(noun)* — abuelo
+- **pati** /ˈpa.ti/ *(noun)* — esposo
+- **pentir** /ˈpen.tir/ *(noun)* — suegro
+- **pentira** /ˈpen.ti.ra/ *(noun)* — suegra
+- **pita** /ˈpi.ta/ *(noun)* — padre
+- **prathum** /ˈpra.θum/ *(noun)* — primogénito
+- **theia** /ˈθe.i.a/ *(noun)* — tía
+- **theios** /ˈθe.i.os/ *(noun)* — tío
+- **thuktar** /ˈθuk.tar/ *(noun)* — hija
+- **vitmatar** /ˈwit.ma.tar/ *(noun)* — madrastra
+- **vitpitar** /ˈwit.pi.tar/ *(noun)* — padrastro
+
+## Profesiones y Roles
+
+- **-khán** /ˈxan/ *(suffix)* — senor, soberano (sufijo)
+- **báp** /ˈbap/ *(prefix)* — fundador, padre fundador (prefijo)
+- **dishk** /ˈdiʃk/ *(noun)* — juez, árbitro
+- **dāshak** /ˈdaː.ʃak/ *(noun)* — escriba, letrado, cronista
+- **ghārī** /ˈɣaː.riː/ *(noun)* — ermitaño, asceta, solitario
+- **ghōsh** /ˈɣoːʃ/ *(noun)* — heraldo, pregonero
+- **gāndhar** /ˈgaːn.ðar/ *(noun)* — músico, cantante, artista sonoro
+- **hārsh** /ˈhaːrʃ/ *(noun)* — mercader, comerciante
+- **krishak** /ˈkri.ʃak/ *(noun)* — agricultor, labrador
+- **kāmak** /ˈkaː.mak/ *(noun)* — amante, devoto, fiel
+- **kāmik** /ˈkaː.mik/ *(noun)* — pescador
+- **kārakh** /ˈkaː.rax/ *(noun)* — constructor, arquitecto
+- **kāsh** /ˈkaːʃ/ *(noun)* — vidente, adivino, oráculo
+- **kāshikh** /ˈkaː.ʃix/ *(noun)* — sastre, costurero
+- **kōmak** /ˈkoː.mak/ *(noun)* — cocinero, chef
+- **kōsh** /ˈkoːʃ/ *(noun)* — tesorero, administrador de bienes
+- **lāwak** /ˈlaː.wak/ *(noun)* — abogado, defensor, jurista
+- **mālak** /ˈmaː.lak/ *(noun)* — jardinero, hortelano
+- **māsh** /ˈmaːʃ/ *(noun)* — maestro, profesor, instructor
+- **nāwak** /ˈnaː.wak/ *(noun)* — navegante, marino
+- **nāwik** /ˈnaː.wik/ *(noun)* — piloto, timonel
+- **nāyak** /ˈnaː.jak/ *(noun)* — guía, conductor, líder
+- **pir** /ˈpir/ *(prefix)* — gran maestro, guia espiritual (prefijo)
+- **ratshi** /ˈra.tʃi/ *(noun)* — rey, soberano, monarca
+- **rāksh** /ˈraːkʃ/ *(noun)* — guardián, centinela, protector
+- **rās** /ˈraːs/ *(noun)* — auriga, cochero, conductor de carros
+- **rāwak** /ˈraː.wak/ *(noun)* — viajero, peregrino
+- **waidya** /ˈwa.i.dja/ *(noun)* — médico, sanador
+- **wakash** /ˈwa.kaʃ/ *(noun)* — mensajero, heraldo
+- **wāhak** /ˈwaː.hak/ *(noun)* — pastor, cuidador de rebaños
+- **yodha** /ˈjo.ða/ *(noun)* — guerrero, combatiente
+- **āthal** /ˈaː.θal/ *(noun)* — atleta, deportista, competidor
+
+## Pronombres y Deícticos
+
+- **anya** /ˈa.nja/ *(pronoun)* — otro
+- **asa** /ˈa.sa/ *(pronoun)* — aquel (demostrativo distal, lejos del hablante y oyente)
+- **bahu** /ˈba.hu/ *(pronoun)* — mucho
+- **eta** /ˈe.ta/ *(pronoun)* — ese (demostrativo medial, distancia media)
+- **ida** /ˈi.da/ *(pronoun)* — aquí
+- **ima** /ˈi.ma/ *(pronoun)* — este (demostrativo proximal, cerca del hablante)
+- **kachi** /ˈka.tʃi/ *(pronoun)* — alguno
+- **kada** /ˈka.da/ *(pronoun)* — cuándo (interrogativo, tiempo)
+- **kanam** /ˈka.nam/ *(pronoun)* — poco
+- **katha** /ˈka.θa/ *(pronoun)* — cómo (interrogativo, modo o manera)
+- **kesh** /ˈkeʃ/ *(pronoun)* — alguien (indefinido, persona no especificada)
+- **kima** /ˈki.ma/ *(pronoun)* — qué/cuál (interrogativo, cosa o cualidad)
+- **kuda** /ˈku.da/ *(pronoun)* — dónde (interrogativo, lugar)
+- **kuta** /ˈku.ta/ *(pronoun)* — por qué (interrogativo, causa o razón)
+- **naka** /ˈna.ka/ *(pronoun)* — nadie (indefinido negativo, persona alguna)
+- **sarwa** /ˈsa.rwa/ *(pronoun)* — todo
+- **tara** /ˈta.ra/ *(pronoun)* — alli/ahi
+
+## Seres Vivos: Plantas
+
+- **akanta** /ˈa.kan.ta/ *(noun)* — espina/aguijón
+- **aroma** /ˈa.ro.ma/ *(noun)* — especia (aromática)
+- **biya** /ˈbi.ja/ *(noun)* — semilla
+- **doru** /ˈdo.ru/ *(noun)* — madera/leño
+- **duruma** /ˈdu.ru.ma/ *(noun)* — arbol
+- **elaia** /ˈe.la.i.a/ *(noun)* — olivo/aceituna
+- **fala** /ˈfa.la/ *(noun)* — fruta
+- **karpa** /ˈkar.pa/ *(noun)* — vid/uva
+- **kastha** /ˈkas.θa/ *(noun)* — palo/baston
+- **kaula** /ˈka.u.la/ *(noun)* — tallo
+- **korma** /ˈkor.ma/ *(noun)* — tronco
+- **kriti** /ˈkri.ti/ *(noun)* — cebada
+- **liana** /ˈli.a.na/ *(noun)* — enredadera/bejuco
+- **mula** /ˈmu.la/ *(noun)* — raiz
+- **mulandrasa** /mu.ˈlan.dra.sa/ *(noun)* — raíz (parte subterránea de una planta)
+- **opara** /ˈo.pa.ra/ *(noun)* — savia/resina
+- **oshnaba** /ˈoʃ.na.ba/ *(noun)* — planta, vegetal, organismo vegetal
+- **pala** /ˈpa.la/ *(noun)* — polen
+- **patara** /ˈpa.ta.ra/ *(noun)* — hoja
+- **petala** /ˈpe.ta.la/ *(noun)* — pétalo
+- **pushpa** /ˈpuʃ.pa/ *(noun)* — flor
+- **rayu** /ˈra.ju/ *(noun)* — cuerda
+- **sfagna** /ˈsfag.na/ *(noun)* — musgo
+- **sitos** /ˈsi.tos/ *(noun)* — trigo
+- **tarfas** /ˈtar.fas/ *(noun)* — hongo/seta
+- **tirina** /ˈti.ri.na/ *(noun)* — hierba/pasto
+- **twak** /ˈtwak/ *(noun)* — corteza (de arbol)
+
+## Tecnología
+
+- **achaya** /ˈa.tʃa.ja/ *(noun)* — deselect/deseleccionar
+- **adark** /a.ˈdark/ *(noun)* — herramienta, instrumento, utensilio
+- **adholikh** /ˈa.ðo.lix/ *(noun)* — underline/subrayado
+- **akhal** /ˈak.hal/ *(noun)* — undo/deshacer
+- **amalzul** /a.ˈmal.zul/ *(noun)* — cloud/nube
+- **awanswak** /ˈa.wan.swak/ *(noun)* — help/ayuda
+- **bahsan** /ˈbah.san/ *(noun)* — search/buscar
+- **bashal** /ˈbas.hal/ *(noun)* — alpha/primera fase
+- **bhar** /bʱar/ *(verb)* — cargar (datos)
+- **bránti** /ˈbran.ti/ *(noun)* — error/fallo
+- **buddhimayina** /bu.dði.ˈma.ji.na/ *(noun)* — inteligencia artificial
+- **caray** /tʃa.ˈraj/ *(verb)* — ejecutar (correr programa)
+- **damwak** /ˈdam.wak/ *(noun)* — merge/fusión
+- **dasras** /ˈdas.ras/ *(noun)* — settings/configuración
+- **daybak** /ˈdaj.bak/ *(noun)* — commit/envío
+- **drish** /driʂ/ *(verb)* — escanear (digitalizar)
+- **duhul** /ˈdu.hul/ *(noun)* — login/acceso
+- **fahaskan** /ˈfa.has.kan/ *(noun)* — review/revisión
+- **fakras** /ˈfak.ras/ *(noun)* — highlight/resaltar
+- **faskhas** /ˈfas.xas/ *(noun)* — strikethrough/tachado
+- **fasnos** /ˈfas.nos/ *(noun)* — virus/malware
+- **firmur** /ˈfir.mur/ *(noun)* — firewall
+- **gan** /ɡan/ *(verb)* — calcular (procesar)
+- **gavesh** /ɡa.ˈveʂ/ *(verb)* — buscar (rastrear)
+- **gharfal** /ˈɣar.fal/ *(noun)* — filter/filtrar
+- **guh** /ɡuh/ *(verb)* — encriptar (cifrar)
+- **guptata** /ˈɡu.pta.ta/ *(noun)* — privacy/privacidad
+- **harfil** /ˈhar.fil/ *(noun)* — video
+- **harkar** /ˈhar.kar/ *(noun)* — debug/depuración
+- **harkhas** /ˈhar.xas/ *(noun)* — play/pausa
+- **harsum** /ˈhar.sum/ *(noun)* — edit/editar
+- **hasam** /ˈha.sam/ *(noun)* — cut/cortar
+- **hashram** /ˈhaʃ.ram/ *(noun)* — padding/relleno
+- **haszar** /ˈhas.zar/ *(noun)* — warning/advertencia
+- **hawfash** /ˈhaw.faʃ/ *(noun)* — margin/margen
+- **hawlas** /ˈhaw.las/ *(noun)* — about/acerca de
+- **hawnik** /ˈhaw.nik/ *(noun)* — antena/receptor
+- **himlas** /ˈhim.las/ *(noun)* — loading/carga
+- **ishra** /ˈiʃ.ra/ *(noun)* — cursor/puntero
+- **ishshar** /ˈiʃ.ʃar/ *(noun)* — señal
+- **itrum** /ˈit.rum/ *(noun)* — license/licencia
+- **jamkhas** /ˈdʒam.xas/ *(noun)* — algoritmo
+- **jamkhi** /ˈdʒam.xi/ *(noun)* — compile/compilar
+- **jarah** /ˈdʒa.rah/ *(noun)* — drag/arrastrar
+- **jawbal** /ˈdʒaw.bal/ *(noun)* — response/respuesta
+- **kashal** /ˈkas.hal/ *(noun)* — redo/rehacer
+- **kaszah** /ˈkas.zah/ *(noun)* — cookies
+- **katradjah** /ˈka.tra.dʒah/ *(noun)* — volume
+- **khadul** /ˈxa.dul/ *(noun)* — servidor (tecnología)
+- **khalras** /ˈxal.ras/ *(noun)* — background/fondo
+- **khara** /ˈxa.ra/ *(noun)* — deprecated/obsoleto
+- **kharuk** /ˈxa.ruk/ *(noun)* — font/tipografía
+- **khasluk** /ˈxas.luk/ *(noun)* — código
+- **khasmas** /ˈxas.mas/ *(noun)* — batería/acumulador
+- **khasmem** /ˈxas.mem/ *(noun)* — cache/memoria temporal
+- **khasram** /ˈxas.ram/ *(noun)* — zoom/ampliar
+- **khreyar** /ˈxre.jar/ *(noun)* — usuario
+- **khuras** /ˈxu.ras/ *(noun)* — logout/salida
+- **kiberfada** /ki.ˈber.fa.da/ *(noun)* — ciberespacio
+- **kosha** /ˈko.ʃa/ *(noun)* — repository/repositorio
+- **kriptasha** /ˈkri.pta.ʃa/ *(noun)* — criptografía
+- **labh** /labʱ/ *(verb)* — recibir (obtener)
+- **likhay** /li.ˈxaj/ *(verb)* — programar (escribir código)
+- **mahway** /ˈmah.waj/ *(noun)* — delete/eliminar
+- **margadar** /ˈma.rɡa.dar/ *(noun)* — router
+- **masbal** /ˈmas.bal/ *(noun)* — contact/contacto
+- **mayasom** /ˈma.ja.som/ *(noun)* — realidad virtual
+- **maylas** /ˈmaj.las/ *(noun)* — italic/cursiva
+- **mets** /mets/ *(verb)* — borrar (eliminar)
+- **mnemesha** /ˈmne.me.ʃa/ *(noun)* — base de datos
+- **mudr** /mu.dr/ *(verb)* — imprimir (copiar)
+- **muktalikh** /ˈmu.kta.lix/ *(noun)* — open source/código abierto
+- **múkhya** /ˈmu.xja/ *(noun)* — main/contenido principal
+- **múrdhá** /ˈmur.ða/ *(noun)* — header/cabecera
+- **nadaprava** /na.ˈda.pra.wa/ *(noun)* — audio
+- **nakra** /ˈnak.ra/ *(noun)* — click/pulsar
+- **nasan** /ˈna.san/ *(noun)* — save/guardar
+- **nasardam** /ˈna.sar.dam/ *(noun)* — deploy/desplegar
+- **navín** /na.ˈwin/ *(noun)* — update/actualización
+- **nihal** /ˈni.hal/ *(noun)* — notification
+- **nuspas** /ˈnus.pas/ *(noun)* — backup/copia
+- **nusran** /ˈnus.ran/ *(noun)* — version/versión
+- **núrupa** /ˈnu.ru.pa/ *(noun)* — light mode
+- **parivésh** /pa.ri.ˈweʃ/ *(noun)* — wrap/ajuste de línea
+- **paríkshá** /pa.ˈrik.ʃa/ *(noun)* — beta/prueba
+- **ployar** /ˈplo.jar/ *(noun)* — navegador
+- **prakásh** /pra.ˈkaʃ/ *(noun)* — release/lanzamiento
+- **preṣ** /preʂ/ *(verb)* — enviar (transmitir)
+- **prárthaná** /ˈprar.θa.na/ *(noun)* — pull request/solicitud
+- **punarkar** /pu.ˈnar.kar/ *(noun)* — redo/rehacer
+- **punarpravesh** /pu.ˈnar.pra.weʃ/ *(noun)* — refresh
+- **párashvá** /ˈpa.raʃ.wa/ *(noun)* — sidebar/lateral
+- **qalam** /ˈka.lam/ *(noun)* — modal/diálogo
+- **qamas** /ˈka.mas/ *(noun)* — downtime/caída
+- **rahlas** /ˈrah.las/ *(noun)* — paste/pegar
+- **rahzan** /ˈrah.zan/ *(noun)* — maintenance/mantenimiento
+- **raksh** /rakʂ/ *(verb)* — guardar (archivo)
+- **ramkon** /ˈram.kon/ *(noun)* — blockchain
+- **ramzak** /ˈram.zak/ *(noun)* — contraseña
+- **rasdom** /ˈras.dom/ *(noun)* — approve/aprobar
+- **raslam** /ˈras.lam/ *(noun)* — reject/rechazar
+- **rasnus** /ˈras.nus/ *(noun)* — red (tecnología)
+- **rismar** /ˈris.mar/ *(noun)* — protocolo
+- **sahalam** /ˈsa.hal.ram/ *(noun)* — tooltip
+- **sahlikh** /ˈsah.lix/ *(noun)* — eco digital
+- **sahshar** /ˈsah.ʃar/ *(noun)* — banda ancha
+- **sakram** /ˈsak.ram/ *(noun)* — stable/estable
+- **salwur** /ˈsal.wur/ *(noun)* — traffic/tráfico
+- **samkas** /ˈsam.kas/ *(noun)* — bold/negrita
+- **samsakar** /ˈsam.sa.kar/ *(noun)* — settings/ajustes
+- **sangra** /ˈsaŋ.ɡra/ *(verb)* — compilar (reunir código)
+- **sayalkhas** /ˈsa.jal.xas/ *(noun)* — streaming
+- **sayalro** /ˈsa.jal.ro/ *(noun)* — flujo (datos/energía)
+- **sayfal** /ˈsaj.fal/ *(noun)* — dominio (web)
+- **shakza** /ˈʃak.za/ *(noun)* — branch/rama
+- **shamrupa** /ˈʃam.ru.pa/ *(noun)* — dark mode
+- **sharahzik** /ˈʃa.rah.zik/ *(noun)* — comment/comentario
+- **shashnam** /ˈʃaʃ.nam/ *(noun)* — pantalla
+- **shártá** /ˈʃar.ta/ *(noun)* — terms/términos
+- **silmah** /ˈsil.mah/ *(noun)* — enlace/hyperlink
+- **sthiti** /ˈsθi.ti/ *(noun)* — uptime/disponibilidad
+- **sual** /ˈsu.al/ *(noun)* — query/consulta
+- **surah** /ˈsu.rah/ *(noun)* — avatar/usuario digital
+- **surak** /ˈsu.rak/ *(noun)* — image/imagen
+- **suwar** /ˈsu.war/ *(noun)* — copy/copiar
+- **svatva** /ˈswa.twa/ *(noun)* — copyright
+- **sámyá** /ˈsa.mja/ *(noun)* — align/alinéar
+- **sámá** /ˈsa.ma/ *(noun)* — justify/justificar
+- **sídhi** /ˈsi.ði/ *(noun)* — success/éxito
+- **síma** /ˈsi.ma/ *(noun)* — border/borde
+- **súchná** /ˈsutʃ.na/ *(noun)* — info/información
+- **takhkron** /ˈtax.kron/ *(noun)* — ping/latencia
+- **tamlas** /ˈtam.las/ *(noun)* — scroll/desplazar
+- **tarkah** /ˈtar.kah/ *(noun)* — drop/soltar
+- **ukhnus** /ˈux.nus/ *(noun)* — nodo
+- **upayogamukh** /u.pa.ˈjo.ɡa.mux/ *(noun)* — API
+- **vibhaj** /vib.ʱaɟ/ *(verb)* — analizar (examinar)
+- **vigráh** /wi.ˈgrah/ *(noun)* — conflict/conflicto
+- **vishaka** /ˈwi.ʃa.ka/ *(noun)* — malware (virus)
+- **vishlésh** /wiʃ.ˈleʃ/ *(noun)* — analytics/analítica
+- **vyúh** /ˈwjuh/ *(noun)* — sort/ordenar
+- **várna** /ˈwar.na/ *(noun)* — color
+- **wahram** /ˈwah.ram/ *(noun)* — badge/indicador
+- **wajahrum** /ˈwa.dʒah.rum/ *(noun)* — interfaz
+- **waksar** /ˈwak.sar/ *(noun)* — proxy
+- **warnas** /ˈwar.nas/ *(noun)* — grid/cuadrícula
+- **wastal** /ˈwas.tal/ *(noun)* — center/centro
+- **yalsam** /ˈjal.sam/ *(noun)* — left/izquierda
+- **yasmin** /ˈjas.min/ *(noun)* — right/derecha
+- **yunj** /junɟ/ *(verb)* — conectar (enlazar)
+- **zankal** /ˈzan.kal/ *(noun)* — theme/tema visual
+- **zuhrus** /ˈzuh.rus/ *(noun)* — ventana
+
+## Tiempo Doméstico
+
+- **amas** /ˈa.mas/ *(noun)* — ayer
+- **anzumera** /an.zuˈme.ra/ *(noun)* — viernes (día de Venus)
+- **apt** /ˈap.t/ *(noun)* — nunca
+- **ashar** /ˈa.ʃar/ *(noun)* — tarde
+- **atap** /ˈa.tap/ *(noun)* — tarde (hora)
+- **atáp** /ˈa.tap/ *(adverb)* — tarde (hora tardia)
+- **bakar** /ˈba.kar/ *(noun)* — temprano
+- **bakat** /ˈba.kat/ *(noun)* — después
+- **batzam** /ˈbat.zam/ *(noun)* — a veces
+- **bákda** /ˈbak.da/ *(adverb)* — despues (posterioridad)
+- **bákra** /ˈba.kra/ *(adverb)* — temprano
+- **bátzam** /ˈbat.zam/ *(adverb)* — a veces (ocasionalmente)
+- **daim** /ˈda.im/ *(noun)* — siempre
+- **duha** /ˈdu.ha/ *(noun)* — media mañana, mañana avanzada, horas de luz plena
+- **dáim** /ˈda.im/ *(adverb)* — siempre
+- **fajar** /ˈfa.dʒar/ *(noun)* — alba, amanecer, aurora, primera luz del día
+- **ghasak** /ˈɣa.sak/ *(noun)* — oscuridad nocturna, tinieblas, noche cerrada
+- **ghat** /ˈɣat/ *(noun)* — mañana (siguiente)
+- **ghurup** /ˈɣu.rup/ *(noun)* — ocaso, puesta del sol, sol poniente, atardecer
+- **hermarmera** /her.marˈme.ra/ *(noun)* — martes (día de Marte)
+- **hormusmera** /hor.musˈme.ra/ *(noun)* — jueves (día de Júpiter)
+- **keyzumera** /kej.zuˈme.ra/ *(noun)* — sábado (día de Saturno)
+- **kharip** /ˈxa.rip/ *(noun)* — otoño
+- **mahselmera** /mah.selˈme.ra/ *(noun)* — lunes (día de la Luna)
+- **nahar** /ˈna.har/ *(noun)* — mediodía
+- **nun** /ˈnun/ *(noun)* — ahora
+- **qábal** /ˈka.bal/ *(adverb)* — antes (anterioridad)
+- **qápal** /ˈka.pal/ *(noun)* — antes (previo)
+- **rabi** /ˈra.bi/ *(noun)* — primavera
+- **sabu** /ˈsa.bu/ *(noun)* — semana
+- **sahar** /ˈsa.har/ *(noun)* — madrugada, antes del alba, pre-amanecer
+- **sap** /ˈsap/ *(noun)* — verano
+- **sapkhah** /ˈsap.xah/ *(noun)* — mañana (temprano)
+- **shafak** /ˈʃa.fak/ *(noun)* — crepúsculo, anochecer, penumbra vespertina
+- **shapzir** /ˈʃap.zir/ *(noun)* — medianoche
+- **shuruk** /ˈʃu.ruk/ *(noun)* — orto, salida del sol, sol naciente
+- **suryamera** /su.rjaˈme.ra/ *(noun)* — domingo (día del Sol)
+- **thutirmera** /θu.tirˈme.ra/ *(noun)* — miércoles (día de Mercurio)
+- **yawam** /ˈja.wam/ *(noun)* — hoy
+- **ápda** /ˈap.da/ *(adverb)* — nunca
+
+## Verbos Básicos
+
+- **ada** /ˈa.da/ *(verb)* — comer
+- **ajula** /ˈa.ju.la/ *(verb)* — apresurarse
+- **akarsha** /ˈa.kar.ʃa/ *(verb)* — tirar/jalar
+- **ananka** /ˈa.nan.ka/ *(verb)* — necesitar/tener que
+- **aya** /ˈa.ja/ *(verb)* — venir
+- **baga** /ˈba.ga/ *(verb)* — rajar/dividir
+- **baklē** /ˈba.kleː/ *(verb)* — advertir
+- **banda** /ˈban.da/ *(verb)* — atar/amarrar
+- **barza** /ˈbar.za/ *(verb)* — cruzar
+- **bas** /ˈbas/ *(verb)* — parar
+- **baya** /ˈba.ja/ *(verb)* — temer/tener miedo
+- **bechke** /ˈbetʃ.ke/ *(verb)* — visualizar
+- **bepēp** /ˈbe.peːp/ *(verb)* — pulir
+- **biūl** /ˈbi.uːl/ *(verb)* — crecer
+- **byal** /ˈbjal/ *(verb)* — decidir
+- **byokh** /ˈbjox/ *(verb)* — sonreír
+- **bēch** /ˈbeːtʃ/ *(verb)* — fermentar
+- **bīchūp** /ˈbiː.tʃuːp/ *(verb)* — cosechar
+- **bīk** /ˈbiːk/ *(verb)* — tallar
+- **būkhō** /ˈbuː.xoː/ *(verb)* — hornear
+- **chal** /ˈtʃal/ *(verb)* — moverse, desplazarse, andar
+- **chida** /ˈtʃi.da/ *(verb)* — cortar
+- **chikhū** /ˈtʃi.xuː/ *(verb)* — prometer
+- **chinta** /ˈtʃin.ta/ *(verb)* — pensar
+- **chuwa** /ˈtʃu.wa/ *(verb)* — chupar
+- **dakhal** /ˈda.xal/ *(verb)* — entrar
+- **danash** /ˈda.naʃ/ *(verb)* — morder
+- **dapzaī** /ˈdap.za.iː/ *(verb)* — permitir
+- **dara** /ˈda.ra/ *(verb)* — sostener/tener
+- **de** /ˈde/ *(verb)* — dar
+- **dech** /ˈdetʃ/ *(verb)* — planificar
+- **delwus** /ˈde.lwus/ *(verb)* — impedir
+- **deya** /ˈde.ja/ *(verb)* — deber/tener obligación
+- **dhawa** /ˈða.wa/ *(verb)* — correr
+- **dirish** /ˈdi.riʃ/ *(verb)* — ver
+- **duhna** /ˈduh.na/ *(verb)* — comenzar
+- **dun** /ˈdun/ *(verb)* — dar, ofrecer, entregar
+- **duna** /ˈdu.na/ *(verb)* — poder/tener capacidad
+- **dzehmi** /ˈʣeh.mi/ *(verb)* — encoger
+- **dziywū** /ˈʣij.wuː/ *(verb)* — agradecer
+- **dzun** /ˈʣun/ *(verb)* — forjar
+- **dzutāp** /ˈʣu.taːp/ *(verb)* — tratar
+- **dzyūnā** /ˈʣjuː.naː/ *(verb)* — contraer
+- **dzālo** /ˈʣaː.lo/ *(verb)* — sincronizar
+- **dzēzēp** /ˈʣeː.zeːp/ *(verb)* — rasgar
+- **dārchē** /ˈdaːr.tʃeː/ *(verb)* — forzar
+- **dēk** /ˈdeːk/ *(verb)* — crear
+- **ekhra** /ˈe.xra/ *(verb)* — salir
+- **fap** /ˈfap/ *(verb)* — plegar
+- **fasī** /ˈfa.siː/ *(verb)* — investigar
+- **fatshē** /ˈfa.tʃeː/ *(verb)* — posponer
+- **fes** /ˈfes/ *(verb)* — observar
+- **fira** /ˈfi.ra/ *(verb)* — huir/escapar
+- **fitha** /ˈfi.θa/ *(verb)* — celebrar
+- **fiywo** /ˈfij.wo/ *(verb)* — practicar
+- **fu** /ˈfu/ *(verb)* — soplar
+- **fweros** /ˈfwe.ros/ *(verb)* — tejer
+- **fāp** /ˈfaːp/ *(verb)* — arriesgar
+- **fēu** /ˈfeː.u/ *(verb)* — enseñar
+- **fīkhā** /ˈfiː.xaː/ *(verb)* — despedir
+- **fōchbō** /ˈfoːtʃ.boː/ *(verb)* — desplegar
+- **fūmkē** /ˈfuːm.keː/ *(verb)* — transformar
+- **gacha** /ˈga.tʃa/ *(verb)* — caminar/andar
+- **gana** /ˈga.na/ *(verb)* — contar
+- **garda** /ˈgar.da/ *(verb)* — rodar
+- **gashgī** /ˈgaʃ.giː/ *(verb)* — hacer
+- **gaya** /ˈga.ja/ *(verb)* — cantar
+- **ghara** /ˈɣa.ra/ *(verb)* — oler
+- **gharka** /ˈɣar.ka/ *(verb)* — hundirse/sumergirse
+- **gharsha** /ˈɣar.ʃa/ *(verb)* — frotar/estregar
+- **ghip** /ˈɣip/ *(verb)* — saludar
+- **ghyefu** /ˈɣje.fu/ *(verb)* — esperar
+- **ghyupu** /ˈɣju.pu/ *(verb)* — airear
+- **ghētāk** /ˈɣeː.taːk/ *(verb)* — desatar
+- **gnotha** /ˈgno.θa/ *(verb)* — saber (cómo) / tener conocimiento
+- **gomēch** /ˈgo.meːtʃ/ *(verb)* — romper
+- **gīkhe** /ˈgiː.xe/ *(verb)* — imaginar
+- **gīra** /ˈgiː.ra/ *(verb)* — desafiar
+- **gūp** /ˈguːp/ *(verb)* — comerciar
+- **hadzya** /ˈha.ʣja/ *(verb)* — luchar
+- **halasa** /ˈha.la.sa/ *(verb)* — soltar/dejar ir
+- **hamila** /ˈha.mi.la/ *(verb)* — llevar/transportar
+- **hana** /ˈha.na/ *(verb)* — matar
+- **hap** /ˈhap/ *(verb)* — fallar
+- **hasa** /ˈha.sa/ *(verb)* — reir
+- **herpa** /ˈher.pa/ *(verb)* — arrastrarse
+- **hidi** /ˈhi.di/ *(verb)* — moldear
+- **hofē** /ˈho.feː/ *(verb)* — brillar
+- **hukhūh** /ˈhu.xuːh/ *(verb)* — mirar fijo
+- **hādu** /ˈhaː.du/ *(verb)* — tomar prestado
+- **hēfo** /ˈheː.fo/ *(verb)* — retorcer
+- **ich** /ˈitʃ/ *(verb)* — querer, desear, anhelar
+- **icha** /ˈi.tʃa/ *(verb)* — querer/desear
+- **ikmīp** /ˈik.miːp/ *(verb)* — asomarse
+- **imkhō** /ˈim.xoː/ *(verb)* — olvidar
+- **ir** /ˈir/ *(verb)* — expandir
+- **irwīkh** /ˈi.rwiːx/ *(verb)* — atar
+- **ithi** /ˈi.θi/ *(verb)* — chispear
+- **kadhā** /ˈka.ðaː/ *(verb)* — sollozar
+- **kasha** /ˈka.ʃa/ *(verb)* — aranhar/rascar
+- **kashala** /ˈka.ʃa.la/ *(verb)* — lavar
+- **kashipa** /ˈka.ʃi.pa/ *(verb)* — tirar/lanzar
+- **katdhi** /ˈkat.ði/ *(verb)* — susurrar
+- **khana** /ˈxa.na/ *(verb)* — cavar
+- **khapa** /ˈxa.pa/ *(verb)* — esconderse/ocultarse
+- **khinyī** /ˈxi.njiː/ *(verb)* — convenir
+- **khwowa** /ˈxwo.wa/ *(verb)* — jurar
+- **khyohe** /ˈxjo.he/ *(verb)* — deber
+- **khyīch** /ˈxjiːtʃ/ *(verb)* — invitar
+- **khābīr** /ˈxaː.biːr/ *(verb)* — vender
+- **khācha** /ˈxaː.tʃa/ *(verb)* — ungir
+- **khāfē** /ˈxaː.feː/ *(verb)* — gritar
+- **khānīs** /ˈxaː.niːs/ *(verb)* — segar
+- **kipta** /ˈkip.ta/ *(verb)* — agacharse/inclinarse
+- **kirida** /ˈki.ri.da/ *(verb)* — jugar
+- **kithō** /ˈki.θoː/ *(verb)* — existir
+- **kuntyu** /ˈkun.tju/ *(verb)* — lijar
+- **kyēs** /ˈkjeːs/ *(verb)* — llorar
+- **kānyā** /ˈkaː.njaː/ *(verb)* — proponer
+- **kāsfyō** /ˈkaːs.fjoː/ *(verb)* — desenvolver
+- **kīr** /ˈkiːr/ *(verb)* — obligar
+- **kūsh** /ˈkuːʃ/ *(verb)* — curar
+- **langa** /ˈla.ŋa/ *(verb)* — saltar
+- **lekhtu** /ˈlex.tu/ *(verb)* — necesitar
+- **lighza** /ˈliɣ.za/ *(verb)* — deslizarse
+- **lodzwē** /ˈlo.ʣweː/ *(verb)* — terminar
+- **loē** /ˈlo.eː/ *(verb)* — aprovechar
+- **lwe** /ˈlwe/ *(verb)* — merecer
+- **lwuwī** /ˈlwu.wiː/ *(verb)* — cantar ritual
+- **lēfōī** /ˈleː.foː.iː/ *(verb)* — aprender
+- **līkhū** /ˈliː.xuː/ *(verb)* — enojarse
+- **madada** /ˈma.da.da/ *(verb)* — estirarse
+- **mar** /ˈmar/ *(verb)* — morir, extinguirse, cesar
+- **mara** /ˈma.ra/ *(verb)* — morir
+- **mibōm** /ˈmi.boːm/ *(verb)* — germinar
+- **miriga** /ˈmi.ri.ga/ *(verb)* — cazar
+- **mok** /ˈmok/ *(verb)* — preparar
+- **mwōp** /ˈmwoːp/ *(verb)* — elegir
+- **mēr** /ˈmeːr/ *(verb)* — aconsejar
+- **mīsh** /ˈmiːʃ/ *(verb)* — preguntar
+- **mōch** /ˈmoːtʃ/ *(verb)* — apagar
+- **mūsēbū** /ˈmuː.seː.buː/ *(verb)* — tararear
+- **nacha** /ˈna.tʃa/ *(verb)* — bailar
+- **napalū** /ˈna.pa.luː/ *(verb)* — encender
+- **nava** /ˈna.wa/ *(verb)* — navegar, cruzar aguas, atravesar
+- **nerām** /ˈne.raːm/ *(verb)* — reír
+- **nop** /ˈnop/ *(verb)* — responder
+- **nuta** /ˈnu.ta/ *(verb)* — empujar
+- **nēgā** /ˈneː.gaː/ *(verb)* — espiar
+- **nēzu** /ˈneː.zu/ *(verb)* — gemir
+- **nīhpū** /ˈniːh.puː/ *(verb)* — regalar
+- **nōakō** /ˈnoː.a.koː/ *(verb)* — causar
+- **nūswom** /ˈnuː.swom/ *(verb)* — saborear
+- **ofmō** /ˈof.moː/ *(verb)* — pausar
+- **parana** /ˈpa.ra.na/ *(verb)* — respirar
+- **parpa** /ˈpar.pa/ *(verb)* — agarrar/alcanzar
+- **pata** /ˈpa.ta/ *(verb)* — volar
+- **pati** /ˈpa.ti/ *(verb)* — caer
+- **pazwīh** /ˈpaz.wiːh/ *(verb)* — apresurar
+- **piba** /ˈpi.ba/ *(verb)* — beber/tomar
+- **pida** /ˈpi.da/ *(verb)* — apretar/exprimir
+- **pilawa** /ˈpi.la.wa/ *(verb)* — flotar
+- **pom** /ˈpom/ *(verb)* — honrar
+- **pothā** /ˈpo.θaː/ *(verb)* — centellear
+- **pyīr** /ˈpjiːr/ *(verb)* — prestar
+- **pādzō** /ˈpaː.ʣoː/ *(verb)* — suspirar
+- **pākh** /ˈpaːx/ *(verb)* — triturar
+- **pōch** /ˈpoːtʃ/ *(verb)* — pagar
+- **rakh** /rax/ *(verb)* — proteger, cuidar, guardar
+- **rashe** /ˈra.ʃe/ *(verb)* — autorizar
+- **rat** /ˈrat/ *(verb)* — brillar, resplandecer, irradiar
+- **rechep** /ˈre.tʃep/ *(verb)* — podar
+- **rep** /ˈrep/ *(verb)* — repetir
+- **rodil** /ˈro.dil/ *(verb)* — calmar
+- **roha** /ˈro.ha/ *(verb)* — gatear/trepar
+- **ryēlo** /ˈrjeː.lo/ *(verb)* — continuar
+- **rēdyē** /ˈreː.djeː/ *(verb)* — envolver
+- **rīch** /ˈriːtʃ/ *(verb)* — cesar
+- **rūpe** /ˈruː.pe/ *(verb)* — vendar
+- **rūt** /ˈruːt/ *(verb)* — disculparse
+- **sada** /ˈsa.da/ *(verb)* — sentarse
+- **safar** /ˈsa.far/ *(verb)* — viajar
+- **sakata** /ˈsa.ka.ta/ *(verb)* — tropezar
+- **sakhu** /ˈsa.xu/ *(verb)* — oler
+- **sarana** /ˈsa.ra.na/ *(verb)* — vagar/deambular
+- **satha** /ˈsa.θa/ *(verb)* — estar de pie/pararse
+- **shaya** /ˈʃa.ja/ *(verb)* — echarse/acostarse
+- **ship** /ˈʃip/ *(verb)* — ordenar
+- **shithiwa** /ˈʃi.θi.wa/ *(verb)* — escupir
+- **shuda** /ˈʃu.da/ *(verb)* — limpiar
+- **shuru** /ˈʃu.ru/ *(verb)* — oir/escuchar
+- **shwa** /ˈʃwa/ *(verb)* — hincharse
+- **sirawa** /ˈsi.ra.wa/ *(verb)* — fluir/correr (agua)
+- **siwa** /ˈsi.wa/ *(verb)* — coser
+- **swapna** /ˈswap.na/ *(verb)* — dormir
+- **tada** /ˈta.da/ *(verb)* — golpear/pegar
+- **talaba** /ˈta.la.ba/ *(verb)* — seguir/perseguir
+- **talwa** /ˈta.lwa/ *(verb)* — balancearse/columpiarse
+- **tara** /ˈta.ra/ *(verb)* — nadar
+- **tefūk** /ˈte.fuːk/ *(verb)* — maldecir
+- **teē** /ˈte.eː/ *(verb)* — diseñar
+- **thalo** /ˈθa.lo/ *(verb)* — convertir
+- **thī** /ˈθiː/ *(verb)* — escuchar
+- **tii** /ˈti.i/ *(verb)* — doblar
+- **tofō** /ˈto.foː/ *(verb)* — regar
+- **tolma** /ˈtol.ma/ *(verb)* — osar/atreverse
+- **tor** /ˈtor/ *(verb)* — inventar
+- **tswu** /ˈtswu/ *(verb)* — barrer
+- **tumā** /ˈtu.maː/ *(verb)* — frotar
+- **tīī** /ˈtiː.iː/ *(verb)* — diagnosticar
+- **tōdā** /ˈtoː.daː/ *(verb)* — bendecir
+- **udgama** /ˈud.ga.ma/ *(verb)* — emerger/surgir
+- **ugi** /ˈu.gi/ *(verb)* — lograr
+- **wacha** /ˈwa.tʃa/ *(verb)* — decir/hablar
+- **waghyā** /ˈwaɣ.jaː/ *(verb)* — ordenar
+- **wami** /ˈwa.mi/ *(verb)* — vomitar
+- **wida** /ˈwi.da/ *(verb)* — apunhalar/clavar
+- **wiri** /ˈwi.ri/ *(verb)* — volver/girar
+- **wornōp** /ˈwor.noːp/ *(verb)* — destrozar
+- **wukdhe** /ˈwuk.ðe/ *(verb)* — comprar
+- **wōp** /ˈwoːp/ *(verb)* — reparar
+- **yadahā** /ˈja.da.haː/ *(verb)* — persistir
+- **yafdze** /ˈjaf.ʣe/ *(verb)* — prohibir
+- **yana** /ˈja.na/ *(verb)* — saber/conocer
+- **yine** /ˈji.ne/ *(verb)* — afeitarse
+- **yiwa** /ˈji.wa/ *(verb)* — vivir
+- **yoūs** /ˈjo.uːs/ *(verb)* — reanudar
+- **yuda** /ˈju.da/ *(verb)* — pelear/combatir
+- **yārā** /ˈjaː.raː/ *(verb)* — bañarse
+- **yēkhoē** /ˈjeː.xo.eː/ *(verb)* — recoger
+- **yōdzyā** /ˈjoː.ʣjaː/ *(verb)* — limpiar
+- **yū** /ˈjuː/ *(verb)* — atreverse
+- **yūfrē** /ˈjuː.freː/ *(verb)* — tender
+- **zihi** /ˈzi.hi/ *(verb)* — habilitar
+- **zoshpō** /ˈzoʃ.poː/ *(verb)* — intentar
+- **zwisru** /ˈzwis.ru/ *(verb)* — cultivar
+- **zānoch** /ˈzaː.notʃ/ *(verb)* — degustar
+- **zīssyō** /ˈziːss.joː/ *(verb)* — sembrar
+- **zōrna** /ˈzoːr.na/ *(verb)* — cocinar
+- **āktīp** /ˈaːk.tiːp/ *(verb)* — abonar
+- **ānō** /ˈaː.noː/ *(verb)* — estudiar
+- **ēnē** /ˈeː.neː/ *(verb)* — memorizar
+- **ūfo** /ˈuː.fo/ *(verb)* — recordar
+- **ūtīkūm** /ˈuː.tiː.kuːm/ *(verb)* — ensamblar
+
+## Vivienda y Arquitectura
+
+- **bap** /ˈbap/ *(noun)* — puerta, entrada, portal, acceso
+- **bashk** /ˈbaʃk/ *(noun)* — jardín, huerto, vergel, parque
+- **bomos** /ˈbo.mos/ *(noun)* — altar (estructura elevada para ofrendas rituales)
+- **bum** /ˈbum/ *(noun)* — piso, suelo, pavimento, base
+- **burja** /ˈbur.dʒa/ *(noun)* — torre, atalaya, fortificación vertical
+- **dar** /ˈdar/ *(noun)* — casa, hogar, morada, vivienda
+- **divar** /ˈdi.war/ *(noun)* — muro, pared, muralla, tabique
+- **firash** /ˈfi.raʃ/ *(noun)* — cama, lecho, yacija, lugar de descanso
+- **hamam** /ˈha.mam/ *(noun)* — baño (estancia para el aseo o para inmersión ritual)
+- **hujar** /ˈhu.dʒar/ *(noun)* — celda, cuarto pequeño, aposento, camarín
+- **kalit** /ˈka.lit/ *(noun)* — llave (instrumento para abrir cerradura)
+- **kamin** /ˈka.min/ *(noun)* — chimenea (conducto para humo o estructura para el fuego del hogar)
+- **khant** /ˈxant/ *(noun)* — cimientos, fosa, zanja, excavación basal
+- **klimak** /ˈkli.mak/ *(noun)* — escalera (serie de escalones para subir o bajar)
+- **kupa** /ˈku.pa/ *(noun)* — pozo (excavación vertical para acceder a aguas subterráneas)
+- **kuras** /ˈku.ras/ *(noun)* — silla, asiento, banco, trono
+- **makhērshilp** /mak.heːr.ʃilp/ *(noun)* — laboratorio (sala de investigación científica, experimentación y análisis)
+- **matbak** /ˈmat.bak/ *(noun)* — cocina (espacio o estancia para preparar alimentos)
+- **mis** /ˈmis/ *(noun)* — mesa, tablero, superficie de apoyo
+- **nak** /ˈnak/ *(noun)* — edificio, construcción, estructura
+- **naos** /ˈna.os/ *(noun)* — templo (edificio sagrado para el culto)
+- **nawma** /ˈnaw.ma/ *(noun)* — dormitorio (estancia para dormir)
+- **otaq** /ˈo.tak/ *(noun)* — habitación, cuarto, aposento, sala
+- **pul** /ˈpul/ *(noun)* — puente, paso elevado, conexión
+- **qasar** /ˈka.sar/ *(noun)* — fortaleza, castillo, ciudadela, palacio fortificado
+- **sanduq** /ˈsan.duk/ *(noun)* — cofre, caja, arca, baúl
+- **saqap** /ˈsa.kap/ *(noun)* — techo, cubierta, cielo raso
+- **shahar** /ˈʃa.har/ *(noun)* — ciudad, urbe, poblado grande
+- **sham** /ˈʃam/ *(noun)* — lámpara, luminaria, vela, antorcha
+- **shar** /ˈʃar/ *(noun)* — calle, vía, camino urbano, callejuela
+- **shubak** /ˈʃu.bak/ *(noun)* — ventana, vano, abertura en muro
+- **sutun** /ˈsu.tun/ *(noun)* — columna, pilar, poste vertical
+- **tafos** /ˈta.fos/ *(noun)* — tumba (estructura funeraria, lugar de descanso de difuntos)
+
+---
+*Glosario generado automáticamente desde el JSON. 1280 entradas en 24 categorías.*

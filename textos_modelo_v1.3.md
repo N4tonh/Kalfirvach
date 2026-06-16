@@ -1,10 +1,10 @@
-# Textos Modelo de Kalfírvach — v1.2
+# Textos Modelo de Kalfírvach — v1.3
 
-> **Versión:** v1.2
+> **Versión:** v1.3
 > **Fecha:** 2026-06-06
-> **Estado:** canónico. Estos textos son la **prueba de uso real** del sistema v1.2 (F2 fonosemántica, F3 actitudinales coercitivos, F4 vocativo, F5 léxico esotérico). Sirven para verificar la coherencia cross-doc entre gramática, fonología y lexicón al cierre del ciclo de audit v1.2.
+> **Estado:** canónico. Estos textos son la **prueba de uso real** del sistema v1.3 (F2 fonosemántica, F3 actitudinales coercitivos, F4 vocativo, F5 léxico esotérico). Sirven para verificar la coherencia cross-doc entre gramática, fonología y lexicón al cierre del ciclo de audit v1.3.
 
-Estos dos textos modelo invocan los frentes centrales de v1.2. La **invocación 1** combina F3 + F4 + F2 en una sola cláusula canónica; la **invocación 2** (en `textos_modelo_v1.2.md`, parte 2) agrega F5 para demostrar el uso completo del instrumental ritual con la pragmática coercitiva.
+Estos dos textos modelo invocan los frentes centrales de v1.3. La **invocación 1** combina F3 + F4 + F2 en una sola cláusula canónica; la **invocación 2** (en `textos_modelo_v1.3.md`, parte 2) agrega F5 para demostrar el uso completo del instrumental ritual con la pragmática coercitiva.
 
 > **Convención de glosa:** LA con guiones marca fronteras morfológicas; las mayúsculas etiquetan categorías (PRES, PAS, HIER, INF, DEF.SG, 1sg, etc.); las minúsculas son palabras léxicas. La grafía KFA es la politónica con letras arcaicas (san ϻ, sampi ϡ, digamma ϝ, yot ϳ, heta ͱ).
 
@@ -12,7 +12,7 @@ Estos dos textos modelo invocan los frentes centrales de v1.2. La **invocación 
 
 ## Invocación 1 — F3 + F4 + F2 (canónica)
 
-**Cláusula ritual canónica (v1.2, la que ejercita F2, F3 y F4 en una sola pieza):**
+**Cláusula ritual canónica (v1.3, la que ejercita F2, F3 y F4 en una sola pieza):**
 
 ```
 o Yaho, bīj raka wah-nam-ran-poi
@@ -44,11 +44,11 @@ o Yaho, bīj raka wah-nam-ran-poi
 ---
 ## Invocación 2 — F3 + F4 + F5 (operativa plena)
 
-**Cláusula ritual operativa (v1.2, F3 + F4 + F5 con instrumental completo):**
+**Cláusula ritual operativa (v1.3, F3 + F4 + F5 con instrumental completo):**
 
 ```
 o Yaho, altara-te qadesh kár-a-h-wah-nam-rab-poi, lampa-ka virga-ka athama-ka tunika-ka, halel.
-<!-- CORRECCIÓN v1.2: 5 correcciones gramaticales — dativo altar, evidencial wah, hierático h-nam, instrumentales uniformizados, SOV restaurado -->
+<!-- CORRECCIÓN v1.3: 5 correcciones gramaticales — dativo altar, evidencial wah, hierático h-nam, instrumentales uniformizados, SOV restaurado -->
 ```
 
 **Gloss didáctica (palabra por palabra):**
@@ -91,11 +91,11 @@ o Yaho, altara-te qadesh kár-a-h-wah-nam-rab-poi, lampa-ka virga-ka athama-ka t
 
 ---
 
-*Estas dos invocaciones (1 y 2) son las **firmas rituales canónicas de v1.2**. La gramática las cita en §1.7, §3.19.7, §3.18.4 y §3.18.7.b; la fonología las работет como ejemplos en §9.3 (curva vocativa), §11.2 (worked example A, bīja `raka`) y §11.0-§11.4 (sistema fonosemántico generativo); el lexicón las respalda con las 20 entradas nuevas de F3 + F4 + F5 (4 actitudinales, 1 partícula, 15 instrumentos/operaciones). Cualquier invocación ritual v1.2 debe poder descomponerse en estos mismos componentes.*
+*Estas dos invocaciones (1 y 2) son las **firmas rituales canónicas de v1.3**. La gramática las cita en §1.7, §3.19.7, §3.18.4 y §3.18.7.b; la fonología las работет como ejemplos en §9.3 (curva vocativa), §11.2 (worked example A, bīja `raka`) y §11.0-§11.4 (sistema fonosemántico generativo); el lexicón las respalda con las 20 entradas nuevas de F3 + F4 + F5 (4 actitudinales, 1 partícula, 15 instrumentos/operaciones). Cualquier invocación ritual v1.3 debe poder descomponerse en estos mismos componentes.*
 
 ---
 
-## Tabla resumen de correcciones (v1.2.1)
+## Tabla resumen de correcciones (v1.3.1)
 
 | Línea original | Línea corregida | Regla aplicada |
 |----------------|-----------------|----------------|

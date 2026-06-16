@@ -1,12 +1,12 @@
 ---
-title: "Kalfírvach v1.2 — Gramática Completa"
-version: v1.2
+title: "Kalfírvach v1.3 — Gramática Completa"
+version: v1.3
 date: 2026-06-06
 lang: es
 status: stable
 ---
 
-# KALFÍRVACH v1.2 — Gramática Completa
+# KALFÍRVACH v1.3 — Gramática Completa
 
 ---
 
@@ -222,7 +222,7 @@ ma  as-a-e = "yo soy [veo]" (visual, ritual: lo sé porque lo veo)
 
 **Justificación de la obligatoriedad (en contexto ritual):** En las 6 tradiciones fuente, la **distinción entre modos de conocimiento es ontológicamente significativa**: el PGM distingue entre fórmulas "vistas" y "reveladas"; el Mantraśāstra distingue entre mantras "escuchados" (śruti) y "inferidos"; el Ilm al-Huruf distingue entre conocimiento ilham (inspirado) e istidlāl (inferido). El neutro permite que el hablante use el idioma fuera de este marco cuando la precisión epistemológica no es necesaria.
 
-> **v1.2 cross-ref:** las actitudinales coercitivas (`-ran`/`-rak`/`-rab`/`-ro-hék`) comparten la morfología de las actitudinales (§2.2), pero reservan el slot final del verbo para un sufijo dedicado de fuerza ritual (ver §5.3).
+> **v1.3 cross-ref:** las actitudinales coercitivas (`-ran`/`-rak`/`-rab`/`-ro-hék`) comparten la morfología de las actitudinales (§2.2), pero reservan el slot final del verbo para un sufijo dedicado de fuerza ritual (ver §5.3).
 
 ### 2.2 Actitudinales (20 valores)
 
@@ -430,7 +430,7 @@ La negación se marca con el prefijo **na-** (/na/):
 
 | Negación | Origen |
 |----------|--------|
-| na- | Sánscrito न (na) "no" (negación simple, atestiguadísimo); Egipcio n/nḏ "no"; Árabe لا (lā) → na (adaptación fonotáctica); Avestan naē "no". 4 lenguas. Cambiado de ma- en v1.2 para resolver colisión con pronombre 1sg `ma`. |
+| na- | Sánscrito न (na) "no" (negación simple, atestiguadísimo); Egipcio n/nḏ "no"; Árabe لا (lā) → na (adaptación fonotáctica); Avestan naē "no". 4 lenguas. Cambiado de ma- en v1.3 para resolver colisión con pronombre 1sg `ma`. |
 
 ```
 na-kár-a = "no hace"
@@ -3086,18 +3086,18 @@ El **nombre esencial** es el nombre operatorio: el que se invoca, el que liga, e
 
 **Fonotáctica restrictiva:** solo fonemas presentes en ≥4 de las 6 tradiciones. Estructura CVC o CV(C)N, 1-3 sílabas. Sin diptongos. En el griego politónico KFA, debe escribirse con letras disponibles en todas las tradiciones.
 
-**Anclaje numerológico:** cada bīja tiene un **valor abjad** (numeración 1-9, 10-90, 100-900, modelo árabo-persa extendido al koiné y al sánscrito). El total debe sumar un número sagrado: **7, 11, 22, 33, 77, 99** (números comunes a las 6 tradiciones, documentados en hebreo *gematria*, árabe *abjad*, sánscrito *kaṭapayādi*, tibetano *dngos-grub*). En v1.2 la restricción abjad se **relaja** para mono-bījas y di-bījas elementalmente simples (ver §3.18.2.a); los bījas rituales complejos (tri/penta-bīja) sí mantienen el anclaje canónico.
+**Anclaje numerológico:** cada bīja tiene un **valor abjad** (numeración 1-9, 10-90, 100-900, modelo árabo-persa extendido al koiné y al sánscrito). El total debe sumar un número sagrado: **7, 11, 22, 33, 77, 99** (números comunes a las 6 tradiciones, documentados en hebreo *gematria*, árabe *abjad*, sánscrito *kaṭapayādi*, tibetano *dngos-grub*). En v1.3 la restricción abjad se **relaja** para mono-bījas y di-bījas elementalmente simples (ver §3.18.2.a); los bījas rituales complejos (tri/penta-bīja) sí mantienen el anclaje canónico.
 
-**Sub-patrones (v1.2 — nativos):**
+**Sub-patrones (v1.3 — nativos):**
 
-| Sub-patrón | Sílabas | Función | Ejemplo (v1.2) | Abjad |
+| Sub-patrón | Sílabas | Función | Ejemplo (v1.3) | Abjad |
 |------------|---------|---------|-----------------|-------|
 | **Mono-bīja** | 1 (CV)  | semilla elemental simple                | `ra` (fuego+astral)              | 7 (canónico si computable) |
 | **Di-bīja**   | 2 (CVCV)| par elemental, polaridad                | `raka` / `mil` / `yat`           | 22 (canónico para raka) |
 | **Tri-bīja**  | 3 (CVCVCV)| Trinidad elemental ritual              | `ra-ka-nu` (fuego-tiempo-luna)   | 33 (canónico si alineado) |
 | **Penta-bīja**| 5 (CV×5)| Cinco elementos completos              | `ra-mi-lu-sa-be`                 | 77 (canónico) |
 
-> **v1.2 — Bījas nativos:** los ejemplos v1.0 eran **bījas tradicionales importados** del sánscrito (familia Om/Aum y derivados). En v1.2 se **sustituyen** por bījas derivados nativamente del sistema fonosemántico generativo (ver fonología §11 y la subsección §3.18.2.a abajo). Los bījas tradicionales pueden documentarse en lexicón `magia_y_mitologia` como **registro arqueológico**, pero el sistema v1.2 opera con bījas KFA nativos.
+> **v1.3 — Bījas nativos:** los ejemplos v1.0 eran **bījas tradicionales importados** del sánscrito (familia Om/Aum y derivados). En v1.3 se **sustituyen** por bījas derivados nativamente del sistema fonosemántico generativo (ver fonología §11 y la subsección §3.18.2.a abajo). Los bījas tradicionales pueden documentarse en lexicón `magia_y_mitologia` como **registro arqueológico**, pero el sistema v1.3 opera con bījas KFA nativos.
 
 **Uso ritual obligatorio:** el nombre esencial **nunca se invoca desnudo** en KFA. Requiere siempre:
 - **Evidencial revelado** `-wah` (el nombre viene de fuente superior)
@@ -3116,9 +3116,9 @@ semilla  YHWH   revelado  reverencia  performativo
 - Sin actitudinal: es exposición sin ritual
 - Modo hipotético `-kal`: el nombre esencial es siempre performativo real
 
-#### 3.18.2.a — Composición nativa de bījas (v1.2)
+#### 3.18.2.a — Composición nativa de bījas (v1.3)
 
-A partir de v1.2, los bījas se **derivan nativamente** del sistema fonosemántico generativo (fonología §11), no se importan de tradiciones externas. La carga semántica de cada fonema viene de **fonología §11.1 (matriz fonema→elemento)** y el algoritmo de composición vive en **fonología §11.4 (reglas de composición)**. Esta subsección documenta la **interfaz gramatical** del sistema: plantillas, sub-patrones actualizados, y 3 ejemplos worked de referencia.
+A partir de v1.3, los bījas se **derivan nativamente** del sistema fonosemántico generativo (fonología §11), no se importan de tradiciones externas. La carga semántica de cada fonema viene de **fonología §11.1 (matriz fonema→elemento)** y el algoritmo de composición vive en **fonología §11.4 (reglas de composición)**. Esta subsección documenta la **interfaz gramatical** del sistema: plantillas, sub-patrones actualizados, y 3 ejemplos worked de referencia.
 
 **Plantilla canónica (BNF):**
 
@@ -3149,13 +3149,13 @@ bīja  ::=  C_R                (consonante raíz, 1 fonema)
 - **`mil`** = C_R `/m/` (coerción) + V₁ `/i/` (agua) + C_P `/l/` (agua-refuerzo) → "el agua atada por la fuerza". Forma ritual: `bīj mil wah-nam-poi`.
 - **`nu`** = C_R `/n/` (Luna) + V₁ `/u/` (fuego ascendente) → "lo lunar que asciende en fuego". Forma ritual: `bīj nu wah-nam-poi`.
 
-**Anclaje numerológico (relajación v1.2):** el algoritmo de fonología §11.9 (cálculo abjad) considera **canónicos** los bījas cuyo abjad suma 7/11/22/33/77/99. En v1.2 esta restricción se **relaja** para:
+**Anclaje numerológico (relajación v1.3):** el algoritmo de fonología §11.9 (cálculo abjad) considera **canónicos** los bījas cuyo abjad suma 7/11/22/33/77/99. En v1.3 esta restricción se **relaja** para:
 - Mono-bījas (CV): el abjad no necesita ser canónico (caso `ra` = 201, `nu` = 250).
 - Di-bījas elementalmente simples: el abjad puede ser no-canónico (caso `mil` = 80, `yat` = 20).
 - Di-bījas rituales anclados (e.g., `raka` = 222) sí mantienen el anclaje canónico.
 - Tri-bījas y penta-bījas siempre apuntan a abjad canónico (33, 77).
 
-**Cross-ref fonología:** §11.1 (matriz fonema→elemento, fuente de verdad), §11.2 (worked examples A-F con derivación completa), §11.3 (combinaciones prohibidas), §11.4 (reglas de composición, algoritmo 10 pasos). **Cross-ref fonología §3.5.5:** la apócope derivativa es prerrequisito estructural para bījas derivados de raíces con `-e` final; los 3 ejemplos worked de arriba no la ejercen (raíces consonánticas puras) pero queda **preparada para v1.2+** si se introducen raíces como `bīje` o `thele` como generadores de bījas.
+**Cross-ref fonología:** §11.1 (matriz fonema→elemento, fuente de verdad), §11.2 (worked examples A-F con derivación completa), §11.3 (combinaciones prohibidas), §11.4 (reglas de composición, algoritmo 10 pasos). **Cross-ref fonología §3.5.5:** la apócope derivativa es prerrequisito estructural para bījas derivados de raíces con `-e` final; los 3 ejemplos worked de arriba no la ejercen (raíces consonánticas puras) pero queda **preparada para v1.3+** si se introducen raíces como `bīje` o `thele` como generadores de bījas.
 
 **Cross-ref gramática:** §3.18.7 (invocación ritual integrada con evidencial/actitudinal/modo), §5.3 (sufijos actitudinales coercitivos F3 — varios son bījas truncados: `-rak` = `raka` sin vocal final, ver fonología §11.4 nota final).
 
@@ -3225,7 +3225,7 @@ El **nombre funcional** codifica el **rol mágico, oficio, o título institucion
 - El uso de un nombre funcional sin haber recibido el título es **sanción ritual** (ver §3.18.7).
 - En la firma escrita, el nombre funcional precede al personal: `pir hú-hék Áz-sya` (Señor Sacerdote, del-Iniciado)
 
-> **v1.2 cross-ref:** los instrumentos rituales (`virga`, `athama`, `kalika`, `pentaka`, `tunika`, `incensa`, `hisopa`, `altara`, `lampa`) y las operaciones (`qadesh`, `paraka`, `karan`, `an-rak`, `solve`, `coagula`) están documentados en lexicón §F5. Los títulos de §3.18.4 pueden combinarse con estos en la firma ritual. Ver también actitudinales coercitivas §5.3, que también aparecen en la firma ritual.
+> **v1.3 cross-ref:** los instrumentos rituales (`virga`, `athama`, `kalika`, `pentaka`, `tunika`, `incensa`, `hisopa`, `altara`, `lampa`) y las operaciones (`qadesh`, `paraka`, `karan`, `an-rak`, `solve`, `coagula`) están documentados en lexicón §F5. Los títulos de §3.18.4 pueden combinarse con estos en la firma ritual. Ver también actitudinales coercitivas §5.3, que también aparecen en la firma ritual.
 
 ### 3.18.5 Capa IV — Nombre oculto (*guptā-nūma*)
 
@@ -3356,7 +3356,7 @@ pir hú-hék Áz-sya -wah -nam -poi:  "Yo reconozco al Señor Sacerdote Áz"
 gup (Sh-A-K) -at -wah -nam -poi:   "Y sellamos con el criptograma Sh-A-K"
 ```
 
-#### 3.18.7.b Invocación operativa (v1.2, F5)
+#### 3.18.7.b Invocación operativa (v1.3, F5)
 
 Cuando la invocación incluye un **instrumento ritual** (ver lexicón F5: `virga`, `athama`, `kalika`, `pentaka`, `tunika`, `incensa`, `hisopa`, `altara`, `lampa`) o una **operación ritual** (`qadesh`, `paraka`, `karan`, `an-rak`, `solve`, `coagula`), la firma ritual sigue el patrón:
 
@@ -3536,6 +3536,135 @@ oh YHWH, semilla fuego-cronos revelado-reverencia-ruego-performativo
 **Regla:** las interjecciones **no** llevan evidencial (§3.19.5), pero **sí** pueden combinarse con actitudinales coercitivos siempre que estos se adjunten al verbo principal, no a la interjección.
 
 **Cross-ref:** §5.3 (sufijos coercitivos), §4 (vocativo, partícula `o`), fonología §11 (bījas nativos).
+
+---
+
+## 3.20 Fórmulas sociales fijas y frases hechas convencionalizadas
+
+Esta sección documenta las **expresiones fijas de uso social frecuente** en Kalfírvach. No son entradas léxicas atómicas (esas residen en el léxico JSON), sino **construcciones gramaticales cristalizadas** que todo hablante debe conocer. Cada fórmula incluye:
+
+- **Variante familiar** (registro íntimo, §3.7.1)
+- **Variante cortés** (registro social, §3.7.1)
+- **Análisis gramatical transparente** (composición morfológica y sintáctica)
+- **Contexto de uso pragmático**
+
+Las fórmulas se agrupan por función comunicativa.
+
+---
+
+### 3.20.1 Saludos por hora del día
+
+Los saludos en KFA son **frases nominales elípticas**: tópico (`sadu` + adverbio temporal) con comentario omitido ("que tengas..."). No llevan verbo explícito.
+
+| Español | KFA (familiar) | KFA (cortés) | IPA | Análisis |
+|---------|----------------|--------------|-----|----------|
+| **Buenos días** | `sadu sapkhah` | `sadu sapkhah, tum` | /sa.du sap.xah/ | `sadu` (adj bueno) + `sapkhah` (mañana temprano, §3.10.2) |
+| **Buenas tardes** | `sadu ashar` | `sadu ashar, tum` | /sa.du a.ʃar/ | `sadu` + `ashar` (tarde, §3.10.2) |
+| **Buenas noches** | `sadu ratiri` | `sadu ratiri, tum` | /sa.du ra.ti.ri/ | `sadu` + `ratiri` (noche, §3.10.2). También: `sadu shafak` (buen crepúsculo) |
+| **Buen amanecer** | `sadu fajar` | `sadu fajar, tum` | /sa.du fa.dʒar/ | Para saludo muy temprano (alba, §3.10.2) |
+
+> **Nota**: El registro cortés añade `tum` (2sg cortés, §3.7.1) como vocativo implícito al final.
+
+---
+
+### 3.20.2 Saludo general y bienvenida
+
+| Español | KFA (familiar) | KFA (cortés) | IPA | Análisis |
+|---------|----------------|--------------|-----|----------|
+| **Hola / Saludo** | `ghip-a` | `ghip-a nam` | /ɣi.pa/ | `ghip-a` = saludar-PRES (declarativa: "saludo"). Con `nam` (interj. asentimiento, §3.19) |
+| **Bienvenido** | `ay-a sadu` | `ay-a sadu, tum` | /a.ja sa.du/ | `ay-a` (venir-PRES, §3.16) + `sadu` (bueno) = "vienes bien / buena venida" |
+| **Bienvenidos (plural)** | `ay-a-mash sadu` | `ay-a-túm sadu` | /a.ja.maʃ sa.du/ | Verbo conjugado 1pl / 2pl cortés (§3.3, §3.7.1) |
+
+---
+
+### 3.20.3 Despedidas
+
+| Español | KFA (familiar) | KFA (cortés) | IPA | Análisis |
+|---------|----------------|--------------|-----|----------|
+| **Adiós / Chao** | `fīkhā` | `fīkhā nam` | /fiː.xaː/ | `fīkhā` (despedir, forma base usada como interjección). Con `nam` = "me despido, sí" |
+| **Hasta luego** | `ay-u-kal` | `ay-u-kal, tum` | /a.ju kal/ | `ay-u` (venir-FUT) + `-kal` (hipotético, §2.3) = "vendré potencialmente / nos veremos" |
+| **Hasta mañana** | `ghat ay-u` | `ghat ay-u, tum` | /ɣat a.ju/ | `ghat` (mañana siguiente, §3.10.2) + `ay-u` (venir-FUT) |
+| **Buenas noches (despedida)** | `sadu ratiri, fīkhā` | `sadu ratiri, fīkhā nam` | /sa.du ra.ti.ri fiː.xaː/ | "Buena noche, me despido" |
+| **Que descanses** | `shant-ka shay-u` | `shant-ka shay-u, tum` | /ʃant.ka ʃa.ju/ | `shant-ka` (calmadamente, adv modo §3.10.4) + `shay-u` (yacer-FUT, §3.16) |
+
+---
+
+### 3.20.4 Cortesía básica
+
+| Español | KFA (familiar) | KFA (cortés) | IPA | Análisis gramatical |
+|---------|----------------|--------------|-----|---------------------|
+| **Por favor** | `kár-ran` | `kár-ran` | /kar.ran/ | `kár-` (hacer) + `-ran` (precativo, §5.3) = "haz por favor". **Úsalo ante cualquier verbo**: `ay-a-ran` (ven por favor), `vach-a-ran` (habla por favor) |
+| **Gracias** | `dziywū-a` | `dziywū-a-nam` | /ʣij.wu.a/ | `dziywū-a` (agradecer-PRES). Con `-nam` (reverencia, §2.2) en cortés |
+| **Muchas gracias** | `tís dziywū-a` | `tís dziywū-a-nam` | /tis ʣij.wu.a/ | `tís` (muy, adv grado §3.10.5) + agradecer |
+| **De nada / No hay de qué** | `la itrum` | `la itrum, tum` | /la it.rum/ | `la` (no, interj. §3.19) + `itrum` (permiso/licencia, §tecnología) = "no hay permiso [necesario]" |
+| **Con permiso / Permiso** | `itrum-te` | `itrum-te, tum` | /it.rum.te/ | `itrum` (permiso) + `-te` (dativo, §3.2) = "con permiso" |
+| **Disculpe / Perdón** | `na-rashe-a` | `na-rashe-a-nam` | /na.ra.ʃe.a/ | `na-` (NEG) + `rashe-a` (autorizar-PRES) + `-nam` = "no autorizo [la ofensa]" |
+| **No se preocupe** | `na-bay` | `na-bay, tum` | /na.baj/ | `na-` (NEG) + `-bay` (actitudinal miedo, §2.2) = "sin miedo / no tema" |
+
+---
+
+### 3.20.5 Presentaciones y conocer
+
+| Español | KFA (familiar) | KFA (cortés) | IPA | Análisis |
+|---------|----------------|--------------|-----|----------|
+| **Mucho gusto en conocerte** | `tís swat yana-an ta-te` | `tís swat yana-an tum-te` | /tis swat ja.nan ta.te/ | `tís` (muy) + `swat` (gusto/placer, n., §comida_y_cocina) + `yana-an` (conocer-INF, §3.3.5) + `ta-te`/`tum-te` (tú-DAT, §3.2). Lit: "Mucho placer conocer a-ti" |
+| **Encantado de conocerle** | `swat as-a yana-an ta-te` | `swat as-a yana-an tum-te` | /swat a.sa ja.nan tum.te/ | `swat as-a` (placer es-PRES) + infinitivo + dativo |
+| **¿Cómo te llamas?** | `kím nūm as-a ta-sya?` | `kím nūm as-a tum-sya?` | /kim num a.sa ta.sja/ | `kím` (qué, §3.8) + `nūm` (nombre personal, §3.18.3) + `as-a` (es) + `ta-sya`/`tum-sya` (tu-GEN, §3.9) |
+| **Me llamo…** | `ma-sya nūm … as-a` | `ma-sya nūm … as-a` | /ma.sja num … a.sa/ | `ma-sya` (mi-GEN) + `nūm` (nombre) + nombre + `as-a` |
+| **Te presento a…** | `ma ta-te … vach-a` | `ma tum-te … vach-a` | /ma ta.te … vatʃ.a/ | `ma` (yo) + `ta-te`/`tum-te` (tú-DAT) + nombre + `vach-a` (hablar/presentar-PRES, §3.3) |
+
+---
+
+### 3.20.6 Conversación básica
+
+| Español | KFA (familiar) | KFA (cortés) | IPA | Análisis |
+|---------|----------------|--------------|-----|----------|
+| **¿Cómo estás?** | `kwa-ka as-a ta?` | `kwa-ka as-a tum?` | /kwa.ka a.sa tum/ | `kwa-ka` (alguien/indefinido, §3.14) + `as-a` (es) + pronombre. Lit: "¿Alguien eres tú?" ≅ "¿Cómo estás?" |
+| **Bien, gracias** | `sadu, dziywū-a` | `sadu, dziywū-a-nam` | /sa.du ʣij.wu.a/ | `sadu` (bueno) + agradecer |
+| **¿Hablas KFA?** | `kalfírvach vach-a ta?` | `kalfírvach vach-a tum?` | /kal.fir.vatʃ vatʃ.a tum/ | Nombre del idioma + `vach-a` (hablar-PRES) + pronombre |
+| **Entiendo / Comprendo** | `gnán-a` | `gnán-a-nam` | /gna.na/ | `gnán-a` (saber/conocer-PRES, raíz `yana` con prefijo `gn-` de `gnotha` "saber cómo", §3.6). Con `-nam` reverencia |
+| **No entiendo** | `na-gnán-a` | `na-gnán-a-nam` | /na.gna.na/ | `na-` (NEG) + `gnán-a` |
+| **Repita, por favor** | `vach-a-ran` | `vach-a-ran` | /vatʃ.a.ran/ | `vach-a` (hablar-PRES) + `-ran` (precativo, §5.3) |
+| **Más despacio, por favor** | `bátí-ka vach-a-ran` | `bátí-ka vach-a-ran` | /ba.ti.ka vatʃ.a.ran/ | `bátí-ka` (lentamente, adj `bátí` + `-ka` adv modo, §3.10.4) + hablar-precativo |
+
+---
+
+### 3.20.7 Frases sociales extendidas
+
+| Español | KFA (familiar) | KFA (cortés) | IPA | Análisis |
+|---------|----------------|--------------|-----|----------|
+| **Fue un placer hablar con usted** | `swat as-i vach-an ta-te` | `swat as-i vach-an tum-te` | /swat a.si vatʃ.an tum.te/ | `swat` (placer) + `as-i` (ser-PAS) + `vach-an` (hablar-INF) + `ta-te`/`tum-te` (tú-DAT) |
+| **Fue un placer conocerle** | `swat as-i yana-an ta-te` | `swat as-i yana-an tum-te` | /swat a.si ja.nan tum.te/ | Mismo patrón con `yana-an` (conocer-INF) |
+| **Espero volver a verte** | `ich-a ay-u ti ta pas-y-u` | `ich-a ay-u ti tum pas-y-u` | /itʃ.a a.ju ti tum pas.ju/ | `ich-a` (querer-PRES, §3.12.2) + `ay-u` (venir-FUT) + `ti` (que, §4.3.2) + `ta`/`tum` (tú) + `pas-y-u` (ver-FUT, §3.3) |
+| **Cuídate** | `rakh-a sadu` | `rakh-a sadu, tum` | /rax.a sa.du/ | `rakh-a` (proteger/cuidar-PRES, raíz `rakh-` §verbos_basicos) + `sadu` (bien) |
+| **Que tengas un buen día** | `sadu sapkhah as-u ta-te` | `sadu sapkhah as-u tum-te` | /sa.du sap.xah a.su tum.te/ | `sadu sapkhah` (buen día) + `as-u` (ser-FUT) + `ta-te`/`tum-te` (tú-DAT) = "que un buen día sea para ti" |
+| **Feliz cumpleaños** | `sadu dín as-u ta-te` | `sadu dín as-u tum-te` | /sa.du din a.su tum.te/ | `sadu` + `dín` (día, §3.3.2) + `as-u` (ser-FUT) + dativo |
+| **Salud / ¡Salud! (brindis)** | `shalam` | `shalam, tum` | /ʃa.lam/ | `shalam` (paz/salutación/bendición, interj. §3.19). En brindis: "paz [entre nosotros]" |
+| **Buen provecho** | `swat ghada` | `swat ghada, tum` | /swat ɣa.da/ | `swat` (placer/gusto) + `ghada` (almuerzo/comida, §comida_y_cocina) = "placer en la comida" |
+| **Buen viaje** | `sadu gach-an` | `sadu gach-an, tum` | /sa.du ɣatʃ.an/ | `sadu` + `gach-an` (ir-INF, §3.16) = "buen ir / buen camino" |
+
+---
+
+### 3.21 Calendario y días de la semana
+
+La semana KFA estándar tiene 7 días, cada uno nombrado por un cuerpo celeste (ver léxico, §naturaleza_y_elementos). El sufijo **-mera** proviene de `daimera` ("día", del griego *hēmera*, §conceptos_espaciales_y_calidades) y se añade al nombre del astro regente.
+
+| # | Día | KFA | IPA | Astro regente |
+|---|-----|-----|-----|---------------|
+| 1 | Domingo | `suryamera` | /su.rjaˈme.ra/ | Surya (Sol) |
+| 2 | Lunes | `mahselmera` | /mah.selˈme.ra/ | Mahsel (Luna) |
+| 3 | Martes | `hermarmera` | /her.marˈme.ra/ | Hermar (Marte) |
+| 4 | Miércoles | `thutirmera` | /θu.tirˈme.ra/ | Thutir (Mercurio) |
+| 5 | Jueves | `hormusmera` | /hor.musˈme.ra/ | Hormus (Júpiter) |
+| 6 | Viernes | `anzumera` | /an.zuˈme.ra/ | Anzu (Venus) |
+| 7 | Sábado | `keyzumera` | /kej.zuˈme.ra/ | Keyzu (Saturno) |
+
+**Uso en oración:**
+
+> `suryamera as-i sadu sapkhah` — "El domingo fue una buena mañana"
+> `ma tum-te hormusmera-te pas-y-u` — "Te veré el jueves" (lit. "yo tú-DAT Júpiter-día-DAT ver-FUT")
+
+El acento recae en **-me-** (penúltima) en todos los casos. Para referirse al día de hoy se usa `yawam` (§§tiempo_domestico, "hoy") y para el día siguiente `ghat` ("mañana siguiente", misma sección). La palabra para "semana" es `sabu` (§tiempo_domestico).
 
 ---
 

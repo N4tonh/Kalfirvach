@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-Script para corregir problemas de integridad en el léxico de Kalfírvach v1.2
+Script para corregir problemas de integridad en el léxico de Kalfírvach v1.3
 Problemas a corregir:
 1. Entradas sin POS en biologia_y_micologia y profesiones_y_roles
 2. Entradas sin campo kalfirvach
@@ -349,14 +349,14 @@ def add_cooking_verbs(categorias):
     return added_count
 
 def main():
-    print("🔧 Iniciando corrección de integridad del léxico Kalfírvach v1.2...\n")
+    print("🔧 Iniciando corrección de integridad del léxico Kalfírvach v1.3...\n")
     
     # Cargar léxico
-    with open('/workspace/kalfirvach_lexicon_v1.2.json', 'r', encoding='utf-8') as f:
+    with open('/workspace/kalfirvach_lexicon_v1.3.json', 'r', encoding='utf-8') as f:
         data = json.load(f)
     
-    categorias = data['kalfirvach_lexicon_v1.2']['categorias']
-    metadata = data['kalfirvach_lexicon_v1.2']['metadata']
+    categorias = data['kalfirvach_lexicon_v1.3']['categorias']
+    metadata = data['kalfirvach_lexicon_v1.3']['metadata']
     
     total_entries = 0
     fixed_pos = 0
@@ -391,7 +391,7 @@ def main():
     
     # Corrección 4: Actualizar metadata
     print("\n🔄 Actualizando metadata...")
-    metadata['version'] = '1.2'
+    metadata['version'] = '1.3'
     metadata['total_entries'] = total_entries
     # Eliminar campos redundantes si existen
     if 'total_entradas' in metadata:
@@ -410,7 +410,7 @@ def main():
     metadata['total_entries'] = new_total
     
     # Guardar léxico corregido
-    output_path = '/workspace/kalfirvach_lexicon_v1.2_fixed.json'
+    output_path = '/workspace/kalfirvach_lexicon_v1.3_fixed.json'
     with open(output_path, 'w', encoding='utf-8') as f:
         json.dump(data, f, ensure_ascii=False, indent=2)
     

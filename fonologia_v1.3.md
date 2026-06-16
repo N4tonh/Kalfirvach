@@ -1,12 +1,12 @@
 ---
-title: "Kalfírvach v1.2 — Fonología"
-version: v1.2
+title: "Kalfírvach v1.3 — Fonología"
+version: v1.3
 date: 2026-06-06
 lang: es
 status: stable
 ---
 
-# KALFÍRVACH v1.2 — Fonología
+# KALFÍRVACH v1.3 — Fonología
 
 ## 1. Metodología de construcción
 
@@ -599,7 +599,7 @@ La entonación KFA es **declarativa por defecto**: la cláusula desciende gradua
 | Imperativa | mid-high sostenido (sin caída final) | mantenido en alto hasta ejecución |
 | Vocativa | rise-fall en el nombre invocado | caída ceremonial al final |
 
-> **v1.2 cross-ref:** el morfema que dispara la curva vocativa es la partícula `o` (gramática §1.7, lexicón `conjunciones_y_particulas`). Sin `o`, ningún sintagma nominal puede recibir la curva rise-fall characteristic del vocativo.
+> **v1.3 cross-ref:** el morfema que dispara la curva vocativa es la partícula `o` (gramática §1.7, lexicón `conjunciones_y_particulas`). Sin `o`, ningún sintagma nominal puede recibir la curva rise-fall characteristic del vocativo.
 
 **Curva declarativa (visualización):**
 
@@ -1031,9 +1031,9 @@ El silabificador KFA aplica las siguientes reglas en orden:
 
 ---
 
-## 11. Fonosemántica generativa (v1.2)
+## 11. Fonosemántica generativa (v1.3)
 
-Esta sección introduce el **sistema fonosemántico generativo** de Kalfírvach: una matriz que asigna a cada fonema del inventario núcleo una **carga elemental o planetaria**, y un algoritmo composicional que permite derivar **bījas nativos** a partir de un propósito ritual declarado. Los bījas derivados de este sistema **sustituyen** los bījas tradicionales importados (`óm-húm-trám`, etc.); los tradicionales pueden documentarse en lexicón como **registro arqueológico** (ver §11.4 nota final), pero el sistema v1.2 se basta a sí mismo.
+Esta sección introduce el **sistema fonosemántico generativo** de Kalfírvach: una matriz que asigna a cada fonema del inventario núcleo una **carga elemental o planetaria**, y un algoritmo composicional que permite derivar **bījas nativos** a partir de un propósito ritual declarado. Los bījas derivados de este sistema **sustituyen** los bījas tradicionales importados (`óm-húm-trám`, etc.); los tradicionales pueden documentarse en lexicón como **registro arqueológico** (ver §11.4 nota final), pero el sistema v1.3 se basta a sí mismo.
 
 **Cobertura cross-tradicional:** cada mapeo se ancla en ≥3 tradiciones (Sánscrito, Griego, Egipcio, Avestan, Hebreo, Latín, Persa, Sumerio, Tibetano, Árabe). 18/19 mapeos tienen ≥3 fuentes explícitas; el restante (`v`) se marca como variante de `p` (Venus canónico) con refuerzo Griego koiné tardío. Cobertura total: 100% de los mapeos con al menos una fuente de las **3 tradiciones core** (Skt/Gr/Eg).
 
@@ -1117,7 +1117,7 @@ Los 3 primeros ejemplos (`raka`, `mil`, `nu`) son los trabajados en spec §2.2; 
 - **Triada:** C_R = `/m/` (coerción/fijación) + V₁ = `/i/` (agua/fluidez) + C_P = `/l/` (agua — refuerzo líquido).
 - **Ensamblaje:** `/m/ + /i/ + /l/ = mil` (CVC).
 - **Validación fonotáctica:** §3.2 onset `m-` ✓; §3.3 coda `-l` ✓ (líquida en coda permitida); §11.3 sin forbidden.
-- **Abjad:** m=40, i=10, l=30 → 80 (no canónico; relajar: mono-bīja en v1.2 no requiere 7 estricto, ver §3.18.2.a).
+- **Abjad:** m=40, i=10, l=30 → 80 (no canónico; relajar: mono-bīja en v1.3 no requiere 7 estricto, ver §3.18.2.a).
 - **Forma ritual:** `bīj mil wah-nam-poi`.
 - **Gloss:** "el agua atada por la fuerza".
 - **Uso ritual:** ritual de fijación de corrientes, sellado de flujos acuáticos.
@@ -1257,9 +1257,9 @@ función generar_bīja(propósito) -> string:
      Ejemplo: si propósito = "vincular agua", el bīja debe
      llevar /l/ (agua) o /m/ (coerción) en C_R, no /r/ (fuego).
 
-  9. CÁLCULO ABJAD (opcional, requisito v1.0 relajado en v1.2)
+  9. CÁLCULO ABJAD (opcional, requisito v1.0 relajado en v1.3)
      Numeración 1-9, 10-90, 100-900 (modelo árabo-persa-sánscrito).
-     En v1.2 los mono-bījas (CV) y di-bījas elementalmente simples
+     En v1.3 los mono-bījas (CV) y di-bījas elementalmente simples
      NO requieren abjad canónico (7/11/22/33/77/99). La restricción
      abjad se reserva a bījas rituales complejos (tri/penta-bīja)
      y a operaciones de registro formal (F5 §3.18.7.b).
@@ -1280,13 +1280,13 @@ función generar_bīja(propósito) -> string:
 
 **Output lengths típicos:** CVCV (4 fonemas) para 70% de bījas, CVCVCV (6 fonemas) para 20%, CV (2 fonemas) para 10% (mono-bīja elemental, ver Ejemplos C, D).
 
-**Apócope y bījas:** la regla §3.5.5 (apócope derivativa de `-e` ante C) **habilita** bījas derivados de raíces con `-e` final (no es el caso de los 6 worked examples de §11.2 — todos derivan de raíces consonánticas puras). Si en el futuro se introducen raíces como `bīje` o `thele` como generadores de bījas, la apócope se activará automáticamente (`*bīj-tár`, `*thel-rak`). La regla queda **preparada para v1.2+**, no ejercida masivamente en v1.2.
+**Apócope y bījas:** la regla §3.5.5 (apócope derivativa de `-e` ante C) **habilita** bījas derivados de raíces con `-e` final (no es el caso de los 6 worked examples de §11.2 — todos derivan de raíces consonánticas puras). Si en el futuro se introducen raíces como `bīje` o `thele` como generadores de bījas, la apócope se activará automáticamente (`*bīj-tár`, `*thel-rak`). La regla queda **preparada para v1.3+**, no ejercida masivamente en v1.3.
 
 **Cross-ref fonología:** §3 (fonotáctica general), §3.5.5 (apócope derivativa prerrequisito), §3.18.7 (invocación ritual integrada), §3.18.2.a (composición algorítmica en gramática).
 
 **Cross-ref gramática:** §3.18.2.a (reglas algorítmicas, plantillas, sub-patrones), §3.18.7 (capa I integración), §5.3 (sufijos actitudinales F3 — varios de ellos son bījas truncados: `-rak` = `raka` sin vocal final; ver cross-front design §5.2).
 
-**Nota final:** los bījas tradicionales importados (`óm`, `húm`, `yám`, `rám`, `lám`, `trám`, etc.) se documentan en lexicón `magia_y_mitologia` como **registro arqueológico** (categoría ya presente); el sistema v1.2 los **sustituye** pero no los prohíbe. Un iniciado puede usar `óm-húm-trám` si tiene transmisión tradicional; la fonología §11 ofrece una **ruta nativa KFA** equivalente.
+**Nota final:** los bījas tradicionales importados (`óm`, `húm`, `yám`, `rám`, `lám`, `trám`, etc.) se documentan en lexicón `magia_y_mitologia` como **registro arqueológico** (categoría ya presente); el sistema v1.3 los **sustituye** pero no los prohíbe. Un iniciado puede usar `óm-húm-trám` si tiene transmisión tradicional; la fonología §11 ofrece una **ruta nativa KFA** equivalente.
 
 ---
 
