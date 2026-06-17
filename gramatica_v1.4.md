@@ -28,7 +28,7 @@ El orden SOV es el más frecuente en las lenguas fuente orientales (sánscrito, 
 
 **Ejemplo:**
 ```
-Nyós   sham   kár-e
+Nyós   zal   kár-e
 suj    obj    verbo-EVID:visual
 "Sombra acción hace[veo]"
 = "Veo que la sombra actúa"
@@ -43,7 +43,7 @@ Determinante + Adjetivo + Núcleo + Modificador + Postposición
 | Posición | Elemento | Ejemplo |
 |----------|----------|---------|
 | 1 | Determinante/Cuantificador | mu "todo", ta "este" |
-| 2 | Adjetivo | rík "grande", sál "oscuro" |
+| 2 | Adjetivo | rík "grande", khap "oscuro" |
 | 3 | Núcleo nominal | thel "voluntad", nús "conciencia" |
 | 4 | Complemento del nombre | (otro SN en aposición) |
 | 5 | Postposición | -na (locativo), -te (dativo), -ra (ablativo) |
@@ -68,12 +68,12 @@ Kalfírvach **no tiene género gramatical**. La **definitud** y el **número** s
 
 **Ejemplos:**
 ```
-ha  núr      = la luz
-han núr      = las luces
-é   núr      = una luz
-én  núr      = unas luces
+ha  nūros      = la luz
+han nūros      = las luces
+é   nūros      = una luz
+én  nūros      = unas luces
 ha  rík  thel = la gran voluntad
-én  sál  sham = unas sombras oscuras
+én  khap  zal = unas sombras oscuras
 ```
 
 **Notas:**
@@ -114,7 +114,7 @@ yo.HIER kair-invocar-PFV-hacer-PRES-visual-reverencia-orgullo-éxtasis-PERF-HIER
 El sujeto puede elidirse si es recuperable del contexto (pro-drop), tipológicamente justificado por el Sánscrito, el Árabe y el Tibetano, que son lenguas pro-drop:
 
 ```
-sham  kár-e
+zal  kár-e
 sombra hacer-visual
 "[La sombra] actúa [veo]"
 ```
@@ -124,11 +124,11 @@ sombra hacer-visual
 La predicación se realiza con la cópula **as**. Los adjetivos no concuerdan en género ni número.
 
 ```
-ha  núr   sál    as-a
+ha  nūros   khap    as-a
 DEF.SG luz  oscura ser-PRES
 "La luz es oscura"
 
-én  sham  rík    as-a
+én  zal  rík    as-a
 INDEF.PL sombra grande ser-PRES
 "Unas sombras son grandes"
 ```
@@ -149,15 +149,15 @@ Kalfírvach usa partículas de grado:
 
 **Ejemplos:**
 ```
-ha  núr  rík  para  han sham-sya  as-a
+ha  nūros  rík  para  han zal-sya  as-a
 DEF.SG luz grande más  DEF.PL sombra-GEN ser-PRES
 "La luz es más grande que las sombras"
 
-ha  sham  sál  awa  ha núr-sya  as-a
+ha  zal  khap  awa  ha nūros-sya  as-a
 DEF.SG sombra oscura menos DEF.SG luz-GEN ser-PRES
 "La sombra es menos oscura que la luz"
 
-ha  núr  sáma rík  ha sham-sya  as-a
+ha  nūros  sáma rík  ha zal-sya  as-a
 DEF.SG luz tan  grande DEF.SG sombra-GEN ser-PRES
 "La luz es tan grande como la sombra"
 ```
@@ -269,7 +269,7 @@ Nuevos actitudinales para la expresión emocional del camino luciferiano/promete
 ma  kár-a-gar       = "Actúo con orgullo [justo]"
 áz  as-a-ék-poi     = "Yo hierático soy en éxtasis [performativo]"
 sa  as-i-azáz       = "Él/Ella fue en liberación"
-ma  núr ich-a-lúx   = "Anhelo la luz con deseo de iluminación"
+ma  nūros ich-a-lúx   = "Anhelo la luz con deseo de iluminación"
 as-a-síg            = "Es en silencio [gnóstico]"
 ma  shám kár-a-wíl  = "Actúo la sombra con determinación"
 ma  ops-a-soph      = "Veo con sabiduría [esotérica]"
@@ -302,7 +302,7 @@ Los modos de realidad codifican el **plano ontológico** en el que se sitúa lo 
 La gramática de Kalfírvach permite **apilar** los tres tipos de partículas en una sola forma verbal, creando una especificación sumamente precisa del estatus del enunciado:
 
 ```
-nyós    sham   kár-a-wah-al-poi
+nyós    zal   kár-a-wah-al-poi
 sombra  acción hacer-PRES-revelado-certeza_mag-performativo
 
 "Por revelación y certeza mágica, decreto que la sombra actúa [y el decirlo lo hace real]."
@@ -338,7 +338,7 @@ No hay irregularidades morfológicas. Toda forma se construye productivamente.
 ```
 thel-na     = en la voluntad
 nús-te     = a la conciencia
-sham-ra    = desde la sombra
+zal-ra    = desde la sombra
 rík-sya    = del grande (perteneciente al grande)
 shaktí-ka  = mediante poder
 sól-muk    = hacia la luz
@@ -380,7 +380,7 @@ Kalfírvach distingue tres tipos de tiempo sagrado, expresados como prefijos ver
 |----------|-------------|-------------|--------|
 | **-dín** | "en el día/tiempo de" | Persa *din* "día, tiempo" + Árabe *dīn* "ciclo" |
 | **-máh** | "en la fase lunar de" | Árabe *qamar* "luna" → máh; Persa *māh* "luna/mes" |
-| **-sól** | "en la posición solar de" | (extensión de núr "luz" a temporalidad solar) |
+| **-sól** | "en la posición solar de" | (extensión de nūros "luz" a temporalidad solar) |
 
 ```
 chrón-kár-a    = "actúa en el tiempo mundano"
@@ -457,7 +457,7 @@ ha  kár-ant  thel  as-a
 DEF.SG actuante voluntad ser-PRES
 "El que actúa es voluntad"
 
-ma  núr  kár-an  ich-a
+ma  nūros  kár-an  ich-a
 yo  luz  hacer-INF querer-PRES
 "Quiero hacer luz"
 ```
@@ -476,7 +476,7 @@ Kalfírvach expresa **ser/estar** mediante el verbo copulativo **as**:
 ma mago as-a      = "yo soy mago" (neutro, cotidiano)
 ma mago as-a-e    = "yo soy mago [veo]" (visual, ritual)
 ka as-i-wah       = "eso fue [revelado]"
-sham as-u-anu     = "la sombra será [inferido]"
+zal as-u-anu     = "la sombra será [inferido]"
 ma-kal as-a-al    = "hipotéticamente, no soy con certeza mágica"
 as-ro!            = "¡sé!" (imperativo)
 ```
@@ -558,7 +558,7 @@ dwi-sháta dwith = zweihundertster / 200.º
 **Uso con clasificadores:** El ordinal **precede** al nombre sin clasificador (los clasificadores solo se usan con cardinales):
 
 ```
-púrwa núr      = "la primera luz"
+púrwa nūros      = "la primera luz"
 dwith nara     = "la segunda persona"
 púrwa-wan asib = "el primer médico" (con clasificador enfático)
 ```
@@ -602,7 +602,7 @@ Los clasificadores son **medidores semánticos** que se interponen entre el núm
 
 **Notas:**
 - El clasificador se **omite** con unidades de medida (hasarak "mil", sháta "cien"), conceptos temporales (dín "día", rátrí "noche"), y números ordinales.
-- Sin clasificador, el número + nombre sugiere una **lectura abstracta o metafórica**: *tiri núr* = "tres luces" (tres fuentes de luz), pero *tiri-thang núr* = "tres [objetos redondos] de luz" (tres soles/lunas).
+- Sin clasificador, el número + nombre sugiere una **lectura abstracta o metafórica**: *tiri nūros* = "tres luces" (tres fuentes de luz), pero *tiri-thang nūros* = "tres [objetos redondos] de luz" (tres soles/lunas).
 - Cuando el clasificador precede al nombre sin número, funciona como **artículo clasificatorio**: *wan nara* = "la persona (alguna)", *pata patara* = "la hoja (plana)".
 
 **Uso mágico — clasificador como pronombre:**
@@ -617,7 +617,7 @@ yo  dos-ANIM ver-PAS-VIS     prim-ANIM   hace    seg-ANIM    ve
 **Apilamiento de clasificadores** (uso poético/ritual): Dos clasificadores pueden combinarse para describir un objeto con atributos híbridos. Raro en habla cotidiana, pero atestiguado en textos de invocación:
 
 ```
-ekami-thang-sutra núr    = "una [redonda-y-alargada] luz" (un relámpago, un bastón de luz)
+ekami-thang-sutra nūros    = "una [redonda-y-alargada] luz" (un relámpago, un bastón de luz)
 dwi-pata-wan atma      = "dos [planos-y-animados] espíritus" (entidades con manifestación plana)
 ```
 
@@ -762,21 +762,21 @@ Poseedor-sya + Poseído
 
 **Con pronombres:**
 ```
-ma-sya  núr     = mi luz
-ta-sya  sham    = tu sombra
+ma-sya  nūros     = mi luz
+ta-sya  zal    = tu sombra
 sa-sya  thel    = su voluntad (de él/ella)
 ka-sya  mur     = su muro (de eso)
 man-sya nús     = nuestra conciencia
 tan-sya bhavan  = vuestra casa
 san-sya rík     = su grandeza (de ellos/as)
-kan-sya sál     = su oscuridad (de esas cosas)
+kan-sya khap     = su oscuridad (de esas cosas)
 ```
 
 **Con nombres completos:**
 ```
-ha  mago-sya   núr      = la luz del mago
-ha  rík  mago-sya sham  = la sombra del gran mago
-én  sál  sham-sya wácha = las palabras de unas sombras oscuras
+ha  mago-sya   nūros      = la luz del mago
+ha  rík  mago-sya zal  = la sombra del gran mago
+én  khap  zal-sya wácha = las palabras de unas sombras oscuras
 ```
 
 **Nota:** La postposición -sya se adjunta al último elemento del sintagma del poseedor, no a cada palabra. En `ha rík mago-sya`, el genitivo va sobre `mago`, no sobre cada modificador.
@@ -791,8 +791,8 @@ ha  rík  mago-sya sham  = la sombra del gran mago
 
 **Uso con demostrativos y cuantificadores:**
 ```
-ta-sya  núr     = la luz de esto
-ka-sya  sham    = la sombra de aquello
+ta-sya  nūros     = la luz de esto
+ka-sya  zal    = la sombra de aquello
 mu-sya  thel    = la voluntad de todo
 ```
 
@@ -816,11 +816,11 @@ Poseedor-te + Poseído + as-<TAM>
 
 **Afirmativo:**
 ```
-ma-te   é    núr  as-a
+ma-te   é    nūros  as-a
 yo-DAT  INDEF luz  ser-PRES
 "A mí una luz es" = "Tengo una luz"
 
-ma-te   ha   sham  as-a-e
+ma-te   ha   zal  as-a-e
 yo-DAT  DEF  sombra ser-PRES-VIS
 "Tengo la sombra [veo]" = "[Veo que] poseo la sombra"
 
@@ -839,11 +839,11 @@ nos-DAT dos-ANIM persona ser-PRES
 
 **Negativo:**
 ```
-ma-te   núr  na-as-a
+ma-te   nūros  na-as-a
 yo-DAT  luz  NEG-ser-PRES
 "No tengo luz"
 
-ta-te   sham  na-as-i
+ta-te   zal  na-as-i
 tú-DAT  sombra NEG-ser-PAS
 "No tuviste sombra"
 ```
@@ -854,21 +854,21 @@ ma-te   shaktí  as-a-wah-al
 yo-DAT  poder   ser-PRES-REVELADO-certeza_mágica
 "Por revelación y certeza mágica, tengo poder"
 
-áz-te   núr  as-a-nand
+áz-te   nūros  as-a-nand
 yo.HIER-DAT luz ser-PRES-alegría
 "Yo, iniciado, tengo luz con alegría"
 ```
 
 **Pasado y futuro:**
 ```
-ma-te   sham  as-i      = "Tuve una sombra"
-ma-te   núr   as-u      = "Tendré luz"
+ma-te   zal  as-i      = "Tuve una sombra"
+ma-te   nūros   as-u      = "Tendré luz"
 sa-te   máya  as-i-wah  = "Él tuvo ilusión [revelado]"
 ```
 
 **Interrogativo:**
 ```
-ta-te   núr  as-a  ka?
+ta-te   nūros  as-a  ka?
 tú-DAT  luz  ser-PRES INTERR
 "¿Tienes luz?"
 
@@ -892,14 +892,14 @@ yo.HIER-DAT DEF magia ser-PRES-HIER-reverencia
 
 | Construcción | Estructura | Ejemplo | Significado |
 |-------------|-----------|---------|-------------|
-| Atributiva | `Poseedor-sya + Poseído + Verbo` | `ma-sya núr as-a` | "Mi luz es" (la luz que me pertenece existe/es X) |
-| Predicativa | `Poseedor-te + Poseído + as-a` | `ma-te núr as-a` | "Tengo luz" (poseo luz) |
+| Atributiva | `Poseedor-sya + Poseído + Verbo` | `ma-sya nūros as-a` | "Mi luz es" (la luz que me pertenece existe/es X) |
+| Predicativa | `Poseedor-te + Poseído + as-a` | `ma-te nūros as-a` | "Tengo luz" (poseo luz) |
 
 La diferencia es sutil pero real: la atributiva **presupone** el poseído y predica algo sobre él; la predicativa **afirma** la relación de posesión misma.
 
 ```
-ma-sya  núr  sál   as-a   = "Mi luz es oscura" (la luz que tengo: es oscura)
-ma-te   núr  sál   as-a   = "Tengo una luz oscura" (afirmo que poseo algo)
+ma-sya  nūros  khap   as-a   = "Mi luz es oscura" (la luz que tengo: es oscura)
+ma-te   nūros  khap   as-a   = "Tengo una luz oscura" (afirmo que poseo algo)
 ```
 
 **Ambigüedad con la cópula:** Cuando el poseído es un adjetivo o un nombre sin artículo, la construcción predicativa puede generar ambigüedad:
@@ -915,7 +915,7 @@ Interpretación 2: "Para mí, [algo] es miedoso" (dativo de interés, bay = raí
 En la práctica, las raíces de emoción/pasión del léxico se interpretan como **sustantivos poseídos** en esta construcción, y el contexto desambigua. Si se quiere forzar la lectura de dativo de interés, se usa el orden marcado con tópico (§5.1):
 
 ```
-ma ho,  ha   núr  bay   as-a
+ma ho,  ha   nūros  bay   as-a
 yo TOP  DEF  luz  miedo ser-PRES
 "En cuanto a mí, la luz es atemorizante" (NO "tengo miedo de la luz")
 ```
@@ -924,7 +924,7 @@ yo TOP  DEF  luz  miedo ser-PRES
 
 El poseedor en genitivo puede ser el antecedente de una relativa:
 ```
-ya  ma  dirish-i-e,    ha  nara-sya  sham
+ya  ma  dirish-i-e,    ha  nara-sya  zal
 REL yo  ver-PAS-VIS     DEF persona-GEN sombra
 "la sombra de la persona que yo vi"
 ```
@@ -940,14 +940,14 @@ yo  saber-PRES-VIS QUE  él-DAT DEF  poder   ser-PRES
 
 | Qué querés decir | Cómo se dice | Patrón |
 |-----------------|-------------|--------|
-| "mi luz" | ma-sya núr | Pronombre-sya + Nombre |
-| "la sombra del mago" | ha mago-sya sham | Nombre-sya + Nombre |
-| "tengo luz" | ma-te núr as-a | Pronombre-te + Nombre + as |
+| "mi luz" | ma-sya nūros | Pronombre-sya + Nombre |
+| "la sombra del mago" | ha mago-sya zal | Nombre-sya + Nombre |
+| "tengo luz" | ma-te nūros as-a | Pronombre-te + Nombre + as |
 | "tengo miedo" | ma-te bay as-a | Pronombre-te + Abstracto + as |
-| "no tengo sombra" | ma-te sham na-as-a | na- sobre as |
+| "no tengo sombra" | ma-te zal na-as-a | na- sobre as |
 | "tuviste poder" | ta-te shaktí as-i | as en pasado |
-| "tendré luz" | ma-te núr as-u | as en futuro |
-| "¿tenés luz?" | ta-te núr as-a ka? | + partícula ka |
+| "tendré luz" | ma-te nūros as-u | as en futuro |
+| "¿tenés luz?" | ta-te nūros as-a ka? | + partícula ka |
 
 ### 3.10 Adverbios
 
@@ -988,14 +988,14 @@ Kalfírvach posee un rico conjunto de adverbios temporales en el léxico de `tie
 
 ```
 nun  ma  kár-a        = "Ahora actúo"
-yawm ha  núr  rík as-a = "Hoy la luz es grande"
-ams  sham kár-i-e     = "Ayer la sombra actuó [veo]"
-ghat ma-te  núr as-u  = "Mañana tendré luz"
+yawm ha  nūros  rík as-a = "Hoy la luz es grande"
+ams  zal kár-i-e     = "Ayer la sombra actuó [veo]"
+ghat ma-te  nūros as-u  = "Mañana tendré luz"
 ```
 
 **Con evidenciales y actitudinales (el adverbio temporal no bloquea la partícula verbal):**
 ```
-ams  sham  kár-i-wah-al
+ams  zal  kár-i-wah-al
 ayer sombra actuar-PAS-REVELADO-certeza_mágica
 "Ayer la sombra actuó [revelado con certeza mágica]"
 ```
@@ -1012,8 +1012,8 @@ ayer sombra actuar-PAS-REVELADO-certeza_mágica
 | **kwa-ná** | /kwa'na/ | "¿dónde?" | kwa (interrogativo) + -na (locativo). Del §3.8. |
 
 ```
-idá  ha  núr  as-a    = "Aquí está la luz"
-anta-ná  sham  kár-a  = "Dentro, la sombra actúa"
+idá  ha  nūros  as-a    = "Aquí está la luz"
+anta-ná  zal  kár-a  = "Dentro, la sombra actúa"
 ma  idá  as-a-e       = "Estoy aquí [veo]"
 ka-ná  kwa  as-a?     = "¿Quién está allá?"
 ```
@@ -1042,7 +1042,7 @@ Adjetivo + -ka → Adverbio de modo
 | rík "grande" | rík-ka | "grandemente, con grandeza" |
 | sárí "rápido" | sárí-ka | "rápidamente, con rapidez" |
 | bátí "lento" | bátí-ka | "lentamente, con lentitud" |
-| sál "oscuro" | sál-ka | "oscuramente, con oscuridad" |
+| khap "oscuro" | khap-ka | "oscuramente, con oscuridad" |
 | shánt "calmo" | shánt-ka | "calmadamente, con calma" |
 | narm "suave" | narm-ka | "suavemente, con suavidad" |
 | shwét "blanco" | shwét-ka | "blancamente, con pureza/blancura" |
@@ -1050,8 +1050,8 @@ Adjetivo + -ka → Adverbio de modo
 ```
 ma  rík-ka  kár-a       = "Actúo grandemente"
 sa  sárí-ka  gach-a     = "Él/Ella va rápidamente"
-ha  núr  shánt-ka  as-a = "La luz es calmadamente" = "La luz existe en calma"
-ta  sál-ka  vach-i-e    = "Hablaste oscuramente [veo]" = "Hablaste de manera críptica"
+ha  nūros  shánt-ka  as-a = "La luz es calmadamente" = "La luz existe en calma"
+ta  khap-ka  vach-i-e    = "Hablaste oscuramente [veo]" = "Hablaste de manera críptica"
 ```
 
 **Doble lectura instrumental/adverbial:**
@@ -1089,7 +1089,7 @@ Los adverbios de grado se colocan **inmediatamente antes** del elemento que modi
 
 ```
 tís  rík   as-a     = "Es muy grande"      (modifica adjetivo)
-lav  sál   as-a     = "Es poco oscuro"     (modifica adjetivo)
+lav  khap   as-a     = "Es poco oscuro"     (modifica adjetivo)
 tís  sárí-ka  gach-a  = "Va muy rápidamente"  (modifica adverbio)
 ma   lav   kár-a    = "Actúo poco"         (modifica verbo)
 ```
@@ -1097,7 +1097,7 @@ ma   lav   kár-a    = "Actúo poco"         (modifica verbo)
 **Con verbos evidenciales:**
 ```
 atísh  rík  as-i-wah       = "Fue demasiado grande [revelado]"
-ha   núr  káf  rík  as-a-e  = "La luz es suficientemente grande [veo]"
+ha   nūros  káf  rík  as-a-e  = "La luz es suficientemente grande [veo]"
 ```
 
 **Prefijo aumentativo su- vs. adverbio tís:**
@@ -1120,7 +1120,7 @@ Kalfírvach ya expresa modalidad epistémica mediante el sistema de evidenciales
 | **sháyat** | /'ʃa.jat/ | "quizás, tal vez" | Persa *shāyad* "quizás" + Sánscrito *śayyate* "yacer, permanecer incierto" → fusión. 2 lenguas. |
 
 ```
-sháyat  ha  núr  as-a    = "Quizás la luz es"  (incertidumbre, sin evidencial)
+sháyat  ha  nūros  as-a    = "Quizás la luz es"  (incertidumbre, sin evidencial)
 sháyat  ma  kár-u-kal    = "Quizás actuaré"    (incertidumbre + modo hipotético)
 ```
 
@@ -1144,10 +1144,10 @@ La incertidumbre recae sobre el contenido (`sháyat`), la certeza sobre el modo 
 | "va adentro" | antár gach-a | Locativo antes del SV |
 | "actúa rápidamente" | sárí-ka kár-a | Adj + -ka antes del verbo |
 | "es muy grande" | tís rík as-a | Grado antes del adj |
-| "es demasiado oscuro" | atísh sál as-a | Grado antes del adj |
+| "es demasiado oscuro" | atísh khap as-a | Grado antes del adj |
 | "tengo suficiente poder" | ma-te káf shaktí as-a | Grado antes del nombre |
-| "quizás la luz es" | sháyat ha núr as-a | Modal al inicio |
-| "habló oscuramente [veo]" | sál-ka vach-i-e | Modo antes del verbo |
+| "quizás la luz es" | sháyat ha nūros as-a | Modal al inicio |
+| "habló oscuramente [veo]" | khap-ka vach-i-e | Modo antes del verbo |
 
 ### 3.11 Existencia ("hay", "existe")
 
@@ -1165,29 +1165,29 @@ El elemento cuya existencia se afirma es el **sujeto sintáctico** de la cópula
 
 **Con nombre indefinido (más común — equivalente a "hay un/una"):**
 ```
-é   núr  as-a        = "Hay una luz" / "Una luz existe"
-é   sham  as-i       = "Hubo una sombra"
+é   nūros  as-a        = "Hay una luz" / "Una luz existe"
+é   zal  as-i       = "Hubo una sombra"
 én  shaktí  as-a     = "Hay unos poderes"
 ```
 
 **Con nombre escueto (sin artículo — existencia genérica):**
 ```
-núr  as-a            = "Hay luz" / "Existe luz"
-sham  as-i           = "Hubo sombra"
+nūros  as-a            = "Hay luz" / "Existe luz"
+zal  as-i           = "Hubo sombra"
 shánt  as-u          = "Habrá paz"
 ```
 
 **Con nombre definido (existencia específica — "lo conocido existe"):**
 ```
-ha  núr  as-a        = "La luz existe" / "Está la luz"
-ha  sham  as-i-wah   = "La sombra existió [revelado]"
+ha  nūros  as-a        = "La luz existe" / "Está la luz"
+ha  zal  as-i-wah   = "La sombra existió [revelado]"
 ```
 
 **En negación (no existencia):**
 ```
-é   núr  na-as-a     = "No hay una luz"
-núr  na-as-a         = "No hay luz" / "La luz no existe"
-ha  núr  na-as-a-e   = "La luz no existe [veo]"
+é   nūros  na-as-a     = "No hay una luz"
+nūros  na-as-a         = "No hay luz" / "La luz no existe"
+ha  nūros  na-as-a-e   = "La luz no existe [veo]"
 ```
 
 #### 3.11.2 Existencia locativa ("en X hay Y")
@@ -1198,7 +1198,7 @@ Cuando se especifica una **ubicación**, el locativo en **-na** precede al SN:
 
 ```
 díwa-na  é   súrua  as-a      = "En el cielo hay un sol"
-ghasák-na  núr  na-as-a       = "En la oscuridad no hay luz"
+ghasák-na  nūros  na-as-a       = "En la oscuridad no hay luz"
 ha  thel-na  shánt  as-a      = "En la voluntad hay paz"
 ```
 
@@ -1223,9 +1223,9 @@ La diferencia entre `as` existencial y `as` predicativo está en la **presencia 
 
 | Construcción | Estructura | Ejemplo | Significado |
 |-------------|-----------|---------|-------------|
-| Existencial | `<SN> as-a` | `núr as-a` | "hay luz" (la luz existe) |
-| Predicativa | `<SN> <pred> as-a` | `núr sál as-a` | "la luz es oscura" (cualidad) |
-| Posesiva (§3.9.2) | `<SN-te> <SN> as-a` | `ma-te núr as-a` | "tengo luz" (posesión) |
+| Existencial | `<SN> as-a` | `nūros as-a` | "hay luz" (la luz existe) |
+| Predicativa | `<SN> <pred> as-a` | `nūros khap as-a` | "la luz es oscura" (cualidad) |
+| Posesiva (§3.9.2) | `<SN-te> <SN> as-a` | `ma-te nūros as-a` | "tengo luz" (posesión) |
 
 - **Existencial** → la cópula es todo el predicado: "X es" = "X existe/hay X"
 - **Predicativa** → la cópula conecta al sujeto con un atributo: "X es Y"
@@ -1236,37 +1236,37 @@ La diferencia entre `as` existencial y `as` predicativo está en la **presencia 
 - Si hay un adjetivo, un nombre predicativo, o un adverbio de modo que modifica a `as`, es **predicativo**.
 
 ```
-é   núr  as-a                 = EXISTENCIAL: "Hay una luz"
-é   núr  rík  as-a            = PREDICATIVO: "Una luz es grande"
-é   núr  shánt-ka  as-a       = PREDICATIVO: "Una luz es calmadamente" (modo)
+é   nūros  as-a                 = EXISTENCIAL: "Hay una luz"
+é   nūros  rík  as-a            = PREDICATIVO: "Una luz es grande"
+é   nūros  shánt-ka  as-a       = PREDICATIVO: "Una luz es calmadamente" (modo)
 ```
 
 **Con evidenciales (la partícula no cambia la lectura):**
 ```
-núr  as-a-e                   = EXISTENCIAL: "Hay luz [veo]"
-núr  rík  as-a-e              = PREDICATIVO: "La luz es grande [veo]"
+nūros  as-a-e                   = EXISTENCIAL: "Hay luz [veo]"
+nūros  rík  as-a-e              = PREDICATIVO: "La luz es grande [veo]"
 ```
 
 #### 3.11.4 Existencia en tiempo pasado y futuro
 
 ```
 díwa-na  é   súrua  as-i      = "En el cielo había/hubo un sol"
-núr  as-u                     = "Habrá luz" (existencia futura)
-é   rík  sham  as-i-wah      = "Hubo una gran sombra [revelado]"
+nūros  as-u                     = "Habrá luz" (existencia futura)
+é   rík  zal  as-i-wah      = "Hubo una gran sombra [revelado]"
 ```
 
 **Memoria ritual — existencial con -djet (permanencia):**
 ```
 ha  thel  as-a-djet          = "La voluntad existe en permanencia estática"
-ha  núr  neh-as-a            = "La luz existe en el ciclo eterno" (con temporalidad mágica neh-)
+ha  nūros  neh-as-a            = "La luz existe en el ciclo eterno" (con temporalidad mágica neh-)
 ```
 
 #### 3.11.5 Pregunta existencial
 
 **Sí/no:**
 ```
-núr  as-a  ka?              = "¿Hay luz?"
-é   rík  sham  as-i  ka?    = "¿Hubo una gran sombra?"
+nūros  as-a  ka?              = "¿Hay luz?"
+é   rík  zal  as-i  ka?    = "¿Hubo una gran sombra?"
 díwa-na  é   súrua  as-a  ka?  = "¿Hay un sol en el cielo?"
 ```
 
@@ -1285,7 +1285,7 @@ as-tá  = "existencia, el estado de ser, la cualidad de existir"
 ```
 
 ```
-ha  as-tá-na  mu   núr  as-a
+ha  as-tá-na  mu   nūros  as-a
 DEF existencia-LOC todo luz  ser-PRES
 "En la existencia, todo es luz"
 
@@ -1303,12 +1303,12 @@ as-tá  na-as-a  kwa-na?      = "La existencia no está ¿dónde?" = "La existen
 
 | Qué querés decir | Cómo se dice | Patrón |
 |-----------------|-------------|--------|
-| "hay luz" | núr as-a | SN + as |
-| "hay una luz" | é núr as-a | Indef + SN + as |
-| "había una sombra" | é sham as-i | Indef + SN + as pasado |
-| "no hay luz" | núr na-as-a | SN + neg-as |
+| "hay luz" | nūros as-a | SN + as |
+| "hay una luz" | é nūros as-a | Indef + SN + as |
+| "había una sombra" | é zal as-i | Indef + SN + as pasado |
+| "no hay luz" | nūros na-as-a | SN + neg-as |
 | "en el cielo hay un sol" | díwa-na é súrua as-a | Loc + Indef + SN + as |
-| "¿hay luz?" | núr as-a ka? | SN + as + interr |
+| "¿hay luz?" | nūros as-a ka? | SN + as + interr |
 | "el sol existe [veo]" | ha súrua as-a-e | Def + SN + as-evid |
 | "la existencia" | as-tá | as + -ta (abstracto) |
 
@@ -1381,7 +1381,7 @@ ta  ich-a  ka?  = "¿Querés?"
 ta  na-ich-a ka? = "¿No querés?"
 ```
 
-**Atestiguado en el corpus** (cuento y gramática): ya aparece en `ma núr kár-an ich-a` (§3.3.4, "quiero hacer luz") y en `ta ich-a ekami` (cuento, "quiero uno").
+**Atestiguado en el corpus** (cuento y gramática): ya aparece en `ma nūros kár-an ich-a` (§3.3.4, "quiero hacer luz") y en `ta ich-a ekami` (cuento, "quiero uno").
 
 ---
 
@@ -1506,7 +1506,7 @@ Para acciones que involucran un cambio de sujeto, un control compartido, o una e
 
 ```
 ma  dún-a   ti   ma  gach-u      = "puedo (que vaya)" = "puedo ir"
-ma  dhar-a  ti   núr  as-a       = "debo (que la luz sea)" = "la luz debe ser"
+ma  dhar-a  ti   nūros  as-a       = "debo (que la luz sea)" = "la luz debe ser"
 ma  ich-a   ti   ta  vach-a      = "quiero (que vos hables)" = "quiero que hables"
 ```
 
@@ -1674,9 +1674,9 @@ La **modalidad epistémica** ("probablemente", "debe ser que...") NO usa las ra�
 - **Evidencial revelado `-wah`** para "es necesariamente el caso [revelado]"
 
 ```
-sháyat  ha  núr  as-a       = "Quizás la luz es"
-ha  núr  as-a-anu            = "La luz debe ser [inferido de los signos]"
-ha  núr  as-a-wah-al         = "La luz es necesariamente [revelado con certeza]"
+sháyat  ha  nūros  as-a       = "Quizás la luz es"
+ha  nūros  as-a-anu            = "La luz debe ser [inferido de los signos]"
+ha  nūros  as-a-wah-al         = "La luz es necesariamente [revelado con certeza]"
 ```
 
 **No se usan los modales `ich-`/`dún-`/`dhar-` con sentido epistémico.** Esto es una decisión de diseño: las raíces modales son exclusivamente **deóntico-dinámicas** (sobre el agente), no **epistémicas** (sobre el conocimiento). Esto evita la ambigüedad del español "debe ser" (deóntico vs. epistémico) y del inglés "must" (ambos sentidos).
@@ -2299,9 +2299,9 @@ oy-gáy-ya-i       "se cantó (en general, en alguna parte)"
 **Ejemplo contrastivo:**
 
 ```
-sham kár-a         "La sombra hace" (activa, agente = la sombra)
-sham kár-ya-a      "La sombra es hecha / Se hace la sombra" (pasiva genérica)
-oy-sham kár-ya-a   "Uno hace la sombra / Se hace sombra (en general)" (impersonal enfática)
+zal kár-a         "La sombra hace" (activa, agente = la sombra)
+zal kár-ya-a      "La sombra es hecha / Se hace la sombra" (pasiva genérica)
+oy-zal kár-ya-a   "Uno hace la sombra / Se hace sombra (en general)" (impersonal enfática)
 ```
 
 #### 3.15.5 Contraste pasiva / media / activa
@@ -2348,7 +2348,7 @@ Los marcadores de pasiva, impersonalidad, citativo y causalidad pueden **combina
 **Ejemplo construido de máxima complejidad diatética:**
 
 ```
-kát  oy-dha-mán-ya-a  sham-te  pra
+kát  oy-dha-mán-ya-a  zal-te  pra
 CIT  IMPF-CAUS-pensar-PAS-PRES sombra-DAT  AGT
 "Se dice que se hace pensar (en general) a causa de la sombra"
 ```
@@ -2628,8 +2628,8 @@ Los verbos de movimiento admiten los marcadores aspectuales y modales del §3.3:
 **Combinación con citativo y tópico:**
 
 ```
-kát   gach-a   sham-muk     = "se dice que va hacia la sombra" (citativo + path)
-gach-a   ho,   sham   kár-a  = "va, [y] la sombra actúa" (cláusula topicalizada)
+kát   gach-a   zal-muk     = "se dice que va hacia la sombra" (citativo + path)
+gach-a   ho,   zal   kár-a  = "va, [y] la sombra actúa" (cláusula topicalizada)
 ```
 
 #### 3.16.11 BNF y resumen
@@ -2709,9 +2709,9 @@ El **discurso directo** reproduce las palabras del hablante original de forma li
 
 | Construcción | Significado |
 |--------------|-------------|
-| `ma vach-a: "núr as-a-e"` | "Yo digo: 'la luz es [lo veo]'" |
+| `ma vach-a: "nūros as-a-e"` | "Yo digo: 'la luz es [lo veo]'" |
 | `sa vach-i: "ma gach-a"` | "Él dijo: 'yo voy'" |
-| `áh vach-i: "sham kár-a-nu-nand"` | "Ella dijo: 'las sombras actúan con alegría'" |
+| `áh vach-i: "zal kár-a-nu-nand"` | "Ella dijo: 'las sombras actúan con alegría'" |
 
 **Características:**
 - La cláusula literal mantiene los **deícticos del hablante original** (1sg → 1sg, "aquí" → "aquí", "ahora" → "ahora")
@@ -2732,9 +2732,9 @@ El **discurso indirecto declarativo** reporta el contenido proposicional del hab
 
 | Construcción | Significado |
 |--------------|-------------|
-| `ma vach-a ti núr as-a` | "Yo digo que la luz es" |
+| `ma vach-a ti nūros as-a` | "Yo digo que la luz es" |
 | `sa vach-i ti sa gach-i` | "Él dijo que él fue" |
-| `áh vach-i ti sham kár-a-nu` | "Ella dijo que las sombras actúan" |
+| `áh vach-i ti zal kár-a-nu` | "Ella dijo que las sombras actúan" |
 
 **Diferencias con el discurso directo:**
 - Los **deícticos se ajustan** al contexto del hablante original (1sg → 3sg, "aquí" → "allá")
@@ -2789,7 +2789,7 @@ Esto evita proliferar raíces y mantiene la economía del sistema.
 El **complementizador `ti`** ("que") introduce la cláusula reportada. Ya documentado en §4.4.3 (cláusulas de complemento) y en §3.12 (modales con complemento `ti`):
 
 ```
-núr  as-a   ti   sham kár-a
+nūros  as-a   ti   zal kár-a
 luz  es-PRES QUE  sombra hace-PRES
 "La luz es, que la sombra actúa" (interpretado: "que la luz es, y la sombra actúa")
 ```
@@ -2800,9 +2800,9 @@ luz  es-PRES QUE  sombra hace-PRES
 
 | Construcción | Significado |
 |--------------|-------------|
-| `vach-a ti kás núr as-u` | "Dice que la luz será" (interrogativo indirecto + futuro) |
+| `vach-a ti kás nūros as-u` | "Dice que la luz será" (interrogativo indirecto + futuro) |
 | `vach-a kát ti gach-a` | "Dice [se dice] que va" (citativo + indirecto) |
-| `vach-a ila ti sham kár-a` | "Dice sólo que la sombra hace" (foco restrictivo) |
+| `vach-a ila ti zal kár-a` | "Dice sólo que la sombra hace" (foco restrictivo) |
 
 **Sobre `kás`:** ya documentado en §4.4.5 como "para que" (propósito). En §3.17 se reusa como marcador de imperativo indirecto (subordinación imperativa) y como interrogativo indirecto (en combinación con pronombres interrogativos).
 
@@ -2987,12 +2987,12 @@ KFA no distingue morfológicamente entre imperativo y subjuntivo en la cláusula
 
 | Forma | KFA | Español |
 |-------|-----|---------|
-| Citativo genérico | `kát núr as-u` | "Se dice que la luz será" |
-| Citativo con verbo | `kát sham kár-a` | "Se dice que la sombra hace" |
-| Indirecto pleno | `áh vach-i ti núr as-u` | "Ella dijo que la luz será" |
-| Indirecto + citativo | `áh vach-i ti núr as-u kát` | "Ella dijo que la luz será, se dice" |
+| Citativo genérico | `kát nūros as-u` | "Se dice que la luz será" |
+| Citativo con verbo | `kát zal kár-a` | "Se dice que la sombra hace" |
+| Indirecto pleno | `áh vach-i ti nūros as-u` | "Ella dijo que la luz será" |
+| Indirecto + citativo | `áh vach-i ti nūros as-u kát` | "Ella dijo que la luz será, se dice" |
 
-**Relación con el sistema evidencial (§2.1):** `kát` funciona como un **evidencial reportativo** de fuente genérica. El sistema evidencial propiamente dicho (visual, inferido, revelado, neutro) se aplica a la **cláusula reportada**, no al verbo de reporte. Así, una cláusula como `áh vach-i ti núr as-a-e` significa "ella dijo que la luz ES [y lo vi]": el evidencial `-e` (visual) se aplica al contenido reportado, no al reporte mismo.
+**Relación con el sistema evidencial (§2.1):** `kát` funciona como un **evidencial reportativo** de fuente genérica. El sistema evidencial propiamente dicho (visual, inferido, revelado, neutro) se aplica a la **cláusula reportada**, no al verbo de reporte. Así, una cláusula como `áh vach-i ti nūros as-a-e` significa "ella dijo que la luz ES [y lo vi]": el evidencial `-e` (visual) se aplica al contenido reportado, no al reporte mismo.
 
 **Marcadores discursivos relacionados** (ver §5.5):
 - `kát` = citativo ("se dice que")
@@ -3719,7 +3719,7 @@ Kalfírvach usa **conjunciones coordinantes** y **subordinantes** para conectar 
 
 **Ejemplos:**
 ```
-sham kár-a  cha  núr as-a
+zal kár-a  cha  nūros as-a
 sombra hace y    luz  es
 "La sombra actúa y la luz es"
 
@@ -3727,7 +3727,7 @@ ta  as-i    va   ka  as-i?
 este fue  o   aquello fue
 "¿Fue esto o fue aquello?"
 
-núr as-a   tu   sham na-kár-a
+nūros as-a   tu   zal na-kár-a
 luz es     pero sombra no-hace
 "La luz es, pero la sombra no actúa"
 ```
@@ -3742,7 +3742,7 @@ luz es     pero sombra no-hace
 
 **Ejemplos:**
 ```
-yas  núr as-a,  sham kár-u
+yas  nūros as-a,  zal kár-u
 si   luz es     sombra hará
 "Si la luz es, la sombra actuará"
 
@@ -3754,7 +3754,7 @@ sa  kar-i        ti   ma  as-a
 suyo hacer-pasó  que  yo  veo
 "Él/ella dijo/hizo que yo sé"
 
-ma  as-a-anu     ti   sham kár-i
+ma  as-a-anu     ti   zal kár-i
 yo  soy-inferido que  sombra hizo
 "Infiero que la sombra actuó"
 ```
@@ -3769,19 +3769,19 @@ yo  soy-inferido que  sombra hizo
 | **hát** | /hat/ | "hasta que" (temporal final) | Árabe *ḥattā* "hasta" → hát; Griego *ἕως* (héōs) "hasta" → hát (fusión). 2 lenguas. |
 
 ```
-pári  núr as-i,  sham kár-i
+pári  nūros as-i,  zal kár-i
 antes luz fue   sombra actuó
 "Antes de que la luz fuera, la sombra actuó"
 
-mét  sham kár-i,  núr as-a
+mét  zal kár-i,  nūros as-a
 después sombra hizo   luz es
 "Después de que la sombra actuó, la luz es"
 
-tés  núr as-a,  sham kár-a
+tés  nūros as-a,  zal kár-a
 mientras luz es   sombra hace
 "Mientras la luz es, la sombra actúa"
 
-hát  núr as-u,  sham kár-u
+hát  nūros as-u,  zal kár-u
 hasta luz será  sombra hará
 "Hasta que la luz sea, la sombra actuará"
 ```
@@ -3800,7 +3800,7 @@ hasta luz será  sombra hará
 aunque yo soy-miedo  yo actúo
 "Aunque tengo miedo, actúo"
 
-sham kár-a,  tát  núr as-u
+zal kár-a,  tát  nūros as-u
 sombra hace  entonces luz será
 "La sombra actúa, por lo tanto la luz será"
 
@@ -3808,7 +3808,7 @@ ma  pra-kár-a   kás  tum  as-u-nam
 yo  PREP-hacer  para tú.CORT ser-FUT-reverencia
 "Me preparo para que tú seas [con respeto]"
 
-wá   núr as-a,   sham na-kár-a
+wá   nūros as-a,   zal na-kár-a
 en cambio luz es   sombra no-hace
 "La luz es, en cambio la sombra no actúa"
 ```
@@ -3856,7 +3856,7 @@ Se usa **ti** (Sánscrito *iti* + Griego *ὅτι* hóti, 2 lenguas) como **comp
 ```
 
 ```
-ma  yan-a-e       ti   sham kár-a
+ma  yan-a-e       ti   zal kár-a
 yo  saber-PRES-VIS QUE  sombra hacer-PRES
 "Yo sé [veo] que la sombra actúa"
 ```
@@ -3864,7 +3864,7 @@ yo  saber-PRES-VIS QUE  sombra hacer-PRES
 **Como sujeto** (la subordinada es el sujeto de la cópula):
 
 ```
-ti   sham kár-a,   as-a-evidente
+ti   zal kár-a,   as-a-evidente
 QUE  sombra hace   es-PRES-EVID:visual
 "Que la sombra actúe es evidente"
 ```
@@ -3895,7 +3895,7 @@ El causativo se forma con el prefijo **dha-** /dʱa/ (Griego *θε-* en τίθη
 **Ejemplos:**
 
 ```
-sham    núr-te    dha-kár-a
+zal    nūros-te    dha-kár-a
 sombra  luz-DAT   CAUS-hacer-PRES
 "La sombra hace que la luz actúe"
 
@@ -3903,7 +3903,7 @@ ma  sa-te   dha-pát-i-e
 yo  él-DAT  CAUS-caer-PAS-VIS
 "Hice que él cayera [veo]"
 
-áz-ta    dha-gnóth-u   ti   núr as-a-ék
+áz-ta    dha-gnóth-u   ti   nūros as-a-ék
 HIER-ABS CAUS-saber-FUT QUE  luz es-éxtasis
 "El iniciado enseñará [hará saber] que la luz es en éxtasis"
 ```
@@ -3917,7 +3917,7 @@ HIER-ABS CAUS-saber-FUT QUE  luz es-éxtasis
 **yas** + presente + presente:
 
 ```
-yas  núr as-a,   sham kár-a
+yas  nūros as-a,   zal kár-a
 si   luz es      sombra hace
 "Si la luz es, la sombra actúa" (relación causal constante)
 ```
@@ -3937,7 +3937,7 @@ si   yo  poder    yo  hacer-FUT-HIP
 **yas** + pasado + modo **-kal** (hipotético):
 
 ```
-yas  sham as-i-kal,   núr na-as-u
+yas  zal as-i-kal,   nūros na-as-u
 si   sombra fue-HIP    luz  no-será
 "Si la sombra hubiera sido, la luz no sería"
 ```
@@ -3951,7 +3951,7 @@ ma  pra-kár-a     kás  tum  as-u-nam
 yo  PREP-hacer    para tú.CORT ser-FUT-reverencia
 "Me preparo para que tú seas [con respeto]"
 
-sa  kár-a     kás  núr as-kal
+sa  kár-a     kás  nūros as-kal
 él  hace     para que luz sea-HIP
 "Él actúa para que la luz sea (potencialmente)"
 ```
@@ -3959,7 +3959,7 @@ sa  kár-a     kás  núr as-kal
 También se usa **muk** (directivo) + nombre abstracto como forma corta:
 
 ```
-ma  kár-a    núr  ops-te  muk
+ma  kár-a    nūros  ops-te  muk
 yo  hacer    luz  visión-DAT para
 "Actúo para la visión de luz" (lit. "actúo hacia la luz para visión")
 ```
@@ -3973,7 +3973,7 @@ Múltiples cláusulas se encadenan con conjunciones coordinantes o subordinantes
 ```
 
 ```
-núr as-a,   cha   sham kár-a,   tát  ma  ops-a-e
+nūros as-a,   cha   zal kár-a,   tát  ma  ops-a-e
 luz es      y     sombra hace   entonces yo  ver-PRES-VIS
 "La luz es, y la sombra actúa, por lo tanto yo veo"
 
@@ -4006,7 +4006,7 @@ ent HIER  CULM-hacer-FUT-éxtasis-PERF
 Kalfírvach marca el **tópico** de la oración con la partícula **ho** (/ho/) colocada tras el elemento topicalizado:
 
 ```
-thel ho,  sham  kár-a-e
+thel ho,  zal  kár-a-e
 voluntad TOP  sombra hacer-PRES-visual
 "En cuanto a la voluntad, la sombra actúa [veo]"
 ```
@@ -4018,7 +4018,7 @@ voluntad TOP  sombra hacer-PRES-visual
 Las preguntas sí/no se forman con la partícula **ka** (/ka/) al final de la oración, reemplazando al evidencial:
 
 ```
-sham  kár-a  ka?
+zal  kár-a  ka?
 sombra hacer-PRES INTERR
 "¿La sombra actúa?"
 ```
@@ -4026,7 +4026,7 @@ sombra hacer-PRES INTERR
 Las preguntas de contenido usan los interrogativos (§3.8) en posición normal:
 
 ```
-kwa  sham  kár-a-e?
+kwa  zal  kár-a-e?
 quién sombra hacer-PRES-visual
 "¿Quién [veo que] actúa la sombra?"
 ```
@@ -4077,10 +4077,10 @@ El sistema imperativo KFA se estratifica en **cinco niveles de fuerza ilocutiva*
 | **hál** | "¡he aquí! / ¡mira!" (exclamación) | Árabe *hā* "he aquí" + Griego *ἰδού* (idoú) "he aquí" → hál |
 
 ```
-sham ét   kár-a   = "Precisamente la sombra actúa"
-núr máh as-a     = "En verdad la luz es"
+zal ét   kár-a   = "Precisamente la sombra actúa"
+nūros máh as-a     = "En verdad la luz es"
 ma  lám kár-u    = "De ningún modo actuaré"
-hál!  núr as-a!  = "¡He aquí la luz es!"
+hál!  nūros as-a!  = "¡He aquí la luz es!"
 ```
 
 #### 5.4.1 Foco contrastivo: partícula `tu`
@@ -4118,7 +4118,7 @@ kwa-na ila na-vach-a    = "Nadie salvo [X] no habla" (uso complejo: ila introduc
 `ila` puede combinarse con indefinidos negativos (`kwa-na`, `kím-na`) para introducir la excepción:
 
 ```
-kím-na ila núr as-a     = "No hay nada excepto luz" = "Sólo hay luz"
+kím-na ila nūros as-a     = "No hay nada excepto luz" = "Sólo hay luz"
 ```
 
 #### 5.4.3 Foco existencial: partícula `duk`
@@ -4126,7 +4126,7 @@ kím-na ila núr as-a     = "No hay nada excepto luz" = "Sólo hay luz"
 Marca afirmación enfática de existencia o presencia; traduce "ciertamente, de hecho, en efecto". Refuerza la predicación existencial de la cópula `as` o de los verbos de presencia.
 
 ```
-núr  duk  as-a        = "Ciertamente la luz es"
+nūros  duk  as-a        = "Ciertamente la luz es"
 ma   duk  ich-a       = "De hecho yo quiero"
 sa   duk  kár-a       = "Él, en efecto, actúa"
 ```
@@ -4138,7 +4138,7 @@ sa   duk  kár-a       = "Él, en efecto, actúa"
 **Distinción con `máh`:** `máh` (§5.4) marca énfasis en el SN ("en verdad X"); `duk` marca énfasis en la existencia/acción del verbo ("ciertamente [sucede]"). En la práctica pueden co-ocurrir:
 
 ```
-núr  máh  duk  as-a   = "Ciertamente, en verdad, la luz es" (énfasis máximo, registro oracular)
+nūros  máh  duk  as-a   = "Ciertamente, en verdad, la luz es" (énfasis máximo, registro oracular)
 ```
 
 #### 5.4.4 Tópico fuerte: partícula `amma`
@@ -4169,7 +4169,7 @@ ratna   amma,  tá     as-a       = "En cuanto al tesoro, ese es" (tópico + dem
 
 ```
 ma    amma,   ta  tu  na-ich-a   = "En cuanto a mí, tú en cambio no quieres" (contraste doble)
-thel  amma,   núr  tu  as-a      = "En cuanto a la voluntad, la luz en cambio es" (contraste X vs Y)
+thel  amma,   nūros  tu  as-a      = "En cuanto a la voluntad, la luz en cambio es" (contraste X vs Y)
 ```
 
 ### 5.5 Marcadores discursivos
@@ -4185,7 +4185,7 @@ thel  amma,   núr  tu  as-a      = "En cuanto a la voluntad, la luz en cambio e
 hán,  ma  vach-u      = "Pues bien, hablaré"
 wáy,  tum  na-ich-a   = "Por otra parte, tú no quieres"
 súm,  ma  kár-a-kás-soph = "En resumen, actúo para la sabiduría"
-kát,  núr  as-u       = "Se dice que la luz será"
+kát,  nūros  as-u       = "Se dice que la luz será"
 
 ### 5.6 Foco por posición preverbal
 
@@ -4211,7 +4211,7 @@ kár-a              = "Actúa"                    (verbo sin foco, alcance sobre
 **Combinación con partículas de foco:** la partícula de foco (§5.4) refuerza el foco ya dado por la posición:
 
 ```
-núr  ét  kár-a      = "La luz PRECISAMENTE actúa"   (foco posicional + partícula)
+nūros  ét  kár-a      = "La luz PRECISAMENTE actúa"   (foco posicional + partícula)
 ```
 
 Cuando hay conflicto entre foco posicional y foco partícula, gana la **partícula** (es la marca más fuerte). El foco posicional es la opción por defecto.
@@ -4231,7 +4231,7 @@ ma-te    ich-a,  as-a  ti  sa  thel
 a-mí-DAT querer-PRES ser-PRES COMP él voluntad
 "Lo que quiero es: que él quiera" (cleft con subordinada)
 
-núr      as-a,  sa-te  pra-yu-a
+nūros      as-a,  sa-te  pra-yu-a
 luz ser-PRES él-DAT preparar-FUT-PRES
 "Es la luz, lo que para él prepara" (cleft presentativa)
 ```
@@ -4604,7 +4604,7 @@ A diferencia del griego clásico que usaba un sistema tonal (musical), Kalfírva
 | théle | **θέλε** |
 | shákti | **ϻάκτι** |
 | ríga | **ρίγα** |
-| núr | **νύρ** |
+| nūros | **νύρ** |
 | shám | **ϻάμ** |
 | fír | **φίρ** |
 | vísha | **ϐίϻα** (o **ϝίϻα** dependiendo del fonema) |
@@ -4628,7 +4628,7 @@ A diferencia del griego clásico que usaba un sistema tonal (musical), Kalfírva
    - **Τα κίμ φίρ-σϳα κάρ-αν ιχ-α;**
 
 2. La luz es oscura pero el muro es grande.
-   - *Ha núr sál as-a tu ha mur rík as-a.*
+   - *Ha nūros khap as-a tu ha mur rík as-a.*
    - **῾α νύρ σάλ ασ-α τυ ῾α μυρ ρίκ ασ-α.**
 
 3. No veo la ilusión porque la verdad está aquí.
@@ -4636,7 +4636,7 @@ A diferencia del griego clásico que usaba un sistema tonal (musical), Kalfírva
    - **Μα ῾α μάϳα μα-διριϻ-α καρ ῾α σατϳα ιδα ασ-α.**
 
 4. ¡Ven, portador de luz!
-   - *Aya-ro, núr-bhrat!*
+   - *Aya-ro, nūros-bhrat!*
    - **Αϳα-ρο, νύρ-βρατ!**
 
 5. Si hablas la palabra, la magia sucede.
