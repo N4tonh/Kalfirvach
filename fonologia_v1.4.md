@@ -1,12 +1,12 @@
 ---
-title: "Kalfírvach v1.3 — Fonología"
-version: v1.3
+title: "Kalfírvach v1.4 — Fonología"
+version: v1.4
 date: 2026-06-06
 lang: es
 status: stable
 ---
 
-# KALFÍRVACH v1.3 — Fonología
+# KALFÍRVACH v1.4 — Fonología
 
 ## 1. Metodología de construcción
 
@@ -599,7 +599,7 @@ La entonación KFA es **declarativa por defecto**: la cláusula desciende gradua
 | Imperativa | mid-high sostenido (sin caída final) | mantenido en alto hasta ejecución |
 | Vocativa | rise-fall en el nombre invocado | caída ceremonial al final |
 
-> **v1.3 cross-ref:** el morfema que dispara la curva vocativa es la partícula `o` (gramática §1.7, lexicón `conjunciones_y_particulas`). Sin `o`, ningún sintagma nominal puede recibir la curva rise-fall characteristic del vocativo.
+> **v1.4 cross-ref:** el morfema que dispara la curva vocativa es la partícula `o` (gramática §1.7, lexicón `conjunciones_y_particulas`). Sin `o`, ningún sintagma nominal puede recibir la curva rise-fall characteristic del vocativo.
 
 **Curva declarativa (visualización):**
 
@@ -1031,7 +1031,7 @@ El silabificador KFA aplica las siguientes reglas en orden:
 
 ---
 
-## 11. Fonosemántica generativa (v1.3)
+## 11. Fonosemántica generativa (v1.4)
 
 Esta sección introduce el **sistema fonosemántico generativo** de Kalfírvach: una matriz que asigna a cada fonema del inventario núcleo una **carga elemental o planetaria**, y un algoritmo composicional que permite derivar **bījas nativos** a partir de un propósito ritual declarado. Los bījas derivados de este sistema **sustituyen** los bījas tradicionales importados (`óm-húm-trám`, etc.); los tradicionales pueden documentarse en lexicón como **registro arqueológico** (ver §11.4 nota final), pero el sistema v1.3 se basta a sí mismo.
 
@@ -1280,7 +1280,7 @@ función generar_bīja(propósito) -> string:
 
 **Output lengths típicos:** CVCV (4 fonemas) para 70% de bījas, CVCVCV (6 fonemas) para 20%, CV (2 fonemas) para 10% (mono-bīja elemental, ver Ejemplos C, D).
 
-**Apócope y bījas:** la regla §3.5.5 (apócope derivativa de `-e` ante C) **habilita** bījas derivados de raíces con `-e` final (no es el caso de los 6 worked examples de §11.2 — todos derivan de raíces consonánticas puras). Si en el futuro se introducen raíces como `bīje` o `thele` como generadores de bījas, la apócope se activará automáticamente (`*bīj-tár`, `*thel-rak`). La regla queda **preparada para v1.3+**, no ejercida masivamente en v1.3.
+**Apócope y bījas:** la regla §3.5.5 (apócope derivativa de `-e` ante C) **habilita** bījas derivados de raíces con `-e` final (no es el caso de los 6 worked examples de §11.2 — todos derivan de raíces consonánticas puras). Si en el futuro se introducen raíces como `bīje` o `thele` como generadores de bījas, la apócope se activará automáticamente (`*bīj-tár`, `*thel-rak`). La regla queda **preparada para v1.4+**, no ejercida masivamente en v1.3.
 
 **Cross-ref fonología:** §3 (fonotáctica general), §3.5.5 (apócope derivativa prerrequisito), §3.18.7 (invocación ritual integrada), §3.18.2.a (composición algorítmica en gramática).
 

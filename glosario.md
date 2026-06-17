@@ -1,1361 +1,1372 @@
-# Glosario Kalfírvach v1.3
+# Glosario Kalfirvach - v1.4
 
-**Total de entradas: 1280**
-**Última actualización: 2026-06-16**
+Total de entradas: 1297
 
----
+## Pronombres Y Deicticos
 
-## Actitudinales
+**anya** - otro (PRONOUN) [Sánscrito Védico / Persa Avéstico / Griego Koiné]
+**asa** - aquel (PRONOUN) [Sánscrito Védico / Persa Avéstico / Árabe esotérico]
+**bahu** - mucho (PRONOUN) [Sánscrito Védico / Persa Avéstico / Griego Koiné]
+**eta** - ese (PRONOUN) [Sánscrito Védico / Persa Avéstico / Árabe esotérico]
+**ida** - aquí (PRONOUN) [Sánscrito Védico / Persa Avéstico / Griego Koiné]
+**ima** - este (PRONOUN) [Sánscrito Védico / Persa Avéstico / Griego Koiné]
+**kachi** - alguno (PRONOUN) [Sánscrito Védico / Persa Avéstico / Griego Koiné]
+**kada** - cuándo (PRONOUN) [Sánscrito Védico / Griego Koiné / Tibetano Clásico]
+**kanam** - poco (PRONOUN) [Sánscrito Védico / Persa Avéstico / Griego Koiné]
+**katha** - cómo (PRONOUN) [Sánscrito Védico / Griego Koiné / Tibetano Clásico]
+**kesh** - alguien (PRONOUN) [Sánscrito Védico / Persa Avéstico / Griego Koiné]
+**kima** - qué/cuál (PRONOUN) [Sánscrito Védico / Griego Koiné / Árabe esotérico]
+**kuda** - dónde (PRONOUN) [Sánscrito Védico / Griego Koiné / Tibetano Clásico]
+**kuta** - por qué (PRONOUN) [Sánscrito Védico / Griego Koiné / Tibetano Clásico]
+**naka** - nadie (PRONOUN) [Sánscrito Védico / Persa Avéstico / Árabe esotérico]
+**sarwa** - todo (PRONOUN) [Sánscrito Védico / Persa Avéstico / Griego Koiné / Persa Avéstico]
+**tara** - alli/ahi (PRONOUN) [Sánscrito Védico / Persa Avéstico / Griego Koiné]
 
-- **-ajap** /-ˈa.jap/ *(affix)* — actitudinal: asombro (maravilla)
-- **-aman** /-ˈa.man/ *(affix)* — actitudinal: confianza
-- **-anu** /ˈa.nu/ *(affix)* — actitudinal: inferido (evidencial inferencial)
-- **-ast** /ˈast/ *(affix)* — actitudinal: astral
-- **-basham** /-ˈba.ʃam/ *(affix)* — actitudinal: vergüenza
-- **-bay** /ˈ-baj/ *(affix)* — actitudinal: miedo
-- **-e** /ˈe/ *(affix)* — actitudinal: visual (testigo visual)
-- **-elpis** /-ˈel.pis/ *(affix)* — actitudinal: esperanza
-- **-ghiras** /-ˈɣi.ras/ *(affix)* — actitudinal: envidia
-- **-hék** /-ˈhek/ *(affix)* — actitudinal: autoridad hierática (sello ritual)
-- **-kal** /ˈkal/ *(affix)* — actitudinal: hipotetico
-- **-khamar** /-ˈxa.mar/ *(affix)* — actitudinal: melancolía
-- **-krot** /ˈ-krot/ *(affix)* — actitudinal: ira
-- **-nam** /ˈnam/ *(affix)* — actitudinal: reverencia (venerativo)
-- **-nant** /ˈ-nant/ *(affix)* — actitudinal: alegría
-- **-nos** /ˈ-nos/ *(affix)* — actitudinal: nostalgia
-- **-on** /ˈon/ *(affix)* — actitudinal: onirico
-- **-poi** /ˈpoi/ *(affix)* — actitudinal: performativo
-- **-prem** /ˈ-prem/ *(affix)* — actitudinal: amor
-- **-rak** /ˈ-rak/ *(affix)* — actitudinal: destierro, abjuración (coercitivo-abjurativo)
-- **-rakh** /ˈ-rax/ *(affix)* — actitudinal: deseo
-- **-rakham** /-ˈra.xam/ *(affix)* — actitudinal: compasión
-- **-ran** /ˈ-ran/ *(affix)* — actitudinal: ruego, invocación respetuosa (precativo)
-- **-rap** /ˈ-rap/ *(affix)* — actitudinal: atadura, ligadura ritual (coercitivo-vinculante)
-- **-ras** /ˈras/ *(affix)* — actitudinal: pasion, entusiasmo
-- **-sakan** /-ˈsa.kan/ *(affix)* — actitudinal: serenidad
-- **-salam** /-ˈsa.lam/ *(affix)* — actitudinal: paz
-- **-shant** /ˈ-ʃant/ *(affix)* — actitudinal: calma
-- **-shaukh** /-ˈʃa.ux/ *(affix)* — actitudinal: anhelo
-- **-shok** /ˈ-ʃok/ *(affix)* — actitudinal: tristeza
-- **-shukur** /-ˈʃu.kur/ *(affix)* — actitudinal: gratitud
-- **-sik** /ˈ-sik/ *(affix)* — actitudinal: silencio gnostico
-- **-som** /ˈsom/ *(affix)* — actitudinal: fisico (cuerpo)
-- **-sop** /ˈ-sop/ *(affix)* — actitudinal: sabiduria profunda (gnosis)
-- **-takh** /ˈ-tax/ *(affix)* — actitudinal: sorpresa
-- **-tax** /ˈtax/ *(affix)* — actitudinal: intensidad (enfatico)
-- **-tup** /ˈ-tup/ *(affix)* — actitudinal: desafio (coercitivo-desafiante)
-- **-viras** /-ˈwi.ras/ *(affix)* — actitudinal: disgusto
-- **-vismay** /-ˈwis.maj/ *(affix)* — actitudinal: asombro
-- **-wah** /ˈwah/ *(affix)* — actitudinal: revelado (revelacion)
-- **-wajat** /-ˈwa.dʒat/ *(affix)* — actitudinal: éxtasis
-- **-wil** /ˈwil/ *(affix)* — actitudinal: voluntad, determinacion
-- **-zal** /ˈ-zal/ *(affix)* — actitudinal: coraje
-- **-zir** /ˈzir/ *(affix)* — actitudinal: flujo (fluidez, continuidad)
+## Onomastica
 
-## Anatomía y Cuerpo
+**bīj** - semilla, nombre esencial (PARTICLE) [Sánscrito Védico / Tibetano Clásico]
+**bījbāb** - semilla, nombre esencial (PARTICLE) [Sánscrito Védico / Árabe esotérico / Tibetano Clásico]
+**gup** - oculto, criptónimo, nombre cifrado (PARTICLE) [Sánscrito Védico / Árabe esotérico]
+**gupēš** - oculto, criptónimo, nombre cifrado (PARTICLE) [Sánscrito Védico / Copto Sahídico / Árabe esotérico]
+**nūm** - forma del nombre, nombre personal (PARTICLE) [Persa Avéstico / Egipcio Demótico]
+**samanfīš** - función, oficio mágico, título (PARTICLE) [Sánscrito Védico / Árabe esotérico / Persa]
+**samanta** - función, oficio mágico, título (PARTICLE) [Sánscrito Védico / Persa Avéstico]
 
-- **akip** /ˈa.kip/ *(noun)* — talón
-- **akshi** /ˈak.ʃi/ *(noun)* — ojo
-- **anda** /ˈan.da/ *(noun)* — huevo
-- **angsht** /ˈaŋ.ʃt/ *(noun)* — dedo
-- **antara** /ˈan.ta.ra/ *(noun)* — entranas/tripas
-- **apru** /ˈap.ru/ *(noun)* — ceja
-- **aqip** /ˈa.kip/ *(noun)* — tobillo
-- **aran** /ˈa.ran/ *(noun)* — codo
-- **arter** /ˈar.ter/ *(noun)* — arteria
-- **asthi** /ˈas.θi/ *(noun)* — hueso
-- **bashlam** /ˈbaʃ.lam/ *(noun)* — párpado
-- **blefar** /ˈble.far/ *(noun)* — pestaña
-- **dakru** /ˈda.kru/ *(noun)* — lágrima
-- **danta** /ˈdan.ta/ *(noun)* — diente
-- **flep** /ˈflep/ *(noun)* — vena
-- **glout** /ˈglo.ut/ *(noun)* — nalga
-- **gonos** /ˈgo.nos/ *(noun)* — semen
-- **gurzam** /ˈɡur.zam/ *(noun)* — garganta
-- **hasta** /ˈhas.ta/ *(noun)* — mano
-- **hidros** /ˈhi.dros/ *(noun)* — sudor
-- **kalya** /ˈka.lja/ *(noun)* — riñón
-- **kamar** /ˈka.mar/ *(noun)* — cintura
-- **kanta** /ˈkan.ta/ *(noun)* — cuello/pescuezo
-- **karna** /ˈkar.na/ *(noun)* — oreja/oido
-- **katamen** /ˈka.ta.men/ *(noun)* — menstruación
-- **kesha** /ˈke.ʃa/ *(noun)* — pelo/cabello
-- **khas** /ˈxas/ *(noun)* — cadera
-- **kholos** /ˈxo.los/ *(noun)* — bilis/hiel
-- **lap** /ˈlap/ *(noun)* — labio
-- **makhzir** /ˈmax.zir/ *(noun)* — cerebro
-- **mamsa** /ˈmam.sa/ *(noun)* — carne
-- **marmar** /ˈmar.mar/ *(noun)* — pupila
-- **maskhal** /ˈmas.xal/ *(noun)* — axila
-- **maza** /ˈma.za/ *(noun)* — pezón
-- **meda** /ˈme.da/ *(noun)* — grasa/manteca
-- **mekh** /ˈmex/ *(noun)* — estómago
-- **mestra** /ˈmes.tra/ *(noun)* — matriz/útero
-- **moch** /ˈmotʃ/ *(noun)* — muñeca
-- **mukha** /ˈmu.xa/ *(noun)* — boca
-- **mustak** /ˈmus.tak/ *(noun)* — bigote
-- **nakha** /ˈna.xa/ *(noun)* — una
-- **nar** /ˈnar/ *(noun)* — nervio
-- **nasa** /ˈna.sa/ *(noun)* — nariz
-- **om** /ˈom/ *(noun)* — hombro
-- **omfal** /ˈom.fal/ *(noun)* — ombligo
-- **ouron** /ˈo.u.ron/ *(noun)* — orina
-- **pada** /ˈpa.da/ *(noun)* — pie
-- **paksha** /ˈpak.ʃa/ *(noun)* — ala
-- **panka** /ˈpan.ka/ *(noun)* — pluma
-- **pirishtha** /ˈpi.riʃ.θa/ *(noun)* — espalda
-- **pogon** /ˈpo.gon/ *(noun)* — barba
-- **prosop** /ˈpro.sop/ *(noun)* — cara/rostro
-- **pucha** /ˈpu.tʃa/ *(noun)* — cola (de animal)
-- **rakhtar** /ˈrax.tar/ *(noun)* — muslo
-- **rakta** /ˈrak.ta/ *(noun)* — sangre
-- **rar** /ˈrar/ *(noun)* — intestino
-- **ridaya** /ˈri.da.ja/ *(noun)* — corazon
-- **rukhsar** /ˈrux.sar/ *(noun)* — mejilla
-- **sakh** /ˈsax/ *(noun)* — pantorrilla
-- **satra** /ˈsa.tra/ *(noun)* — pecho (tórax)
-- **seh** /ˈseh/ *(noun)* — frente
-- **shash** /ˈʃaʃ/ *(noun)* — pulmón
-- **shin** /ˈʃin/ *(noun)* — diente muela
-- **shira** /ˈʃi.ra/ *(noun)* — cabeza
-- **shiringa** /ˈʃi.ri.ŋa/ *(noun)* — cuerno
-- **siyal** /ˈsi.jal/ *(noun)* — saliva
-- **tarsar** /ˈtar.sar/ *(noun)* — músculo
-- **tenon** /ˈte.non/ *(noun)* — tendón
-- **thrix** /ˈθrix/ *(noun)* — vello corporal
-- **twacha** /ˈtwa.tʃa/ *(noun)* — piel/cuero
-- **udara** /ˈu.da.ra/ *(noun)* — vientre/barriga
-- **uras** /ˈu.ras/ *(noun)* — pecho/seno
-- **yakira** /ˈja.ki.ra/ *(noun)* — higado
-- **yanga** /ˈja.ŋa/ *(noun)* — pierna
-- **yanu** /ˈja.nu/ *(noun)* — rodilla
-- **yihwa** /ˈjih.wa/ *(noun)* — lengua (organo)
-- **zanakh** /ˈza.nax/ *(noun)* — mentón/barbilla
+## Numeros
+
+**ashōk** - ocho (NUMERAL) [Sánscrito Védico / Griego Koiné / Persa]
+**chatur** - cuatro (NUMERAL) [Sánscrito Védico / Persa Avéstico / Griego Koiné]
+**dashak** - diez (NUMERAL) [Sánscrito Védico / Persa Avéstico / Griego Koiné]
+**dvi** - dos (NUMERAL) [Sánscrito Védico / Persa Avéstico / Griego Koiné]
+**ekami** - uno (NUMERAL) [Sánscrito Védico / Persa Avéstico / Griego Koiné]
+**hasarak** - mil (NUMERAL) [Sánscrito Védico / Persa Avéstico / Griego Koiné]
+**navan** - nueve (NUMERAL) [Sánscrito Védico / Persa Avéstico / Griego Koiné]
+**páncha** - cinco (NUMERAL) [Sánscrito Védico / Persa Avéstico / Griego Koiné]
+**sapta** - siete (NUMERAL) [Sánscrito Védico / Persa Avéstico / Griego Koiné]
+**shashak** - seis (NUMERAL) [Sánscrito Védico / Persa Avéstico / Griego Koiné]
+**shatak** - cien (NUMERAL) [Sánscrito Védico / Persa Avéstico / Griego Koiné]
+**tiri** - tres (NUMERAL) [Sánscrito Védico / Persa Avéstico / Griego Koiné]
+
+## Dimensiones Y Adjetivos
+
+**amik** - profundo (ADJECTIVE) [Árabe esotérico / Persa Avéstico]
+**bati** - lento (ADJECTIVE) [Árabe esotérico / Egipcio Demótico]
+**dirmās** - largo (ADJECTIVE) [Sánscrito Védico / Griego Koiné / Persa]
+**fash** - tibio (ADJECTIVE) [Egipcio Demótico / Árabe esotérico]
+**forfir** - púrpura, violeta, magenta (ADJECTIVE) [Griego Koiné / Árabe esotérico]
+**garūk** - pesado (ADJECTIVE) [Sánscrito Védico / Griego Koiné / Árabe esotérico]
+**hérpras** - verde, vegetal, viridiano (ADJECTIVE) [Sánscrito Védico / Griego Koiné / Persa]
+**jadit** - nuevo (ADJECTIVE) [Árabe esotérico / Persa Avéstico]
+**khal** - vacío (ADJECTIVE) [Árabe esotérico / Persa Avéstico]
+**khap** - oscuro (ADJECTIVE) [Árabe esotérico / Egipcio Demótico]
+**khar** - caliente (ADJECTIVE) [Egipcio Demótico / Griego Koiné]
+**khushk** - seco (ADJECTIVE) [Persa Avéstico / Árabe esotérico]
+**krismat** - negro, oscuro, tenebroso (ADJECTIVE) [Sánscrito Védico / Griego Koiné / Árabe esotérico]
+**mal** - lleno (ADJECTIVE) [Árabe esotérico / Persa Avéstico]
+**nakhzir** - brillante (ADJECTIVE) [Persa Avéstico / Árabe esotérico]
+**narin** - naranja, anaranjado, azafranado (ADJECTIVE) [Persa Avéstico / Sánscrito Védico / Árabe esotérico]
+**narm** - suave (ADJECTIVE) [Persa Avéstico / Árabe esotérico]
+**nil** - azul, añil, índigo (ADJECTIVE) [Sánscrito Védico / Persa Avéstico / Árabe esotérico]
+**palimāt** - gris, ceniciento, plomizo (ADJECTIVE) [Sánscrito Védico / Griego Koiné / Árabe esotérico]
+**pashxār** - último/final (ADJECTIVE) [Sánscrito Védico / Griego Koiné / Persa]
+**prathi** - ancho (ADJECTIVE) [Sánscrito Védico / Persa Avéstico / Griego Koiné]
+**purwa** - primero/primordial (ADJECTIVE) [Sánscrito Védico / Persa Avéstico / Griego Koiné]
+**qadim** - viejo (ADJECTIVE) [Árabe esotérico / Persa Avéstico]
+**rasak** - corto (ADJECTIVE) [Sánscrito Védico / Persa Avéstico / Griego Koiné]
+**rik** - grande (ADJECTIVE) [Sánscrito Védico / Griego Koiné]
+**rohik** - rojo, escarlata, bermellón (ADJECTIVE) [Sánscrito Védico / Persa Avéstico / Griego Koiné]
+**sakhat** - duro (ADJECTIVE) [Persa Avéstico / Árabe esotérico]
+**sanhusk** - estrecho (ADJECTIVE) [Sánscrito Védico / Griego Koiné / Árabe esotérico]
+**sari** - rápido (ADJECTIVE) [Árabe esotérico / Persa Avéstico]
+**sarnas** - dorado, áureo, reluciente como el oro (ADJECTIVE) [Sánscrito Védico / Persa Avéstico / Griego Koiné]
+**sart** - frío (ADJECTIVE) [Persa Avéstico / Árabe esotérico]
+**sas** - superficial (ADJECTIVE) [Árabe esotérico / Egipcio Demótico]
+**sat** - recto (ADJECTIVE) [Egipcio Demótico / Árabe esotérico]
+**shap** - joven (ADJECTIVE) [Árabe esotérico / Persa Avéstico]
+**shirin** - dulce (ADJECTIVE) [Persa Avéstico / Árabe esotérico]
+**shwet** - blanco, claro, puro (ADJECTIVE) [Sánscrito Védico / Persa Avéstico / Griego Koiné]
+**sofar** - amarillo, dorado, áureo (ADJECTIVE) [Árabe esotérico / Griego Koiné]
+**takh** - mojado (ADJECTIVE) [Persa Avéstico / Árabe esotérico]
+**talakh** - amargo (ADJECTIVE) [Árabe esotérico / Persa Avéstico]
+**tamkas** - marrón, pardo, castaño (ADJECTIVE) [Sánscrito Védico / Árabe esotérico / Griego Koiné]
+**tanuf** - delgado/flaco (ADJECTIVE) [Sánscrito Védico / Griego Koiné / Árabe esotérico]
+**thul** - gordo/grueso (ADJECTIVE) [Sánscrito Védico / Griego Koiné / Árabe esotérico]
+**wart** - rosa, rosado, rosáceo (ADJECTIVE) [Árabe esotérico / Persa Avéstico]
+**zat** - curvo/torcido (ADJECTIVE) [Persa Avéstico / Árabe esotérico]
+**álpamīk** - pequeno (ADJECTIVE) [Sánscrito Védico / Griego Koiné / Árabe esotérico]
+
+## Personas Y Parentesco
+
+**adar** - cuñado (NOUN) [Persa Avéstico / Egipcio Demótico]
+**adarī** - cuñada (NOUN) [Persa Avéstico / Egipcio Demótico]
+**adelp** - hermana (NOUN) [Griego Koiné / Persa Avéstico]
+**adelpmas** - hermana mayor (NOUN) [Griego Koiné / Persa Avéstico]
+**adelpnap** - hermana menor (NOUN) [Griego Koiné / Persa Avéstico]
+**afrat** - hermano (NOUN) [Persa Avéstico / Griego Koiné]
+**afratmas** - hermano mayor (NOUN) [Persa Avéstico / Griego Koiné]
+**afratnap** - hermano menor (NOUN) [Persa Avéstico / Griego Koiné]
+**anepas** - primo (NOUN) [Griego Koiné / Egipcio Demótico]
+**archit** - ancestro (NOUN) [Griego Koiné / Egipcio Demótico]
+**bafilp** - nino/criatura (NOUN) [Sánscrito Védico / Árabe esotérico / Griego Koiné]
+**banas** - nieto (NOUN) [Persa Avéstico / Sánscrito Védico / Griego Koiné]
+**brafmil** - portador, cargador, sustentador (NOUN) [Sánscrito Védico / Griego Koiné / Árabe esotérico]
+**dara** - esposa (NOUN) [Sánscrito Védico / Persa Avéstico / Griego Koiné]
+**didum** - gemelos (NOUN) [Griego Koiné / Egipcio Demótico]
+**gamar** - yerno (NOUN) [Griego Koiné / Persa Avéstico]
+**ghenos** - linaje/estirpe (NOUN) [Griego Koiné / Persa Avéstico]
+**huya** - hijo (NOUN) [Griego Koiné / Egipcio Demótico]
+**khara** - viuda (NOUN) [Griego Koiné / Persa Avéstico]
+**kheros** - viudo (NOUN) [Griego Koiné / Persa Avéstico]
+**mama** - abuela (NOUN) [Griego Koiné / Egipcio Demótico]
+**manush** - persona/ser humano (NOUN) [Sánscrito Védico / Persa Avéstico / Griego Koiné]
+**matum** - madre (NOUN) [Sánscrito Védico / Griego Koiné / Árabe esotérico]
+**namas** - nombre (NOUN) [Sánscrito Védico / Griego Koiné / Árabe esotérico]
+**napbut** - benjamín (NOUN) [Persa Avéstico / Griego Koiné]
+**nara** - hombre adulto (NOUN) [Sánscrito Védico / Persa Avéstico / Griego Koiné]
+**nari** - mujer (NOUN) [Sánscrito Védico / Persa Avéstico / Griego Koiné]
+**nimfa** - nuera (NOUN) [Griego Koiné / Egipcio Demótico]
+**oikos** - clan/familia (NOUN) [Griego Koiné / Egipcio Demótico]
+**orfan** - huérfano (NOUN) [Griego Koiné / Persa Avéstico]
+**papu** - abuelo (NOUN) [Griego Koiné / Persa Avéstico]
+**pentir** - suegro (NOUN) [Griego Koiné / Egipcio Demótico]
+**pentira** - suegra (NOUN) [Griego Koiné / Egipcio Demótico]
+**pitar** - padre (NOUN) [Sánscrito Védico / Griego Koiné / Árabe esotérico]
+**prathum** - primogénito (NOUN) [Griego Koiné / Egipcio Demótico]
+**pátis** - esposo (NOUN) [Sánscrito Védico / Griego Koiné / Árabe esotérico]
+**theia** - tía (NOUN) [Griego Koiné / Egipcio Demótico]
+**theios** - tío (NOUN) [Griego Koiné / Egipcio Demótico]
+**thuktar** - hija (NOUN) [Griego Koiné / Persa Avéstico]
+**vitmatar** - madrastra (NOUN) [Griego Koiné / Persa Avéstico]
+**vitpitar** - padrastro (NOUN) [Griego Koiné / Persa Avéstico]
 
 ## Animales
 
-- **akrap** /ˈa.krap/ *(noun)* — escorpión, alacrán
-- **ashp** /ˈaʃp/ *(noun)* — caballo
-- **bek** /ˈbek/ *(noun)* — rana, sapo, anfibio
-- **bram** /ˈbram/ *(noun)* — abeja
-- **bum** /ˈbum/ *(noun)* — búho, lechuza, ave nocturna
-- **buza** /ˈbu.za/ *(noun)* — cabra
-- **byabstak** /bja.ˈstak/ *(noun)* — tigre
-- **delp** /ˈdelp/ *(noun)* — delfín, cetáceo, mamífero marino
-- **dik** /ˈdik/ *(noun)* — gallo, gallina, ave de corral
-- **gap** /ˈgap/ *(noun)* — vaca, toro, res, ganado vacuno
-- **ghanam** /ˈɣa.nam/ *(noun)* — oveja, carnero, rebaño ovino
-- **hast** /ˈhast/ *(noun)* — elefante
-- **jamal** /ˈja.mal/ *(noun)* — camello
-- **kapi** /ˈka.pi/ *(noun)* — mono, simio, primate
-- **khayta** /ˈxaj.ta/ *(noun)* — pájaro, ave
-- **khinas** /ˈxi.nas/ *(noun)* — cerdo, puerco, jabalí
-- **kirimi** /ˈki.ri.mi/ *(noun)* — gusano
-- **korak** /ˈko.rak/ *(noun)* — cuervo, córvido
-- **kurma** /ˈkur.ma/ *(noun)* — tortuga, galápago
-- **matsi** /ˈmat.si/ *(noun)* — pez/pescado
-- **mau** /ˈma.u/ *(noun)* — gato
-- **mush** /ˈmuʃ/ *(noun)* — rata, ratón, roedor
-- **nisar** /ˈni.sar/ *(noun)* — águila, ave rapaz mayor
-- **pashwan** /ˈpaʃ.wan/ *(noun)* — animal, ser animado, criatura
-- **sapan** /ˈsa.pan/ *(noun)* — perro, can
-- **sarpa** /ˈsar.pa/ *(noun)* — serpiente
-- **shir** /ˈʃir/ *(noun)* — león, fiera, depredador mayor
-- **shwan** /ˈʃwan/ *(noun)* — perro
-- **timas** /ˈti.mas/ *(noun)* — cocodrilo, lagarto acuático mayor
-- **waya** /ˈwa.ja/ *(noun)* — pajaro/ave
-- **yuka** /ˈju.ka/ *(noun)* — piojo
+**akrap** - escorpión, alacrán (NOUN) [Árabe esotérico / Persa Avéstico]
+**ashp** - caballo (NOUN) [Sánscrito Védico / Persa Avéstico / Griego Koiné]
+**bekbak** - rana, sapo, anfibio (NOUN) [Sánscrito Védico / Griego Koiné / Persa]
+**brambūr** - abeja (NOUN) [Sánscrito Védico / Griego Koiné / Persa]
+**bum** - búho, lechuza, ave nocturna (NOUN) [Árabe esotérico / Persa Avéstico]
+**buza** - cabra (NOUN) [Persa Avéstico / Árabe esotérico]
+**byabstak** - tigre (NOUN) [Sánscrito Védico / Árabe esotérico / Tibetano Clásico / Griego Koiné]
+**delp** - delfín, cetáceo, mamífero marino (NOUN) [Griego Koiné / Árabe esotérico]
+**dik** - gallo, gallina, ave de corral (NOUN) [Árabe esotérico / Persa Avéstico]
+**gapak** - vaca, toro, res, ganado vacuno (NOUN) [Sánscrito Védico / Persa Avéstico / Griego Koiné]
+**ghanam** - oveja, carnero, rebaño ovino (NOUN) [Árabe esotérico / Persa Avéstico]
+**hastfil** - elefante (NOUN) [Sánscrito Védico / Griego Koiné / Persa]
+**jamal** - camello (NOUN) [Árabe esotérico / Persa Avéstico]
+**kapi** - mono, simio, primate (NOUN) [Sánscrito Védico / Egipcio Demótico / Griego Koiné]
+**khayta** - pájaro, ave (NOUN) [Sánscrito Védico / Árabe esotérico / Tibetano Clásico / Persa Avéstico]
+**khinas** - cerdo, puerco, jabalí (NOUN) [Árabe esotérico / Griego Koiné]
+**kirimi** - gusano (NOUN) [Sánscrito Védico / Persa Avéstico / Griego Koiné]
+**korak** - cuervo, córvido (NOUN) [Griego Koiné / Árabe esotérico]
+**kurmaf** - tortuga, galápago (NOUN) [Sánscrito Védico / Griego Koiné / Árabe esotérico]
+**matsi** - pez/pescado (NOUN) [Sánscrito Védico / Persa Avéstico / Griego Koiné]
+**mau** - gato (NOUN) [Egipcio Demótico / Persa Avéstico]
+**mush** - rata, ratón, roedor (NOUN) [Persa Avéstico / Griego Koiné]
+**nisar** - águila, ave rapaz mayor (NOUN) [Árabe esotérico / Persa Avéstico]
+**pashwan** - animal, ser animado, criatura (NOUN) [Sánscrito Védico / Árabe esotérico / Tibetano Clásico / Griego Koiné]
+**sapan** - perro, can (NOUN) [Sánscrito Védico / Árabe esotérico / Tibetano Clásico / Griego Koiné]
+**sarpa** - serpiente (NOUN) [Sánscrito Védico / Persa Avéstico / Griego Koiné]
+**shir** - león, fiera, depredador mayor (NOUN) [Persa Avéstico / Árabe esotérico]
+**shwan** - perro (NOUN) [Sánscrito Védico / Persa Avéstico / Griego Koiné]
+**timas** - cocodrilo, lagarto acuático mayor (NOUN) [Árabe esotérico / Copto]
+**waya** - pajaro/ave (NOUN) [Sánscrito Védico / Persa Avéstico / Griego Koiné]
+**yukas** - piojo (NOUN) [Sánscrito Védico / Árabe esotérico / Griego Koiné]
 
-## Biología y Micología
+## Seres Vivos Plantas
 
-- **ashka** /ˈaʃ.ka/ *(noun)* — asco, saco reproductivo de ascomicetos
-- **aspor** /ˈas.por/ *(noun)* — ascospora, espora producida en asco
-- **bari** /ˈba.ri/ *(noun)* — basidio, estructura reproductiva de basidiomicetos
-- **baspor** /ˈbas.por/ *(noun)* — basidiospora, espora producida en basidio
-- **dikha** /ˈdi.xa/ *(noun)* — mitocondria, powerhouse celular
-- **dimash** /ˈdi.maʃ/ *(noun)* — pared celular, estructura de soporte
-- **fula** /ˈfu.la/ *(noun)* — phylum, categoría taxonómica
-- **gama** /ˈga.ma/ *(noun)* — género, categoría taxonómica
-- **hiama** /ˈhi.a.ma/ *(noun)* — hifa, filamento micelial
-- **jahwah** /ˈjah.wah/ *(noun)* — evolución, transformación gradual
-- **janakh** /ˈja.nax/ *(noun)* — germinación, inicio del crecimiento
-- **kalama** /ˈka.la.ma/ *(noun)* — abrazadera (clamp), conexión entre hifas
-- **khani** /ˈxa.ni/ *(noun)* — familia, categoría taxonómica
-- **kharnu** /ˈxar.nu/ *(noun)* — núcleo celular, centro vital
-- **kithast** /ˈki.θast/ *(noun)* — insecto, artrópodo, bicho
-- **koni** /ˈko.ni/ *(noun)* — conidio, espora asexual externa
-- **lamannu** /ˈla.man.nu/ *(noun)* — láminas (gills), láminas bajo el sombrero
-- **mika** /ˈmi.ka/ *(noun)* — simbiosis, relación mutuamente beneficiosa
-- **mikash** /ˈmi.kaʃ/ *(noun)* — hongos, reino de organismos micorrízicos
-- **mikhel** /ˈmi.xel/ *(noun)* — micelio, red de hifas
-- **miukhel** /ˈmi.u.xel/ *(noun)* — micorriza, simbiosis hongo-raíz
-- **nargha** /ˈnar.ɣa/ *(noun)* — orgánulo, estructura celular funcional
-- **parash** /ˈpa.raʃ/ *(noun)* — parasitismo, relación parásito-hospedador
-- **pari** /ˈpa.ri/ *(noun)* — especie, categoría taxonómica
-- **parna** /ˈpar.na/ *(noun)* — proteína, macromolécula funcional
-- **parnash** /ˈpar.naʃ/ *(noun)* — respiración, intercambio gaseoso
-- **pikar** /ˈpi.kar/ *(noun)* — sombrero (pileus), cap del cuerpo fructífero
-- **pilakh** /ˈpi.lax/ *(noun)* — membrana celular, límite externo
-- **pimarkom** /pi.ˈmar.kom/ *(noun)* — hormiga
-- **rahna** /ˈrah.na/ *(noun)* — ARN, ácido ribonucleico
-- **rimash** /ˈri.maʃ/ *(noun)* — cromosoma, portador de información genética
-- **rishakh** /ˈri.ʃax/ *(noun)* — rizomorfo, cordón de hifas
-- **sankhash** /ˈsan.xaʃ/ *(noun)* — ecosistema, comunidad de organismos
-- **sanku** /ˈsan.ku/ *(noun)* — esporangio, estructura portadora de esporas
-- **sarakh** /ˈsa.rax/ *(noun)* — espora, unidad de dispersión fúngica
-- **seshu** /ˈse.ʃu/ *(noun)* — septo, tabique en hifas
-- **shanik** /ˈʃa.nik/ *(noun)* — ribosoma, fábrica de proteínas
-- **sharu** /ˈʃa.ru/ *(noun)* — esclerocio, estructura de resistencia
-- **shorfi** /ˈʃor.fi/ *(noun)* — esporóforo, tallo portador de esporas
-- **sokha** /ˈso.xa/ *(noun)* — fotosíntesis, conversión de luz en energía
-- **sukah** /ˈsu.kah/ *(noun)* — vacuolo, cavidad celular
-- **takha** /ˈta.xa/ *(noun)* — orden, categoría taxonómica
-- **thalur** /ˈθa.lur/ *(noun)* — célula, unidad básica de la vida
-- **tishta** /ˈtiʃ.ta/ *(noun)* — estípite, pie o tallo del cuerpo fructífero
-- **vankha** /ˈwan.xa/ *(noun)* — reino, categoría taxonómica máxima
-- **vargha** /ˈwar.ɣa/ *(noun)* — clase, categoría taxonómica
-- **wahna** /ˈwah.na/ *(noun)* — ADN, ácido desoxirribonucleico
-- **warakh** /ˈwa.rax/ *(noun)* — enzima, catalizador biológico
-- **wari** /ˈwa.ri/ *(noun)* — mutación, cambio genético
-- **wastu** /ˈwas.tu/ *(noun)* — citoplasma, sustancia interna de la célula
-- **wikhash** /ˈwi.xaʃ/ *(noun)* — descomposición, ruptura de materia orgánica
-- **yukar** /ˈju.kar/ *(noun)* — gen, unidad de herencia
+**akanta** - espina/aguijón (NOUN) [Griego Koiné / Egipcio Demótico]
+**aroma** - especia (NOUN) [Griego Koiné / Árabe esotérico]
+**biyātox** - semilla (NOUN) [Sánscrito Védico / Persa / Árabe esotérico]
+**doru** - madera/leño (NOUN) [Griego Koiné / Egipcio Demótico]
+**drumdroš** - arbol (NOUN) [Sánscrito Védico / Griego Koiné / Árabe esotérico]
+**elaia** - olivo/aceituna (NOUN) [Griego Koiné / Árabe esotérico]
+**falmīv** - fruta (NOUN) [Sánscrito Védico / Griego Koiné / Persa]
+**karpa** - vid/uva (NOUN) [Griego Koiné / Persa Avéstico]
+**kasthab** - palo/baston (NOUN) [Sánscrito Védico / Griego Koiné / Persa Avéstico]
+**kaula** - tallo (NOUN) [Griego Koiné / Árabe esotérico]
+**korma** - tronco (NOUN) [Griego Koiné / Egipcio Demótico]
+**kriti** - cebada (NOUN) [Griego Koiné / Egipcio Demótico]
+**liana** - enredadera/bejuco (NOUN) [Griego Koiné / Egipcio Demótico]
+**mula** - raiz (NOUN) [Sánscrito Védico / Persa Avéstico / Árabe esotérico]
+**mulandrasa** - raíz (NOUN) [Sánscrito Védico / Árabe esotérico / Persa Avéstico / Griego Koiné]
+**opara** - savia/resina (NOUN) [Griego Koiné / Egipcio Demótico]
+**oshnaba** - planta, vegetal, organismo vegetal (NOUN) [Sánscrito Védico / Árabe esotérico / Tibetano Clásico / Griego Koiné]
+**pala** - polen (NOUN) [Griego Koiné / Árabe esotérico]
+**pataraf** - hoja (NOUN) [Sánscrito Védico / Griego Koiné / Árabe esotérico]
+**petalak** - pétalo (NOUN) [Sánscrito Védico / Griego Koiné / Árabe esotérico]
+**pushpa** - flor (NOUN) [Sánscrito Védico / Persa Avéstico]
+**rayur** - cuerda (NOUN) [Sánscrito Védico / Tibetano Clásico / Árabe esotérico]
+**sfagna** - musgo (NOUN) [Griego Koiné / Persa Avéstico]
+**sitos** - trigo (NOUN) [Griego Koiné / Egipcio Demótico]
+**tarfas** - hongo/seta (NOUN) [Árabe esotérico / Persa Avéstico]
+**tirina** - hierba/pasto (NOUN) [Sánscrito Védico / Persa Avéstico / Griego Koiné]
+**twak** - corteza (NOUN) [Sánscrito Védico / Griego Koiné]
 
-## Comida y Cocina
+## Anatomia Y Cuerpo
 
-- **ashi** /ˈa.ʃi/ *(noun)* — cena (última comida del día)
-- **bayda** /ˈbaj.da/ *(noun)* — huevo (célula reproductiva de aves, alimento básico)
-- **bishar** /ˈbi.ʃar/ *(noun)* — carne, vianda, alimento cárnico
-- **bris** /ˈbris/ *(verb)* — freír, asar, cocinar en grasa o fuego directo
-- **chur** /ˈtʃur/ *(noun)* — cuchillo, hoja cortante, cuchilla
-- **dahul** /ˈda.hul/ *(verb)* — escaldar
-- **dal** /ˈdal/ *(noun)* — legumbre, lenteja, leguminosa
-- **digh** /ˈdix/ *(noun)* — olla, caldero, pote, marmita
-- **fatur** /ˈfa.tur/ *(noun)* — desayuno (primera comida del día)
-- **ghada** /ˈɣa.da/ *(noun)* — almuerzo (comida del mediodía)
-- **ghrisay** /ˈɣri.saj/ *(verb)* — glasear
-- **harip** /ˈha.rip/ *(noun)* — picante (sabor que irrita o quema la lengua)
-- **jos** /ˈjos/ *(noun)* — hambre, inanición, apetito intenso
-- **khalip** /ˈxa.lip/ *(noun)* — leche, lácteo, producto lácteo
-- **kharit** /ˈkʰa.rit/ *(verb)* — rallar
-- **khupsa** /ˈxup.sa/ *(noun)* — pan, alimento básico de trigo o cereal
-- **khā** /ˈxaː/ *(noun)* — comida, alimento, vianda, sustento
-- **kiras** /ˈki.ras/ *(verb)* — cortar
-- **kirfa** /ˈkir.fa/ *(noun)* — canela (especia aromática, corteza del cinamomo)
-- **kvathel** /ˈkva.tʰel/ *(verb)* — hervir
-- **lapan** /ˈla.pan/ *(noun)* — queso, producto lácteo fermentado sólido
-- **lunik** /ˈlu.nik/ *(verb)* — marinar
-- **madhur** /ˈma.ður/ *(noun)* — dulce (sabor del azúcar o de la miel)
-- **manday** /man.ˈdaj/ *(verb)* — pochar
-- **mardar** /ˈmar.dar/ *(verb)* — amasar
-- **maric** /ˈma.ric/ *(noun)* — pimienta (especia picante, grano del piper)
-- **mast** /ˈmast/ *(noun)* — yogur, leche fermentada, cuajada
-- **mathel** /ˈma.tʰel/ *(verb)* — batir
-- **mayan** /ˈma.jan/ *(noun)* — vino, bebida fermentada, licor
-- **milak** /ˈmi.lak/ *(noun)* — cuchara (utensilio cóncavo para líquidos)
-- **misal** /ˈmi.sal/ *(verb)* — mezclar
-- **murak** /ˈmu.rak/ *(noun)* — caldo, sopa, cocido, guiso líquido
-- **oris** /ˈo.ris/ *(noun)* — arroz, cereal, grano
-- **pakar** /ˈpa.kar/ *(verb)* — hornear
-- **pakh** /ˈpax/ *(verb)* — cocinar, preparar alimentos, guisar
-- **patar** /ˈpa.tar/ *(noun)* — plato, vasija, recipiente, cuenco
-- **plavas** /ˈpla.vas/ *(verb)* — saltear
-- **risk** /ˈrisk/ *(noun)* — sustento, provisión, alimento diario, pan de cada día
-- **sakar** /ˈsa.kar/ *(noun)* — azúcar (sacarosa, edulcorante cristalino)
-- **sapdar** /ˈsap.sa/ *(noun)* — verdura, vegetal, hortaliza, legumbre verde
-- **shahat** /ˈʃa.hat/ *(noun)* — miel, dulce natural, néctar
-- **shauka** /ˈʃa.u.ka/ *(noun)* — tenedor (utensilio con púas para comer sólidos)
-- **suray** /su.ˈraj/ *(verb)* — fermentar
-- **swat** /ˈswat/ *(noun)* — sabor, gusto, sabor agradable, condimento
-- **tamar** /ˈta.mar/ *(noun)* — dátil, fruta seca, fruto deshidratado
-- **tanur** /ˈta.nur/ *(noun)* — horno, fogón, lugar de cocción
-- **tesh** /ˈteʃ/ *(noun)* — sed
-- **tuvakar** /tu.ˈva.kar/ *(verb)* — pelar
-- **zarik** /ˈza.rik/ *(verb)* — gratinar
-- **zayat** /ˈza.jat/ *(noun)* — aceite, grasa vegetal, óleo
-- **zubda** /ˈzub.da/ *(noun)* — mantequilla (grasa láctea solidificada)
+**andōt** - huevo (NOUN) [Sánscrito Védico / Griego Koiné / Árabe esotérico]
+**angsht** - dedo (NOUN) [Persa Avéstico / Egipcio Demótico]
+**antram** - entranas/tripas (NOUN) [Sánscrito Védico / Griego Koiné / Árabe esotérico]
+**aprus** - ceja (NOUN) [Persa Avéstico / Sánscrito Védico / Griego Koiné]
+**aqip** - tobillo (NOUN) [Árabe esotérico / Egipcio Demótico]
+**arkolf** - codo (NOUN) [Griego Koiné / Copto Sahídico / Árabe esotérico]
+**arter** - arteria (NOUN) [Griego Koiné / Tibetano Clásico]
+**astakh** - hueso (NOUN) [Sánscrito Védico / Griego Koiné / Persa]
+**bashlam** - párpado (NOUN) [Egipcio Demótico / Griego Koiné]
+**blefar** - pestaña (NOUN) [Griego Koiné / Egipcio Demótico]
+**dakru** - lágrima (NOUN) [Griego Koiné / Persa Avéstico]
+**danta** - diente (NOUN) [Sánscrito Védico / Persa Avéstico / Griego Koiné]
+**flep** - vena (NOUN) [Griego Koiné / Persa Avéstico]
+**glout** - nalga (NOUN) [Griego Koiné / Egipcio Demótico]
+**gonos** - semen (NOUN) [Griego Koiné / Persa Avéstico]
+**gurzam** - garganta (NOUN) [Persa Avéstico / Árabe esotérico]
+**hasta** - mano (NOUN) [Sánscrito Védico / Persa Avéstico / Griego Koiné]
+**hidros** - sudor (NOUN) [Griego Koiné / Persa Avéstico]
+**kalklōs** - riñón (NOUN) [Árabe esotérico / Copto Sahídico / Griego Koiné]
+**kamar** - cintura (NOUN) [Persa Avéstico / Griego Koiné]
+**kanta** - cuello/pescuezo (NOUN) [Sánscrito Védico / Persa Avéstico / Griego Koiné]
+**karna** - oreja/oido (NOUN) [Sánscrito Védico / Persa Avéstico / Griego Koiné]
+**katamen** - menstruación (NOUN) [Griego Koiné / Egipcio Demótico]
+**kesha** - pelo/cabello (NOUN) [Sánscrito Védico / Persa Avéstico / Griego Koiné]
+**khas** - cadera (NOUN) [Egipcio Demótico / Árabe esotérico]
+**kholos** - bilis/hiel (NOUN) [Griego Koiné / Persa Avéstico]
+**kiptēr** - talón (NOUN) [Árabe esotérico / Griego Koiné]
+**lapšōš** - labio (NOUN) [Griego Koiné / Árabe esotérico / Sánscrito Védico]
+**makhzir** - cerebro (NOUN) [Persa Avéstico / Griego Koiné]
+**mamsa** - carne (NOUN) [Sánscrito Védico / Persa Avéstico / Griego Koiné]
+**marmar** - pupila (NOUN) [Griego Koiné / Árabe esotérico]
+**maskhal** - axila (NOUN) [Griego Koiné / Persa Avéstico]
+**maza** - pezón (NOUN) [Griego Koiné / Copto Demótico]
+**medun** - grasa/manteca (NOUN) [Sánscrito Védico / Griego Koiné / Árabe esotérico]
+**mekh** - estómago (NOUN) [Egipcio Demótico / Griego Koiné]
+**mestra** - matriz/útero (NOUN) [Griego Koiné / Egipcio Demótico]
+**mokram** - muñeca (NOUN) [Egipcio Demótico / Griego Koiné / Sánscrito Védico]
+**mukha** - boca (NOUN) [Sánscrito Védico / Persa Avéstico / Griego Koiné]
+**mustak** - bigote (NOUN) [Griego Koiné / Persa Avéstico]
+**nakhon** - una (NOUN) [Sánscrito Védico / Griego Koiné / Persa]
+**narmōs** - nervio (NOUN) [Griego Koiné / Copto Sahídico / Árabe esotérico]
+**nasa** - nariz (NOUN) [Sánscrito Védico / Persa Avéstico / Griego Koiné]
+**om** - hombro (NOUN) [Griego koiné]
+**omfal** - ombligo (NOUN) [Griego Koiné / Persa Avéstico]
+**omšōft** - hombro (NOUN) [Griego Koiné / Copto Sahídico / Árabe esotérico]
+**ouron** - orina (NOUN) [Griego Koiné / Persa Avéstico]
+**padam** - pie (NOUN) [Sánscrito Védico / Griego Koiné / Árabe esotérico]
+**paksha** - ala (NOUN) [Sánscrito Védico / Persa Avéstico / Griego Koiné]
+**panka** - pluma (NOUN) [Sánscrito Védico / Persa Avéstico / Griego Koiné]
+**pirishdar** - espalda (NOUN) [Sánscrito Védico / Griego Koiné / Árabe esotérico]
+**pogon** - barba (NOUN) [Griego Koiné / Egipcio Demótico]
+**prosōh** - cara/rostro (NOUN) [Griego Koiné / Copto Sahídico / Árabe esotérico]
+**pucha** - cola (NOUN) [Sánscrito Védico / Persa Avéstico / Griego Koiné]
+**rakhtar** - muslo (NOUN) [Persa Avéstico / Árabe esotérico]
+**rakta** - sangre (NOUN) [Sánscrito Védico / Persa Avéstico / Griego Koiné]
+**rar** - intestino (NOUN) [Egipcio Demótico / Griego Koiné]
+**ridayal** - corazon (NOUN) [Sánscrito Védico / Griego Koiné / Árabe esotérico]
+**rukhsal** - mejilla (NOUN) [Persa Avéstico / Sánscrito Védico / Griego Koiné]
+**sadros** - pecho (NOUN) [Árabe esotérico / Griego Koiné / Copto]
+**sakh** - pantorrilla (NOUN) [Persa Avéstico / Egipcio Demótico]
+**sehat** - frente (NOUN) [Egipcio Demótico / Sánscrito Védico / Griego Koiné]
+**shash** - pulmón (NOUN) [Egipcio Demótico / Griego Koiné]
+**shindat** - diente muela (NOUN) [Egipcio Demótico / Sánscrito Védico / Griego Koiné]
+**shiral** - cabeza (NOUN) [Sánscrito Védico / Griego Koiné / Árabe esotérico]
+**shirinkar** - cuerno (NOUN) [Sánscrito Védico / Griego Koiné / Árabe esotérico]
+**siyal** - saliva (NOUN) [Griego Koiné / Egipcio Demótico]
+**tarsar** - músculo (NOUN) [Griego Koiné / Persa Avéstico]
+**tenon** - tendón (NOUN) [Griego Koiné / Egipcio Demótico]
+**thrix** - vello corporal (NOUN) [Griego Koiné / Egipcio Demótico]
+**twacha** - piel/cuero (NOUN) [Sánscrito Védico / Persa Avéstico / Griego Koiné]
+**udara** - vientre/barriga (NOUN) [Sánscrito Védico / Persa Avéstico / Griego Koiné]
+**uras** - pecho/seno (NOUN) [Sánscrito Védico / Persa Avéstico / Griego Koiné]
+**yakirab** - higado (NOUN) [Sánscrito Védico / Griego Koiné / Árabe esotérico]
+**yangak** - pierna (NOUN) [Sánscrito Védico / Griego Koiné / Árabe esotérico]
+**yanub** - rodilla (NOUN) [Sánscrito Védico / Griego Koiné / Árabe esotérico]
+**yihwa** - lengua (NOUN) [Sánscrito Védico / Persa Avéstico / Griego Koiné]
+**zanakh** - mentón/barbilla (NOUN) [Egipcio Demótico / Sánscrito Védico / Árabe esotérico]
+**ákšibal** - ojo (NOUN) [Sánscrito Védico / Árabe esotérico / Copto Sahídico]
 
-## Conceptos Espaciales y Calidades
+## Verbos Basicos
 
-- **antar** /ˈan.tar/ *(noun)* — en/dentro de
-- **antár** /anˈtar/ *(adverb)* — dentro, adentro (locativo)
-- **atiksha** /ˈa.ti.kʃa/ *(noun)* — romo/embotado
-- **atísh** /ˈa.tiʃ/ *(adverb)* — demasiado, excesivamente (exceso)
-- **bahí** /baˈhi/ *(adverb)* — fuera, afuera (locativo)
-- **daimera** /dajˈme.ra/ *(noun)* — dia
-- **dakshina** /ˈdak.ʃi.na/ *(noun)* — derecha
-- **dura** /ˈdu.ra/ *(noun)* — lejos
-- **giri** /ˈgi.ri/ *(noun)* — montana
-- **harita** /ˈha.ri.ta/ *(noun)* — verde
-- **kala** /ˈka.la/ *(noun)* — negro
-- **kuna** /ˈku.na/ *(noun)* — podrido
-- **káp** /ˈkap/ *(adverb)* — bastante, suficiente (suficiencia)
-- **lav** /ˈlaw/ *(adverb)* — poco, apenas (atenuador)
-- **mala** /ˈma.la/ *(noun)* — sucio
-- **manas** /ˈma.nas/ *(noun)* — mente, psique, facultad mental
-- **nawa** /ˈna.wa/ *(noun)* — nuevo
-- **nukh** /ˈnux/ *(noun)* — sabiduría, conocimiento esotérico
-- **pantha** /ˈpan.θa/ *(noun)* — camino/via
-- **papa** /ˈpa.pa/ *(noun)* — malo
-- **pita** /ˈpi.ta/ *(noun)* — amarillo
-- **puran** /ˈpu.ran/ *(noun)* — viejo
-- **purna** /ˈpur.na/ *(noun)* — lleno
-- **rakta** /ˈrak.ta/ *(noun)* — rojo
-- **ratiri** /ˈra.ti.ri/ *(noun)* — noche
-- **rit** /ˈrit/ *(noun)* — orden cósmico, ciclo, rita
-- **riyu** /ˈri.ju/ *(noun)* — recto/derecho
-- **sadu** /ˈsa.du/ *(noun)* — bueno
-- **sah** /ˈsah/ *(noun)* — con
-- **saha** /ˈsa.ha/ *(noun)* — en/a/junto a
-- **sami** /ˈsa.mi/ *(noun)* — cerca
-- **samwa** /ˈsa.mwa/ *(noun)* — anho
-- **satya** /ˈsa.tja/ *(noun)* — correcto/verdadero
-- **shilak** /ˈʃi.lak/ *(noun)* — liso/suave
-- **shita** /ˈʃi.ta/ *(noun)* — frío, invierno
-- **shushka** /ˈʃuʃ.ka/ *(noun)* — seco
-- **shweta** /ˈʃwe.ta/ *(noun)* — blanco
-- **sháyat** /ˈʃa.jat/ *(adverb)* — quizas, tal vez (dubitativo)
-- **thel** /ˈθel/ *(noun)* — voluntad, intención consciente
-- **thes** /ˈθes/ *(noun)* — acto de voluntad, acción volitiva
-- **tiksha** /ˈtik.ʃa/ *(noun)* — afilado/agudo
-- **tina** /ˈti.na/ *(noun)* — humedo/mojado
-- **tís** /ˈtis/ *(adverb)* — muy (intensificador positivo)
-- **ushna** /ˈuʃ.na/ *(noun)* — caliente/calido
-- **wama** /ˈwa.ma/ *(noun)* — izquierda
-- **wirita** /ˈwi.ri.ta/ *(noun)* — redondo
+**adwōm** - comer (VERB) [Sánscrito Védico / Copto Sahídico / Árabe esotérico]
+**ajula** - apresurarse (VERB) [Sánscrito Védico / Persa Avéstico / Griego Koiné]
+**akarsha** - tirar/jalar (VERB) [Sánscrito Védico / Persa Avéstico / Griego Koiné]
+**ananka** - necesitar/tener que (VERB) [Griego Koiné / Persa Avéstico]
+**aya** - venir (VERB) [Sanscrito/Griego]
+**ayāmej** - venir (VERB) [Sánscrito Védico / Persa / Copto Sahídico]
+**baga** - rajar/dividir (VERB) [Sánscrito Védico / Persa Avéstico / Griego Koiné]
+**baklē** - advertir (VERB) [Griego Koiné / Egipcio Demótico / Persa Avéstico]
+**banda** - atar/amarrar (VERB) [Sánscrito Védico / Persa Avéstico / Griego Koiné]
+**barza** - cruzar (VERB) [Persa Avéstico / Árabe esotérico]
+**bas** - parar (VERB) [Tibetano Clásico / Árabe esotérico / Egipcio Demótico]
+**baya** - temer/tener miedo (VERB) [Sánscrito Védico / Persa Avéstico / Griego Koiné]
+**bechke** - visualizar (VERB) [Sánscrito Védico / Árabe esotérico / Griego Koiné]
+**bepēp** - pulir (VERB) [Griego Koiné / Egipcio Demótico / Persa Avéstico]
+**biūl** - crecer (VERB) [Egipcio Demótico / Árabe esotérico / Persa Avéstico]
+**byal** - decidir (VERB) [Persa Avéstico / Árabe esotérico / Griego Koiné]
+**byokh** - sonreír (VERB) [Sánscrito Védico / Griego Koiné / Egipcio Demótico]
+**bēch** - fermentar (VERB) [Sánscrito Védico / Griego Koiné / Egipcio Demótico]
+**bīchūp** - cosechar (VERB) [Sánscrito Védico / Árabe esotérico / Griego Koiné]
+**bīk** - tallar (VERB) [Tibetano Clásico / Árabe esotérico / Egipcio Demótico]
+**būkhō** - hornear (VERB) [Egipcio Demótico / Árabe esotérico / Persa Avéstico]
+**chal** - moverse, desplazarse, andar (VERB) [Sánscrito Védico / Persa Avéstico / Griego Koiné]
+**chida** - cortar (VERB) [Sánscrito Védico / Persa Avéstico / Griego Koiné]
+**chikhū** - prometer (VERB) [Egipcio Demótico / Árabe esotérico / Persa Avéstico]
+**chinta** - pensar (VERB) [Sánscrito Védico / Persa Avéstico / Griego Koiné]
+**chuwa** - chupar (VERB) [Sánscrito Védico / Persa Avéstico / Griego Koiné]
+**dakhal** - entrar (VERB) [Árabe esotérico / Persa Avéstico]
+**dankād** - morder (VERB) [Sánscrito Védico / Griego Koiné / Árabe esotérico]
+**dapzaī** - permitir (VERB) [Tibetano Clásico / Griego Koiné / Persa Avéstico]
+**dara** - sostener/tener (VERB) [Sánscrito Védico / Persa Avéstico / Griego Koiné]
+**datō** - dar (VERB) [Sánscrito Védico / Copto Sahídico / Griego Koiné]
+**dech** - planificar (VERB) [Sánscrito Védico / Griego Koiné / Egipcio Demótico]
+**delwus** - impedir (VERB) [Sánscrito Védico / Griego Koiné / Egipcio Demótico]
+**deya** - deber/tener obligación (VERB) [Griego Koiné / Egipcio Demótico]
+**dhawtar** - correr (VERB) [Sánscrito Védico / Griego Koiné / Árabe esotérico]
+**dirid** - ver (VERB) [Sánscrito Védico / Griego Koiné / Persa]
+**duhna** - comenzar (VERB) [Griego Koiné / Egipcio Demótico / Persa Avéstico]
+**dun** - dar, ofrecer, entregar (VERB) [Sánscrito Védico / Egipcio Demótico / Griego Koiné]
+**duna** - poder/tener capacidad (VERB) [Griego Koiné / Persa Avéstico]
+**dzehmi** - encoger (VERB) [Persa Avéstico / Árabe esotérico / Griego Koiné]
+**dziywū** - agradecer (VERB) [Sánscrito Védico / Griego Koiné / Egipcio Demótico]
+**dzun** - forjar (VERB) [Sánscrito Védico / Griego Koiné / Egipcio Demótico]
+**dzutāp** - tratar (VERB) [Tibetano Clásico / Griego Koiné / Sánscrito Védico]
+**dzyūnā** - contraer (VERB) [Egipcio Demótico / Árabe esotérico / Persa Avéstico]
+**dzālo** - sincronizar (VERB) [Sánscrito Védico / Árabe esotérico / Griego Koiné]
+**dzēzēp** - rasgar (VERB) [Griego Koiné / Egipcio Demótico / Persa Avéstico]
+**dārchē** - forzar (VERB) [Tibetano Clásico / Persa Avéstico / Egipcio Demótico]
+**dēk** - crear (VERB) [Sánscrito Védico / Árabe esotérico / Griego Koiné]
+**ekhra** - salir (VERB) [Griego Koiné / Egipcio Demótico]
+**fap** - plegar (VERB) [Sánscrito Védico / Árabe esotérico / Griego Koiné]
+**fasī** - investigar (VERB) [Egipcio Demótico / Árabe esotérico / Persa Avéstico]
+**fatshē** - posponer (VERB) [Tibetano Clásico / Persa Avéstico / Egipcio Demótico]
+**fes** - observar (VERB) [Sánscrito Védico / Griego Koiné / Egipcio Demótico]
+**fira** - huir/escapar (VERB) [Griego Koiné / Árabe esotérico]
+**fitha** - celebrar (VERB) [Griego Koiné / Egipcio Demótico / Persa Avéstico]
+**fiywo** - practicar (VERB) [Sánscrito Védico / Persa Avéstico / Egipcio Demótico]
+**fusīd** - soplar (VERB) [Sánscrito Védico / Griego Koiné / Persa]
+**fweros** - tejer (VERB) [Persa Avéstico / Árabe esotérico / Griego Koiné]
+**fāp** - arriesgar (VERB) [Sánscrito Védico / Árabe esotérico / Griego Koiné]
+**fēu** - enseñar (VERB) [Griego Koiné / Egipcio Demótico / Persa Avéstico]
+**fīkhā** - despedir (VERB) [Griego Koiné / Egipcio Demótico / Persa Avéstico]
+**fōchbō** - desplegar (VERB) [Persa Avéstico / Árabe esotérico / Griego Koiné]
+**fūmkē** - transformar (VERB) [Persa Avéstico / Árabe esotérico / Griego Koiné]
+**gacha** - caminar/andar (VERB) [Sanscrito/Griego]
+**gachad** - caminar/andar (VERB) [Sánscrito Védico / Griego Koiné / Árabe esotérico]
+**gana** - contar (VERB) [Sánscrito Védico / Persa Avéstico / Griego Koiné]
+**garda** - rodar (VERB) [Persa Avéstico / Griego Koiné]
+**gashgī** - hacer (VERB) [Griego Koiné / Egipcio Demótico / Persa Avéstico]
+**gaynā** - cantar (VERB) [Sánscrito Védico / Griego Koiné / Árabe esotérico]
+**gharam** - oler (VERB) [Sánscrito Védico / Griego Koiné / Árabe esotérico]
+**gharka** - hundirse/sumergirse (VERB) [Árabe esotérico / Griego Koiné]
+**gharsha** - frotar/estregar (VERB) [Sánscrito Védico / Persa Avéstico / Griego Koiné]
+**ghip** - saludar (VERB) [Sánscrito Védico / Griego Koiné / Egipcio Demótico]
+**ghyefu** - esperar (VERB) [Tibetano Clásico / Persa Avéstico / Egipcio Demótico]
+**ghyupu** - airear (VERB) [Egipcio Demótico / Árabe esotérico / Persa Avéstico]
+**ghētāk** - desatar (VERB) [Egipcio Demótico / Árabe esotérico / Persa Avéstico]
+**gnotha** - saber (VERB) [Griego Koiné / Egipcio Demótico]
+**gomēch** - romper (VERB) [Tibetano Clásico / Griego Koiné / Sánscrito Védico]
+**gīkhe** - imaginar (VERB) [Griego Koiné / Egipcio Demótico / Persa Avéstico]
+**gīra** - desafiar (VERB) [Tibetano Clásico / Árabe esotérico / Egipcio Demótico]
+**gūp** - comerciar (VERB) [Tibetano Clásico / Persa Avéstico / Egipcio Demótico]
+**hadzya** - luchar (VERB) [Persa Avéstico / Árabe esotérico / Griego Koiné]
+**halasa** - soltar/dejar ir (VERB) [Árabe esotérico / Griego Koiné]
+**hamila** - llevar/transportar (VERB) [Árabe esotérico / Griego Koiné]
+**hankōt** - matar (VERB) [Sánscrito Védico / Griego Koiné / Árabe esotérico]
+**hap** - fallar (VERB) [Persa Avéstico / Árabe esotérico / Griego Koiné]
+**hasɡik** - reir (VERB) [Sánscrito Védico / Griego Koiné / Árabe esotérico]
+**herpa** - arrastrarse (VERB) [Griego Koiné / Persa Avéstico]
+**hidi** - moldear (VERB) [Persa Avéstico / Árabe esotérico / Griego Koiné]
+**hofē** - brillar (VERB) [Tibetano Clásico / Griego Koiné / Sánscrito Védico]
+**hukhūh** - mirar fijo (VERB) [Persa Avéstico / Árabe esotérico / Griego Koiné]
+**hādu** - tomar prestado (VERB) [Tibetano Clásico / Persa Avéstico / Egipcio Demótico]
+**hēfo** - retorcer (VERB) [Tibetano Clásico / Persa Avéstico / Egipcio Demótico]
+**ich** - querer, desear, anhelar (VERB) [Sánscrito Védico / Persa Avéstico / Griego Koiné]
+**ichalōš** - querer/desear (VERB) [Sánscrito Védico / Griego Koiné / Árabe esotérico]
+**ikmīp** - asomarse (VERB) [Griego Koiné / Egipcio Demótico / Persa Avéstico]
+**imkhō** - olvidar (VERB) [Egipcio Demótico / Árabe esotérico / Persa Avéstico]
+**ir** - expandir (VERB) [Sánscrito Védico / Persa Avéstico / Egipcio Demótico]
+**irwīkh** - atar (VERB) [Griego Koiné / Egipcio Demótico / Persa Avéstico]
+**ithi** - chispear (VERB) [Sánscrito Védico / Griego Koiné / Egipcio Demótico]
+**kadhā** - sollozar (VERB) [Griego Koiné / Egipcio Demótico / Persa Avéstico]
+**kasha** - aranhar/rascar (VERB) [Sánscrito Védico / Persa Avéstico / Griego Koiné]
+**kashlūs** - lavar (VERB) [Sánscrito Védico / Griego Koiné / Árabe esotérico]
+**kashpīr** - tirar/lanzar (VERB) [Sánscrito Védico / Griego Koiné / Árabe esotérico]
+**katdhi** - susurrar (VERB) [Persa Avéstico / Árabe esotérico / Griego Koiné]
+**khana** - cavar (VERB) [Sánscrito Védico / Persa Avéstico / Griego Koiné]
+**khapa** - esconderse/ocultarse (VERB) [Egipcio Demótico / Persa Avéstico]
+**khinyī** - convenir (VERB) [Griego Koiné / Egipcio Demótico / Persa Avéstico]
+**khwowa** - jurar (VERB) [Tibetano Clásico / Griego Koiné / Sánscrito Védico]
+**khyohe** - deber (VERB) [Egipcio Demótico / Árabe esotérico / Persa Avéstico]
+**khyīch** - invitar (VERB) [Tibetano Clásico / Griego Koiné / Persa Avéstico]
+**khābīr** - vender (VERB) [Persa Avéstico / Árabe esotérico / Griego Koiné]
+**khācha** - ungir (VERB) [Egipcio Demótico / Árabe esotérico / Persa Avéstico]
+**khāfē** - gritar (VERB) [Egipcio Demótico / Árabe esotérico / Persa Avéstico]
+**khānīs** - segar (VERB) [Griego Koiné / Egipcio Demótico / Persa Avéstico]
+**kipta** - agacharse/inclinarse (VERB) [Griego Koiné / Egipcio Demótico]
+**kirida** - jugar (VERB) [Sánscrito Védico / Persa Avéstico / Griego Koiné]
+**kithō** - existir (VERB) [Tibetano Clásico / Persa Avéstico / Egipcio Demótico]
+**kuntyu** - lijar (VERB) [Egipcio Demótico / Árabe esotérico / Persa Avéstico]
+**kyēs** - llorar (VERB) [Sánscrito Védico / Griego Koiné / Egipcio Demótico]
+**kānyā** - proponer (VERB) [Tibetano Clásico / Persa Avéstico / Egipcio Demótico]
+**kāsfyō** - desenvolver (VERB) [Sánscrito Védico / Árabe esotérico / Griego Koiné]
+**kīr** - obligar (VERB) [Sánscrito Védico / Griego Koiné / Egipcio Demótico]
+**kūsh** - curar (VERB) [Sánscrito Védico / Griego Koiné / Egipcio Demótico]
+**langaf** - saltar (VERB) [Sánscrito Védico / Griego Koiné / Árabe esotérico]
+**lekhtu** - necesitar (VERB) [Tibetano Clásico / Persa Avéstico / Egipcio Demótico]
+**lighza** - deslizarse (VERB) [Persa Avéstico / Egipcio Demótico]
+**lodzwē** - terminar (VERB) [Griego Koiné / Egipcio Demótico / Persa Avéstico]
+**loē** - aprovechar (VERB) [Egipcio Demótico / Árabe esotérico / Persa Avéstico]
+**lwe** - merecer (VERB) [Sánscrito Védico / Griego Koiné / Egipcio Demótico]
+**lwuwī** - cantar ritual (VERB) [Egipcio Demótico / Árabe esotérico / Persa Avéstico]
+**lēfōī** - aprender (VERB) [Tibetano Clásico / Griego Koiné / Sánscrito Védico]
+**līkhū** - enojarse (VERB) [Griego Koiné / Egipcio Demótico / Persa Avéstico]
+**madada** - estirarse (VERB) [Persa Avéstico / Árabe esotérico]
+**mara** - morir (VERB) [Sanscrito/Griego]
+**maran** - morir (VERB) [Sánscrito Védico / Griego Koiné / Persa]
+**marut** - morir, extinguirse, cesar (VERB) [Sánscrito Védico / Griego Koiné / Árabe esotérico]
+**mibōm** - germinar (VERB) [Tibetano Clásico / Persa Avéstico / Egipcio Demótico]
+**miriga** - cazar (VERB) [Sánscrito Védico / Persa Avéstico / Griego Koiné]
+**mok** - preparar (VERB) [Egipcio Demótico / Árabe esotérico / Persa Avéstico]
+**mwōp** - elegir (VERB) [Sánscrito Védico / Griego Koiné / Egipcio Demótico]
+**mēr** - aconsejar (VERB) [Egipcio Demótico / Árabe esotérico / Persa Avéstico]
+**mīsh** - preguntar (VERB) [Griego Koiné / Egipcio Demótico / Persa Avéstico]
+**mōch** - apagar (VERB) [Griego Koiné / Egipcio Demótico / Persa Avéstico]
+**mūsēbū** - tararear (VERB) [Tibetano Clásico / Persa Avéstico / Egipcio Demótico]
+**nachak** - bailar (VERB) [Sánscrito Védico / Griego Koiné / Árabe esotérico]
+**napalū** - encender (VERB) [Sánscrito Védico / Griego Koiné / Egipcio Demótico]
+**nava** - navegar, cruzar aguas, atravesar (VERB) [Sánscrito Védico / Griego Koiné / Árabe esotérico]
+**nerām** - reír (VERB) [Sánscrito Védico / Griego Koiné / Egipcio Demótico]
+**nop** - responder (VERB) [Griego Koiné / Egipcio Demótico / Persa Avéstico]
+**nutaf** - empujar (VERB) [Sánscrito Védico / Griego Koiné / Árabe esotérico]
+**nēgā** - espiar (VERB) [Persa Avéstico / Árabe esotérico / Griego Koiné]
+**nēzu** - gemir (VERB) [Tibetano Clásico / Persa Avéstico / Egipcio Demótico]
+**nīhpū** - regalar (VERB) [Griego Koiné / Egipcio Demótico / Persa Avéstico]
+**nōakō** - causar (VERB) [Tibetano Clásico / Griego Koiné / Persa Avéstico]
+**nūswom** - saborear (VERB) [Sánscrito Védico / Persa Avéstico / Egipcio Demótico]
+**ofmō** - pausar (VERB) [Sánscrito Védico / Griego Koiné / Egipcio Demótico]
+**paranaf** - respirar (VERB) [Sánscrito Védico / Griego Koiné / Árabe esotérico]
+**parpax** - agarrar/alcanzar (VERB) [Sánscrito Védico / Griego Koiné / Árabe esotérico]
+**patpis** - caer (VERB) [Sánscrito Védico / Griego Koiné / Árabe esotérico]
+**patōm** - volar (VERB) [Sánscrito Védico / Griego Koiné / Árabe esotérico]
+**pazwīh** - apresurar (VERB) [Tibetano Clásico / Persa Avéstico / Egipcio Demótico]
+**pibnōš** - beber/tomar (VERB) [Sánscrito Védico / Griego Koiné / Árabe esotérico]
+**pida** - apretar/exprimir (VERB) [Sánscrito Védico / Persa Avéstico / Griego Koiné]
+**pilplōf** - flotar (VERB) [Sánscrito Védico / Griego Koiné / Árabe esotérico]
+**pom** - honrar (VERB) [Tibetano Clásico / Griego Koiné / Sánscrito Védico]
+**pothā** - centellear (VERB) [Tibetano Clásico / Griego Koiné / Persa Avéstico]
+**pyīr** - prestar (VERB) [Tibetano Clásico / Árabe esotérico / Egipcio Demótico]
+**pādzō** - suspirar (VERB) [Sánscrito Védico / Griego Koiné / Egipcio Demótico]
+**pākh** - triturar (VERB) [Egipcio Demótico / Árabe esotérico / Persa Avéstico]
+**pōch** - pagar (VERB) [Tibetano Clásico / Griego Koiné / Sánscrito Védico]
+**rakh** - proteger, cuidar, guardar (VERB) [Sánscrito Védico / Árabe esotérico / Egipcio Demótico]
+**rashe** - autorizar (VERB) [Egipcio Demótico / Árabe esotérico / Persa Avéstico]
+**rat** - brillar, resplandecer, irradiar (VERB) [Sánscrito Védico / Griego Koiné / Egipcio Demótico]
+**rechep** - podar (VERB) [Sánscrito Védico / Griego Koiné / Egipcio Demótico]
+**rep** - repetir (VERB) [Persa Avéstico / Árabe esotérico / Griego Koiné]
+**rodil** - calmar (VERB) [Persa Avéstico / Árabe esotérico / Griego Koiné]
+**rohar** - gatear/trepar (VERB) [Sánscrito Védico / Griego Koiné / Árabe esotérico]
+**ryēlo** - continuar (VERB) [Tibetano Clásico / Árabe esotérico / Egipcio Demótico]
+**rēdyē** - envolver (VERB) [Tibetano Clásico / Griego Koiné / Sánscrito Védico]
+**rīch** - cesar (VERB) [Sánscrito Védico / Griego Koiné / Egipcio Demótico]
+**rūpe** - vendar (VERB) [Griego Koiné / Egipcio Demótico / Persa Avéstico]
+**rūt** - disculparse (VERB) [Griego Koiné / Egipcio Demótico / Persa Avéstico]
+**sadash** - sentarse (VERB) [Sánscrito Védico / Griego Koiné / Persa]
+**safar** - viajar (VERB) [Árabe esotérico / Persa Avéstico]
+**sakata** - tropezar (VERB) [Árabe esotérico / Persa Avéstico]
+**sakhu** - oler (VERB) [Tibetano Clásico / Persa Avéstico / Egipcio Demótico]
+**sarana** - vagar/deambular (VERB) [Sánscrito Védico / Persa Avéstico / Griego Koiné]
+**sataf** - estar de pie/pararse (VERB) [Sánscrito Védico / Griego Koiné / Árabe esotérico]
+**shaya** - echarse/acostarse (VERB) [Sanscrito/Griego]
+**shayabīd** - echarse/acostarse (VERB) [Sánscrito Védico / Persa / Griego Koiné]
+**ship** - ordenar (VERB) [Tibetano Clásico / Griego Koiné / Sánscrito Védico]
+**shithōf** - escupir (VERB) [Sánscrito Védico / Griego Koiné / Árabe esotérico]
+**shuda** - limpiar (VERB) [Sánscrito Védico / Persa Avéstico / Griego Koiné]
+**shurus** - oir/escuchar (VERB) [Sánscrito Védico / Griego Koiné / Árabe esotérico]
+**shwōr** - hincharse (VERB) [Sánscrito Védico / Griego Koiné / Árabe esotérico]
+**sirawān** - fluir/correr (VERB) [Sánscrito Védico / Griego Koiné / Persa]
+**siwat** - coser (VERB) [Sánscrito Védico / Griego Koiné / Árabe esotérico]
+**swapnōm** - dormir (VERB) [Sánscrito Védico / Griego Koiné / Árabe esotérico]
+**tadar** - golpear/pegar (VERB) [Sánscrito Védico / Griego Koiné / Árabe esotérico]
+**talaba** - seguir/perseguir (VERB) [Árabe esotérico / Griego Koiné]
+**talwa** - balancearse/columpiarse (VERB) [Árabe esotérico / Griego Koiné]
+**tara** - nadar (VERB) [Sánscrito Védico / Griego Koiné / Árabe esotérico]
+**tefūk** - maldecir (VERB) [Griego Koiné / Egipcio Demótico / Persa Avéstico]
+**teē** - diseñar (VERB) [Sánscrito Védico / Griego Koiné / Egipcio Demótico]
+**thalo** - convertir (VERB) [Sánscrito Védico / Griego Koiné / Egipcio Demótico]
+**thī** - escuchar (VERB) [Persa Avéstico / Árabe esotérico / Griego Koiné]
+**tii** - doblar (VERB) [Tibetano Clásico / Griego Koiné / Sánscrito Védico]
+**tofō** - regar (VERB) [Persa Avéstico / Árabe esotérico / Griego Koiné]
+**tolma** - osar/atreverse (VERB) [Griego Koiné / Egipcio Demótico]
+**tor** - inventar (VERB) [Persa Avéstico / Árabe esotérico / Griego Koiné]
+**tswu** - barrer (VERB) [Sánscrito Védico / Árabe esotérico / Griego Koiné]
+**tumā** - frotar (VERB) [Tibetano Clásico / Persa Avéstico / Egipcio Demótico]
+**tīī** - diagnosticar (VERB) [Griego Koiné / Egipcio Demótico / Persa Avéstico]
+**tōdā** - bendecir (VERB) [Griego Koiné / Egipcio Demótico / Persa Avéstico]
+**udgamat** - emerger/surgir (VERB) [Sánscrito Védico / Griego Koiné / Árabe esotérico]
+**ugi** - lograr (VERB) [Tibetano Clásico / Griego Koiné / Sánscrito Védico]
+**wacha** - decir/hablar (VERB) [Sánscrito Védico / Persa Avéstico / Griego Koiné]
+**waghyā** - ordenar (VERB) [Egipcio Demótico / Árabe esotérico / Persa Avéstico]
+**wamik** - vomitar (VERB) [Sánscrito Védico / Griego Koiné / Árabe esotérico]
+**widan** - apunhalar/clavar (VERB) [Sánscrito Védico / Griego Koiné / Árabe esotérico]
+**wiri** - volver/girar (VERB) [Sánscrito Védico / Persa Avéstico / Griego Koiné]
+**wornōp** - destrozar (VERB) [Sánscrito Védico / Griego Koiné / Egipcio Demótico]
+**wukdhe** - comprar (VERB) [Tibetano Clásico / Griego Koiné / Sánscrito Védico]
+**wōp** - reparar (VERB) [Persa Avéstico / Árabe esotérico / Griego Koiné]
+**yadahā** - persistir (VERB) [Tibetano Clásico / Árabe esotérico / Egipcio Demótico]
+**yafdze** - prohibir (VERB) [Tibetano Clásico / Griego Koiné / Persa Avéstico]
+**yana** - saber/conocer (VERB) [Sanscrito/Griego]
+**yanaf** - saber/conocer (VERB) [Sánscrito Védico / Griego Koiné / Árabe esotérico]
+**yine** - afeitarse (VERB) [Tibetano Clásico / Griego Koiné / Sánscrito Védico]
+**yiwash** - vivir (VERB) [Sánscrito Védico / Griego Koiné / Árabe esotérico]
+**yoūs** - reanudar (VERB) [Griego Koiné / Egipcio Demótico / Persa Avéstico]
+**yuda** - pelear/combatir (VERB) [Sánscrito Védico / Persa Avéstico / Griego Koiné]
+**yārā** - bañarse (VERB) [Persa Avéstico / Árabe esotérico / Griego Koiné]
+**yēkhoē** - recoger (VERB) [Sánscrito Védico / Árabe esotérico / Griego Koiné]
+**yōdzyā** - limpiar (VERB) [Sánscrito Védico / Griego Koiné / Egipcio Demótico]
+**yū** - atreverse (VERB) [Persa Avéstico / Árabe esotérico / Griego Koiné]
+**yūfrē** - tender (VERB) [Tibetano Clásico / Griego Koiné / Sánscrito Védico]
+**zihi** - habilitar (VERB) [Persa Avéstico / Árabe esotérico / Griego Koiné]
+**zoshpō** - intentar (VERB) [Tibetano Clásico / Griego Koiné / Sánscrito Védico]
+**zwisru** - cultivar (VERB) [Griego Koiné / Egipcio Demótico / Persa Avéstico]
+**zānoch** - degustar (VERB) [Sánscrito Védico / Árabe esotérico / Griego Koiné]
+**zīssyō** - sembrar (VERB) [Griego Koiné / Egipcio Demótico / Persa Avéstico]
+**zōrna** - cocinar (VERB) [Persa Avéstico / Árabe esotérico / Griego Koiné]
+**āktīp** - abonar (VERB) [Griego Koiné / Egipcio Demótico / Persa Avéstico]
+**ānō** - estudiar (VERB) [Egipcio Demótico / Árabe esotérico / Persa Avéstico]
+**ēnē** - memorizar (VERB) [Persa Avéstico / Árabe esotérico / Griego Koiné]
+**ūfo** - recordar (VERB) [Persa Avéstico / Árabe esotérico / Griego Koiné]
+**ūtīkūm** - ensamblar (VERB) [Sánscrito Védico / Persa Avéstico / Egipcio Demótico]
 
-## Conjunciones y Partículas
+## Naturaleza Y Elementos
 
-- **as** /ˈas/ *(particle)* — cópula (ser/estar)
-- **cha** /ˈtʃa/ *(particle)* — y (conjunción)
-- **hán** /ˈhan/ *(particle)* — pues bien, ahora (inicio discursivo)
-- **hát** /ˈhat/ *(conjunction)* — hasta que (temporal final)
-- **kar** /ˈkar/ *(particle)* — porque (conjunción causal)
-- **kás** /ˈkas/ *(conjunction)* — para que, a fin de que (final)
-- **kát** /ˈkat/ *(particle)* — dicen que, se dice (citativo)
-- **lám** /ˈlam/ *(particle)* — de ningun modo (negacion enfatica)
-- **máh** /ˈmah/ *(particle)* — en verdad, ciertamente (enfasis)
-- **mét** /ˈmet/ *(conjunction)* — despues de que (temporal posterior)
-- **o** /ˈo/ *(particle)* — vocativo, partícula de invocación
-- **pári** /ˈpa.ri/ *(conjunction)* — antes de que (temporal anterior)
-- **sáma** /ˈsa.ma/ *(particle)* — tan...como (equativo)
-- **súm** /ˈsum/ *(particle)* — en resumen, asi pues (conclusion)
-- **ti** /ˈti/ *(particle)* — que (complementizante)
-- **tu** /ˈtu/ *(particle)* — pero (conjunción adversativa)
-- **tát** /ˈtat/ *(conjunction)* — por lo tanto, entonces (consecutiva)
-- **tés** /ˈtes/ *(conjunction)* — mientras (simultaneo)
-- **va** /ˈwa/ *(particle)* — o (conjunción disyuntiva)
-- **wá** /ˈwa/ *(conjunction)* — mientras que, en cambio (contraste)
-- **wáy** /ˈwaj/ *(particle)* — por otra parte, ademas (transicion)
-- **yas** /ˈjas/ *(conjunction)* — si (condicional)
-- **yat** /ˈjat/ *(particle)* — si (condicional)
-- **ár** /ˈar/ *(conjunction)* — aunque, a pesar de (adversativa)
-- **ét** /ˈet/ *(particle)* — precisamente, exactamente (precision)
+**anzu** - Venus (NOUN) [Persa Avéstico / Árabe esotérico / Griego Koiné]
+**barchōm** - relámpago (NOUN) [Árabe esotérico / Copto / Persa Avéstico]
+**barkhōm** - volcán, montaña de fuego (NOUN) [Tibetano Clásico / Copto / Árabe esotérico]
+**buharya** - lago (NOUN) [Sánscrito Védico / Persa Avéstico / Árabe esotérico]
+**dasrak** - quemar (NOUN) [Sánscrito Védico / Persa Avéstico / Árabe esotérico]
+**dipnou** - isla, ínsula (NOUN) [Sánscrito Védico / Griego Koiné / Copto]
+**fir** - fuego (NOUN) [Sánscrito Védico / Persa Avéstico]
+**firōm** - fuego (NOUN) [Sánscrito Védico / Persa Avéstico / Copto]
+**ghashim** - pastizal, sabana, pradera (NOUN) [Sánscrito Védico / Copto / Persa Avéstico]
+**ghatei** - valle, cañada, depresión (NOUN) [Sánscrito Védico / Copto / Árabe esotérico]
+**ghorbat** - barranco, abismo, precipicio, sima (NOUN) [Árabe esotérico / Copto / Sánscrito Védico]
+**ghurūh** - atardecer (NOUN) [Árabe esotérico / Griego Koiné / Copto]
+**girtōs** - montaña, monte, elevación rocosa (NOUN) [Sánscrito Védico / Copto / Griego Koiné]
+**gishim** - pasto/hierba (NOUN) [Persa Avéstico / Copto / Egipcio Demótico]
+**grakaw** - planeta, cuerpo celeste errante (NOUN) [Sánscrito Védico / Árabe esotérico / Griego Koiné / Persa Avéstico]
+**guhbē** - cueva, caverna, gruta (NOUN) [Sánscrito Védico / Copto / Persa Avéstico]
+**hermar** - Marte (NOUN) [Egipcio Demótico / Árabe esotérico / Tibetano Clásico]
+**hima** - nieve, helar, congelar (NOUN, VERB) [Sánscrito Védico / Griego Koiné / Persa Avéstico]
+**hormus** - Júpiter (NOUN) [Persa Avéstico / Griego Koiné / Árabe esotérico]
+**jasnou** - isla (NOUN) [Árabe esotérico / Griego Koiné / Copto]
+**kabu** - tierra (NOUN) [Sánscrito Védico / Persa Avéstico / Copto]
+**keyzu** - Saturno (NOUN) [Persa Avéstico / Árabe esotérico / Griego Koiné]
+**khamzīt** - arcoíris (NOUN) [Árabe esotérico / Persa Avéstico / Copto]
+**khandra** - cañón, garganta, desfiladero (NOUN) [Sánscrito Védico / Árabe esotérico / Griego Koiné]
+**khir** - bosque (NOUN) [Egipcio Demótico / Persa Avéstico]
+**klomākh** - nube (NOUN) [Sánscrito Védico / Persa Avéstico / Copto]
+**kremas** - ceniza (NOUN) [Sánscrito Védico / Griego Koiné / Copto]
+**krimaj** - hielo (NOUN) [Sánscrito Védico / Griego Koiné / Árabe esotérico]
+**krosh** - costa, orilla, litoral (NOUN) [Copto / Sánscrito Védico / Persa Avéstico]
+**kānash** - selva, jungla, monte espeso (NOUN) [Sánscrito Védico / Copto / Persa Avéstico]
+**lasmel** - sal (NOUN) [Sánscrito Védico / Griego Koiné / Copto]
+**mahsel** - luna (NOUN) [Persa Avéstico / Griego Koiné / Árabe esotérico]
+**mapu** - agua (NOUN) [Sánscrito Védico / Persa Avéstico / Copto]
+**mauj** - ola (NOUN) [Persa Avéstico / Árabe esotérico]
+**mikhnaf** - niebla (NOUN) [Griego Koiné / Sánscrito Védico / Copto]
+**mukhaw** - bahía, ensenada, golfo pequeño (NOUN) [Sánscrito Védico / Griego Koiné / Árabe esotérico]
+**nakbursa** - constelación, grupo de estrellas (NOUN) [Sánscrito Védico / Árabe esotérico / Tibetano Clásico / Griego Koiné]
+**nat** - río, corriente de agua (NOUN) [Sánscrito Védico / Persa Avéstico / Griego Koiné]
+**nūros** - luz, claridad, iluminación (NOUN) [Árabe esotérico / Griego Koiné]
+**parzam** - fruta (NOUN) [Persa Avéstico / Árabe esotérico]
+**pavnēf** - viento (NOUN) [Sánscrito Védico / Griego Koiné / Copto]
+**petsal** - llanura, planicie, campo abierto (NOUN) [Griego Koiné / Sánscrito Védico / Árabe esotérico]
+**radar** - trueno (NOUN) [Persa Avéstico / Árabe esotérico]
+**rish** - raíz (NOUN) [Persa Avéstico / Árabe esotérico]
+**sagarbar** - océano profundo, alta mar, abismo marino (NOUN) [Sánscrito Védico / Griego Koiné / Árabe esotérico]
+**sah** - desierto, yermo, árido (NOUN) [Árabe esotérico / Griego Koiné]
+**sahrah** - desierto (NOUN) [Árabe esotérico / Egipcio Demótico]
+**sakh** - campo (NOUN) [Egipcio Demótico / Griego Koiné]
+**samdi** - cielo (NOUN) [Sánscrito Védico / Griego Koiné / Árabe esotérico]
+**samtjom** - mar (NOUN) [Sánscrito Védico / Griego Koiné / Copto]
+**samut** - mar, océano, gran masa de agua (NOUN) [Sánscrito Védico / Persa Avéstico / Griego Koiné]
+**santik** - estrecho, paso angosto, canal (NOUN) [Sánscrito Védico / Griego Koiné / Árabe esotérico]
+**sarhel** - lago, laguna, espejo de agua (NOUN) [Sánscrito Védico / Griego Koiné / Árabe esotérico]
+**shakh** - rama (NOUN) [Persa Avéstico / Sánscrito Védico / Árabe esotérico]
+**shalkat** - cascada, salto de agua, catarata (NOUN) [Sánscrito Védico / Árabe esotérico / Griego Koiné]
+**shap** - costa/orilla (NOUN) [Árabe esotérico / Griego Koiné]
+**shaprak** - amanecer (NOUN) [Árabe esotérico / Persa Avéstico]
+**shersil** - cordillera, sierra, cadena montañosa (NOUN) [Griego Koiné / Sánscrito Védico / Árabe esotérico]
+**shikh** - pico, cumbre, cima (NOUN) [Sánscrito Védico / Persa Avéstico / Griego Koiné]
+**shila** - piedra (NOUN) [Sánscrito Védico / Persa Avéstico / Griego Koiné]
+**shinshar** - árbol (NOUN) [Egipcio Demótico / Árabe esotérico]
+**sikshōm** - arena (NOUN) [Sánscrito Védico / Copto / Árabe esotérico]
+**sotar** - rio (NOUN) [Sánscrito Védico / Griego Koiné / Árabe esotérico]
+**surya** - sol (NOUN) [Sánscrito Védico / Persa Avéstico / Griego Koiné]
+**takham** - semilla (NOUN) [Persa Avéstico / Sánscrito Védico / Griego Koiné]
+**tal** - colina (NOUN) [Árabe esotérico / Persa Avéstico]
+**tarān** - estrella (NOUN) [Sánscrito Védico / Griego Koiné / Árabe esotérico]
+**thidul** - polvo (NOUN) [Sánscrito Védico / Persa Avéstico / Copto]
+**thil** - colina, loma, altozano (NOUN) [Sánscrito Védico / Griego Koiné / Árabe esotérico]
+**thumdakh** - humo (NOUN) [Sánscrito Védico / Griego Koiné / Árabe esotérico]
+**thutir** - Mercurio (NOUN) [Egipcio Demótico / Persa Avéstico / Griego Koiné]
+**vaynur** - energía vital/viento (NOUN) [Sánscrito Védico / Griego Koiné / Árabe esotérico]
+**wakhi** - valle (NOUN) [Egipcio Demótico / Persa Avéstico]
+**walgar** - hoja (NOUN) [Persa Avéstico / Árabe esotérico]
+**wana** - bosque, arboleda, floresta (NOUN) [Sánscrito Védico / Persa Avéstico / Griego Koiné]
+**war** - flor (NOUN) [Persa Avéstico / Árabe esotérico]
+**warshat** - lluvia (NOUN) [Sánscrito Védico / Griego Koiné / Árabe esotérico]
+**zal** - sombra (NOUN) [Persa Avéstico / Árabe esotérico]
 
-## Dimensiones y Adjetivos
+## Conceptos Espaciales Y Calidades
 
-- **alpa** /ˈal.pa/ *(adjective)* — pequeno
-- **amik** /ˈa.mik/ *(adjective)* — profundo
-- **bati** /ˈba.ti/ *(adjective)* — lento
-- **dir** /ˈdir/ *(adjective)* — largo
-- **fash** /ˈfaʃ/ *(adjective)* — tibio
-- **forfir** /ˈfor.fir/ *(adjective)* — púrpura, violeta, magenta
-- **garu** /ˈga.ru/ *(adjective)* — pesado
-- **herit** /ˈhe.rit/ *(adjective)* — verde, vegetal, viridiano
-- **jadit** /ˈja.dit/ *(adjective)* — nuevo (novel)
-- **khal** /ˈxal/ *(adjective)* — vacío
-- **khap** /ˈxap/ *(adjective)* — oscuro
-- **khar** /ˈxar/ *(adjective)* — caliente
-- **khushk** /ˈxuʃk/ *(adjective)* — seco
-- **kris** /ˈkris/ *(adjective)* — negro, oscuro, tenebroso
-- **mal** /ˈmal/ *(adjective)* — lleno
-- **nakhzir** /ˈnax.zir/ *(adjective)* — brillante
-- **narin** /ˈna.rin/ *(adjective)* — naranja, anaranjado, azafranado
-- **narm** /ˈnarm/ *(adjective)* — suave (tacto)
-- **nil** /ˈnil/ *(adjective)* — azul, añil, índigo
-- **palin** /ˈpa.lin/ *(adjective)* — gris, ceniciento, plomizo
-- **pashcha** /ˈpaʃ.tʃa/ *(adjective)* — último/final (ordinal irregular)
-- **prathi** /ˈpra.θi/ *(adjective)* — ancho
-- **purwa** /ˈpu.rwa/ *(adjective)* — primero/primordial (ordinal irregular)
-- **qadim** /ˈka.dim/ *(adjective)* — viejo (antiguo)
-- **rasa** /ˈra.sa/ *(adjective)* — corto
-- **rik** /ˈrik/ *(adjective)* — grande
-- **rohik** /ˈro.hik/ *(adjective)* — rojo, escarlata, bermellón
-- **sakhat** /ˈsa.xat/ *(adjective)* — duro
-- **sanhu** /ˈsan.hu/ *(adjective)* — estrecho
-- **sari** /ˈsa.ri/ *(adjective)* — rápido
-- **sarn** /ˈsarn/ *(adjective)* — dorado, áureo, reluciente como el oro
-- **sart** /ˈsart/ *(adjective)* — frío
-- **sas** /ˈsas/ *(adjective)* — superficial
-- **sat** /ˈsat/ *(adjective)* — recto
-- **shap** /ˈʃap/ *(adjective)* — joven
-- **shirin** /ˈʃi.rin/ *(adjective)* — dulce
-- **shwet** /ˈʃwet/ *(adjective)* — blanco, claro, puro
-- **sofar** /ˈso.far/ *(adjective)* — amarillo, dorado, áureo
-- **takh** /ˈtax/ *(adjective)* — mojado
-- **talakh** /ˈta.lax/ *(adjective)* — amargo
-- **tamir** /ˈta.mir/ *(adjective)* — marrón, pardo, castaño
-- **tanu** /ˈta.nu/ *(adjective)* — delgado/flaco
-- **thul** /ˈθul/ *(adjective)* — gordo/grueso
-- **wart** /ˈwart/ *(adjective)* — rosa, rosado, rosáceo
-- **zat** /ˈzat/ *(adjective)* — curvo/torcido
+**antar** - en/dentro de (NOUN) [Sánscrito Védico / Griego Koiné / Persa Avéstico / Persa Avéstico]
+**antár** - dentro, adentro (ADVERB) [Sánscrito Védico / Persa Avéstico / Griego Koiné]
+**atishkāl** - romo/embotado (ADJ) [Sánscrito Védico / Griego Koiné / Árabe esotérico]
+**atísh** - demasiado, excesivamente (ADVERB) [Sánscrito Védico / Persa Avéstico / Griego Koiné]
+**bahich** - fuera, afuera (ADVERB) [Sánscrito Védico / Árabe esotérico / Griego Koiné]
+**daimera** - dia (NOUN) [Sánscrito Védico / Griego Koiné / Persa Avéstico / Persa Avéstico]
+**dakshina** - derecha (NOUN) [Sánscrito Védico / Persa Avéstico / Griego Koiné / Persa Avéstico]
+**dura** - lejos (NOUN) [Sánscrito Védico / Griego Koiné / Persa Avéstico / Persa Avéstico]
+**giri** - montana (NOUN) [Sánscrito Védico / Persa Avéstico / Griego Koiné / Persa Avéstico]
+**harita** - verde (NOUN) [Sánscrito Védico / Persa Avéstico / Griego Koiné / Egipcio Demótico]
+**kala** - negro (NOUN) [Sánscrito Védico / Griego Koiné / Persa Avéstico / Persa Avéstico]
+**kuna** - podrido (NOUN) [Sánscrito Védico / Griego Koiné / Persa Avéstico]
+**káp** - bastante, suficiente (ADVERB) [Árabe esotérico / Persa Avéstico]
+**lav** - poco, apenas (ADVERB) [Sánscrito Védico / Persa Avéstico / Griego Koiné]
+**mala** - sucio (NOUN) [Sánscrito Védico / Griego Koiné / Persa Avéstico / Persa Avéstico]
+**manas** - mente, psique, facultad mental (NOUN) [Sánscrito Védico / Persa Avéstico / Griego Koiné]
+**nawa** - nuevo (NOUN) [Sánscrito Védico / Griego Koiné / Persa Avéstico / Persa Avéstico]
+**nukh** - sabiduría, conocimiento esotérico (NOUN) [Egipcio Demótico / Sánscrito Védico / Árabe esotérico]
+**pantha** - camino/via (NOUN) [Sánscrito Védico / Griego Koiné / Persa Avéstico / Persa Avéstico]
+**papa** - malo (NOUN) [Sánscrito Védico / Persa Avéstico / Griego Koiné / Persa Avéstico]
+**pita** - amarillo (NOUN) [Sánscrito Védico / Persa Avéstico / Griego Koiné / Persa Avéstico]
+**puran** - viejo (NOUN) [Sánscrito Védico / Griego Koiné / Persa Avéstico / Persa Avéstico]
+**purna** - lleno (NOUN) [Sánscrito Védico / Griego Koiné / Persa Avéstico / Persa Avéstico]
+**rakta** - rojo (NOUN) [Sánscrito Védico / Griego Koiné / Persa Avéstico / Persa Avéstico]
+**ratiri** - noche (NOUN) [Sánscrito Védico / Griego Koiné / Persa Avéstico / Persa Avéstico]
+**rit** - orden cósmico, ciclo, rita (NOUN) [Sánscrito Védico / Persa Avéstico / Griego Koiné]
+**riyu** - recto/derecho (NOUN) [Sánscrito Védico / Griego Koiné / Persa Avéstico / Persa Avéstico]
+**sadu** - bueno (NOUN) [Sánscrito Védico / Griego Koiné / Persa Avéstico / Persa Avéstico]
+**sah** - con (NOUN) [Sánscrito Védico / Persa Avéstico / Griego Koiné / Persa Avéstico / Egipcio Demótico]
+**saha** - en/a/junto a (NOUN) [Sánscrito Védico / Persa Avéstico / Griego Koiné / Persa Avéstico]
+**sami** - cerca (NOUN) [Sánscrito Védico / Griego Koiné / Persa Avéstico / Persa Avéstico]
+**samwa** - anho (NOUN) [Sánscrito Védico / Persa Avéstico / Griego Koiné / Persa Avéstico]
+**satya** - correcto/verdadero (NOUN) [Sánscrito Védico / Persa Avéstico / Griego Koiné / Persa Avéstico / Egipcio Demótico]
+**shilak** - liso/suave (NOUN) [Sánscrito Védico / Persa Avéstico / Griego Koiné / Egipcio Demótico]
+**shita** - frío, invierno (NOUN) [Sánscrito Védico / Persa Avéstico / Árabe esotérico / Griego Koiné / Persa Avéstico]
+**shushka** - seco (NOUN) [Sánscrito Védico / Persa Avéstico / Griego Koiné / Persa Avéstico]
+**shweta** - blanco (NOUN) [Sánscrito Védico / Griego Koiné / Persa Avéstico / Persa Avéstico]
+**sháyat** - quizas, tal vez (ADVERB) [Sánscrito Védico / Persa Avéstico / Griego Koiné]
+**thel** - voluntad, intención consciente (NOUN) [Griego Koiné / Sánscrito Védico / Persa Avéstico]
+**thes** - acto de voluntad, acción volitiva (NOUN) [Griego Koiné / Sánscrito Védico / Árabe esotérico]
+**tiksha** - afilado/agudo (NOUN) [Sánscrito Védico / Griego Koiné / Persa Avéstico / Persa Avéstico]
+**tina** - humedo/mojado (NOUN) [Sánscrito Védico / Griego Koiné / Persa Avéstico / Persa Avéstico]
+**tís** - muy (ADVERB) [Sánscrito Védico / Persa Avéstico / Griego Koiné]
+**ushna** - caliente/calido (NOUN) [Sánscrito Védico / Griego Koiné / Persa Avéstico / Persa Avéstico]
+**wama** - izquierda (NOUN) [Sánscrito Védico / Persa Avéstico / Griego Koiné / Egipcio Demótico]
+**wirita** - redondo (NOUN) [Sánscrito Védico / Griego Koiné / Persa Avéstico]
 
-## Emociones y Estados Afectivos
+## Conjunciones Y Particulas
 
-- **admir** /ad.ˈmir/ *(verb)* — admirar
-- **asha** /ˈa.ʃa/ *(noun)* — esperanza, expectativa, anhelo positivo
-- **bat** /ˈbat/ *(noun)* — confusión, desconcierto, perplejidad
-- **baya** /ˈba.ja/ *(noun)* — miedo, temor, pavor
-- **bhay** /bʱaj/ *(verb)* — temer
-- **chint** /ˈtʃint/ *(noun)* — ansiedad, preocupación, inquietud
-- **daya** /ˈda.ja/ *(noun)* — compasión, piedad, misericordia
-- **dukh** /ˈdux/ *(noun)* — tristeza, aflicción, pesar, sufrimiento
-- **dvesh** /ˈdveʃ/ *(verb)* — odiar
-- **garb** /ɡarp/ *(verb)* — enorgullecerse
-- **garp** /ˈgarp/ *(noun)* — orgullo, soberbia, dignidad
-- **ghen** /ˈɣen/ *(noun)* — repulsión, asco, aversión intensa
-- **hani** /ˈha.ni/ *(noun)* — nostalgia, melancolía, añoranza
-- **irash** /ˈi.raʃ/ *(noun)* — envidia, celos, resentimiento
-- **irsh** /ˈiːrʃ/ *(verb)* — envidiar
-- **kam** /ˈkam/ *(noun)* — deseo sexual, pasión, lujuria, excitación erótica
-- **khet** /ˈxet/ *(noun)* — aburrimiento, hastío, tedio, desgano
-- **krit** /ˈkrit/ *(noun)* — gratitud, agradecimiento, reconocimiento
-- **ksham** /kʂam/ *(verb)* — perdonar
-- **kām** /kɑːm/ *(verb)* — desear
-- **laj** /latʃ/ *(verb)* — avergonzarse
-- **lal** /ˈlal/ *(noun)* — ternura, dulzura, cariño, delicadeza afectiva
-- **lash** /ˈlaʃ/ *(noun)* — vergüenza, pudor, bochorno
-- **maun** /ˈma.un/ *(noun)* — soledad, aislamiento, retiro solitario
-- **metan** /me.ˈtan/ *(verb)* — arrepentirse
-- **pap** /ˈpap/ *(noun)* — culpa, pecado, transgresión
-- **prem** /ˈprem/ *(noun)* — amor, afecto profundo, devoción amorosa
-- **preman** /ˈpre.man/ *(verb)* — amar
-- **rosh** /ˈroʃ/ *(noun)* — enojo, ira, furia, cólera
-- **sandeh** /san.ˈdeh/ *(verb)* — dudar
-- **santi** /ˈsan.ti/ *(noun)* — paz, serenidad, sosiego, tranquilidad profunda
-- **shak** /ˈʃak/ *(noun)* — sospecha, duda, desconfianza, recelo
-- **shok** /ʃok/ *(verb)* — lamentar
-- **sil** /ˈsil/ *(noun)* — calma, tranquilidad, sosiego, placidez
-- **sukha** /ˈsu.xa/ *(noun)* — felicidad, dicha, bienestar, júbilo
-- **tham** /ˈθam/ *(noun)* — asombro, sorpresa, estupefacción
-- **tirask** /ti.ˈrask/ *(verb)* — despreciar
-- **utsar** /ˈut.sar/ *(verb)* — celebrar
-- **vir** /ˈwir/ *(noun)* — valentía, coraje, heroicidad, bravura
-- **virah** /vi.ˈrah/ *(verb)* — anhelar
-- **vish** /ˈwiʃ/ *(noun)* — confianza, fe, seguridad interior
-- **vishwās** /viʃ.ˈwɑːs/ *(verb)* — confiar
-- **vismay** /vis.ˈmaj/ *(verb)* — sorprenderse
-- **āsh** /ɑːʃ/ *(verb)* — esperar
+**as** - cópula (PARTICLE) [Sánscrito Védico / Persa Avéstico / Griego Koiné]
+**cha** - y (PARTICLE) [Sánscrito Védico / Persa Avéstico / Griego Koiné]
+**hán** - pues bien, ahora (PARTICLE) [Árabe esotérico / Persa Avéstico]
+**hát** - hasta que (CONJUNCTION) [Árabe esotérico / Griego Koiné]
+**karsab** - porque (PARTICLE) [Sánscrito Védico / Griego Koiné / Árabe esotérico]
+**kás** - para que, a fin de que (CONJUNCTION) [Griego Koiné / Árabe esotérico]
+**kát** - dicen que, se dice (PARTICLE) [Árabe esotérico / Persa Avéstico]
+**lám** - de ningun modo (PARTICLE) [Árabe esotérico / Griego Koiné]
+**máh** - en verdad, ciertamente (PARTICLE) [Árabe esotérico / Persa Avéstico]
+**mét** - despues de que (CONJUNCTION) [Griego Koiné / Árabe esotérico]
+**oya** - vocativo, partícula de invocación (PARTICLE) [Griego Koiné / Sánscrito Védico / Árabe esotérico]
+**pári** - antes de que (CONJUNCTION) [Griego Koiné / Persa Avéstico]
+**sáma** - tan...como (PARTICLE) [Sánscrito Védico / Persa Avéstico / Griego Koiné]
+**súm** - en resumen, asi pues (PARTICLE) [Griego Koiné / Tibetano Clásico]
+**tina** - que (PARTICLE) [Sánscrito Védico / Griego Koiné / Árabe esotérico]
+**tuka** - pero (PARTICLE) [Sánscrito Védico / Árabe esotérico / Griego Koiné]
+**tát** - por lo tanto, entonces (CONJUNCTION) [Árabe esotérico / Persa Avéstico]
+**tés** - mientras (CONJUNCTION) [Persa Avéstico / Tibetano Clásico]
+**va** - o (PARTICLE) [Sánscrito Védico / Persa Avéstico / Griego Koiné]
+**wá** - mientras que, en cambio (CONJUNCTION) [Árabe esotérico / Persa Avéstico]
+**wáy** - por otra parte, ademas (PARTICLE) [Árabe esotérico / Persa Avéstico]
+**yas** - si (CONJUNCTION) [Sánscrito Védico / Persa Avéstico / Griego Koiné]
+**yat** - si (PARTICLE) [Sánscrito Védico / Persa Avéstico / Griego Koiné]
+**ár** - aunque, a pesar de (CONJUNCTION) [Griego Koiné / Persa Avéstico / Árabe esotérico]
+**ét** - precisamente, exactamente (PARTICLE) [Griego Koiné / Egipcio Demótico]
 
-## Gobierno, Política y Derecho
+## Actitudinales
 
-- **ahadāt** /a.haˈdaːt/ *(noun)* — tratado, pacto, acuerdo vinculante entre partes
-- **amarwit** /aˈmar.wit/ *(noun)* — decreto, edicto, mandato oficial de la autoridad
-- **dawlakōt** /ˈdaw.la.koːt/ *(noun)* — gobierno, estado, administración del poder público
-- **hapdāta** /hapˈdaː.ta/ *(noun)* — ley, estatuto, norma jurídica
-- **haprat** /hapˈrat/ *(noun)* — juez, magistrado, quien dictamina según la ley
-- **hilifārta** /hi.liˈfaːr.ta/ *(noun)* — alianza, coalición, unión estratégica entre pueblos
-- **ikāpchad** /iˈkaːp.tʃad/ *(noun)* — castigo, pena, sanción por transgresión de la ley
-- **jurmbōn** /dʒurmˈboːn/ *(noun)* — crimen, delito, transgresión grave de la ley
-- **kahyul** /kahˈjul/ *(noun)* — reino, territorio, dominio soberano
-- **magaharb** /ma.ˈɡa.harp/ *(noun)* — guerra, conflicto armado, contienda entre fuerzas
-- **majlisgros** /madʒˈlis.gros/ *(noun)* — asamblea, consejo, reunión deliberativa
-- **māliknīt** /maːˈlik.niːt/ *(noun)* — reina, soberana, monarca
-- **mēimat** /mejˈmat/ *(noun)* — derecho, justicia, lo que corresponde por ley y orden cósmico
-- **nīwtagrong** /ˈniːw.ta.groŋ/ *(noun)* — ciudad, urbe, asentamiento urbano amurallado
-- **rabāji** /raˈbaː.dʒi/ *(noun)* — impuesto, tributo, contribución al estado
-- **romālik** /roˈmaː.lik/ *(noun)* — rey, monarca, soberano de un reino
-- **silmarta** /silˈmar.ta/ *(noun)* — paz, armonía, ausencia de conflicto
-- **tāshhad** /taːʃˈhad/ *(noun)* — frontera, límite, línea divisoria entre territorios
-- **wālrat** /waːlˈrat/ *(noun)* — gobernante, autoridad, quien ejerce el poder
+**-aman** - actitudinal: confianza (AFFIX) [Árabe esotérico / Egipcio Demótico]
+**-anu** - actitudinal: inferido (AFFIX) [Sánscrito Védico / Persa Avéstico / Griego Koiné]
+**-astak** - actitudinal: astral (AFFIX) [Griego Koiné / Sánscrito Védico / Árabe esotérico]
+**-basham** - actitudinal: vergüenza (AFFIX) [Persa Avéstico / Árabe esotérico]
+**-bay** - actitudinal: miedo (AFFIX) [Sánscrito Védico / Persa Avéstico / Griego Koiné]
+**-e** - actitudinal: visual (AFFIX) [Sánscrito Védico / Griego Koiné / Copto Demótico]
+**-elmaš** - actitudinal: esperanza (AFFIX) [Griego Koiné / Árabe esotérico / Copto Sahídico]
+**-ghiras** - actitudinal: envidia (AFFIX) [Persa Avéstico / Árabe esotérico]
+**-hék** - actitudinal: autoridad hierática (AFFIX) [Egipcio Demótico / Persa Avéstico / Sánscrito Védico]
+**-kal** - actitudinal: hipotetico (AFFIX) [Sánscrito Védico / Persa Avéstico / Griego Koiné]
+**-khamar** - actitudinal: melancolía (AFFIX) [Persa Avéstico / Árabe esotérico]
+**-krot** - actitudinal: ira (AFFIX) [Sánscrito Védico / Persa Avéstico / Griego Koiné]
+**-nam** - actitudinal: reverencia (AFFIX) [Sánscrito Védico / Persa Avéstico / Griego Koiné]
+**-nant** - actitudinal: alegría (AFFIX) [Sánscrito Védico / Persa Avéstico / Griego Koiné]
+**-noshám** - actitudinal: nostalgia (AFFIX) [Griego Koiné / Árabe esotérico / Persa]
+**-on** - actitudinal: onirico (AFFIX) [Griego Koiné / Tibetano Clásico]
+**-poyit** - actitudinal: performativo (AFFIX) [Sánscrito Védico / Griego Koiné / Tibetano Clásico]
+**-prem** - actitudinal: amor (AFFIX) [Sánscrito Védico / Persa Avéstico / Griego Koiné]
+**-rak** - actitudinal: destierro, abjuración (AFFIX) [Árabe esotérico / Griego Koiné]
+**-rakh** - actitudinal: deseo (AFFIX) [Árabe esotérico / Egipcio Demótico]
+**-rakham** - actitudinal: compasión (AFFIX) [Árabe esotérico / Persa Avéstico]
+**-ran** - actitudinal: ruego, invocación respetuosa (AFFIX) [Sánscrito Védico / Persa Avéstico / Egipcio Demótico]
+**-rap** - actitudinal: atadura, ligadura ritual (AFFIX) [Sánscrito Védico / Egipcio Demótico / Griego Koiné]
+**-ras** - actitudinal: pasion, entusiasmo (AFFIX) [Sánscrito Védico / Árabe esotérico / Griego Koiné]
+**-salam** - actitudinal: paz (AFFIX) [Árabe esotérico / Griego Koiné]
+**-shant** - actitudinal: calma (AFFIX) [Sánscrito Védico / Persa Avéstico / Griego Koiné]
+**-shok** - actitudinal: tristeza (AFFIX) [Sánscrito Védico / Persa Avéstico / Griego Koiné]
+**-sik** - actitudinal: silencio gnostico (AFFIX) [Árabe esotérico / Griego Koiné]
+**-som** - actitudinal: fisico (AFFIX) [Sánscrito Védico / Griego Koiné / Tibetano Clásico]
+**-sop** - actitudinal: sabiduria profunda (AFFIX) [Griego Koiné / Persa Avéstico]
+**-takh** - actitudinal: sorpresa (AFFIX) [Persa Avéstico / Egipcio Demótico]
+**-tax** - actitudinal: intensidad (AFFIX) [Persa Avéstico / Árabe esotérico]
+**-tup** - actitudinal: desafio (AFFIX) [Árabe esotérico / Persa Avéstico]
+**-viras** - actitudinal: disgusto (AFFIX) [Sánscrito Védico / Persa Avéstico / Griego Koiné]
+**-vismay** - actitudinal: asombro (AFFIX) [Sánscrito Védico / Persa Avéstico / Griego Koiné]
+**-wah** - actitudinal: revelado (AFFIX) [Árabe esotérico / Egipcio Demótico]
+**-wil** - actitudinal: voluntad, determinacion (AFFIX) [Persa Avéstico / Griego Koiné]
+**-zal** - actitudinal: coraje (AFFIX) [Persa Avéstico / Árabe esotérico]
+**-zir** - actitudinal: flujo (AFFIX) [Persa Avéstico / Árabe esotérico]
+**ajtōh** - actitudinal: asombro (NOUN) [Árabe esotérico / Griego Koiné / Copto]
+**sakgal** - actitudinal: serenidad (NOUN) [Árabe esotérico / Griego Koiné]
+**shawpoth** - actitudinal: anhelo (NOUN) [Árabe esotérico / Griego Koiné]
+**shukhar** - actitudinal: gratitud (NOUN) [Árabe esotérico / Griego Koiné]
+**wajtas** - actitudinal: éxtasis (NOUN) [Árabe esotérico / Griego Koiné]
 
-## Interjecciones y Exclamaciones
+## Magia Y Mitologia
 
-- **amen** /ˈa.men/ *(interjection)* — amén (afirmación ritual, cierre consagratorio)
-- **aum** /ˈa.um/ *(interjection)* — om/aum (sonido primordial, mantra)
-- **baruk** /ˈba.ruk/ *(interjection)* — ¡bendito! (declaración de bendición)
-- **halel** /ˈha.lel/ *(interjection)* — ¡aleluya! (alabanza, júbilo)
-- **hina** /ˈhi.na/ *(interjection)* — he aquí (atención visual, demostración)
-- **hál** /ˈhal/ *(interjection)* — he aqui, mira (exclamacion presentativa)
-- **kafa** /ˈka.fa/ *(interjection)* — ¡basta! (finalización, completitud, suficiencia)
-- **la** /ˈla/ *(interjection)* — no (negación, rechazo)
-- **nam** /ˈnam/ *(interjection)* — sí (afirmación, asentimiento)
-- **shalam** /ˈʃa.lam/ *(interjection)* — paz (salutación, bendición)
-- **shama** /ˈʃa.ma/ *(interjection)* — ¡escucha! (atención auditiva, llamado a oír)
-- **wai** /ˈwa.i/ *(interjection)* — ¡ay! (dolor, lamento)
-- **ya** /ˈja/ *(interjection)* — ¡oh! (asombro, vocativo admirativo)
+**ainōr** - Espejo del Mundo (NOUN) [Árabe esotérico / Griego Koiné / Copto]
+**aitēf** - plano etérico / energía vital (NOUN) [Griego Koiné / Copto / Egipcio Demótico]
+**akhásmara** - parásito astral, entidad que drena energía en el plano sutil (NOUN) [Egipcio Demótico / Árabe esotérico / Persa Avéstico]
+**altara** - altar (NOUN) [Griego Koiné / Egipcio Demótico / Sánscrito Védico]
+**anrak** - desterrar (VERB) [Sánscrito Védico / Griego Koiné / Egipcio Demótico]
+**anāhīsūf** - espíritu planetario de Venus, regente del amor, la belleza y la atracción (NOUN) [Persa Avéstico / Persa Avéstico / Árabe esotérico]
+**apnof** - inconsciente (NOUN) [Griego Koiné / Persa Avéstico / Copto Sahídico]
+**ashrem** - verdad/orden cósmico (NOUN) [Avéstico / Sánscrito Védico / Copto Sahídico]
+**astasi** - plano astral / emociones (NOUN) [Griego Koiné / Persa Avéstico / Copto]
+**athama** - athame, daga ritual (NOUN) [Griego Koiné / Egipcio Demótico]
+**atma** - plano espiritual / átmico (NOUN) [Sánscrito Védico / Griego Koiné]
+**atyar** - Templo Interior (NOUN) [Griego Koiné / Sánscrito Védico / Copto]
+**aynōn** - espejo (NOUN) [Árabe esotérico / Copto / Griego Koiné]
+**bafsī** - espiento/aliado (NOUN) [Egipcio Demótico / Avéstico / Griego Koiné]
+**bahrāmsūf** - espíritu planetario de Marte, regente de la fuerza, la guerra y la voluntad (NOUN) [Persa Avéstico / Árabe esotérico]
+**barsōsh** - barrera/istmo (NOUN) [Árabe esotérico / Copto / Griego Koiné]
+**bewīs** - sellar (VERB) [Tibetano Clásico / Sánscrito Védico / Persa Avéstico]
+**binwī** - proteger (VERB) [Tibetano Clásico / Griego Koiné / Árabe esotérico]
+**bomkaš** - Altar primordial (NOUN) [Griego Koiné / Árabe esotérico / Copto]
+**bomnat** - altar (NOUN) [Griego Koiné / Egipcio Demótico]
+**bunous** - plano mental superior / búdico (NOUN) [Sánscrito Védico / Griego Koiné / Tibetano Clásico]
+**būmsūf** - espíritu planetario de la Tierra, regente de lo material, lo denso y lo fértil (NOUN) [Persa Avéstico / Árabe esotérico]
+**chásdruying** - portal dimensional, grieta en el éter que funciona como puerta entre planos (NOUN) [Griego Koiné / Persa Avéstico / Tibetano Clásico]
+**chā** - proteger (VERB) [Egipcio Demótico / Persa Avéstico / Árabe esotérico]
+**coagula** - coagular (VERB) [Griego Koiné / Egipcio Demótico / Sánscrito Védico]
+**dajmol** - demonio, genio espiritual (NOUN) [Griego Koiné / Árabe esotérico / Copto Sahídico]
+**damqírtas** - papiro, rollo de escritura, manuscrito sagrado (NOUN) [Egipcio Demótico / Árabe esotérico]
+**darmut** - Puerta Sellada (NOUN) [Persa Avéstico / Árabe esotérico]
+**darpo** - umbral/portal (NOUN) [Persa Avéstico / Griego Koiné / Copto Sahídico]
+**dayanso** - conciencia interior (NOUN) [Persa Avéstico / Sánscrito Védico / Copto Sahídico]
+**dikmit** - iniciación (NOUN) [Sánscrito Védico / Griego Koiné / Árabe esotérico]
+**druma** - Árbol del Mundo (NOUN) [Griego Koiné / Egipcio Demótico]
+**dze** - purificar ritual (VERB) [Árabe esotérico / Griego Koiné / Egipcio Demótico]
+**dámiuqara** - demiurgo, artífice divino del mundo material (NOUN) [Griego Koiné / Árabe esotérico / Persa Avéstico]
+**firsano** - fuego intelectual (NOUN) [Persa Avéstico / Copto Sahídico / Griego Clásico]
+**garbēb** - Cueva del Renacimiento (NOUN) [Sánscrito Védico / Griego Koiné / Copto]
+**gazámsa** - duende, gnomo, espíritu elemental de la tierra (NOUN) [Griego Koiné / Persa Avéstico / Tibetano Clásico]
+**gesira** - Puente de los Planos (NOUN) [Árabe esotérico / Persa Avéstico]
+**getisō** - material/físico (NOUN) [Persa Avéstico / Griego Koiné / Copto Sahídico]
+**ghul** - sellar (VERB) [Tibetano Clásico / Persa Avéstico / Árabe esotérico]
+**ghēl** - exorcizar (VERB) [Egipcio Demótico / Sánscrito Védico / Griego Koiné]
+**gnosūn** - gnosis/conocimiento directo (NOUN) [Griego Koiné / Copto Sahídico]
+**guršah** - maestro/guía (NOUN) [Sánscrito Védico / Árabe esotérico / Copto Sahídico]
+**heka** - magia, heka, poder mágico primordial (NOUN) [Egipcio Demótico / Copto / Griego Koiné]
+**hikmasōf** - sabiduría (NOUN) [Árabe esotérico / Griego Koiné / Sánscrito Védico]
+**hisopa** - hisopo (NOUN) [Griego Koiné / Egipcio Demótico]
+**homsop** - ofrenda (NOUN) [Sánscrito Védico / Griego Koiné / Copto Sahídico]
+**hormsūf** - espíritu planetario de Júpiter, regente de la sabiduría, la expansión y la realeza (NOUN) [Persa Avéstico / Árabe esotérico]
+**hūrsūf** - espíritu planetario del Sol, espíritu solar, regente del fuego astral y la vitalidad (NOUN) [Persa Avéstico / Árabe esotérico]
+**ichfo** - consagrar (VERB) [Sánscrito Védico / Griego Koiné / Persa Avéstico]
+**ilū** - purificar (VERB) [Sánscrito Védico / Árabe esotérico / Griego Koiné]
+**incensa** - incensario (NOUN) [Griego Koiné / Egipcio Demótico / Sánscrito Védico]
+**kalika** - cáliz (NOUN) [Griego Koiné / Egipcio Demótico]
+**karan** - cargar (VERB) [Sánscrito Védico / Griego Koiné / Egipcio Demótico]
+**karasi** - plano causal / alma superior (NOUN) [Sánscrito Védico / Árabe esotérico / Griego Koiné]
+**kashmana** - templo/centro (NOUN) [Persa Avéstico / Sánscrito Védico / Griego Clásico]
+**kavhīpar** - protección/escudo (NOUN) [Sánscrito Védico / Árabe esotérico / Persa]
+**kavōn** - alma/centro vital (NOUN) [Egipcio Demótico / Avéstico / Copto Sahídico]
+**kaywānsūf** - espíritu planetario de Saturno, regente del tiempo, la estructura y el karma (NOUN) [Persa Avéstico / Árabe esotérico / Árabe esotérico]
+**khi** - romper hechizo (VERB) [Egipcio Demótico / Griego Koiné / Persa Avéstico]
+**khwadoxen** - gloria/luz divina (NOUN) [Persa Avéstico / Griego Clásico / Copto Sahídico]
+**kikluv** - Círculo de Unidad (NOUN) [Griego Koiné / Sánscrito Védico / Copto]
+**kīton** - túnica ritual (NOUN) [Griego Koiné / Egipcio Demótico]
+**lampa** - lamparilla, vela ritual (NOUN) [Griego Koiné / Egipcio Demótico]
+**lapyara** - Laberinto / Espiral iniciática (NOUN) [Griego Koiné / Egipcio Demótico]
+**limu** - encantar (VERB) [Tibetano Clásico / Griego Koiné / Sánscrito Védico]
+**liōd** - disolver (VERB) [Griego Koiné / Egipcio Demótico]
+**malkel** - ángel, mensajero divino (NOUN) [Árabe esotérico / Persa Avéstico / Griego Koiné]
+**mandiks** - palabra-poder (NOUN) [Sánscrito Védico / Árabe esotérico / Persa]
+**mandārk** - círculo/mandala (NOUN) [Sánscrito Védico / Árabe esotérico / Griego Koiné]
+**manēv** - plano mental / pensamiento discursivo (NOUN) [Sánscrito Védico / Griego Koiné / Copto]
+**mayfam** - ilusión, apariencia, manifestación fenoménica (NOUN) [Sánscrito Védico / Griego Koiné / Árabe esotérico]
+**minmēn** - espíritu/mente sutil (NOUN) [Persa Avéstico / Copto Sahídico / Sánscrito Védico]
+**mukfī** - desencantar (VERB) [Egipcio Demótico / Persa Avéstico / Árabe esotérico]
+**mutbem** - sello/marca (NOUN) [Sánscrito Védico / Copto Sahídico / Árabe esotérico]
+**médhya** - meditar, contemplación profunda (VERB) [Copto / Tibetano Clásico / Persa Avéstico]
+**nafso** - sonido primordial (NOUN) [Sánscrito Védico / Griego Koiné / Copto Sahídico]
+**nemau** - memoria/registro (NOUN) [Griego Koiné / Copto Sahídico]
+**nuī** - exorcizar (VERB) [Sánscrito Védico / Tibetano Clásico / Persa Avéstico]
+**onram** - nombre verdadero (NOUN) [Griego Koiné / Copto Sahídico / Árabe esotérico]
+**opsnau** - visión/claridad (NOUN) [Griego Koiné / Copto Sahídico]
+**pagana** - Fuente de la Memoria (NOUN) [Griego Koiné / Egipcio Demótico]
+**paradesh** - Jardín de Contemplación (NOUN) [Griego Koiné / Persa Avéstico]
+**paraka** - purificar (VERB) [Griego Koiné / Egipcio Demótico]
+**parbōs** - proyección (NOUN) [Sánscrito Védico / Griego Koiné / Árabe esotérico]
+**pejlōn** - Velo / Umbral (NOUN) [Griego Koiné / Árabe esotérico / Copto]
+**pentaka** - pentáculo (NOUN) [Griego Koiné / Hebreo / Árabe esotérico]
+**posīdsūn** - espíritu planetario de Neptuno, regente de los abismos, los sueños y lo trascendente (NOUN) [Griego Koiné / Sánscrito Védico / Árabe esotérico]
+**purmōl** - Torre de Vigilancia (NOUN) [Griego Koiné / Copto / Árabe esotérico]
+**pēgnim** - coagular (VERB) [Griego Koiné / Egipcio Demótico]
+**qadesh** - consagrar (VERB) [Árabe esotérico / Hebreo]
+**rabdos** - varita (NOUN) [Griego Koiné / Egipcio Demótico]
+**raskal** - cosmos, orden universal, armonía cósmica (NOUN) [Sánscrito Védico / Árabe esotérico / Persa Avéstico / Griego Koiné]
+**rignōn** - conciencia (NOUN) [Tibetano Clásico / Griego Koiné / Sánscrito Védico]
+**rupnej** - plano físico / mundo material (NOUN) [Sánscrito Védico / Copto / Griego Koiné]
+**samnus** - Océano de Conciencia (NOUN) [Sánscrito Védico / Árabe esotérico / Griego Koiné]
+**samwak** - sincronicidad (NOUN) [Sánscrito Védico / Árabe esotérico / Griego Koiné]
+**sapkād** - eco/resonancia (NOUN) [Sánscrito Védico / Griego Koiné / Árabe esotérico]
+**satpraš** - práctica espiritual, realización, sadhana (NOUN) [Sánscrito Védico / Griego Clásico / Avéstico]
+**senthym** - incensario (NOUN) [Griego Koiné / Egipcio Demótico]
+**seypamu** - sirena, espíritu elemental del agua (NOUN) [Griego Koiné / Persa Avéstico / Copto Sahídico]
+**shamkhak** - sombra/lo oculto (NOUN) [Griego Koiné / Copto Sahídico]
+**shunaf** - vacío/potencial (NOUN) [Sánscrito Védico / Griego Koiné / Árabe esotérico]
+**shābol** - símbolo/signo (NOUN) [Árabe esotérico / Griego Koiné / Copto]
+**sirmytun** - secreto/misterio (NOUN) [Árabe esotérico / Griego Koiné / Sánscrito Védico]
+**solve** - disolver (VERB) [Griego Koiné / Egipcio Demótico / Sánscrito Védico]
+**séshkatip** - escriba, copista de textos sagrados y rituales (NOUN) [Egipcio Demótico / Árabe esotérico]
+**tarper** - punto central/esencia (NOUN) [Copto Sahídico / Griego Koiné]
+**thak** - encantar (VERB) [Persa Avéstico / Tibetano Clásico / Egipcio Demótico]
+**theteš** - ritual (NOUN) [Egipcio Demótico / Griego Koiné / Copto Sahídico]
+**thélōš** - voluntad (NOUN) [Griego Koiné / Copto Sahídico]
+**tigbes** - gota/esencia (NOUN) [Tibetano Clásico / Sánscrito Védico / Griego Koiné]
+**tišpor** - arquetipo (NOUN) [Griego Koiné / Copto / Persa Avéstico]
+**tunika** - túnica ritual (NOUN) [Griego Koiné / Egipcio Demótico / Sánscrito Védico]
+**turmer** - Montaña Cósmica / Eje del Mundo (NOUN) [Persa Avéstico / Griego Koiné / Sánscrito Védico]
+**tēbe** - sacrificar (VERB) [Griego Koiné / Persa Avéstico / Egipcio Demótico]
+**tīrsūf** - espíritu planetario de Mercurio, regente de la comunicación y el ingenio (NOUN) [Persa Avéstico / Persa Avéstico / Árabe esotérico]
+**urānūf** - espíritu planetario de Urano, regente de lo repentino, lo original y lo disruptivo (NOUN) [Griego Koiné / Sánscrito Védico / Árabe esotérico]
+**vayrūt** - silfo, espíritu elemental del aire (NOUN) [Persa Avéstico / Árabe esotérico / Copto Sahídico]
+**vijulta** - universo, totalidad de la existencia (NOUN) [Sánscrito Védico / Árabe esotérico / Griego Koiné / Persa Avéstico]
+**virga** - varita (NOUN) [Griego Koiné / Egipcio Demótico / Sánscrito Védico]
+**višfam** - veneno/sabiduría (NOUN) [Sánscrito Védico / Griego Koiné / Árabe esotérico]
+**wīli** - sacrificar (VERB) [Griego Koiné / Egipcio Demótico / Tibetano Clásico]
+**yohet** - integración (NOUN) [Sánscrito Védico / Griego Koiné / Árabe esotérico]
+**yozev** - unión, integración, yoga (NOUN) [Sánscrito Védico / Griego Koiné / Persa]
+**zīdhū** - invocar (VERB) [Griego Koiné / Egipcio Demótico / Persa Avéstico]
+**árchamaqal** - arcángel, parte de Dios que crea en el plano mental (NOUN) [Griego Koiné / Árabe esotérico / Persa Avéstico]
+**āmo** - adivinar (VERB) [Sánscrito Védico / Egipcio Demótico / Tibetano Clásico]
+**šakdom** - poder, fuerza, energía dinámica (NOUN) [Sánscrito Védico / Griego Koiné / Copto Sahídico]
 
-## Magia y Mitología
+## Tecnologia
 
-- **ainakos** /ˈa.i.na.kos/ *(noun)* — Espejo del Mundo
-- **aither** /ˈa.i.θer/ *(noun)* — plano etérico / energía vital
-- **akhásmara** /ˈa.xas.ma.ra/ *(noun)* — parásito astral, entidad que drena energía en el plano sutil
-- **altara** /ˈal.ta.ra/ *(noun)* — altar (mesa o piedra de ofrenda)
-- **anrak** /ˈan.rak/ *(verb)* — desterrar (verbo ritual)
-- **anus** /ˈa.nus/ *(noun)* — inconsciente
-- **anāhīsūf** /aˈnaː.hiː.suːf/ *(noun)* — espíritu planetario de Venus, regente del amor, la belleza y la atracción
-- **astara** /ˈas.ta.ra/ *(noun)* — plano astral / emociones
-- **athama** /ˈa.θa.ma/ *(noun)* — athame, daga ritual
-- **atma** /ˈat.ma/ *(noun)* — plano espiritual / átmico
-- **atyata** /ˈat.ja.ta/ *(noun)* — Templo Interior
-- **bahrāmsūf** /bahˈraːm.suːf/ *(noun)* — espíritu planetario de Marte, regente de la fuerza, la guerra y la voluntad
-- **bewīs** /ˈbe.wiːs/ *(verb)* — sellar (cerrar portal) - verbo ritual v1.2
-- **binwī** /ˈbi.nwiː/ *(verb)* — proteger (poner resguardo) - verbo ritual v1.2
-- **bomkan** /ˈbom.kan/ *(noun)* — Altar primordial
-- **buda** /ˈbu.da/ *(noun)* — plano mental superior / búdico
-- **bá** /ˈba/ *(noun)* — espiento/aliado
-- **bárzakh** /ˈbar.zax/ *(noun)* — barrera/istmo
-- **bíndu** /ˈbin.du/ *(noun)* — punto central/esencia
-- **būmsūf** /ˈbuːm.suːf/ *(noun)* — espíritu planetario de la Tierra, regente de lo material, lo denso y lo fértil
-- **chásdruying** /ˈtʃas.dru.jiŋ/ *(noun)* — portal dimensional, grieta en el éter que funciona como puerta entre planos
-- **chā** /ˈtʃaː/ *(verb)* — proteger (amparar)
-- **coagula** /ˈco.a.gu.la/ *(verb)* — coagular (operación alquímica)
-- **damqírtas** /damˈkir.tas/ *(noun)* — papiro, rollo de escritura, manuscrito sagrado
-- **darmut** /ˈdar.mut/ *(noun)* — Puerta Sellada
-- **druma** /ˈdru.ma/ *(noun)* — Árbol del Mundo
-- **dze** /ˈʣe/ *(verb)* — purificar ritual (limpiar energético) - verbo ritual v1.2
-- **dámiuqara** /ˈda.mi.u.ka.ra/ *(noun)* — demiurgo, artífice divino del mundo material
-- **dár** /ˈdar/ *(noun)* — umbral/portal
-- **dáyena** /ˈda.je.na/ *(noun)* — conciencia interior
-- **dáymojin** /ˈdaj.mo.jin/ *(noun)* — demonio, genio espiritual (puede ser benéfico o maléfico)
-- **díksha** /ˈdik.ʃa/ *(noun)* — iniciación
-- **fír** /ˈfir/ *(noun)* — fuego intelectual
-- **garfa** /ˈgar.fa/ *(noun)* — Cueva del Renacimiento
-- **gazámsa** /gaˈzam.sa/ *(noun)* — duende, gnomo, espíritu elemental de la tierra
-- **gesira** /ˈge.si.ra/ *(noun)* — Puente de los Planos
-- **ghul** /ˈɣul/ *(verb)* — sellar (cerrar ritual)
-- **ghēl** /ˈɣeːl/ *(verb)* — exorcizar (expulsar entidad) - verbo ritual v1.2
-- **gnósis** /ˈgno.sis/ *(noun)* — gnosis/conocimiento directo
-- **gétik** /ˈge.tik/ *(noun)* — material/físico
-- **gúrú** /ˈgu.ru/ *(noun)* — maestro/guía
-- **heka** /ˈhe.ka/ *(noun)* — magia, heka, poder mágico primordial
-- **hisopa** /ˈhi.so.pa/ *(noun)* — hisopo (aspergillum)
-- **hormsūf** /ˈhorm.suːf/ *(noun)* — espíritu planetario de Júpiter, regente de la sabiduría, la expansión y la realeza
-- **híkma** /ˈhik.ma/ *(noun)* — sabiduría
-- **hóm** /ˈhom/ *(noun)* — ofrenda
-- **hūrsūf** /ˈhuːr.suːf/ *(noun)* — espíritu planetario del Sol, espíritu solar, regente del fuego astral y la vitalidad
-- **ichfo** /ˈitʃ.fo/ *(verb)* — consagrar (dedicar a divinidad) - verbo ritual v1.2
-- **ilū** /ˈi.luː/ *(verb)* — purificar (limpiar ritual)
-- **incensa** /ˈin.cen.sa/ *(noun)* — incensario (recipiente para quemar incienso)
-- **kalika** /ˈka.li.ka/ *(noun)* — cáliz (recipiente ritual)
-- **karan** /ˈka.ran/ *(verb)* — cargar (objeto con energía ritual)
-- **karana** /ˈka.ra.na/ *(noun)* — plano causal / alma superior
-- **kavá** /ka.ˈwa/ *(noun)* — protección/escudo
-- **kaywānsūf** /kajˈwaːn.suːf/ *(noun)* — espíritu planetario de Saturno, regente del tiempo, la estructura y el karma
-- **khi** /ˈxi/ *(verb)* — romper hechizo (desencantar)
-- **khwá** /ˈxwa/ *(noun)* — gloria/luz divina
-- **kiklota** /ˈki.klo.ta/ *(noun)* — Círculo de Unidad
-- **ká** /ˈka/ *(noun)* — alma/centro vital
-- **kásha** /ˈka.ʃa/ *(noun)* — templo/centro
-- **lampa** /ˈlam.pa/ *(noun)* — lamparilla, vela ritual
-- **lapyara** /ˈla.pja.ra/ *(noun)* — Laberinto / Espiral iniciática
-- **limu** /ˈli.mu/ *(verb)* — encantar (hechizar)
-- **malkángra** /ˈmal.kaŋ.gra/ *(noun)* — ángel, mensajero divino (puede ser persona o espíritu)
-- **manasa** /ˈma.na.sa/ *(noun)* — plano mental / pensamiento discursivo
-- **maya** /ˈma.ja/ *(noun)* — ilusión, apariencia, manifestación fenoménica
-- **mnéme** /ˈmne.me/ *(noun)* — memoria/registro
-- **mukfī** /ˈmuk.fiː/ *(verb)* — desencantar (romper hechizo) - verbo ritual v1.2
-- **mulrup** /ˈmul.rup/ *(noun)* — arquetipo
-- **mánthala** /ˈman.θa.la/ *(noun)* — círculo/mandala
-- **mántra** /ˈman.tra/ *(noun)* — palabra-poder
-- **médhya** /ˈme.dja/ *(verb)* — meditar, contemplación profunda
-- **mínok** /ˈmi.nok/ *(noun)* — espíritu/mente sutil
-- **múdra** /ˈmu.dra/ *(noun)* — sello/marca
-- **nuī** /ˈnu.iː/ *(verb)* — exorcizar (expulsar demonio)
-- **náda** /ˈna.da/ *(noun)* — sonido primordial
-- **pagana** /ˈpa.ga.na/ *(noun)* — Fuente de la Memoria
-- **paradesh** /ˈpa.ra.deʃ/ *(noun)* — Jardín de Contemplación
-- **paraka** /ˈpa.ra.ka/ *(verb)* — purificar (verbo ritual)
-- **parisham** /ˈpa.ri.ʃam/ *(noun)* — proyección
-- **pejap** /ˈpe.jap/ *(noun)* — Velo / Umbral
-- **pentaka** /ˈpen.ta.ka/ *(noun)* — pentáculo (disco de cinco puntas)
-- **posīdsūf** /poˈsiːt.suːf/ *(noun)* — espíritu planetario de Neptuno, regente de los abismos, los sueños y lo trascendente
-- **purkap** /ˈpur.kap/ *(noun)* — Torre de Vigilancia
-- **qadesh** /ˈka.deʃ/ *(verb)* — consagrar (verbo ritual)
-- **raskal** /ˈras.kal/ *(noun)* — cosmos, orden universal, armonía cósmica
-- **rupa** /ˈru.pa/ *(noun)* — plano físico / mundo material
-- **ríga** /ˈri.ga/ *(noun)* — conciencia
-- **samalek** /ˈsa.ma.lek/ *(noun)* — sincronicidad
-- **samunda** /ˈsa.mun.da/ *(noun)* — Océano de Conciencia
-- **sat** /ˈsat/ *(noun)* — práctica espiritual, realización, sadhana
-- **shakti** /ˈʃak.ti/ *(noun)* — poder, fuerza, energía dinámica
-- **shám** /ˈʃam/ *(noun)* — sombra/lo oculto
-- **sháp** /ˈʃap/ *(noun)* — símbolo/signo
-- **shúnya** /ˈʃu.nja/ *(noun)* — vacío/potencial
-- **sirra** /ˈsir.ra/ *(noun)* — secreto/misterio
-- **solve** /ˈsol.we/ *(verb)* — disolver (operación alquímica)
-- **sáp** /ˈsap/ *(noun)* — eco/resonancia
-- **séshkatip** /ˈseʃ.ka.tip/ *(noun)* — escriba, copista de textos sagrados y rituales
-- **séypari** /ˈsej.pa.ri/ *(noun)* — sirena, espíritu elemental del agua
-- **thak** /ˈθak/ *(verb)* — encantar (aplicar hechizo) - verbo ritual v1.2
-- **thén** /ˈθen/ *(noun)* — ritual
-- **tunika** /ˈtu.ni.ka/ *(noun)* — túnica ritual
-- **turkos** /ˈtur.kos/ *(noun)* — Montaña Cósmica / Eje del Mundo
-- **tíkle** /ˈti.kle/ *(noun)* — gota/esencia
-- **tēbe** /ˈteː.be/ *(verb)* — sacrificar (ofrendar a deidad) - verbo ritual v1.2
-- **tīrsūf** /ˈtiːr.suːf/ *(noun)* — espíritu planetario de Mercurio, regente de la comunicación y el ingenio
-- **urānsūf** /uˈraːn.suːf/ *(noun)* — espíritu planetario de Urano, regente de lo repentino, lo original y lo disruptivo
-- **vayrūh** /ˈwaj.ruːh/ *(noun)* — silfo, espíritu elemental del aire
-- **vijulta** /vi.ˈjul.ta/ *(noun)* — universo, totalidad de la existencia
-- **virga** /ˈwir.ga/ *(noun)* — varita (instrumento ritual)
-- **vísha** /ˈwi.ʃa/ *(noun)* — veneno/sabiduría
-- **wīli** /ˈwiː.li/ *(verb)* — sacrificar (ofrendar)
-- **yoga** /ˈjo.ga/ *(noun)* — unión, integración, yoga
-- **yóga** /ˈjo.ga/ *(noun)* — integración
-- **zīdhū** /ˈziː.ðuː/ *(verb)* — invocar (llamar entidad) - verbo ritual v1.2
-- **árchamaqal** /ˈar.tʃa.ma.kal/ *(noun)* — arcángel, parte de Dios que crea en el plano mental
-- **ásha** /ˈa.ʃa/ *(noun)* — verdad/orden cósmico
-- **áyna** /ˈaj.na/ *(noun)* — espejo
-- **ónoma** /ˈo.no.ma/ *(noun)* — nombre verdadero
-- **ópsis** /ˈop.sis/ *(noun)* — visión/claridad
-- **āmo** /ˈaː.mo/ *(verb)* — adivinar (predecir futuro) - verbo ritual v1.2
-- **θéle** /ˈθe.le/ *(noun)* — voluntad
+**adark** - herramienta, instrumento, utensilio (NOUN) [Árabe esotérico / Persa Avéstico / Griego Koiné]
+**adrōt** - underline/subrayado (NOUN) [Sánscrito Védico / Griego Koiné / Árabe esotérico]
+**akhal** - undo/deshacer (NOUN) [Griego Koiné / Árabe esotérico]
+**aksigh** - deselect/deseleccionar (NOUN) [Sánscrito Védico / Griego Koiné / Árabe esotérico]
+**amalzul** - cloud/nube (NOUN) [Árabe esotérico / Persa Avéstico]
+**awanswak** - help/ayuda (NOUN) [Árabe esotérico / Egipcio Demótico]
+**bahsan** - search/buscar (NOUN) [Árabe esotérico / Griego Koiné]
+**bashal** - alpha/primera fase (NOUN) [Árabe esotérico / Griego Koiné]
+**bharaf** - cargar (VERB) [Sánscrito Védico / Griego Koiné / Árabe esotérico]
+**branxāt** - error/fallo (NOUN) [Sánscrito Védico / Griego Koiné / Árabe esotérico]
+**buddhimayina** - inteligencia artificial (NOUN) [Sánscrito Védico / Persa Avéstico / Griego Koiné]
+**caray** - ejecutar (VERB) [Sánscrito Védico / Persa Avéstico / Griego Koiné]
+**damwak** - merge/fusión (NOUN) [Árabe esotérico / Persa Avéstico]
+**dasras** - settings/configuración (NOUN) [Persa Avéstico / Árabe esotérico]
+**daybak** - commit/envío (NOUN) [Árabe esotérico / Persa Avéstico]
+**drishar** - escanear (VERB) [Sánscrito Védico / Griego Koiné / Árabe esotérico]
+**duhul** - login/acceso (NOUN) [Árabe esotérico / Persa Avéstico]
+**fahaskan** - review/revisión (NOUN) [Árabe esotérico / Griego Koiné]
+**fakras** - highlight/resaltar (NOUN) [Árabe esotérico / Persa Avéstico]
+**faskhas** - strikethrough/tachado (NOUN) [Árabe esotérico / Griego Koiné]
+**fasnos** - virus/malware (NOUN) [Árabe esotérico / Griego Koiné]
+**firmur** - firewall (NOUN) [Persa Avéstico / Griego Koiné]
+**ganaf** - calcular (VERB) [Sánscrito Védico / Griego Koiné / Árabe esotérico]
+**gavesh** - buscar (VERB) [Sánscrito Védico / Persa Avéstico / Griego Koiné]
+**gharfal** - filter/filtrar (NOUN) [Árabe esotérico / Griego Koiné]
+**guh** - encriptar (VERB) [Sánscrito Védico / Persa Avéstico / Griego Koiné]
+**gupmūs** - privacy/privacidad (NOUN) [Sánscrito Védico / Griego Koiné / Árabe esotérico]
+**harfil** - video (NOUN) [Árabe esotérico / Griego Koiné]
+**harkar** - debug/depuración (NOUN) [Árabe esotérico / Persa Avéstico]
+**harkhas** - play/pausa (NOUN) [Árabe esotérico / Griego Koiné]
+**harsum** - edit/editar (NOUN) [Árabe esotérico / Griego Koiné]
+**hasam** - cut/cortar (NOUN) [Árabe esotérico / Persa Avéstico]
+**hashram** - padding/relleno (NOUN) [Árabe esotérico / Griego Koiné]
+**haszar** - warning/advertencia (NOUN) [Árabe esotérico / Persa Avéstico]
+**hawfash** - margin/margen (NOUN) [Árabe esotérico / Persa Avéstico]
+**hawlas** - about/acerca de (NOUN) [Árabe esotérico / Griego Koiné]
+**hawnik** - antena/receptor (NOUN) [Árabe esotérico / Griego Koiné]
+**himlas** - loading/carga (NOUN) [Árabe esotérico / Griego Koiné]
+**ishra** - cursor/puntero (NOUN) [Árabe esotérico / Persa Avéstico]
+**ishshar** - señal (NOUN) [Árabe esotérico / Persa Avéstico]
+**itrum** - license/licencia (NOUN) [Árabe esotérico / Griego Koiné]
+**jamkhi** - compile/compilar (NOUN) [Árabe esotérico / Griego Koiné]
+**jarah** - drag/arrastrar (NOUN) [Árabe esotérico / Persa Avéstico]
+**jawbal** - response/respuesta (NOUN) [Árabe esotérico / Griego Koiné]
+**kashal** - redo/rehacer (NOUN) [Griego Koiné / Árabe esotérico]
+**kaszah** - cookies (NOUN) [Griego Koiné / Árabe esotérico]
+**katradjah** - volume (NOUN) [Árabe esotérico / Persa Avéstico]
+**khadul** - servidor (NOUN) [Árabe esotérico / Griego Koiné]
+**khalkōmit** - algoritmo (NOUN) [Árabe esotérico / Griego Koiné / Sánscrito Védico]
+**khalras** - background/fondo (NOUN) [Árabe esotérico / Persa Avéstico]
+**khara** - deprecated/obsoleto (NOUN) [Árabe esotérico / Persa Avéstico]
+**kharuk** - font/tipografía (NOUN) [Árabe esotérico / Persa Avéstico]
+**khasluk** - código (NOUN) [Árabe esotérico / Griego Koiné]
+**khasmas** - batería/acumulador (NOUN) [Árabe esotérico / Griego Koiné]
+**khasmem** - cache/memoria temporal (NOUN) [Árabe esotérico / Griego Koiné]
+**khasram** - zoom/ampliar (NOUN) [Árabe esotérico / Griego Koiné]
+**khreyar** - usuario (NOUN) [Griego Koiné / Persa Avéstico]
+**khuras** - logout/salida (NOUN) [Árabe esotérico / Persa Avéstico]
+**kiberfada** - ciberespacio (NOUN) [Griego Koiné / Árabe esotérico]
+**kothzar** - repository/repositorio (NOUN) [Sánscrito Védico / Griego Koiné / Árabe esotérico]
+**kriprām** - criptografía (NOUN) [Griego Koiné / Persa / Árabe esotérico]
+**labhaf** - recibir (VERB) [Sánscrito Védico / Griego Koiné / Árabe esotérico]
+**likhayt** - programar (VERB) [Sánscrito Védico / Griego Koiné / Árabe esotérico]
+**mahway** - delete/eliminar (NOUN) [Egipcio Demótico / Persa Avéstico]
+**margadar** - router (NOUN) [Sánscrito Védico / Persa Avéstico / Griego Koiné]
+**masbal** - contact/contacto (NOUN) [Árabe esotérico / Griego Koiné]
+**mayakhas** - realidad virtual (NOUN) [Sánscrito Védico / Griego Koiné / Árabe esotérico]
+**maylas** - italic/cursiva (NOUN) [Árabe esotérico / Griego Koiné]
+**mets** - borrar (VERB) [Griego Koiné / Egipcio Demótico]
+**mnedhāf** - base de datos (NOUN) [Griego Koiné / Árabe esotérico / Persa]
+**mudr** - imprimir (VERB) [Sánscrito Védico / Persa Avéstico / Griego Koiné]
+**murfar** - header/cabecera (NOUN) [Sánscrito Védico / Griego Koiné / Árabe esotérico]
+**múftōn** - open source/código abierto (NOUN) [Sánscrito Védico / Árabe esotérico / Copto Sahídico]
+**múkral** - main/contenido principal (NOUN) [Sánscrito Védico / Árabe esotérico / Persa]
+**nadkrus** - audio (NOUN) [Sánscrito Védico / Griego Koiné / Árabe esotérico]
+**nakra** - click/pulsar (NOUN) [Árabe esotérico / Persa Avéstico]
+**nasan** - save/guardar (NOUN) [Árabe esotérico / Griego Koiné]
+**nasardam** - deploy/desplegar (NOUN) [Árabe esotérico / Persa Avéstico]
+**navzet** - update/actualización (NOUN) [Sánscrito Védico / Persa / Árabe esotérico]
+**nihal** - notification (NOUN) [Árabe esotérico / Persa Avéstico]
+**nuruphas** - light mode (NOUN) [Sánscrito Védico / Árabe esotérico / Griego Koiné]
+**nuspas** - backup/copia (NOUN) [Árabe esotérico / Persa Avéstico]
+**nusran** - version/versión (NOUN) [Árabe esotérico / Persa Avéstico]
+**parkib** - beta/prueba (NOUN) [Sánscrito Védico / Griego Koiné / Árabe esotérico]
+**parlif** - wrap/ajuste de línea (NOUN) [Sánscrito Védico / Griego Koiné / Árabe esotérico]
+**parplār** - sidebar/lateral (NOUN) [Sánscrito Védico / Griego Koiné / Persa]
+**ployar** - navegador (NOUN) [Griego Koiné / Persa Avéstico]
+**prakrōk** - release/lanzamiento (NOUN) [Sánscrito Védico / Griego Koiné / Árabe esotérico]
+**prardam** - pull request/solicitud (NOUN) [Sánscrito Védico / Persa / Griego Koiné]
+**preṣ** - enviar (VERB) [Sánscrito Védico / Persa Avéstico / Griego Koiné]
+**pundīs** - refresh (NOUN) [Sánscrito Védico / Árabe esotérico / Griego Koiné]
+**punpāda** - redo/rehacer (NOUN) [Sánscrito Védico / Griego Koiné / Árabe esotérico]
+**qalam** - modal/diálogo (NOUN) [Árabe esotérico / Griego Koiné]
+**qamas** - downtime/caída (NOUN) [Árabe esotérico / Griego Koiné]
+**rahlas** - paste/pegar (NOUN) [Árabe esotérico / Griego Koiné]
+**rahzan** - maintenance/mantenimiento (NOUN) [Persa Avéstico / Griego Koiné]
+**raksh** - guardar (VERB) [Sánscrito Védico / Persa Avéstico / Griego Koiné]
+**ramkon** - blockchain (NOUN) [Árabe esotérico / Griego Koiné]
+**ramzak** - contraseña (NOUN) [Árabe esotérico / Griego Koiné]
+**rasdom** - approve/aprobar (NOUN) [Árabe esotérico / Griego Koiné]
+**raslam** - reject/rechazar (NOUN) [Árabe esotérico / Griego Koiné]
+**rasnus** - red (NOUN) [Árabe esotérico / Griego Koiné]
+**rismar** - protocolo (NOUN) [Persa Avéstico / Sánscrito Védico / Griego Koiné]
+**sahalam** - tooltip (NOUN) [Árabe esotérico / Griego Koiné]
+**sahlikh** - eco digital (NOUN) [Árabe esotérico / Griego Koiné]
+**sahshar** - banda ancha (NOUN) [Árabe esotérico / Persa Avéstico]
+**sakram** - stable/estable (NOUN) [Árabe esotérico / Griego Koiné]
+**salwur** - traffic/tráfico (NOUN) [Árabe esotérico / Persa Avéstico]
+**samkas** - bold/negrita (NOUN) [Egipcio Demótico / Árabe esotérico]
+**sammuth** - align/alinéar (NOUN) [Sánscrito Védico / Árabe esotérico / Griego Koiné]
+**samrīt** - settings/ajustes (NOUN) [Sánscrito Védico / Griego Koiné / Árabe esotérico]
+**samtis** - justify/justificar (NOUN) [Sánscrito Védico / Griego Koiné / Árabe esotérico]
+**sangraf** - compilar (VERB) [Sánscrito Védico / Griego Koiné / Árabe esotérico]
+**sayalkhas** - streaming (NOUN) [Árabe esotérico / Griego Koiné]
+**sayalro** - flujo (NOUN) [Árabe esotérico / Griego Koiné]
+**sayfal** - dominio (NOUN) [Árabe esotérico / Griego Koiné]
+**shakza** - branch/rama (NOUN) [Persa Avéstico / Árabe esotérico]
+**shamrupak** - dark mode (NOUN) [Sánscrito Védico / Griego Koiné / Persa Avéstico]
+**sharahzik** - comment/comentario (NOUN) [Árabe esotérico / Persa Avéstico]
+**shashnam** - pantalla (NOUN) [Árabe esotérico / Persa Avéstico]
+**shártá** - terms/términos (NOUN) [Persa Avéstico / Árabe esotérico]
+**sidtij** - success/éxito (NOUN) [Sánscrito Védico / Griego Koiné / Árabe esotérico]
+**silmah** - enlace/hyperlink (NOUN) [Árabe esotérico / Egipcio Demótico]
+**sitār** - uptime/disponibilidad (NOUN) [Sánscrito Védico / Griego Koiné / Árabe esotérico]
+**sual** - query/consulta (NOUN) [Árabe esotérico / Persa Avéstico]
+**surah** - avatar/usuario digital (NOUN) [Persa Avéstico / Árabe esotérico]
+**surak** - image/imagen (NOUN) [Árabe esotérico / Persa Avéstico]
+**suwar** - copy/copiar (NOUN) [Árabe esotérico / Persa Avéstico]
+**svaktēk** - copyright (NOUN) [Sánscrito Védico / Griego Koiné / Árabe esotérico]
+**sīmart** - border/borde (NOUN) [Sánscrito Védico / Persa / Árabe esotérico]
+**sūmāf** - info/información (NOUN) [Sánscrito Védico / Árabe esotérico / Griego Koiné]
+**takhkron** - ping/latencia (NOUN) [Árabe esotérico / Griego Koiné]
+**tamlas** - scroll/desplazar (NOUN) [Árabe esotérico / Griego Koiné]
+**tarkah** - drop/soltar (NOUN) [Persa Avéstico / Árabe esotérico]
+**ukhnus** - nodo (NOUN) [Árabe esotérico / Griego Koiné]
+**upāf** - API (NOUN) [Sánscrito Védico / Griego Koiné / Árabe esotérico]
+**varkraun** - color (NOUN) [Sánscrito Védico / Griego Koiné / Árabe esotérico]
+**vibhach** - analizar (VERB) [Sánscrito Védico / Griego Koiné / Árabe esotérico]
+**vigrūs** - conflict/conflicto (NOUN) [Sánscrito Védico / Griego Koiné / Árabe esotérico]
+**vishfīr** - malware (NOUN) [Sánscrito Védico / Árabe esotérico / Griego Koiné]
+**vishlil** - analytics/analítica (NOUN) [Sánscrito Védico / Árabe esotérico / Griego Koiné]
+**vyutarb** - sort/ordenar (NOUN) [Sánscrito Védico / Griego Koiné / Árabe esotérico]
+**wahram** - badge/indicador (NOUN) [Árabe esotérico / Griego Koiné]
+**wajahrum** - interfaz (NOUN) [Árabe esotérico / Griego Koiné]
+**waksar** - proxy (NOUN) [Árabe esotérico / Persa Avéstico]
+**warnas** - grid/cuadrícula (NOUN) [Árabe esotérico / Griego Koiné]
+**wastal** - center/centro (NOUN) [Árabe esotérico / Persa Avéstico]
+**yalsam** - left/izquierda (NOUN) [Árabe esotérico / Egipcio Demótico]
+**yasmin** - right/derecha (NOUN) [Árabe esotérico / Griego Koiné]
+**yunj** - conectar (VERB) [Sánscrito Védico / Persa Avéstico / Griego Koiné]
+**zankal** - theme/tema visual (NOUN) [Persa Avéstico / Árabe esotérico]
+**zuhrus** - ventana (NOUN) [Árabe esotérico / Persa Avéstico]
 
-## Medicina y Salud
+## Tiempo Domestico
 
-- **akopa** /ˈa.ko.pa/ *(noun)* — amputar/cortar miembro
-- **alama** /ˈa.la.ma/ *(noun)* — dolor
-- **ashap** /ˈa.ʃap/ *(noun)* — herborista/boticario
-- **asip** /ˈa.sip/ *(noun)* — médico/curandero
-- **dawa** /ˈda.wa/ *(noun)* — medicina/remedio
-- **enka** /ˈen.ka/ *(noun)* — cerebro (órgano del pensamiento y sede de la mente)
-- **farmak** /ˈfar.mak/ *(noun)* — veneno/toxina
-- **gnosa** /ˈgno.sa/ *(noun)* — diagnosticar
-- **iksir** /ˈik.sir/ *(noun)* — elixir/pócima
-- **karda** /ˈkar.da/ *(noun)* — corazón (órgano central de la circulación y centro emocional)
-- **kauta** /ˈka.u.ta/ *(noun)* — cauterizar/quemar
-- **khenu** /ˈxe.nu/ *(noun)* — herida/llaga
-- **kibda** /ˈkib.da/ *(noun)* — hígado (órgano de la sangre y la bilis)
-- **maida** /ˈma.i.da/ *(noun)* — estómago (órgano de la digestión)
-- **merhet** /ˈmer.het/ *(noun)* — ungüento/pomada
-- **mysal** /ˈmjsal/ *(noun)* — músculo (tejido contráctil del cuerpo)
-- **nabda** /ˈnab.da/ *(noun)* — pulso (latido arterial palpable)
-- **nafas** /ˈna.fas/ *(noun)* — respiración/espíritu vital (aliento, prāṇa)
-- **nerwa** /ˈne.rwa/ *(noun)* — nervio (haz conductor de señales)
-- **nifra** /ˈni.fra/ *(noun)* — riñón (órgano de la filtración)
-- **nosa** /ˈno.sa/ *(noun)* — enfermedad/peste
-- **oedma** /ˈo.ed.ma/ *(noun)* — hinchazón/inflamación
-- **ostun** /ˈos.tun/ *(noun)* — hueso (estructura rígida del esqueleto)
-- **pyona** /ˈpjo.na/ *(noun)* — infección/pus
-- **sekta** /ˈsek.ta/ *(noun)* — cirugía/incisión
-- **shemem** /ˈʃe.mem/ *(noun)* — fiebre/calentura
-- **tenar** /ˈte.nar/ *(noun)* — tendón (tejido que une músculo a hueso)
-- **thera** /ˈθe.ra/ *(noun)* — curar/sanar
-- **téryak** /ˈte.rjak/ *(noun)* — antídoto/contraveneno
-- **wilat** /ˈwi.lat/ *(noun)* — parto/nacimiento (evento de dar a luz)
-- **yiya** /ˈji.ja/ *(noun)* — salud/sanidad
+**amas** - ayer (NOUN) [Árabe esotérico / Egipcio Demótico]
+**anzumera** - viernes (NOUN) [Persa Avéstico / Árabe esotérico / Griego Koiné]
+**apt** - nunca (NOUN) [Árabe esotérico / Persa Avéstico]
+**ashar** - tarde (NOUN) [Árabe esotérico / Persa Avéstico]
+**atap** - tarde (NOUN) [Árabe esotérico / Egipcio Demótico]
+**atáp** - tarde (ADVERB) [Árabe esotérico / Persa Avéstico]
+**bakar** - temprano (NOUN) [Árabe esotérico / Persa Avéstico]
+**bakat** - después (NOUN) [Persa Avéstico / Árabe esotérico]
+**batzam** - a veces (NOUN) [Árabe esotérico / Persa Avéstico]
+**bákda** - despues (ADVERB) [Árabe esotérico / Persa Avéstico]
+**bákra** - temprano (ADVERB) [Árabe esotérico / Persa Avéstico]
+**bátzam** - a veces (ADVERB) [Persa Avéstico / Árabe esotérico]
+**daim** - siempre (NOUN) [Árabe esotérico / Persa Avéstico]
+**duprō** - media mañana, mañana avanzada, horas de luz plena (NOUN) [Sánscrito Védico / Árabe esotérico / Griego Koiné]
+**dáim** - siempre (ADVERB) [Árabe esotérico / Persa Avéstico]
+**fajar** - alba, amanecer, aurora, primera luz del día (NOUN) [Árabe esotérico / Persa Avéstico]
+**ghasak** - oscuridad nocturna, tinieblas, noche cerrada (NOUN) [Sánscrito Védico / Árabe esotérico / Griego Koiné]
+**ghat** - mañana (NOUN) [Árabe esotérico / Persa Avéstico]
+**ghurup** - ocaso, puesta del sol, sol poniente, atardecer (NOUN) [Árabe esotérico / Griego Koiné]
+**hermarmera** - martes (NOUN) [Egipcio Demótico / Árabe esotérico / Tibetano Clásico]
+**hormusmera** - jueves (NOUN) [Persa Avéstico / Griego Koiné / Árabe esotérico]
+**keyzumera** - sábado (NOUN) [Persa Avéstico / Árabe esotérico / Griego Koiné]
+**kharip** - otoño (NOUN) [Árabe esotérico / Persa Avéstico]
+**mahselmera** - lunes (NOUN) [Persa Avéstico / Griego Koiné / Árabe esotérico]
+**nahar** - mediodía (NOUN) [Árabe esotérico / Persa Avéstico]
+**nun** - ahora (NOUN) [Griego Koiné / Árabe esotérico]
+**qábal** - antes (ADVERB) [Árabe esotérico / Persa Avéstico]
+**qápal** - antes (NOUN) [Árabe esotérico / Persa Avéstico]
+**rabi** - primavera (NOUN) [Árabe esotérico / Persa Avéstico]
+**sabu** - semana (NOUN) [Árabe esotérico / Egipcio Demótico]
+**sahar** - madrugada, antes del alba, pre-amanecer (NOUN) [Árabe esotérico / Persa Avéstico]
+**sap** - verano (NOUN) [Egipcio Demótico / Árabe esotérico]
+**sapkhah** - mañana (NOUN) [Árabe esotérico / Persa Avéstico]
+**shafak** - crepúsculo, anochecer, penumbra vespertina (NOUN) [Árabe esotérico / Griego Koiné]
+**shapzir** - medianoche (NOUN) [Persa Avéstico / Árabe esotérico]
+**shuruk** - orto, salida del sol, sol naciente (NOUN) [Árabe esotérico / Griego Koiné]
+**suryamera** - domingo (NOUN) [Sánscrito Védico / Persa Avéstico / Griego Koiné]
+**thutirmera** - miércoles (NOUN) [Egipcio Demótico / Persa Avéstico / Griego Koiné]
+**yawam** - hoy (NOUN) [Árabe esotérico / Persa Avéstico]
+**ápda** - nunca (ADVERB) [Persa Avéstico / Árabe esotérico]
 
-## Naturaleza y Elementos
+## Medicina Y Salud
 
-- **anzu** /ˈan.zu/ *(noun)* — Venus (planeta del lucero)
-- **apa** /ˈa.pa/ *(noun)* — agua
-- **barkhas** /ˈbar.xas/ *(noun)* — relámpago
-- **basma** /ˈbas.ma/ *(noun)* — ceniza
-- **bumi** /ˈbu.mi/ *(noun)* — tierra (suelo)
-- **burkan** /ˈbur.kan/ *(noun)* — volcán, montaña de fuego
-- **dah** /ˈdah/ *(noun)* — quemar
-- **dip** /ˈdip/ *(noun)* — isla, ínsula
-- **diwa** /ˈdi.wa/ *(noun)* — cielo
-- **duli** /ˈdu.li/ *(noun)* — polvo
-- **duma** /ˈdu.ma/ *(noun)* — humo
-- **fir** /ˈfir/ *(noun)* — fuego
-- **ghas** /ˈɣas/ *(noun)* — pastizal, sabana, pradera
-- **ghat** /ˈɣat/ *(noun)* — valle, cañada, depresión
-- **ghor** /ˈɣor/ *(noun)* — barranco, abismo, precipicio, sima
-- **ghuras** /ˈɣu.ras/ *(noun)* — atardecer
-- **gir** /ˈgir/ *(noun)* — montaña, monte, elevación rocosa
-- **giyah** /ˈɡi.jah/ *(noun)* — pasto/hierba
-- **grakaw** /ˈgra.kaw/ *(noun)* — planeta, cuerpo celeste errante
-- **guh** /ˈguh/ *(noun)* — cueva, caverna, gruta
-- **harada** /ˈha.ra.da/ *(noun)* — lago
-- **hermar** /ˈher.mar/ *(noun)* — Marte (planeta rojo)
-- **him** /ˈhim/ *(noun)* — hielo
-- **hima** /ˈhi.ma/ *(noun, verb)* — nieve, helar, congelar
-- **hormus** /ˈhor.mus/ *(noun)* — Júpiter (planeta mayor)
-- **jas** /ˈjas/ *(noun)* — isla
-- **kanan** /ˈka.nan/ *(noun)* — selva, jungla, monte espeso
-- **kash** /ˈkaʃ/ *(noun)* — costa, orilla, litoral
-- **keyzu** /ˈkej.zu/ *(noun)* — Saturno (planeta distante)
-- **khamzir** /ˈxam.zir/ *(noun)* — arcoíris
-- **khan** /ˈxan/ *(noun)* — cañón, garganta, desfiladero
-- **khir** /ˈxir/ *(noun)* — bosque
-- **lona** /ˈlo.na/ *(noun)* — sal
-- **mahsel** /ˈmah.sel/ *(noun)* — luna
-- **mauj** /ˈma.uj/ *(noun)* — ola
-- **megha** /ˈme.ɣa/ *(noun)* — nube
-- **mukh** /ˈmux/ *(noun)* — bahía, ensenada, golfo pequeño
-- **nakbursa** /nak.ˈbur.sa/ *(noun)* — constelación, grupo de estrellas
-- **nat** /ˈnat/ *(noun)* — río, corriente de agua
-- **nihar** /ˈni.har/ *(noun)* — niebla
-- **nur** /ˈnur/ *(noun)* — luz, claridad, iluminación
-- **parzam** /ˈpar.zam/ *(noun)* — fruta
-- **pawan** /ˈpa.wan/ *(noun)* — viento
-- **pet** /ˈpet/ *(noun)* — llanura, planicie, campo abierto
-- **radar** /ˈra.dar/ *(noun)* — trueno
-- **rish** /ˈriʃ/ *(noun)* — raíz
-- **rúng** /ˈruŋ/ *(noun)* — energía vital/viento
-- **sagar** /ˈsa.gar/ *(noun)* — océano profundo, alta mar, abismo marino
-- **sah** /ˈsah/ *(noun)* — desierto, yermo, árido
-- **sahrah** /ˈsah.rah/ *(noun)* — desierto
-- **sakh** /ˈsax/ *(noun)* — campo
-- **samuda** /ˈsa.mu.da/ *(noun)* — mar
-- **samut** /ˈsa.mut/ *(noun)* — mar, océano, gran masa de agua
-- **sant** /ˈsant/ *(noun)* — estrecho, paso angosto, canal
-- **sar** /ˈsar/ *(noun)* — lago, laguna, espejo de agua
-- **shakh** /ˈʃax/ *(noun)* — rama
-- **shal** /ˈʃal/ *(noun)* — cascada, salto de agua, catarata
-- **shap** /ˈʃap/ *(noun)* — costa/orilla
-- **shaprak** /ˈʃap.rak/ *(noun)* — amanecer
-- **sher** /ˈʃer/ *(noun)* — cordillera, sierra, cadena montañosa
-- **shikh** /ˈʃix/ *(noun)* — pico, cumbre, cima
-- **shila** /ˈʃi.la/ *(noun)* — piedra
-- **shinshar** /ˈʃin.ʃar/ *(noun)* — árbol
-- **sika** /ˈsi.ka/ *(noun)* — arena
-- **sota** /ˈso.ta/ *(noun)* — rio
-- **surya** /ˈsu.rja/ *(noun)* — sol
-- **takham** /ˈta.xam/ *(noun)* — semilla
-- **tal** /ˈtal/ *(noun)* — colina
-- **tara** /ˈta.ra/ *(noun)* — estrella
-- **thil** /ˈθil/ *(noun)* — colina, loma, altozano
-- **thutir** /ˈθu.tir/ *(noun)* — Mercurio (planeta mensajero)
-- **wakhi** /ˈwak.hi/ *(noun)* — valle
-- **walgar** /ˈwal.ɡar/ *(noun)* — hoja
-- **wana** /ˈwa.na/ *(noun)* — bosque, arboleda, floresta
-- **war** /ˈwar/ *(noun)* — flor
-- **warsha** /ˈwar.ʃa/ *(noun)* — lluvia
-- **zal** /ˈzal/ *(noun)* — sombra
+**akopa** - amputar/cortar miembro (NOUN) [Griego Koiné / Sánscrito Védico]
+**alama** - dolor (NOUN) [Griego Koiné / Árabe esotérico]
+**ashap** - herborista/boticario (NOUN) [Árabe esotérico / Persa Avéstico]
+**asip** - médico/curandero (NOUN) [Egipcio Demótico / Árabe esotérico]
+**dawa** - medicina/remedio (NOUN) [Árabe esotérico / Persa Avéstico]
+**enka** - cerebro (NOUN) [Griego Koiné / Árabe esotérico]
+**farmak** - veneno/toxina (NOUN) [Griego Koiné / Egipcio Demótico]
+**gnosa** - diagnosticar (NOUN) [Griego Koiné / Árabe esotérico]
+**iksir** - elixir/pócima (NOUN) [Árabe esotérico / Griego Koiné]
+**karda** - corazón (NOUN) [Sánscrito Védico / Griego Koiné / Árabe esotérico]
+**kautas** - cauterizar/quemar (NOUN) [Sánscrito Védico / Griego Koiné / Árabe esotérico]
+**khenu** - herida/llaga (NOUN) [Egipcio Demótico / Griego Koiné]
+**kibda** - hígado (NOUN) [Sánscrito Védico / Griego Koiné / Árabe esotérico]
+**maida** - estómago (NOUN) [Sánscrito Védico / Griego Koiné / Árabe esotérico]
+**merhet** - ungüento/pomada (NOUN) [Egipcio Demótico / Griego Koiné]
+**mysal** - músculo (NOUN) [Griego Koiné / Árabe esotérico]
+**nabda** - pulso (NOUN) [Griego Koiné / Árabe esotérico]
+**nafas** - respiración/espíritu vital (NOUN) [Sánscrito Védico / Griego Koiné / Árabe esotérico]
+**nerwa** - nervio (NOUN) [Griego Koiné / Árabe esotérico]
+**nifra** - riñón (NOUN) [Griego Koiné / Árabe esotérico]
+**nosa** - enfermedad/peste (NOUN) [Griego Koiné / Árabe esotérico]
+**oedma** - hinchazón/inflamación (NOUN) [Griego Koiné / Árabe esotérico]
+**ostun** - hueso (NOUN) [Persa Avéstico / Griego Koiné / Egipcio Demótico]
+**pyona** - infección/pus (NOUN) [Griego Koiné / Egipcio Demótico]
+**sekta** - cirugía/incisión (NOUN) [Griego Koiné / Sánscrito Védico]
+**shemem** - fiebre/calentura (NOUN) [Egipcio Demótico / Griego Koiné]
+**tenar** - tendón (NOUN) [Griego Koiné / Egipcio Demótico]
+**thera** - curar/sanar (NOUN) [Griego Koiné / Egipcio Demótico]
+**téryak** - antídoto/contraveneno (NOUN) [Griego Koiné / Persa Avéstico]
+**wilat** - parto/nacimiento (NOUN) [Griego Koiné / Árabe esotérico]
+**yiya** - salud/sanidad (NOUN) [Griego Koiné / Egipcio Demótico]
 
-## Números
+## Emociones Y Estados Afectivos
 
-- **chatúr** /tʃa.ˈtur/ *(numeral)* — cuatro
-- **dvi** /ˈdwi/ *(numeral)* — dos
-- **dásha** /ˈda.ʃa/ *(numeral)* — diez
-- **házar** /ˈha.zar/ *(numeral)* — mil
-- **náva** /ˈna.wa/ *(numeral)* — nueve
-- **páncha** /ˈpan.tʃa/ *(numeral)* — cinco
-- **shásh** /ˈʃaʃ/ *(numeral)* — seis
-- **sháta** /ˈʃa.ta/ *(numeral)* — cien
-- **sápta** /ˈsap.ta/ *(numeral)* — siete
-- **tiri** /ˈti.ri/ *(numeral)* — tres
-- **áshta** /ˈaʃ.ta/ *(numeral)* — ocho
-- **éka** /ˈe.ka/ *(numeral)* — uno
+**admāj** - admirar (VERB) [Sánscrito Védico / Griego Koiné / Árabe esotérico]
+**asha** - esperanza, expectativa, anhelo positivo (NOUN) [Sánscrito Védico / Persa Avéstico / Griego Koiné]
+**bat** - confusión, desconcierto, perplejidad (NOUN) [Sánscrito Védico / Árabe esotérico / Griego Koiné]
+**baya** - miedo, temor, pavor (NOUN) [Sánscrito Védico / Persa Avéstico / Griego Koiné]
+**bhaykhōf** - temer (VERB) [Sánscrito Védico / Griego Koiné / Árabe esotérico]
+**chint** - ansiedad, preocupación, inquietud (NOUN) [Sánscrito Védico / Persa Avéstico / Griego Koiné]
+**daya** - compasión, piedad, misericordia (NOUN) [Sánscrito Védico / Persa Avéstico / Griego Koiné]
+**dukh** - tristeza, aflicción, pesar, sufrimiento (NOUN) [Sánscrito Védico / Persa Avéstico / Griego Koiné]
+**dveshret** - odiar (VERB) [Sánscrito Védico / Griego Koiné / Persa]
+**garbakh** - enorgullecerse (VERB) [Sánscrito Védico / Griego Koiné / Árabe esotérico]
+**garp** - orgullo, soberbia, dignidad (NOUN) [Sánscrito Védico / Persa Avéstico / Griego Koiné]
+**ghen** - repulsión, asco, aversión intensa (NOUN) [Sánscrito Védico / Griego Koiné / Persa Avéstico]
+**hani** - nostalgia, melancolía, añoranza (NOUN) [Árabe esotérico / Persa Avéstico]
+**irash** - envidia, celos, resentimiento (NOUN) [Sánscrito Védico / Árabe esotérico / Griego Koiné]
+**irshar** - envidiar (VERB) [Sánscrito Védico / Griego Koiné / Árabe esotérico]
+**kam** - deseo sexual, pasión, lujuria, excitación erótica (NOUN) [Sánscrito Védico / Persa Avéstico / Griego Koiné / Persa Avéstico]
+**khet** - aburrimiento, hastío, tedio, desgano (NOUN) [Sánscrito Védico / Griego Koiné / Persa Avéstico]
+**krit** - gratitud, agradecimiento, reconocimiento (NOUN) [Sánscrito Védico / Griego Koiné / Persa Avéstico]
+**kshamāf** - perdonar (VERB) [Sánscrito Védico / Griego Koiné / Árabe esotérico]
+**kāmah** - desear (VERB) [Sánscrito Védico / Griego Koiné / Árabe esotérico]
+**lachkhal** - avergonzarse (VERB) [Sánscrito Védico / Griego Koiné / Árabe esotérico]
+**lal** - ternura, dulzura, cariño, delicadeza afectiva (NOUN) [Sánscrito Védico / Persa Avéstico / Griego Koiné]
+**lash** - vergüenza, pudor, bochorno (NOUN) [Sánscrito Védico / Árabe esotérico / Griego Koiné]
+**maun** - soledad, aislamiento, retiro solitario (NOUN) [Sánscrito Védico / Griego Koiné / Persa Avéstico]
+**metandam** - arrepentirse (VERB) [Griego Koiné / Sánscrito Védico / Árabe esotérico]
+**pap** - culpa, pecado, transgresión (NOUN) [Sánscrito Védico / Persa Avéstico / Griego Koiné]
+**prefesh** - amar (VERB) [Sánscrito Védico / Griego Koiné / Persa]
+**prem** - amor, afecto profundo, devoción amorosa (NOUN) [Sánscrito Védico / Persa Avéstico / Griego Koiné]
+**rosh** - enojo, ira, furia, cólera (NOUN) [Sánscrito Védico / Persa Avéstico / Griego Koiné]
+**sandesh** - dudar (VERB) [Sánscrito Védico / Griego Koiné / Árabe esotérico]
+**santi** - paz, serenidad, sosiego, tranquilidad profunda (NOUN) [Sánscrito Védico / Griego Koiné / Persa Avéstico / Persa Avéstico]
+**shak** - sospecha, duda, desconfianza, recelo (NOUN) [Sánscrito Védico / Árabe esotérico / Griego Koiné]
+**shokā** - lamentar (VERB) [Sánscrito Védico / Griego Koiné / Árabe esotérico]
+**sil** - calma, tranquilidad, sosiego, placidez (NOUN) [Griego Koiné / Sánscrito Védico / Persa Avéstico]
+**sukha** - felicidad, dicha, bienestar, júbilo (NOUN) [Sánscrito Védico / Persa Avéstico / Griego Koiné]
+**tham** - asombro, sorpresa, estupefacción (NOUN) [Griego Koiné / Árabe esotérico]
+**tiraskār** - despreciar (VERB) [Sánscrito Védico / Griego Koiné / Árabe esotérico]
+**utsarif** - celebrar (VERB) [Sánscrito Védico / Griego Koiné / Árabe esotérico]
+**vir** - valentía, coraje, heroicidad, bravura (NOUN) [Sánscrito Védico / Persa Avéstico / Griego Koiné / Persa Avéstico]
+**virakh** - anhelar (VERB) [Sánscrito Védico / Griego Koiné / Árabe esotérico]
+**vish** - confianza, fe, seguridad interior (NOUN) [Sánscrito Védico / Griego Koiné / Persa Avéstico]
+**vishwās** - confiar (VERB) [Sánscrito Védico / Persa Avéstico / Griego Koiné]
+**vismayach** - sorprenderse (VERB) [Sánscrito Védico / Griego Koiné / Árabe esotérico]
+**āsh** - esperar (VERB) [Sánscrito Védico / Persa Avéstico / Griego Koiné]
 
-## Onomástica
+## Comida Y Cocina
 
-- **bīj** /ˈbiːj/ *(particle)* — semilla, nombre esencial (capa I)
-- **gup** /ˈgup/ *(particle)* — oculto, criptónimo, nombre cifrado (capa IV)
-- **nūm** /ˈnuːm/ *(particle)* — forma del nombre, nombre personal (capa II)
-- **samanta** /ˈsa.man.ta/ *(particle)* — función, oficio mágico, título (capa III)
+**ashi** - cena (NOUN) [Griego Koiné / Árabe esotérico]
+**bayda** - huevo (NOUN) [Griego Koiné / Árabe esotérico]
+**bishram** - carne, vianda, alimento cárnico (NOUN) [Sánscrito Védico / Griego Koiné / Árabe esotérico]
+**bris** - freír, asar, cocinar en grasa o fuego directo (VERB) [Sánscrito Védico / Persa Avéstico / Griego Koiné]
+**chur** - cuchillo, hoja cortante, cuchilla (NOUN) [Sánscrito Védico / Persa Avéstico / Griego Koiné]
+**dahul** - escaldar (VERB) [Sánscrito Védico / Persa Avéstico / Griego Koiné]
+**dal** - legumbre, lenteja, leguminosa (NOUN) [Sánscrito Védico / Persa Avéstico / Griego Koiné]
+**digh** - olla, caldero, pote, marmita (NOUN) [Persa Avéstico / Árabe esotérico]
+**fatur** - desayuno (NOUN) [Griego Koiné / Árabe esotérico]
+**ghada** - almuerzo (NOUN) [Sánscrito Védico / Griego Koiné / Árabe esotérico]
+**ghristal** - glasear (VERB) [Sánscrito Védico / Griego Koiné / Árabe esotérico]
+**harip** - picante (NOUN) [Sánscrito Védico / Griego Koiné / Árabe esotérico]
+**jos** - hambre, inanición, apetito intenso (NOUN) [Árabe esotérico / Griego Koiné]
+**khalip** - leche, lácteo, producto lácteo (NOUN) [Árabe esotérico / Persa Avéstico]
+**kharande** - rallar (VERB) [Sánscrito Védico / Griego Koiné / Persa]
+**khupsa** - pan, alimento básico de trigo o cereal (NOUN) [Árabe esotérico / Griego Koiné]
+**khātrōf** - comida, alimento, vianda, sustento (NOUN) [Sánscrito Védico / Árabe esotérico / Griego Koiné]
+**kirfa** - canela (NOUN) [Sánscrito Védico / Griego Koiné / Persa Avéstico]
+**kirīd** - cortar (VERB) [Sánscrito Védico / Griego Koiné / Persa]
+**kvathelchosh** - hervir (VERB) [Sánscrito Védico / Griego Koiné / Persa]
+**lapan** - queso, producto lácteo fermentado sólido (NOUN) [Árabe esotérico / Persa Avéstico]
+**lunāk** - marinar (VERB) [Sánscrito Védico / Griego Koiné / Árabe esotérico]
+**madhur** - dulce (NOUN) [Sánscrito Védico / Griego Koiné / Árabe esotérico]
+**mandayf** - pochar (VERB) [Sánscrito Védico / Griego Koiné / Árabe esoterico]
+**mardach** - amasar (VERB) [Sánscrito Védico / Griego Koiné / Árabe esotérico]
+**maric** - pimienta (NOUN) [Sánscrito Védico / Griego Koiné / Árabe esotérico]
+**mast** - yogur, leche fermentada, cuajada (NOUN) [Persa Avéstico / Árabe esotérico]
+**mathaf** - batir (VERB) [Sánscrito Védico / Griego Koiné / Árabe esotérico]
+**mayan** - vino, bebida fermentada, licor (NOUN) [Persa Avéstico / Griego Koiné]
+**milak** - cuchara (NOUN) [Griego Koiné / Árabe esotérico]
+**mistan** - mezclar (VERB) [Sánscrito Védico / Griego Koiné / Persa]
+**murak** - caldo, sopa, cocido, guiso líquido (NOUN) [Árabe esotérico / Griego Koiné]
+**oris** - arroz, cereal, grano (NOUN) [Griego Koiné / Persa Avéstico]
+**pakar** - hornear (VERB) [Sánscrito Védico / Persa Avéstico / Griego Koiné]
+**pakhtan** - cocinar, preparar alimentos, guisar (VERB) [Sánscrito Védico / Griego Koiné / Persa]
+**patarnā** - plato, vasija, recipiente, cuenco (NOUN) [Sánscrito Védico / Griego Koiné / Árabe esotérico]
+**plavash** - saltear (VERB) [Sánscrito Védico / Griego Koiné / Árabe esoterico]
+**risk** - sustento, provisión, alimento diario, pan de cada día (NOUN) [Árabe esotérico / Griego Koiné]
+**sakar** - azúcar (NOUN) [Sánscrito Védico / Árabe esotérico / Persa Avéstico]
+**sapdar** - verdura, vegetal, hortaliza, legumbre verde (NOUN) [Persa Avéstico / Árabe esotérico]
+**sarik** - gratinar (VERB) [Sánscrito Védico / Persa Avéstico / Griego Koiné]
+**shahat** - miel, dulce natural, néctar (NOUN) [Árabe esotérico / Persa Avéstico]
+**shauka** - tenedor (NOUN) [Griego Koiné / Árabe esotérico]
+**surakh** - fermentar (VERB) [Sánscrito Védico / Griego Koiné / Árabe esotérico]
+**swat** - sabor, gusto, sabor agradable, condimento (NOUN) [Sanscrito/Griego]
+**swatam** - sabor, gusto, sabor agradable, condimento (NOUN) [Sánscrito Védico / Griego Koiné / Árabe esotérico]
+**tamar** - dátil, fruta seca, fruto deshidratado (NOUN) [Árabe esotérico / Persa Avéstico]
+**tanur** - horno, fogón, lugar de cocción (NOUN) [Árabe esotérico / Persa Avéstico]
+**tesh** - sed (NOUN) [Persa Avéstico / Árabe esotérico]
+**tuvader** - pelar (VERB) [Sánscrito Védico / Griego Koiné / Árabe esotérico]
+**zayat** - aceite, grasa vegetal, óleo (NOUN) [Árabe esotérico / Persa Avéstico]
+**zubda** - mantequilla (NOUN) [Sánscrito Védico / Griego Koiné / Árabe esotérico]
 
-## Personas y Parentesco
+## Vivienda Y Arquitectura
 
-- **adar** /ˈa.dar/ *(noun)* — cuñado
-- **adarī** /ˈa.da.riː/ *(noun)* — cuñada
-- **adelp** /ˈa.delp/ *(noun)* — hermana
-- **adelpmas** /a.ˈdelp.mas/ *(noun)* — hermana mayor
-- **adelpnap** /a.ˈdelp.nap/ *(noun)* — hermana menor
-- **afrat** /ˈa.frat/ *(noun)* — hermano
-- **afratmas** /a.ˈfrat.mas/ *(noun)* — hermano mayor
-- **afratnap** /a.ˈfrat.nap/ *(noun)* — hermano menor
-- **anepas** /ˈa.ne.pas/ *(noun)* — primo
-- **archit** /ˈar.tʃit/ *(noun)* — ancestro
-- **bala** /ˈba.la/ *(noun)* — nino/criatura
-- **bana** /ˈba.na/ *(noun)* — nieto
-- **brat** /ˈbrat/ *(noun)* — portador, cargador, sustentador
-- **dara** /ˈda.ra/ *(noun)* — esposa
-- **didum** /ˈdi.dum/ *(noun)* — gemelos
-- **gamar** /ˈga.mar/ *(noun)* — yerno
-- **ghenos** /ˈɣe.nos/ *(noun)* — linaje/estirpe
-- **huya** /ˈhu.ja/ *(noun)* — hijo
-- **khara** /ˈxa.ra/ *(noun)* — viuda
-- **kheros** /ˈxe.ros/ *(noun)* — viudo
-- **mama** /ˈma.ma/ *(noun)* — abuela
-- **manush** /ˈma.nuʃ/ *(noun)* — persona/ser humano
-- **mata** /ˈma.ta/ *(noun)* — madre
-- **nama** /ˈna.ma/ *(noun)* — nombre
-- **napbut** /ˈnap.but/ *(noun)* — benjamín (hijo menor)
-- **nara** /ˈna.ra/ *(noun)* — hombre adulto
-- **nari** /ˈna.ri/ *(noun)* — mujer
-- **nimfa** /ˈnim.fa/ *(noun)* — nuera
-- **oikos** /ˈo.i.kos/ *(noun)* — clan/familia
-- **orfan** /ˈor.fan/ *(noun)* — huérfano
-- **papu** /ˈpa.pu/ *(noun)* — abuelo
-- **pati** /ˈpa.ti/ *(noun)* — esposo
-- **pentir** /ˈpen.tir/ *(noun)* — suegro
-- **pentira** /ˈpen.ti.ra/ *(noun)* — suegra
-- **pita** /ˈpi.ta/ *(noun)* — padre
-- **prathum** /ˈpra.θum/ *(noun)* — primogénito
-- **theia** /ˈθe.i.a/ *(noun)* — tía
-- **theios** /ˈθe.i.os/ *(noun)* — tío
-- **thuktar** /ˈθuk.tar/ *(noun)* — hija
-- **vitmatar** /ˈwit.ma.tar/ *(noun)* — madrastra
-- **vitpitar** /ˈwit.pi.tar/ *(noun)* — padrastro
+**bapdar** - puerta, entrada, portal, acceso (NOUN) [Sánscrito Védico / Árabe esotérico / Persa]
+**bashk** - jardín, huerto, vergel, parque (NOUN) [Sánscrito Védico / Persa Avéstico / Griego Koiné]
+**bomos** - altar (NOUN) [Griego Koiné / Árabe esotérico]
+**bumar** - piso, suelo, pavimento, base (NOUN) [Sánscrito Védico / Griego Koiné / Árabe esoterico]
+**burcha** - torre, atalaya, fortificación vertical (NOUN) [Sánscrito Védico / Árabe esoterico / Griego Koiné]
+**dar** - casa, hogar, morada, vivienda (NOUN) [Árabe esotérico / Persa Avéstico]
+**divar** - muro, pared, muralla, tabique (NOUN) [Persa Avéstico / Árabe esotérico]
+**firash** - cama, lecho, yacija, lugar de descanso (NOUN) [Árabe esotérico / Griego Koiné]
+**hamam** - baño (NOUN) [Griego Koiné / Árabe esotérico]
+**hujar** - celda, cuarto pequeño, aposento, camarín (NOUN) [Árabe esotérico / Persa Avéstico]
+**kalit** - llave (NOUN) [Sánscrito Védico / Griego Koiné / Árabe esotérico]
+**kamin** - chimenea (NOUN) [Griego Koiné / Árabe esotérico]
+**khanta** - cimientos, fosa, zanja, excavación basal (NOUN) [Sánscrito Védico / Árabe esoterico / Griego Koiné]
+**klimak** - escalera (NOUN) [Sánscrito Védico / Griego Koiné / Árabe esotérico]
+**kupa** - pozo (NOUN) [Sánscrito Védico / Griego Koiné / Árabe esotérico]
+**kuras** - silla, asiento, banco, trono (NOUN) [Árabe esotérico / Griego Koiné]
+**makhērshilp** - laboratorio (NOUN) [Árabe esotérico / Griego Koiné / Sánscrito Védico]
+**matbak** - cocina (NOUN) [Sánscrito Védico / Griego Koiné / Árabe esotérico]
+**mis** - mesa, tablero, superficie de apoyo (NOUN) [Árabe esotérico / Persa Avéstico]
+**nakom** - edificio, construcción, estructura (NOUN) [Sánscrito Védico / Árabe esoterico / Griego Koiné]
+**naos** - templo (NOUN) [Sánscrito Védico / Griego Koiné / Árabe esotérico]
+**nawma** - dormitorio (NOUN) [Sánscrito Védico / Griego Koiné / Árabe esotérico]
+**otaq** - habitación, cuarto, aposento, sala (NOUN) [Persa Avéstico / Árabe esotérico]
+**pul** - puente, paso elevado, conexión (NOUN) [Persa Avéstico / Árabe esotérico]
+**qasar** - fortaleza, castillo, ciudadela, palacio fortificado (NOUN) [Árabe esotérico / Persa Avéstico]
+**sanduq** - cofre, caja, arca, baúl (NOUN) [Árabe esotérico / Persa Avéstico]
+**saqap** - techo, cubierta, cielo raso (NOUN) [Árabe esotérico / Griego Koiné]
+**shahar** - ciudad, urbe, poblado grande (NOUN) [Persa Avéstico / Árabe esotérico]
+**sham** - lámpara, luminaria, vela, antorcha (NOUN) [Árabe esotérico / Griego Koiné]
+**shar** - calle, vía, camino urbano, callejuela (NOUN) [Árabe esotérico / Persa Avéstico]
+**shubak** - ventana, vano, abertura en muro (NOUN) [Árabe esotérico / Persa Avéstico]
+**sutun** - columna, pilar, poste vertical (NOUN) [Persa Avéstico / Árabe esotérico]
+**tafos** - tumba (NOUN) [Sánscrito Védico / Griego Koiné / Árabe esotérico]
 
-## Profesiones y Roles
+## Interjecciones Y Exclamaciones
 
-- **-khán** /ˈxan/ *(suffix)* — senor, soberano (sufijo)
-- **báp** /ˈbap/ *(prefix)* — fundador, padre fundador (prefijo)
-- **dishk** /ˈdiʃk/ *(noun)* — juez, árbitro
-- **dāshak** /ˈdaː.ʃak/ *(noun)* — escriba, letrado, cronista
-- **ghārī** /ˈɣaː.riː/ *(noun)* — ermitaño, asceta, solitario
-- **ghōsh** /ˈɣoːʃ/ *(noun)* — heraldo, pregonero
-- **gāndhar** /ˈgaːn.ðar/ *(noun)* — músico, cantante, artista sonoro
-- **hārsh** /ˈhaːrʃ/ *(noun)* — mercader, comerciante
-- **krishak** /ˈkri.ʃak/ *(noun)* — agricultor, labrador
-- **kāmak** /ˈkaː.mak/ *(noun)* — amante, devoto, fiel
-- **kāmik** /ˈkaː.mik/ *(noun)* — pescador
-- **kārakh** /ˈkaː.rax/ *(noun)* — constructor, arquitecto
-- **kāsh** /ˈkaːʃ/ *(noun)* — vidente, adivino, oráculo
-- **kāshikh** /ˈkaː.ʃix/ *(noun)* — sastre, costurero
-- **kōmak** /ˈkoː.mak/ *(noun)* — cocinero, chef
-- **kōsh** /ˈkoːʃ/ *(noun)* — tesorero, administrador de bienes
-- **lāwak** /ˈlaː.wak/ *(noun)* — abogado, defensor, jurista
-- **mālak** /ˈmaː.lak/ *(noun)* — jardinero, hortelano
-- **māsh** /ˈmaːʃ/ *(noun)* — maestro, profesor, instructor
-- **nāwak** /ˈnaː.wak/ *(noun)* — navegante, marino
-- **nāwik** /ˈnaː.wik/ *(noun)* — piloto, timonel
-- **nāyak** /ˈnaː.jak/ *(noun)* — guía, conductor, líder
-- **pir** /ˈpir/ *(prefix)* — gran maestro, guia espiritual (prefijo)
-- **ratshi** /ˈra.tʃi/ *(noun)* — rey, soberano, monarca
-- **rāksh** /ˈraːkʃ/ *(noun)* — guardián, centinela, protector
-- **rās** /ˈraːs/ *(noun)* — auriga, cochero, conductor de carros
-- **rāwak** /ˈraː.wak/ *(noun)* — viajero, peregrino
-- **waidya** /ˈwa.i.dja/ *(noun)* — médico, sanador
-- **wakash** /ˈwa.kaʃ/ *(noun)* — mensajero, heraldo
-- **wāhak** /ˈwaː.hak/ *(noun)* — pastor, cuidador de rebaños
-- **yodha** /ˈjo.ða/ *(noun)* — guerrero, combatiente
-- **āthal** /ˈaː.θal/ *(noun)* — atleta, deportista, competidor
+**amen** - amén (INTERJECTION) [Griego Koiné / Árabe esotérico]
+**aum** - om/aum (INTERJECTION) [Sánscrito Védico / Tibetano Clásico / Persa Avéstico]
+**baruk** - ¡bendito! (INTERJECTION) [Árabe esotérico / Griego Koiné]
+**halel** - ¡aleluya! (INTERJECTION) [Griego Koiné / Árabe esotérico]
+**hina** - he aquí (INTERJECTION) [Griego Koiné / Árabe esotérico]
+**hál** - he aqui, mira (INTERJECTION) [Árabe esotérico / Griego Koiné]
+**kafa** - ¡basta! (INTERJECTION) [Árabe esotérico / Griego Koiné]
+**la** - no (INTERJECTION) [Árabe esotérico / Persa Avéstico]
+**nam** - sí (INTERJECTION) [Griego Koiné / Árabe esotérico / Sánscrito Védico]
+**shalam** - paz (INTERJECTION) [Árabe esotérico / Sánscrito Védico / Griego Koiné]
+**shama** - ¡escucha! (INTERJECTION) [Árabe esotérico / Griego Koiné]
+**wai** - ¡ay! (INTERJECTION) [Árabe esotérico / Griego Koiné]
+**ya** - ¡oh! (INTERJECTION) [Árabe esotérico / Griego Koiné]
 
-## Pronombres y Deícticos
+## Biologia Y Micologia
 
-- **anya** /ˈa.nja/ *(pronoun)* — otro
-- **asa** /ˈa.sa/ *(pronoun)* — aquel (demostrativo distal, lejos del hablante y oyente)
-- **bahu** /ˈba.hu/ *(pronoun)* — mucho
-- **eta** /ˈe.ta/ *(pronoun)* — ese (demostrativo medial, distancia media)
-- **ida** /ˈi.da/ *(pronoun)* — aquí
-- **ima** /ˈi.ma/ *(pronoun)* — este (demostrativo proximal, cerca del hablante)
-- **kachi** /ˈka.tʃi/ *(pronoun)* — alguno
-- **kada** /ˈka.da/ *(pronoun)* — cuándo (interrogativo, tiempo)
-- **kanam** /ˈka.nam/ *(pronoun)* — poco
-- **katha** /ˈka.θa/ *(pronoun)* — cómo (interrogativo, modo o manera)
-- **kesh** /ˈkeʃ/ *(pronoun)* — alguien (indefinido, persona no especificada)
-- **kima** /ˈki.ma/ *(pronoun)* — qué/cuál (interrogativo, cosa o cualidad)
-- **kuda** /ˈku.da/ *(pronoun)* — dónde (interrogativo, lugar)
-- **kuta** /ˈku.ta/ *(pronoun)* — por qué (interrogativo, causa o razón)
-- **naka** /ˈna.ka/ *(pronoun)* — nadie (indefinido negativo, persona alguna)
-- **sarwa** /ˈsa.rwa/ *(pronoun)* — todo
-- **tara** /ˈta.ra/ *(pronoun)* — alli/ahi
+**ashka** - asco, saco reproductivo de ascomicetos (NOUN) [Griego Koiné / Egipcio Demótico / Tibetano Clásico]
+**aspor** - ascospora, espora producida en asco (NOUN) [Griego Koiné / Egipcio Demótico / Sánscrito Védico]
+**bari** - basidio, estructura reproductiva de basidiomicetos (NOUN) [Griego Koiné / Sánscrito Védico / Persa Avéstico]
+**baspor** - basidiospora, espora producida en basidio (NOUN) [Griego Koiné / Persa Avéstico / Tibetano Clásico]
+**dikha** - mitocondria, powerhouse celular (NOUN) [Sánscrito Védico / Tibetano Clásico / Griego Koiné]
+**dimash** - pared celular, estructura de soporte (NOUN) [Sánscrito Védico / Griego Koiné / Egipcio Demótico]
+**fula** - phylum, categoría taxonómica (NOUN) [Griego Koiné / Sánscrito Védico / Tibetano Clásico]
+**gama** - género, categoría taxonómica (NOUN) [Griego Koiné / Sánscrito Védico / Tibetano Clásico]
+**hiama** - hifa, filamento micelial (NOUN) [Griego Koiné / Egipcio Demótico / Tibetano Clásico]
+**jahwah** - evolución, transformación gradual (NOUN) [Sánscrito Védico / Tibetano Clásico / Griego Koiné]
+**janakh** - germinación, inicio del crecimiento (NOUN) [Sánscrito Védico / Tibetano Clásico / Griego Koiné]
+**kalama** - abrazadera (NOUN) [Griego Koiné / Sánscrito Védico / Tibetano Clásico]
+**khani** - familia, categoría taxonómica (NOUN) [Griego Koiné / Sánscrito Védico / Árabe esotérico]
+**kharnu** - núcleo celular, centro vital (NOUN) [Griego Koiné / Persa Avéstico / Tibetano Clásico]
+**kithast** - insecto, artrópodo, bicho (NOUN) [Sánscrito Védico / Árabe esotérico / Persa Avéstico / Griego Koiné]
+**koni** - conidio, espora asexual externa (NOUN) [Griego Koiné / Árabe esotérico / Sánscrito Védico]
+**lamannu** - láminas (NOUN) [Griego Koiné / Sánscrito Védico / Egipcio Demótico]
+**mika** - simbiosis, relación mutuamente beneficiosa (NOUN) [Griego Koiné / Sánscrito Védico / Árabe esotérico]
+**mikash** - hongos, reino de organismos micorrízicos (NOUN) [Griego Koiné / Sánscrito Védico / Egipcio Demótico]
+**mikhel** - micelio, red de hifas (NOUN) [Griego Koiné / Sánscrito Védico / Persa Avéstico]
+**miukhel** - micorriza, simbiosis hongo-raíz (NOUN) [Griego Koiné / Sánscrito Védico / Tibetano Clásico]
+**nargha** - orgánulo, estructura celular funcional (NOUN) [Sánscrito Védico / Persa Avéstico / Griego Koiné]
+**parash** - parasitismo, relación parásito-hospedador (NOUN) [Griego Koiné / Sánscrito Védico / Árabe esotérico]
+**pari** - especie, categoría taxonómica (NOUN) [Sánscrito Védico / Persa Avéstico / Griego Koiné]
+**parna** - proteína, macromolécula funcional (NOUN) [Griego Koiné / Sánscrito Védico / Tibetano Clásico]
+**parnash** - respiración, intercambio gaseoso (NOUN) [Sánscrito Védico / Griego Koiné / Persa Avéstico]
+**pikar** - sombrero (NOUN) [Griego Koiné / Persa Avéstico / Tibetano Clásico]
+**pilakh** - membrana celular, límite externo (NOUN) [Griego Koiné / Árabe esotérico / Sánscrito Védico]
+**pimarkom** - hormiga (NOUN) [Sánscrito Védico / Árabe esotérico / Tibetano Clásico / Griego Koiné]
+**rahna** - ARN, ácido ribonucleico (NOUN) [Sánscrito Védico / Árabe esotérico / Griego Koiné]
+**rimash** - cromosoma, portador de información genética (NOUN) [Griego Koiné / Sánscrito Védico / Persa Avéstico]
+**rishakh** - rizomorfo, cordón de hifas (NOUN) [Griego Koiné / Sánscrito Védico / Persa Avéstico]
+**sankhash** - ecosistema, comunidad de organismos (NOUN) [Griego Koiné / Sánscrito Védico / Árabe esotérico]
+**sanku** - esporangio, estructura portadora de esporas (NOUN) [Griego Koiné / Egipcio Demótico / Sánscrito Védico]
+**sarakh** - espora, unidad de dispersión fúngica (NOUN) [Griego Koiné / Sánscrito Védico / Árabe esotérico]
+**seshu** - septo, tabique en hifas (NOUN) [Griego Koiné / Persa Avéstico / Árabe esotérico]
+**shanik** - ribosoma, fábrica de proteínas (NOUN) [Griego Koiné / Egipcio Demótico / Árabe esotérico]
+**sharu** - esclerocio, estructura de resistencia (NOUN) [Griego Koiné / Tibetano Clásico / Egipcio Demótico]
+**shorfi** - esporóforo, tallo portador de esporas (NOUN) [Griego Koiné / Sánscrito Védico / Árabe esotérico]
+**sokha** - fotosíntesis, conversión de luz en energía (NOUN) [Griego Koiné / Sánscrito Védico / Tibetano Clásico]
+**sukah** - vacuolo, cavidad celular (NOUN) [Sánscrito Védico / Tibetano Clásico / Griego Koiné]
+**takha** - orden, categoría taxonómica (NOUN) [Árabe esotérico / Persa Avéstico / Griego Koiné]
+**thalur** - célula, unidad básica de la vida (NOUN) [Griego Koiné / Egipcio Demótico / Sánscrito Védico]
+**tishta** - estípite, pie o tallo del cuerpo fructífero (NOUN) [Sánscrito Védico / Griego Koiné / Tibetano Clásico]
+**vankha** - reino, categoría taxonómica máxima (NOUN) [Sánscrito Védico / Tibetano Clásico / Griego Koiné]
+**vargha** - clase, categoría taxonómica (NOUN) [Sánscrito Védico / Persa Avéstico / Griego Koiné]
+**wahna** - ADN, ácido desoxirribonucleico (NOUN) [Árabe esotérico / Egipcio Demótico / Sánscrito Védico]
+**warakh** - enzima, catalizador biológico (NOUN) [Griego Koiné / Persa Avéstico / Árabe esotérico]
+**wari** - mutación, cambio genético (NOUN) [Griego Koiné / Sánscrito Védico / Persa Avéstico]
+**wastu** - citoplasma, sustancia interna de la célula (NOUN) [Sánscrito Védico / Tibetano Clásico / Griego Koiné]
+**wikhash** - descomposición, ruptura de materia orgánica (NOUN) [Sánscrito Védico / Griego Koiné / Árabe esotérico]
+**yukar** - gen, unidad de herencia (NOUN) [Griego Koiné / Tibetano Clásico / Sánscrito Védico]
 
-## Seres Vivos: Plantas
+## Profesiones Y Roles
 
-- **akanta** /ˈa.kan.ta/ *(noun)* — espina/aguijón
-- **aroma** /ˈa.ro.ma/ *(noun)* — especia (aromática)
-- **biya** /ˈbi.ja/ *(noun)* — semilla
-- **doru** /ˈdo.ru/ *(noun)* — madera/leño
-- **duruma** /ˈdu.ru.ma/ *(noun)* — arbol
-- **elaia** /ˈe.la.i.a/ *(noun)* — olivo/aceituna
-- **fala** /ˈfa.la/ *(noun)* — fruta
-- **karpa** /ˈkar.pa/ *(noun)* — vid/uva
-- **kastha** /ˈkas.θa/ *(noun)* — palo/baston
-- **kaula** /ˈka.u.la/ *(noun)* — tallo
-- **korma** /ˈkor.ma/ *(noun)* — tronco
-- **kriti** /ˈkri.ti/ *(noun)* — cebada
-- **liana** /ˈli.a.na/ *(noun)* — enredadera/bejuco
-- **mula** /ˈmu.la/ *(noun)* — raiz
-- **mulandrasa** /mu.ˈlan.dra.sa/ *(noun)* — raíz (parte subterránea de una planta)
-- **opara** /ˈo.pa.ra/ *(noun)* — savia/resina
-- **oshnaba** /ˈoʃ.na.ba/ *(noun)* — planta, vegetal, organismo vegetal
-- **pala** /ˈpa.la/ *(noun)* — polen
-- **patara** /ˈpa.ta.ra/ *(noun)* — hoja
-- **petala** /ˈpe.ta.la/ *(noun)* — pétalo
-- **pushpa** /ˈpuʃ.pa/ *(noun)* — flor
-- **rayu** /ˈra.ju/ *(noun)* — cuerda
-- **sfagna** /ˈsfag.na/ *(noun)* — musgo
-- **sitos** /ˈsi.tos/ *(noun)* — trigo
-- **tarfas** /ˈtar.fas/ *(noun)* — hongo/seta
-- **tirina** /ˈti.ri.na/ *(noun)* — hierba/pasto
-- **twak** /ˈtwak/ *(noun)* — corteza (de arbol)
+**-khán** - senor, soberano (SUFFIX) [Persa Avéstico / Árabe esotérico]
+**báp** - fundador, padre fundador (PREFIX) [Egipcio Demótico / Árabe esotérico]
+**dishk** - juez, árbitro (NOUN) [Árabe esotérico / Griego Koiné / Sánscrito Védico]
+**dāshak** - escriba, letrado, cronista (NOUN) [Egipcio Demótico / Griego Koiné / Sánscrito Védico]
+**ghārī** - ermitaño, asceta, solitario (NOUN) [Tibetano Clásico / Griego Koiné / Sánscrito Védico]
+**ghōsh** - heraldo, pregonero (NOUN) [Árabe esotérico / Griego Koiné / Sánscrito Védico]
+**gāndhar** - músico, cantante, artista sonoro (NOUN) [Griego Koiné / Tibetano Clásico / Sánscrito Védico]
+**hārsh** - mercader, comerciante (NOUN) [Árabe esotérico / Griego Koiné / Sánscrito Védico]
+**krishak** - agricultor, labrador (NOUN) [Tibetano Clásico / Persa Avéstico / Sánscrito Védico]
+**kāmak** - amante, devoto, fiel (NOUN) [Árabe esotérico / Griego Koiné / Sánscrito Védico]
+**kāmik** - pescador (NOUN) [Griego Koiné / Egipcio Demótico / Sánscrito Védico]
+**kārakh** - constructor, arquitecto (NOUN) [Griego Koiné / Tibetano Clásico / Sánscrito Védico]
+**kāsh** - vidente, adivino, oráculo (NOUN) [Griego Koiné / Persa Avéstico / Sánscrito Védico]
+**kāshikh** - sastre, costurero (NOUN) [Árabe esotérico / Griego Koiné / Sánscrito Védico]
+**kōmak** - cocinero, chef (NOUN) [Griego Koiné / Árabe esotérico / Sánscrito Védico]
+**kōsh** - tesorero, administrador de bienes (NOUN) [Árabe esotérico / Griego Koiné / Sánscrito Védico]
+**lāwak** - abogado, defensor, jurista (NOUN) [Árabe esotérico / Griego Koiné / Sánscrito Védico]
+**mālak** - jardinero, hortelano (NOUN) [Árabe esotérico / Griego Koiné / Sánscrito Védico]
+**māsh** - maestro, profesor, instructor (NOUN) [Griego Koiné / Persa Avéstico / Sánscrito Védico]
+**nāwak** - navegante, marino (NOUN) [Griego Koiné / Árabe esotérico / Sánscrito Védico]
+**nāwik** - piloto, timonel (NOUN) [Griego Koiné / Tibetano Clásico / Sánscrito Védico]
+**nāyak** - guía, conductor, líder (NOUN) [Griego Koiné / Sánscrito Védico / Árabe esotérico]
+**pir** - gran maestro, guia espiritual (PREFIX) [Persa Avéstico / Griego Koiné]
+**ratshi** - rey, soberano, monarca (NOUN) [Tibetano Clásico / Sánscrito Védico / Griego Koiné]
+**rāksh** - guardián, centinela, protector (NOUN) [Árabe esotérico / Persa Avéstico / Sánscrito Védico]
+**rās** - auriga, cochero, conductor de carros (NOUN) [Griego Koiné / Egipcio Demótico / Sánscrito Védico]
+**rāwak** - viajero, peregrino (NOUN) [Árabe esotérico / Tibetano Clásico / Sánscrito Védico]
+**waidya** - médico, sanador (NOUN) [Griego Koiné / Árabe esotérico / Sánscrito Védico]
+**wakash** - mensajero, heraldo (NOUN) [Persa Avéstico / Sánscrito Védico / Árabe esotérico]
+**wāhak** - pastor, cuidador de rebaños (NOUN) [Griego Koiné / Persa Avéstico / Sánscrito Védico]
+**yodha** - guerrero, combatiente (NOUN) [Sánscrito Védico / Persa Avéstico / Griego Koiné]
+**āthal** - atleta, deportista, competidor (NOUN) [Griego Koiné / Persa Avéstico / Sánscrito Védico]
 
-## Tecnología
+## Gobierno Politica Derecho
 
-- **achaya** /ˈa.tʃa.ja/ *(noun)* — deselect/deseleccionar
-- **adark** /a.ˈdark/ *(noun)* — herramienta, instrumento, utensilio
-- **adholikh** /ˈa.ðo.lix/ *(noun)* — underline/subrayado
-- **akhal** /ˈak.hal/ *(noun)* — undo/deshacer
-- **amalzul** /a.ˈmal.zul/ *(noun)* — cloud/nube
-- **awanswak** /ˈa.wan.swak/ *(noun)* — help/ayuda
-- **bahsan** /ˈbah.san/ *(noun)* — search/buscar
-- **bashal** /ˈbas.hal/ *(noun)* — alpha/primera fase
-- **bhar** /bʱar/ *(verb)* — cargar (datos)
-- **bránti** /ˈbran.ti/ *(noun)* — error/fallo
-- **buddhimayina** /bu.dði.ˈma.ji.na/ *(noun)* — inteligencia artificial
-- **caray** /tʃa.ˈraj/ *(verb)* — ejecutar (correr programa)
-- **damwak** /ˈdam.wak/ *(noun)* — merge/fusión
-- **dasras** /ˈdas.ras/ *(noun)* — settings/configuración
-- **daybak** /ˈdaj.bak/ *(noun)* — commit/envío
-- **drish** /driʂ/ *(verb)* — escanear (digitalizar)
-- **duhul** /ˈdu.hul/ *(noun)* — login/acceso
-- **fahaskan** /ˈfa.has.kan/ *(noun)* — review/revisión
-- **fakras** /ˈfak.ras/ *(noun)* — highlight/resaltar
-- **faskhas** /ˈfas.xas/ *(noun)* — strikethrough/tachado
-- **fasnos** /ˈfas.nos/ *(noun)* — virus/malware
-- **firmur** /ˈfir.mur/ *(noun)* — firewall
-- **gan** /ɡan/ *(verb)* — calcular (procesar)
-- **gavesh** /ɡa.ˈveʂ/ *(verb)* — buscar (rastrear)
-- **gharfal** /ˈɣar.fal/ *(noun)* — filter/filtrar
-- **guh** /ɡuh/ *(verb)* — encriptar (cifrar)
-- **guptata** /ˈɡu.pta.ta/ *(noun)* — privacy/privacidad
-- **harfil** /ˈhar.fil/ *(noun)* — video
-- **harkar** /ˈhar.kar/ *(noun)* — debug/depuración
-- **harkhas** /ˈhar.xas/ *(noun)* — play/pausa
-- **harsum** /ˈhar.sum/ *(noun)* — edit/editar
-- **hasam** /ˈha.sam/ *(noun)* — cut/cortar
-- **hashram** /ˈhaʃ.ram/ *(noun)* — padding/relleno
-- **haszar** /ˈhas.zar/ *(noun)* — warning/advertencia
-- **hawfash** /ˈhaw.faʃ/ *(noun)* — margin/margen
-- **hawlas** /ˈhaw.las/ *(noun)* — about/acerca de
-- **hawnik** /ˈhaw.nik/ *(noun)* — antena/receptor
-- **himlas** /ˈhim.las/ *(noun)* — loading/carga
-- **ishra** /ˈiʃ.ra/ *(noun)* — cursor/puntero
-- **ishshar** /ˈiʃ.ʃar/ *(noun)* — señal
-- **itrum** /ˈit.rum/ *(noun)* — license/licencia
-- **jamkhas** /ˈdʒam.xas/ *(noun)* — algoritmo
-- **jamkhi** /ˈdʒam.xi/ *(noun)* — compile/compilar
-- **jarah** /ˈdʒa.rah/ *(noun)* — drag/arrastrar
-- **jawbal** /ˈdʒaw.bal/ *(noun)* — response/respuesta
-- **kashal** /ˈkas.hal/ *(noun)* — redo/rehacer
-- **kaszah** /ˈkas.zah/ *(noun)* — cookies
-- **katradjah** /ˈka.tra.dʒah/ *(noun)* — volume
-- **khadul** /ˈxa.dul/ *(noun)* — servidor (tecnología)
-- **khalras** /ˈxal.ras/ *(noun)* — background/fondo
-- **khara** /ˈxa.ra/ *(noun)* — deprecated/obsoleto
-- **kharuk** /ˈxa.ruk/ *(noun)* — font/tipografía
-- **khasluk** /ˈxas.luk/ *(noun)* — código
-- **khasmas** /ˈxas.mas/ *(noun)* — batería/acumulador
-- **khasmem** /ˈxas.mem/ *(noun)* — cache/memoria temporal
-- **khasram** /ˈxas.ram/ *(noun)* — zoom/ampliar
-- **khreyar** /ˈxre.jar/ *(noun)* — usuario
-- **khuras** /ˈxu.ras/ *(noun)* — logout/salida
-- **kiberfada** /ki.ˈber.fa.da/ *(noun)* — ciberespacio
-- **kosha** /ˈko.ʃa/ *(noun)* — repository/repositorio
-- **kriptasha** /ˈkri.pta.ʃa/ *(noun)* — criptografía
-- **labh** /labʱ/ *(verb)* — recibir (obtener)
-- **likhay** /li.ˈxaj/ *(verb)* — programar (escribir código)
-- **mahway** /ˈmah.waj/ *(noun)* — delete/eliminar
-- **margadar** /ˈma.rɡa.dar/ *(noun)* — router
-- **masbal** /ˈmas.bal/ *(noun)* — contact/contacto
-- **mayasom** /ˈma.ja.som/ *(noun)* — realidad virtual
-- **maylas** /ˈmaj.las/ *(noun)* — italic/cursiva
-- **mets** /mets/ *(verb)* — borrar (eliminar)
-- **mnemesha** /ˈmne.me.ʃa/ *(noun)* — base de datos
-- **mudr** /mu.dr/ *(verb)* — imprimir (copiar)
-- **muktalikh** /ˈmu.kta.lix/ *(noun)* — open source/código abierto
-- **múkhya** /ˈmu.xja/ *(noun)* — main/contenido principal
-- **múrdhá** /ˈmur.ða/ *(noun)* — header/cabecera
-- **nadaprava** /na.ˈda.pra.wa/ *(noun)* — audio
-- **nakra** /ˈnak.ra/ *(noun)* — click/pulsar
-- **nasan** /ˈna.san/ *(noun)* — save/guardar
-- **nasardam** /ˈna.sar.dam/ *(noun)* — deploy/desplegar
-- **navín** /na.ˈwin/ *(noun)* — update/actualización
-- **nihal** /ˈni.hal/ *(noun)* — notification
-- **nuspas** /ˈnus.pas/ *(noun)* — backup/copia
-- **nusran** /ˈnus.ran/ *(noun)* — version/versión
-- **núrupa** /ˈnu.ru.pa/ *(noun)* — light mode
-- **parivésh** /pa.ri.ˈweʃ/ *(noun)* — wrap/ajuste de línea
-- **paríkshá** /pa.ˈrik.ʃa/ *(noun)* — beta/prueba
-- **ployar** /ˈplo.jar/ *(noun)* — navegador
-- **prakásh** /pra.ˈkaʃ/ *(noun)* — release/lanzamiento
-- **preṣ** /preʂ/ *(verb)* — enviar (transmitir)
-- **prárthaná** /ˈprar.θa.na/ *(noun)* — pull request/solicitud
-- **punarkar** /pu.ˈnar.kar/ *(noun)* — redo/rehacer
-- **punarpravesh** /pu.ˈnar.pra.weʃ/ *(noun)* — refresh
-- **párashvá** /ˈpa.raʃ.wa/ *(noun)* — sidebar/lateral
-- **qalam** /ˈka.lam/ *(noun)* — modal/diálogo
-- **qamas** /ˈka.mas/ *(noun)* — downtime/caída
-- **rahlas** /ˈrah.las/ *(noun)* — paste/pegar
-- **rahzan** /ˈrah.zan/ *(noun)* — maintenance/mantenimiento
-- **raksh** /rakʂ/ *(verb)* — guardar (archivo)
-- **ramkon** /ˈram.kon/ *(noun)* — blockchain
-- **ramzak** /ˈram.zak/ *(noun)* — contraseña
-- **rasdom** /ˈras.dom/ *(noun)* — approve/aprobar
-- **raslam** /ˈras.lam/ *(noun)* — reject/rechazar
-- **rasnus** /ˈras.nus/ *(noun)* — red (tecnología)
-- **rismar** /ˈris.mar/ *(noun)* — protocolo
-- **sahalam** /ˈsa.hal.ram/ *(noun)* — tooltip
-- **sahlikh** /ˈsah.lix/ *(noun)* — eco digital
-- **sahshar** /ˈsah.ʃar/ *(noun)* — banda ancha
-- **sakram** /ˈsak.ram/ *(noun)* — stable/estable
-- **salwur** /ˈsal.wur/ *(noun)* — traffic/tráfico
-- **samkas** /ˈsam.kas/ *(noun)* — bold/negrita
-- **samsakar** /ˈsam.sa.kar/ *(noun)* — settings/ajustes
-- **sangra** /ˈsaŋ.ɡra/ *(verb)* — compilar (reunir código)
-- **sayalkhas** /ˈsa.jal.xas/ *(noun)* — streaming
-- **sayalro** /ˈsa.jal.ro/ *(noun)* — flujo (datos/energía)
-- **sayfal** /ˈsaj.fal/ *(noun)* — dominio (web)
-- **shakza** /ˈʃak.za/ *(noun)* — branch/rama
-- **shamrupa** /ˈʃam.ru.pa/ *(noun)* — dark mode
-- **sharahzik** /ˈʃa.rah.zik/ *(noun)* — comment/comentario
-- **shashnam** /ˈʃaʃ.nam/ *(noun)* — pantalla
-- **shártá** /ˈʃar.ta/ *(noun)* — terms/términos
-- **silmah** /ˈsil.mah/ *(noun)* — enlace/hyperlink
-- **sthiti** /ˈsθi.ti/ *(noun)* — uptime/disponibilidad
-- **sual** /ˈsu.al/ *(noun)* — query/consulta
-- **surah** /ˈsu.rah/ *(noun)* — avatar/usuario digital
-- **surak** /ˈsu.rak/ *(noun)* — image/imagen
-- **suwar** /ˈsu.war/ *(noun)* — copy/copiar
-- **svatva** /ˈswa.twa/ *(noun)* — copyright
-- **sámyá** /ˈsa.mja/ *(noun)* — align/alinéar
-- **sámá** /ˈsa.ma/ *(noun)* — justify/justificar
-- **sídhi** /ˈsi.ði/ *(noun)* — success/éxito
-- **síma** /ˈsi.ma/ *(noun)* — border/borde
-- **súchná** /ˈsutʃ.na/ *(noun)* — info/información
-- **takhkron** /ˈtax.kron/ *(noun)* — ping/latencia
-- **tamlas** /ˈtam.las/ *(noun)* — scroll/desplazar
-- **tarkah** /ˈtar.kah/ *(noun)* — drop/soltar
-- **ukhnus** /ˈux.nus/ *(noun)* — nodo
-- **upayogamukh** /u.pa.ˈjo.ɡa.mux/ *(noun)* — API
-- **vibhaj** /vib.ʱaɟ/ *(verb)* — analizar (examinar)
-- **vigráh** /wi.ˈgrah/ *(noun)* — conflict/conflicto
-- **vishaka** /ˈwi.ʃa.ka/ *(noun)* — malware (virus)
-- **vishlésh** /wiʃ.ˈleʃ/ *(noun)* — analytics/analítica
-- **vyúh** /ˈwjuh/ *(noun)* — sort/ordenar
-- **várna** /ˈwar.na/ *(noun)* — color
-- **wahram** /ˈwah.ram/ *(noun)* — badge/indicador
-- **wajahrum** /ˈwa.dʒah.rum/ *(noun)* — interfaz
-- **waksar** /ˈwak.sar/ *(noun)* — proxy
-- **warnas** /ˈwar.nas/ *(noun)* — grid/cuadrícula
-- **wastal** /ˈwas.tal/ *(noun)* — center/centro
-- **yalsam** /ˈjal.sam/ *(noun)* — left/izquierda
-- **yasmin** /ˈjas.min/ *(noun)* — right/derecha
-- **yunj** /junɟ/ *(verb)* — conectar (enlazar)
-- **zankal** /ˈzan.kal/ *(noun)* — theme/tema visual
-- **zuhrus** /ˈzuh.rus/ *(noun)* — ventana
-
-## Tiempo Doméstico
-
-- **amas** /ˈa.mas/ *(noun)* — ayer
-- **anzumera** /an.zuˈme.ra/ *(noun)* — viernes (día de Venus)
-- **apt** /ˈap.t/ *(noun)* — nunca
-- **ashar** /ˈa.ʃar/ *(noun)* — tarde
-- **atap** /ˈa.tap/ *(noun)* — tarde (hora)
-- **atáp** /ˈa.tap/ *(adverb)* — tarde (hora tardia)
-- **bakar** /ˈba.kar/ *(noun)* — temprano
-- **bakat** /ˈba.kat/ *(noun)* — después
-- **batzam** /ˈbat.zam/ *(noun)* — a veces
-- **bákda** /ˈbak.da/ *(adverb)* — despues (posterioridad)
-- **bákra** /ˈba.kra/ *(adverb)* — temprano
-- **bátzam** /ˈbat.zam/ *(adverb)* — a veces (ocasionalmente)
-- **daim** /ˈda.im/ *(noun)* — siempre
-- **duha** /ˈdu.ha/ *(noun)* — media mañana, mañana avanzada, horas de luz plena
-- **dáim** /ˈda.im/ *(adverb)* — siempre
-- **fajar** /ˈfa.dʒar/ *(noun)* — alba, amanecer, aurora, primera luz del día
-- **ghasak** /ˈɣa.sak/ *(noun)* — oscuridad nocturna, tinieblas, noche cerrada
-- **ghat** /ˈɣat/ *(noun)* — mañana (siguiente)
-- **ghurup** /ˈɣu.rup/ *(noun)* — ocaso, puesta del sol, sol poniente, atardecer
-- **hermarmera** /her.marˈme.ra/ *(noun)* — martes (día de Marte)
-- **hormusmera** /hor.musˈme.ra/ *(noun)* — jueves (día de Júpiter)
-- **keyzumera** /kej.zuˈme.ra/ *(noun)* — sábado (día de Saturno)
-- **kharip** /ˈxa.rip/ *(noun)* — otoño
-- **mahselmera** /mah.selˈme.ra/ *(noun)* — lunes (día de la Luna)
-- **nahar** /ˈna.har/ *(noun)* — mediodía
-- **nun** /ˈnun/ *(noun)* — ahora
-- **qábal** /ˈka.bal/ *(adverb)* — antes (anterioridad)
-- **qápal** /ˈka.pal/ *(noun)* — antes (previo)
-- **rabi** /ˈra.bi/ *(noun)* — primavera
-- **sabu** /ˈsa.bu/ *(noun)* — semana
-- **sahar** /ˈsa.har/ *(noun)* — madrugada, antes del alba, pre-amanecer
-- **sap** /ˈsap/ *(noun)* — verano
-- **sapkhah** /ˈsap.xah/ *(noun)* — mañana (temprano)
-- **shafak** /ˈʃa.fak/ *(noun)* — crepúsculo, anochecer, penumbra vespertina
-- **shapzir** /ˈʃap.zir/ *(noun)* — medianoche
-- **shuruk** /ˈʃu.ruk/ *(noun)* — orto, salida del sol, sol naciente
-- **suryamera** /su.rjaˈme.ra/ *(noun)* — domingo (día del Sol)
-- **thutirmera** /θu.tirˈme.ra/ *(noun)* — miércoles (día de Mercurio)
-- **yawam** /ˈja.wam/ *(noun)* — hoy
-- **ápda** /ˈap.da/ *(adverb)* — nunca
-
-## Verbos Básicos
-
-- **ada** /ˈa.da/ *(verb)* — comer
-- **ajula** /ˈa.ju.la/ *(verb)* — apresurarse
-- **akarsha** /ˈa.kar.ʃa/ *(verb)* — tirar/jalar
-- **ananka** /ˈa.nan.ka/ *(verb)* — necesitar/tener que
-- **aya** /ˈa.ja/ *(verb)* — venir
-- **baga** /ˈba.ga/ *(verb)* — rajar/dividir
-- **baklē** /ˈba.kleː/ *(verb)* — advertir
-- **banda** /ˈban.da/ *(verb)* — atar/amarrar
-- **barza** /ˈbar.za/ *(verb)* — cruzar
-- **bas** /ˈbas/ *(verb)* — parar
-- **baya** /ˈba.ja/ *(verb)* — temer/tener miedo
-- **bechke** /ˈbetʃ.ke/ *(verb)* — visualizar
-- **bepēp** /ˈbe.peːp/ *(verb)* — pulir
-- **biūl** /ˈbi.uːl/ *(verb)* — crecer
-- **byal** /ˈbjal/ *(verb)* — decidir
-- **byokh** /ˈbjox/ *(verb)* — sonreír
-- **bēch** /ˈbeːtʃ/ *(verb)* — fermentar
-- **bīchūp** /ˈbiː.tʃuːp/ *(verb)* — cosechar
-- **bīk** /ˈbiːk/ *(verb)* — tallar
-- **būkhō** /ˈbuː.xoː/ *(verb)* — hornear
-- **chal** /ˈtʃal/ *(verb)* — moverse, desplazarse, andar
-- **chida** /ˈtʃi.da/ *(verb)* — cortar
-- **chikhū** /ˈtʃi.xuː/ *(verb)* — prometer
-- **chinta** /ˈtʃin.ta/ *(verb)* — pensar
-- **chuwa** /ˈtʃu.wa/ *(verb)* — chupar
-- **dakhal** /ˈda.xal/ *(verb)* — entrar
-- **danash** /ˈda.naʃ/ *(verb)* — morder
-- **dapzaī** /ˈdap.za.iː/ *(verb)* — permitir
-- **dara** /ˈda.ra/ *(verb)* — sostener/tener
-- **de** /ˈde/ *(verb)* — dar
-- **dech** /ˈdetʃ/ *(verb)* — planificar
-- **delwus** /ˈde.lwus/ *(verb)* — impedir
-- **deya** /ˈde.ja/ *(verb)* — deber/tener obligación
-- **dhawa** /ˈða.wa/ *(verb)* — correr
-- **dirish** /ˈdi.riʃ/ *(verb)* — ver
-- **duhna** /ˈduh.na/ *(verb)* — comenzar
-- **dun** /ˈdun/ *(verb)* — dar, ofrecer, entregar
-- **duna** /ˈdu.na/ *(verb)* — poder/tener capacidad
-- **dzehmi** /ˈʣeh.mi/ *(verb)* — encoger
-- **dziywū** /ˈʣij.wuː/ *(verb)* — agradecer
-- **dzun** /ˈʣun/ *(verb)* — forjar
-- **dzutāp** /ˈʣu.taːp/ *(verb)* — tratar
-- **dzyūnā** /ˈʣjuː.naː/ *(verb)* — contraer
-- **dzālo** /ˈʣaː.lo/ *(verb)* — sincronizar
-- **dzēzēp** /ˈʣeː.zeːp/ *(verb)* — rasgar
-- **dārchē** /ˈdaːr.tʃeː/ *(verb)* — forzar
-- **dēk** /ˈdeːk/ *(verb)* — crear
-- **ekhra** /ˈe.xra/ *(verb)* — salir
-- **fap** /ˈfap/ *(verb)* — plegar
-- **fasī** /ˈfa.siː/ *(verb)* — investigar
-- **fatshē** /ˈfa.tʃeː/ *(verb)* — posponer
-- **fes** /ˈfes/ *(verb)* — observar
-- **fira** /ˈfi.ra/ *(verb)* — huir/escapar
-- **fitha** /ˈfi.θa/ *(verb)* — celebrar
-- **fiywo** /ˈfij.wo/ *(verb)* — practicar
-- **fu** /ˈfu/ *(verb)* — soplar
-- **fweros** /ˈfwe.ros/ *(verb)* — tejer
-- **fāp** /ˈfaːp/ *(verb)* — arriesgar
-- **fēu** /ˈfeː.u/ *(verb)* — enseñar
-- **fīkhā** /ˈfiː.xaː/ *(verb)* — despedir
-- **fōchbō** /ˈfoːtʃ.boː/ *(verb)* — desplegar
-- **fūmkē** /ˈfuːm.keː/ *(verb)* — transformar
-- **gacha** /ˈga.tʃa/ *(verb)* — caminar/andar
-- **gana** /ˈga.na/ *(verb)* — contar
-- **garda** /ˈgar.da/ *(verb)* — rodar
-- **gashgī** /ˈgaʃ.giː/ *(verb)* — hacer
-- **gaya** /ˈga.ja/ *(verb)* — cantar
-- **ghara** /ˈɣa.ra/ *(verb)* — oler
-- **gharka** /ˈɣar.ka/ *(verb)* — hundirse/sumergirse
-- **gharsha** /ˈɣar.ʃa/ *(verb)* — frotar/estregar
-- **ghip** /ˈɣip/ *(verb)* — saludar
-- **ghyefu** /ˈɣje.fu/ *(verb)* — esperar
-- **ghyupu** /ˈɣju.pu/ *(verb)* — airear
-- **ghētāk** /ˈɣeː.taːk/ *(verb)* — desatar
-- **gnotha** /ˈgno.θa/ *(verb)* — saber (cómo) / tener conocimiento
-- **gomēch** /ˈgo.meːtʃ/ *(verb)* — romper
-- **gīkhe** /ˈgiː.xe/ *(verb)* — imaginar
-- **gīra** /ˈgiː.ra/ *(verb)* — desafiar
-- **gūp** /ˈguːp/ *(verb)* — comerciar
-- **hadzya** /ˈha.ʣja/ *(verb)* — luchar
-- **halasa** /ˈha.la.sa/ *(verb)* — soltar/dejar ir
-- **hamila** /ˈha.mi.la/ *(verb)* — llevar/transportar
-- **hana** /ˈha.na/ *(verb)* — matar
-- **hap** /ˈhap/ *(verb)* — fallar
-- **hasa** /ˈha.sa/ *(verb)* — reir
-- **herpa** /ˈher.pa/ *(verb)* — arrastrarse
-- **hidi** /ˈhi.di/ *(verb)* — moldear
-- **hofē** /ˈho.feː/ *(verb)* — brillar
-- **hukhūh** /ˈhu.xuːh/ *(verb)* — mirar fijo
-- **hādu** /ˈhaː.du/ *(verb)* — tomar prestado
-- **hēfo** /ˈheː.fo/ *(verb)* — retorcer
-- **ich** /ˈitʃ/ *(verb)* — querer, desear, anhelar
-- **icha** /ˈi.tʃa/ *(verb)* — querer/desear
-- **ikmīp** /ˈik.miːp/ *(verb)* — asomarse
-- **imkhō** /ˈim.xoː/ *(verb)* — olvidar
-- **ir** /ˈir/ *(verb)* — expandir
-- **irwīkh** /ˈi.rwiːx/ *(verb)* — atar
-- **ithi** /ˈi.θi/ *(verb)* — chispear
-- **kadhā** /ˈka.ðaː/ *(verb)* — sollozar
-- **kasha** /ˈka.ʃa/ *(verb)* — aranhar/rascar
-- **kashala** /ˈka.ʃa.la/ *(verb)* — lavar
-- **kashipa** /ˈka.ʃi.pa/ *(verb)* — tirar/lanzar
-- **katdhi** /ˈkat.ði/ *(verb)* — susurrar
-- **khana** /ˈxa.na/ *(verb)* — cavar
-- **khapa** /ˈxa.pa/ *(verb)* — esconderse/ocultarse
-- **khinyī** /ˈxi.njiː/ *(verb)* — convenir
-- **khwowa** /ˈxwo.wa/ *(verb)* — jurar
-- **khyohe** /ˈxjo.he/ *(verb)* — deber
-- **khyīch** /ˈxjiːtʃ/ *(verb)* — invitar
-- **khābīr** /ˈxaː.biːr/ *(verb)* — vender
-- **khācha** /ˈxaː.tʃa/ *(verb)* — ungir
-- **khāfē** /ˈxaː.feː/ *(verb)* — gritar
-- **khānīs** /ˈxaː.niːs/ *(verb)* — segar
-- **kipta** /ˈkip.ta/ *(verb)* — agacharse/inclinarse
-- **kirida** /ˈki.ri.da/ *(verb)* — jugar
-- **kithō** /ˈki.θoː/ *(verb)* — existir
-- **kuntyu** /ˈkun.tju/ *(verb)* — lijar
-- **kyēs** /ˈkjeːs/ *(verb)* — llorar
-- **kānyā** /ˈkaː.njaː/ *(verb)* — proponer
-- **kāsfyō** /ˈkaːs.fjoː/ *(verb)* — desenvolver
-- **kīr** /ˈkiːr/ *(verb)* — obligar
-- **kūsh** /ˈkuːʃ/ *(verb)* — curar
-- **langa** /ˈla.ŋa/ *(verb)* — saltar
-- **lekhtu** /ˈlex.tu/ *(verb)* — necesitar
-- **lighza** /ˈliɣ.za/ *(verb)* — deslizarse
-- **lodzwē** /ˈlo.ʣweː/ *(verb)* — terminar
-- **loē** /ˈlo.eː/ *(verb)* — aprovechar
-- **lwe** /ˈlwe/ *(verb)* — merecer
-- **lwuwī** /ˈlwu.wiː/ *(verb)* — cantar ritual
-- **lēfōī** /ˈleː.foː.iː/ *(verb)* — aprender
-- **līkhū** /ˈliː.xuː/ *(verb)* — enojarse
-- **madada** /ˈma.da.da/ *(verb)* — estirarse
-- **mar** /ˈmar/ *(verb)* — morir, extinguirse, cesar
-- **mara** /ˈma.ra/ *(verb)* — morir
-- **mibōm** /ˈmi.boːm/ *(verb)* — germinar
-- **miriga** /ˈmi.ri.ga/ *(verb)* — cazar
-- **mok** /ˈmok/ *(verb)* — preparar
-- **mwōp** /ˈmwoːp/ *(verb)* — elegir
-- **mēr** /ˈmeːr/ *(verb)* — aconsejar
-- **mīsh** /ˈmiːʃ/ *(verb)* — preguntar
-- **mōch** /ˈmoːtʃ/ *(verb)* — apagar
-- **mūsēbū** /ˈmuː.seː.buː/ *(verb)* — tararear
-- **nacha** /ˈna.tʃa/ *(verb)* — bailar
-- **napalū** /ˈna.pa.luː/ *(verb)* — encender
-- **nava** /ˈna.wa/ *(verb)* — navegar, cruzar aguas, atravesar
-- **nerām** /ˈne.raːm/ *(verb)* — reír
-- **nop** /ˈnop/ *(verb)* — responder
-- **nuta** /ˈnu.ta/ *(verb)* — empujar
-- **nēgā** /ˈneː.gaː/ *(verb)* — espiar
-- **nēzu** /ˈneː.zu/ *(verb)* — gemir
-- **nīhpū** /ˈniːh.puː/ *(verb)* — regalar
-- **nōakō** /ˈnoː.a.koː/ *(verb)* — causar
-- **nūswom** /ˈnuː.swom/ *(verb)* — saborear
-- **ofmō** /ˈof.moː/ *(verb)* — pausar
-- **parana** /ˈpa.ra.na/ *(verb)* — respirar
-- **parpa** /ˈpar.pa/ *(verb)* — agarrar/alcanzar
-- **pata** /ˈpa.ta/ *(verb)* — volar
-- **pati** /ˈpa.ti/ *(verb)* — caer
-- **pazwīh** /ˈpaz.wiːh/ *(verb)* — apresurar
-- **piba** /ˈpi.ba/ *(verb)* — beber/tomar
-- **pida** /ˈpi.da/ *(verb)* — apretar/exprimir
-- **pilawa** /ˈpi.la.wa/ *(verb)* — flotar
-- **pom** /ˈpom/ *(verb)* — honrar
-- **pothā** /ˈpo.θaː/ *(verb)* — centellear
-- **pyīr** /ˈpjiːr/ *(verb)* — prestar
-- **pādzō** /ˈpaː.ʣoː/ *(verb)* — suspirar
-- **pākh** /ˈpaːx/ *(verb)* — triturar
-- **pōch** /ˈpoːtʃ/ *(verb)* — pagar
-- **rakh** /rax/ *(verb)* — proteger, cuidar, guardar
-- **rashe** /ˈra.ʃe/ *(verb)* — autorizar
-- **rat** /ˈrat/ *(verb)* — brillar, resplandecer, irradiar
-- **rechep** /ˈre.tʃep/ *(verb)* — podar
-- **rep** /ˈrep/ *(verb)* — repetir
-- **rodil** /ˈro.dil/ *(verb)* — calmar
-- **roha** /ˈro.ha/ *(verb)* — gatear/trepar
-- **ryēlo** /ˈrjeː.lo/ *(verb)* — continuar
-- **rēdyē** /ˈreː.djeː/ *(verb)* — envolver
-- **rīch** /ˈriːtʃ/ *(verb)* — cesar
-- **rūpe** /ˈruː.pe/ *(verb)* — vendar
-- **rūt** /ˈruːt/ *(verb)* — disculparse
-- **sada** /ˈsa.da/ *(verb)* — sentarse
-- **safar** /ˈsa.far/ *(verb)* — viajar
-- **sakata** /ˈsa.ka.ta/ *(verb)* — tropezar
-- **sakhu** /ˈsa.xu/ *(verb)* — oler
-- **sarana** /ˈsa.ra.na/ *(verb)* — vagar/deambular
-- **satha** /ˈsa.θa/ *(verb)* — estar de pie/pararse
-- **shaya** /ˈʃa.ja/ *(verb)* — echarse/acostarse
-- **ship** /ˈʃip/ *(verb)* — ordenar
-- **shithiwa** /ˈʃi.θi.wa/ *(verb)* — escupir
-- **shuda** /ˈʃu.da/ *(verb)* — limpiar
-- **shuru** /ˈʃu.ru/ *(verb)* — oir/escuchar
-- **shwa** /ˈʃwa/ *(verb)* — hincharse
-- **sirawa** /ˈsi.ra.wa/ *(verb)* — fluir/correr (agua)
-- **siwa** /ˈsi.wa/ *(verb)* — coser
-- **swapna** /ˈswap.na/ *(verb)* — dormir
-- **tada** /ˈta.da/ *(verb)* — golpear/pegar
-- **talaba** /ˈta.la.ba/ *(verb)* — seguir/perseguir
-- **talwa** /ˈta.lwa/ *(verb)* — balancearse/columpiarse
-- **tara** /ˈta.ra/ *(verb)* — nadar
-- **tefūk** /ˈte.fuːk/ *(verb)* — maldecir
-- **teē** /ˈte.eː/ *(verb)* — diseñar
-- **thalo** /ˈθa.lo/ *(verb)* — convertir
-- **thī** /ˈθiː/ *(verb)* — escuchar
-- **tii** /ˈti.i/ *(verb)* — doblar
-- **tofō** /ˈto.foː/ *(verb)* — regar
-- **tolma** /ˈtol.ma/ *(verb)* — osar/atreverse
-- **tor** /ˈtor/ *(verb)* — inventar
-- **tswu** /ˈtswu/ *(verb)* — barrer
-- **tumā** /ˈtu.maː/ *(verb)* — frotar
-- **tīī** /ˈtiː.iː/ *(verb)* — diagnosticar
-- **tōdā** /ˈtoː.daː/ *(verb)* — bendecir
-- **udgama** /ˈud.ga.ma/ *(verb)* — emerger/surgir
-- **ugi** /ˈu.gi/ *(verb)* — lograr
-- **wacha** /ˈwa.tʃa/ *(verb)* — decir/hablar
-- **waghyā** /ˈwaɣ.jaː/ *(verb)* — ordenar
-- **wami** /ˈwa.mi/ *(verb)* — vomitar
-- **wida** /ˈwi.da/ *(verb)* — apunhalar/clavar
-- **wiri** /ˈwi.ri/ *(verb)* — volver/girar
-- **wornōp** /ˈwor.noːp/ *(verb)* — destrozar
-- **wukdhe** /ˈwuk.ðe/ *(verb)* — comprar
-- **wōp** /ˈwoːp/ *(verb)* — reparar
-- **yadahā** /ˈja.da.haː/ *(verb)* — persistir
-- **yafdze** /ˈjaf.ʣe/ *(verb)* — prohibir
-- **yana** /ˈja.na/ *(verb)* — saber/conocer
-- **yine** /ˈji.ne/ *(verb)* — afeitarse
-- **yiwa** /ˈji.wa/ *(verb)* — vivir
-- **yoūs** /ˈjo.uːs/ *(verb)* — reanudar
-- **yuda** /ˈju.da/ *(verb)* — pelear/combatir
-- **yārā** /ˈjaː.raː/ *(verb)* — bañarse
-- **yēkhoē** /ˈjeː.xo.eː/ *(verb)* — recoger
-- **yōdzyā** /ˈjoː.ʣjaː/ *(verb)* — limpiar
-- **yū** /ˈjuː/ *(verb)* — atreverse
-- **yūfrē** /ˈjuː.freː/ *(verb)* — tender
-- **zihi** /ˈzi.hi/ *(verb)* — habilitar
-- **zoshpō** /ˈzoʃ.poː/ *(verb)* — intentar
-- **zwisru** /ˈzwis.ru/ *(verb)* — cultivar
-- **zānoch** /ˈzaː.notʃ/ *(verb)* — degustar
-- **zīssyō** /ˈziːss.joː/ *(verb)* — sembrar
-- **zōrna** /ˈzoːr.na/ *(verb)* — cocinar
-- **āktīp** /ˈaːk.tiːp/ *(verb)* — abonar
-- **ānō** /ˈaː.noː/ *(verb)* — estudiar
-- **ēnē** /ˈeː.neː/ *(verb)* — memorizar
-- **ūfo** /ˈuː.fo/ *(verb)* — recordar
-- **ūtīkūm** /ˈuː.tiː.kuːm/ *(verb)* — ensamblar
-
-## Vivienda y Arquitectura
-
-- **bap** /ˈbap/ *(noun)* — puerta, entrada, portal, acceso
-- **bashk** /ˈbaʃk/ *(noun)* — jardín, huerto, vergel, parque
-- **bomos** /ˈbo.mos/ *(noun)* — altar (estructura elevada para ofrendas rituales)
-- **bum** /ˈbum/ *(noun)* — piso, suelo, pavimento, base
-- **burja** /ˈbur.dʒa/ *(noun)* — torre, atalaya, fortificación vertical
-- **dar** /ˈdar/ *(noun)* — casa, hogar, morada, vivienda
-- **divar** /ˈdi.war/ *(noun)* — muro, pared, muralla, tabique
-- **firash** /ˈfi.raʃ/ *(noun)* — cama, lecho, yacija, lugar de descanso
-- **hamam** /ˈha.mam/ *(noun)* — baño (estancia para el aseo o para inmersión ritual)
-- **hujar** /ˈhu.dʒar/ *(noun)* — celda, cuarto pequeño, aposento, camarín
-- **kalit** /ˈka.lit/ *(noun)* — llave (instrumento para abrir cerradura)
-- **kamin** /ˈka.min/ *(noun)* — chimenea (conducto para humo o estructura para el fuego del hogar)
-- **khant** /ˈxant/ *(noun)* — cimientos, fosa, zanja, excavación basal
-- **klimak** /ˈkli.mak/ *(noun)* — escalera (serie de escalones para subir o bajar)
-- **kupa** /ˈku.pa/ *(noun)* — pozo (excavación vertical para acceder a aguas subterráneas)
-- **kuras** /ˈku.ras/ *(noun)* — silla, asiento, banco, trono
-- **makhērshilp** /mak.heːr.ʃilp/ *(noun)* — laboratorio (sala de investigación científica, experimentación y análisis)
-- **matbak** /ˈmat.bak/ *(noun)* — cocina (espacio o estancia para preparar alimentos)
-- **mis** /ˈmis/ *(noun)* — mesa, tablero, superficie de apoyo
-- **nak** /ˈnak/ *(noun)* — edificio, construcción, estructura
-- **naos** /ˈna.os/ *(noun)* — templo (edificio sagrado para el culto)
-- **nawma** /ˈnaw.ma/ *(noun)* — dormitorio (estancia para dormir)
-- **otaq** /ˈo.tak/ *(noun)* — habitación, cuarto, aposento, sala
-- **pul** /ˈpul/ *(noun)* — puente, paso elevado, conexión
-- **qasar** /ˈka.sar/ *(noun)* — fortaleza, castillo, ciudadela, palacio fortificado
-- **sanduq** /ˈsan.duk/ *(noun)* — cofre, caja, arca, baúl
-- **saqap** /ˈsa.kap/ *(noun)* — techo, cubierta, cielo raso
-- **shahar** /ˈʃa.har/ *(noun)* — ciudad, urbe, poblado grande
-- **sham** /ˈʃam/ *(noun)* — lámpara, luminaria, vela, antorcha
-- **shar** /ˈʃar/ *(noun)* — calle, vía, camino urbano, callejuela
-- **shubak** /ˈʃu.bak/ *(noun)* — ventana, vano, abertura en muro
-- **sutun** /ˈsu.tun/ *(noun)* — columna, pilar, poste vertical
-- **tafos** /ˈta.fos/ *(noun)* — tumba (estructura funeraria, lugar de descanso de difuntos)
-
----
-*Glosario generado automáticamente desde el JSON. 1280 entradas en 24 categorías.*
+**ahadāt** - tratado, pacto, acuerdo vinculante entre partes (NOUN) [Árabe esotérico / Persa Avéstico]
+**amarwit** - decreto, edicto, mandato oficial de la autoridad (NOUN) [Árabe esotérico / Egipcio Demótico]
+**dawlakōt** - gobierno, estado, administración del poder público (NOUN) [Árabe esotérico / Copto]
+**hapdāta** - ley, estatuto, norma jurídica (NOUN) [Egipcio Demótico / Persa Avéstico]
+**haprat** - juez, magistrado, quien dictamina según la ley (NOUN) [Copto / Persa Avéstico]
+**hilifārta** - alianza, coalición, unión estratégica entre pueblos (NOUN) [Árabe esotérico / Persa Avéstico]
+**ikāpchad** - castigo, pena, sanción por transgresión de la ley (NOUN) [Árabe esotérico / Tibetano Clásico]
+**jurmbōn** - crimen, delito, transgresión grave de la ley (NOUN) [Árabe esotérico / Copto]
+**kahyul** - reino, territorio, dominio soberano (NOUN) [Copto / Tibetano Clásico]
+**magaharb** - guerra, conflicto armado, contienda entre fuerzas (NOUN) [Árabe esotérico / Tibetano Clásico]
+**majlisgros** - asamblea, consejo, reunión deliberativa (NOUN) [Árabe esotérico / Tibetano Clásico]
+**māliknīt** - reina, soberana, monarca (NOUN) [Árabe esotérico / Egipcio Demótico]
+**mēimat** - derecho, justicia, lo que corresponde por ley y orden cósmico (NOUN) [Copto / Egipcio Demótico]
+**nīwtagrong** - ciudad, urbe, asentamiento urbano amurallado (NOUN) [Egipcio Demótico / Tibetano Clásico]
+**rabāji** - impuesto, tributo, contribución al estado (NOUN) [Copto / Persa Avéstico]
+**romālik** - rey, monarca, soberano de un reino (NOUN) [Copto / Árabe esotérico]
+**silmarta** - paz, armonía, ausencia de conflicto (NOUN) [Árabe esotérico / Persa Avéstico]
+**tāshhad** - frontera, límite, línea divisoria entre territorios (NOUN) [Egipcio Demótico / Árabe esotérico]
+**wālrat** - gobernante, autoridad, quien ejerce el poder (NOUN) [Árabe esotérico / Persa Avéstico]

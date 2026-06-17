@@ -1,10 +1,9 @@
-const LEXICON_DATA = 
 {
   "kalfirvach_lexicon_v1.4": {
     "metadata": {
       "version": "1.4",
-      "total_entries": 1297,
-      "date_generated": "2026-06-17",
+      "total_entries": 1280,
+      "date_generated": "2026-06-16",
       "languages": [
         "Griego",
         "Sanscrito",
@@ -12,40 +11,16 @@ const LEXICON_DATA =
         "Persa",
         "Tibetano",
         "Arabe",
-        "Egipcio",
-        "Copto"
+        "Egipcio"
       ],
       "writing_system": "Alfabeto griego politonico con arcaicas",
-      "last_updated": "2026-06-17",
-      "date_updated": "2026-06-17",
+      "last_updated": "2026-06-16",
+      "date_updated": "2026-06-16",
       "ipa_coverage": "100%",
+      "schema_version": "v1.0",
+      "total_categorias": 24,
       "total_categories": 24,
-      "categories": [
-        "pronombres_y_deicticos",
-        "onomastica",
-        "numeros",
-        "dimensiones_y_adjetivos",
-        "personas_y_parentesco",
-        "animales",
-        "seres_vivos_plantas",
-        "anatomia_y_cuerpo",
-        "verbos_basicos",
-        "naturaleza_y_elementos",
-        "conceptos_espaciales_y_calidades",
-        "conjunciones_y_particulas",
-        "actitudinales",
-        "magia_y_mitologia",
-        "tecnologia",
-        "tiempo_domestico",
-        "medicina_y_salud",
-        "emociones_y_estados_afectivos",
-        "comida_y_cocina",
-        "vivienda_y_arquitectura",
-        "interjecciones_y_exclamaciones",
-        "biologia_y_micologia",
-        "profesiones_y_roles",
-        "gobierno_politica_derecho"
-      ]
+      "normalized": true
     },
     "categorias": {
       "pronombres_y_deicticos": {
