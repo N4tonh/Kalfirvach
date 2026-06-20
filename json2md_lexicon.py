@@ -1,26 +1,26 @@
 #!/usr/bin/env python3
-"""Convert Kalfirvach lexicon v1.0 from JSON to Markdown."""
+"""Convert Kalfirvach lexicon from JSON to Markdown (v1.5)."""
 
 import json, sys, os
 from pathlib import Path
 
 BASE = Path(__file__).parent
-JSON_PATH = BASE / "kalfirvach_lexicon_v1.0.json"
-MD_PATH = BASE / "lexicon_v1.0.md"
+JSON_PATH = BASE / "kalfirvach_lexicon_v1.5.json"
+MD_PATH = BASE / "glosario_v1.5.md"
 
 with open(JSON_PATH, "r", encoding="utf-8") as f:
     data = json.load(f)
 
-root = data.get("kalfirvach_lexicon_v1.0", data)
+root = data.get("kalfirvach_lexicon_v1.5", data)
 meta = root.get("metadata", {})
 cats = root.get("categorias", {})
 
 lines = []
-lines.append("# Léxico Kalfírvach v1.0")
+lines.append("# Léxico Kalfírvach v1.5")
 lines.append("")
 lines.append(f"**Versión**: {meta.get('version', '?')}")
-lines.append(f"**Entradas**: {meta.get('total_entries', '?')}")
-lines.append(f"**Generado**: {meta.get('date_generated', '?')}")
+lines.append(f"**Entradas**: {meta.get('total_entradas', meta.get('total_entries', '?'))}")
+lines.append(f"**Generado**: {meta.get('last_updated', meta.get('date_generated', '?'))}")
 lines.append(f"**Lenguas fuente**: {', '.join(meta.get('languages', []))}")
 lines.append(f"**Sistema de escritura**: {meta.get('writing_system', '?')}")
 lines.append("")
@@ -64,7 +64,7 @@ for cat_key in cat_order:
 
     for e in entries:
         conc = e.get("concepto", "?")
-        form = e.get("forma_final", "?")
+        form = e.get("kalfirvach", "?")
         ipa = e.get("ipa", None)
         origen = e.get("origen", {})
         transf = e.get("transformacion", [])
@@ -104,11 +104,6 @@ for cat_key in cat_order:
                     lines.append(f"- {d}")
                 elif isinstance(d, dict):
                     lines.append(f"- {d.get('forma', '?')} = {d.get('concepto', '?')}")
-        elif isinstance(deriv, str) and deriv.strip():
-            lines.append("")
-            lines.append("#### Derivaciones")
-            lines.append("")
-            lines.append(f"- {deriv}")
 
         if notas:
             lines.append("")

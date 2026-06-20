@@ -3,7 +3,7 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Kalfírvach Lexicón v1.4 — Diccionario Πολυτονικόν</title>
+<title>Kalfírvach Lexicón v1.5 — Diccionario Πολυτονικόν</title>
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link href="https://fonts.googleapis.com/css2?family=Cinzel:wght@400;700;900&family=Cormorant+Garamond:ital,wght@0,400;0,600;0,700;1,400&family=Noto+Serif:ital,wght@0,400;0,700;1,400&display=swap" rel="stylesheet">
 <style>
@@ -587,7 +587,7 @@ main {
 <header>
   <h1>KALFÍRVACH<br><span class="sub">Λεξικόν Πολυτονικόν</span></h1>
   <p class="subtitle">— Diccionario del Lenguaje Mágico —</p>
-  <p class="stats" id="stats">Cargando léxico v1.4...</p>
+  <p class="stats" id="stats">Cargando léxico v1.5...</p>
 </header>
 
 <nav id="letterNav"></nav>
@@ -947,7 +947,7 @@ function clearSearch() {
 // ─── Load lexicon ───────────────────────────────────────────────
 function loadLexicon() {
   try {
-    const catData = LEXICON_DATA["kalfirvach_lexicon_v1.4"].categorias;
+    const catData = LEXICON_DATA["kalfirvach_lexicon_v1.5"].categorias;
     const entries = [];
     for (const [catName, cat] of Object.entries(catData)) {
       if (cat.entradas) {
