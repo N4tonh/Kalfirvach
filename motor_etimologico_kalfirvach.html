@@ -1,0 +1,535 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Forja Etimológica - Kalfírvach v1.4</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <link href="https://fonts.googleapis.com/css2?family=Cinzel:wght@400;600;700&family=Inter:wght@300;400;500;600&display=swap" rel="stylesheet">
+    <script src="https://unpkg.com/lucide@latest"></script>
+    <style>
+        body {
+            font-family: 'Inter', sans-serif;
+            background-color: #0f111a;
+            color: #e2e8f0;
+            background-image: radial-gradient(circle at 50% 0%, #1f1b2e 0%, #0f111a 60%);
+            min-height: 100vh;
+        }
+        h1, h2, h3, .mystical-font {
+            font-family: 'Cinzel', serif;
+        }
+        .input-box {
+            background: rgba(30, 41, 59, 0.5);
+            border: 1px solid rgba(71, 85, 105, 0.5);
+            transition: all 0.3s ease;
+        }
+        .input-box:focus-within {
+            border-color: #8b5cf6;
+            box-shadow: 0 0 15px rgba(139, 92, 246, 0.3);
+        }
+        .glass-panel {
+            background: rgba(15, 23, 42, 0.6);
+            backdrop-filter: blur(10px);
+            border: 1px solid rgba(51, 65, 85, 0.8);
+        }
+        /* Custom Scrollbar */
+        ::-webkit-scrollbar { width: 8px; }
+        ::-webkit-scrollbar-track { background: #0f111a; }
+        ::-webkit-scrollbar-thumb { background: #334155; border-radius: 4px; }
+        ::-webkit-scrollbar-thumb:hover { background: #475569; }
+    </style>
+</head>
+<body class="p-6 md:p-12">
+
+    <div class="max-w-5xl mx-auto">
+        <!-- Header -->
+        <header class="text-center mb-10">
+            <h1 class="text-4xl md:text-5xl font-bold text-transparent bg-clip-text bg-gradient-to-r from-purple-400 to-indigo-400 mb-2">
+                Forja Léxica Kalfírvach
+            </h1>
+            <p class="text-gray-400 text-sm tracking-widest uppercase">Motor de Síntesis Fonotáctica v1.4.1 (Parche Prosodia & Variedad)</p>
+        </header>
+
+        <div class="grid grid-cols-1 lg:grid-cols-3 gap-8">
+            
+            <!-- Panel de Inputs (Lenguas Fuente) -->
+            <div class="lg:col-span-2 glass-panel rounded-2xl p-6">
+                <div class="flex items-center justify-between mb-6">
+                    <h2 class="text-2xl font-semibold mystical-font text-purple-300">Raíces Etimológicas (IPA)</h2>
+                    <i data-lucide="languages" class="text-purple-400"></i>
+                </div>
+                
+                <!-- Concepto -->
+                <div class="mb-6">
+                    <label class="block text-sm uppercase tracking-wider text-purple-300 font-bold mb-2">Concepto / Significado</label>
+                    <input type="text" id="input-concepto" placeholder="Ej. Fuego, Alma, Espada..." class="w-full bg-gray-900/50 border border-purple-500/30 rounded-xl px-4 py-3 text-white outline-none focus:border-purple-500 transition-colors">
+                </div>
+
+                <p class="text-sm text-gray-400 mb-6">Introduce la transcripción fonética (IPA). El motor mapeará diacríticos de longitud (ː) a vocales largas de Kalfírvach y conservará dígrafos como <span class="text-purple-300 font-mono">th, gh, kh</span>.</p>
+
+                <div class="grid grid-cols-1 md:grid-cols-2 gap-4" id="inputs-container">
+                    <!-- Los inputs se generan dinámicamente -->
+                </div>
+
+                <div class="mt-8 flex justify-end">
+                    <button id="btn-forjar" onclick="iniciarForja()" class="mystical-font text-lg font-bold bg-gradient-to-r from-purple-600 to-indigo-600 hover:from-purple-500 hover:to-indigo-500 text-white py-3 px-8 rounded-xl shadow-[0_0_20px_rgba(139,92,246,0.4)] transition-all transform hover:scale-105 flex items-center gap-2">
+                        <i data-lucide="flame"></i> Forjar Palabra
+                    </button>
+                </div>
+            </div>
+
+            <!-- Panel de Resultados -->
+            <div class="glass-panel rounded-2xl p-6 flex flex-col">
+                <div class="flex items-center justify-between mb-6">
+                    <h2 class="text-2xl font-semibold mystical-font text-indigo-300">Resultados</h2>
+                    <i data-lucide="sparkles" class="text-indigo-400"></i>
+                </div>
+
+                <div id="log-procesamiento" class="text-xs text-gray-500 font-mono mb-4 h-16 overflow-y-auto border-b border-gray-800 pb-2">
+                    > Consola lista para la transmutación léxica...
+                </div>
+
+                <div id="resultados-container" class="flex-grow flex flex-col gap-3 overflow-y-auto max-h-[450px] pr-1">
+                    <div class="h-full flex flex-col items-center justify-center text-gray-500 opacity-50 my-12">
+                        <i data-lucide="hexagon" class="w-16 h-16 mb-2 animate-pulse"></i>
+                        <p class="text-sm text-center">A la espera de raíces<br>para iniciar la transmutación.</p>
+                    </div>
+                </div>
+
+                <!-- Apartado de Etimología -->
+                <div id="etimologia-container" class="mt-4 pt-4 border-t border-gray-800 hidden">
+                    <h3 class="text-sm font-semibold mystical-font text-purple-300 mb-2 flex items-center gap-2">
+                        <i data-lucide="book-open" class="w-4 h-4"></i> Registro Etimológico
+                    </h3>
+                    <div id="texto-etimologia" onclick="copiarEtimologia()" class="text-xs text-gray-400 font-mono bg-gray-900/50 p-3 rounded-lg border border-gray-700 cursor-pointer hover:border-purple-500/50 hover:text-gray-200 transition-colors relative group" title="Clic para copiar">
+                        <span id="etimologia-content"></span>
+                        <div class="absolute right-2 top-1/2 transform -translate-y-1/2 opacity-0 group-hover:opacity-100 transition-opacity">
+                            <i data-lucide="copy" class="w-4 h-4 text-purple-400"></i>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+        </div>
+    </div>
+
+    <script>
+        // Inicializar iconos
+        lucide.createIcons();
+
+        // Configuración de las lenguas fuente
+        const LENGUAS = [
+            { id: 'copto', nombre: 'Copto', color: 'border-amber-500/30' },
+            { id: 'egipcio', nombre: 'Egipcio Demótico', color: 'border-yellow-600/30' },
+            { id: 'avestico', nombre: 'Persa Avéstico', color: 'border-orange-500/30' },
+            { id: 'persa_mod', nombre: 'Persa Moderno', color: 'border-red-500/30' },
+            { id: 'arabe', nombre: 'Árabe Esotérico', color: 'border-emerald-500/30' },
+            { id: 'sanscrito', nombre: 'Sánscrito', color: 'border-pink-500/30' },
+            { id: 'griego', nombre: 'Griego Koiné', color: 'border-blue-500/30' },
+            { id: 'tibetano', nombre: 'Tibetano', color: 'border-cyan-500/30' }
+        ];
+
+        // Reglas Fonológicas de Kalfírvach v1.4 completas
+        const KAL_CONSONANTES = [
+            'p','b','t','d','k','g','m','n','f','v','s','z','h','ch','j','r','l','y','w','sh','zh','kh','th','dh','gh'
+        ];
+        const KAL_VOCALES = ['a','e','i','o','u','ā','ē','ī','ō','ū'];
+        const KAL_CODAS_VALIDAS = ['m','n','r','l','s','sh','p','t','k']; 
+        const DIGRAFOS = ['ch', 'sh', 'zh', 'kh', 'th', 'dh', 'gh'];
+
+        // Generar UI de Inputs
+        const inputsContainer = document.getElementById('inputs-container');
+        LENGUAS.forEach(lengua => {
+            inputsContainer.innerHTML += `
+                <div class="input-box rounded-xl p-1 border-b-2 ${lengua.color}">
+                    <label class="block text-xs uppercase tracking-wider text-gray-400 ml-2 mt-1 mb-1">${lengua.nombre}</label>
+                    <input type="text" id="input-${lengua.id}" placeholder="Ej. IPA..." class="w-full bg-transparent border-none outline-none text-white px-2 pb-2 placeholder-gray-600 font-mono text-sm">
+                </div>
+            `;
+        });
+
+        // ==========================================
+        // LÓGICA DEL MOTOR DE SÍNTESIS
+        // ==========================================
+
+        // Mapeo exhaustivo y preciso de IPA a Fonemas de Kalfírvach v1.4
+        function limpiarIPA(ipa) {
+            let limpio = ipa.toLowerCase()
+                // Limpiar de forma quirúrgica acentos IPA, corchetes, slashes, puntos de sílaba
+                // Y ELIMINAR ligaduras Unicode (͡, ͜), ejectivas (ʼ) y aspiraciones (ʰ) QUE ROMPÍAN EL SCRIPT
+                .replace(/[\u0361\u035c\u02bc\u02b0\u02c8\u02ccˈˌ.\[\]\/]/g, '') 
+                
+                // Convertir la indicación de longitud fonológica (ː o ˑ) a vocales largas oficiales
+                .replace(/([aeiou])[ːˑ]/g, (match, vocal) => {
+                    const largas = { 'a':'ā', 'e':'ē', 'i':'ī', 'o':'ō', 'u':'ū' };
+                    return largas[vocal] || vocal;
+                })
+                
+                // Mapear consonantes y dígrafos nativos de Kalfírvach (Ahora tʃ funcionará porque ͡ se limpió antes)
+                .replace(/tʃ/g, 'ch') 
+                .replace(/dʒ/g, 'j') 
+                .replace(/θ/g, 'th') 
+                .replace(/ð/g, 'dh') 
+                .replace(/x/g, 'kh') 
+                .replace(/ɣ/g, 'gh') 
+                .replace(/ʃ/g, 'sh') 
+                .replace(/ʒ/g, 'zh') 
+                
+                // Mapear glides e IPA conflictivos
+                .replace(/j/g, 'y')  
+                .replace(/y/g, 'i')  
+                
+                // Otros refinamientos
+                .replace(/ŋ/g, 'n')
+                .replace(/ɲ/g, 'n')
+                .replace(/q/g, 'k')
+                .replace(/ʕ/g, 'h')
+                .replace(/ħ/g, 'h')
+                .replace(/ʔ/g, '')  // Se omite la oclusiva glotal
+                .replace(/ɸ/g, 'f')
+                .replace(/β/g, 'v')
+                .replace(/ç/g, 'sh')
+                .replace(/ɬ/g, 'l')
+                .replace(/[ɛæ]/g, 'e')
+                .replace(/[ɔɒ]/g, 'o')
+                .replace(/[ɪ]/g, 'i')
+                .replace(/[ʊ]/g, 'u')
+                .replace(/[əʌ]/g, 'a');
+
+            return limpio;
+        }
+
+        function tokenizar(palabra) {
+            let tokens = [];
+            let i = 0;
+            while (i < palabra.length) {
+                let digrafo = palabra.substr(i, 2);
+                if (DIGRAFOS.includes(digrafo)) {
+                    tokens.push(digrafo);
+                    i += 2;
+                } else if (KAL_CONSONANTES.includes(palabra[i]) || KAL_VOCALES.includes(palabra[i])) {
+                    tokens.push(palabra[i]);
+                    i++;
+                } else {
+                    i++; 
+                }
+            }
+            return tokens;
+        }
+
+        function silabear(palabra) {
+            let tokens = tokenizar(palabra);
+            let indicesVocales = [];
+            
+            tokens.forEach((t, idx) => {
+                if (KAL_VOCALES.includes(t)) indicesVocales.push(idx);
+            });
+
+            if (indicesVocales.length <= 1) return [palabra];
+
+            let silabas = [];
+            let startIdx = 0;
+
+            for (let i = 0; i < indicesVocales.length - 1; i++) {
+                let vActual = indicesVocales[i];
+                let vSiguiente = indicesVocales[i + 1];
+                let dist = vSiguiente - vActual - 1; 
+                let splitPoint = vSiguiente;
+
+                if (dist === 1) {
+                    splitPoint = vActual + 1;
+                } else if (dist >= 2) {
+                    splitPoint = vActual + 2;
+                } else {
+                    splitPoint = vActual + 1;
+                }
+
+                silabas.push(tokens.slice(startIdx, splitPoint).join(''));
+                startIdx = splitPoint;
+            }
+
+            silabas.push(tokens.slice(startIdx).join(''));
+            return silabas;
+        }
+
+        function obtenerSilabaTonicaIdx(silabas) {
+            if (silabas.length === 1) return 0;
+            for (let i = 0; i < silabas.length; i++) {
+                let tokensSilaba = tokenizar(silabas[i]);
+                let tieneVocalLarga = tokensSilaba.some(t => ['ā','ē','ī','ō','ū'].includes(t));
+                if (tieneVocalLarga) return i;
+            }
+            return silabas.length - 2;
+        }
+
+        function formatearProsodia(palabra) {
+            let silabas = silabear(palabra);
+            let tonicaIdx = obtenerSilabaTonicaIdx(silabas);
+
+            const mapaTildes = {
+                'a': 'á', 'e': 'é', 'i': 'í', 'o': 'ó', 'u': 'ú',
+                'ā': 'ā́', 'ē': 'ḗ', 'ī': 'ī́', 'ō': 'ṓ', 'ū': 'ū́'
+            };
+
+            let silabasFormateadas = silabas.map((silaba, idx) => {
+                if (idx === tonicaIdx) {
+                    let tokens = tokenizar(silaba);
+                    let tokensModificados = tokens.map(t => KAL_VOCALES.includes(t) ? (mapaTildes[t] || t) : t);
+                    return `<strong class="text-purple-300 underline decoration-indigo-500/50">${tokensModificados.join('')}</strong>`;
+                }
+                return silaba;
+            });
+
+            return {
+                silabeada: silabasFormateadas.join('.'),
+                ipa: generarIpaEstimado(silabas, tonicaIdx)
+            };
+        }
+
+        function generarIpaEstimado(silabas, tonicaIdx) {
+            let ipaSilabas = silabas.map(sil => {
+                return sil
+                    .replace(/th/g, 'θ')
+                    .replace(/dh/g, 'ð')
+                    .replace(/kh/g, 'x')
+                    .replace(/gh/g, 'ɣ')
+                    .replace(/sh/g, 'ʃ')
+                    .replace(/zh/g, 'ʒ')
+                    .replace(/ch/g, 'tʃ')
+                    .replace(/j/g, 'dʒ')
+                    .replace(/y/g, 'j')
+                    .replace(/ā/g, 'aː')
+                    .replace(/ē/g, 'eː')
+                    .replace(/ī/g, 'iː')
+                    .replace(/ō/g, 'oː')
+                    .replace(/ū/g, 'uː');
+            });
+
+            ipaSilabas[tonicaIdx] = 'ˈ' + ipaSilabas[tonicaIdx];
+            return '[' + ipaSilabas.join('.') + ']';
+        }
+
+        function iniciarForja() {
+            const inputsActivos = LENGUAS.map(l => {
+                return {
+                    nombre: l.nombre,
+                    ipaVal: document.getElementById(`input-${l.id}`).value.trim()
+                };
+            }).filter(item => item.ipaVal !== '');
+            
+            const inputs = inputsActivos.map(item => item.ipaVal.replace(/[\/\[\]]/g, ''));
+            
+            if (inputs.length < 2) {
+                alert("Por favor, introduce al menos 2 raíces fonéticas.");
+                return;
+            }
+
+            mostrarLog("Analizando material genético (IPA)...");
+            
+            // Generar string de etimología
+            let concepto = document.getElementById('input-concepto').value.trim() || '[Sin Concepto]';
+            let etimologiaStr = `- Concepto: '${concepto}'. Etimología: ` + inputsActivos.map(l => `${l.nombre} /${l.ipaVal}/`).join(', ') + '.';
+            
+            document.getElementById('etimologia-content').innerText = etimologiaStr;
+            document.getElementById('etimologia-container').classList.remove('hidden');
+            lucide.createIcons();
+            
+            let todosLosFonemas = [];
+            inputs.forEach(ipa => {
+                let limpio = limpiarIPA(ipa);
+                let tokens = tokenizar(limpio);
+                todosLosFonemas = todosLosFonemas.concat(tokens);
+            });
+
+            let freqC = {};
+            let freqV = {};
+            todosLosFonemas.forEach(f => {
+                if (KAL_CONSONANTES.includes(f)) freqC[f] = (freqC[f] || 0) + 1;
+                if (KAL_VOCALES.includes(f)) freqV[f] = (freqV[f] || 0) + 1;
+            });
+
+            // Se elimina el multiplicador artificial para evitar que un sonido sature el pool
+            let poolC = crearPool(freqC);
+            let poolV = crearPool(freqV);
+
+            if (poolC.length === 0) poolC = KAL_CONSONANTES;
+            if (poolV.length === 0) poolV = ['a','e','i','o','u'];
+
+            mostrarLog(`Consonantes base: ${Object.keys(freqC).join(', ')}`);
+            mostrarLog(`Vocales base: ${Object.keys(freqV).join(', ')}`);
+
+            let candidatos = [];
+            for (let i = 0; i < 800; i++) {
+                let palabra = generarPalabra(poolC, poolV);
+                if (validarKalfirvach(palabra)) {
+                    candidatos.push(palabra);
+                }
+            }
+
+            candidatos = [...new Set(candidatos)];
+            // Ordenar usando la nueva función de puntuación penalizadora
+            candidatos.sort((a, b) => puntuar(b, todosLosFonemas) - puntuar(a, todosLosFonemas));
+
+            mostrarResultados(candidatos.slice(0, 5));
+        }
+
+        function crearPool(freqObj) {
+            let pool = [];
+            for (let item in freqObj) {
+                for (let i = 0; i < freqObj[item]; i++) {
+                    pool.push(item);
+                }
+            }
+            return pool;
+        }
+
+        function randomChoice(pool) {
+            return pool[Math.floor(Math.random() * pool.length)];
+        }
+
+        function construirSilaba(poolC, poolV) {
+            let onset = Math.random() > 0.15 ? randomChoice(poolC) : ""; 
+            let nucleo = randomChoice(poolV);
+            
+            let coda = "";
+            if (Math.random() > 0.5) {
+                let intentoCoda = randomChoice(poolC);
+                if (KAL_CODAS_VALIDAS.includes(intentoCoda)) coda = intentoCoda;
+            }
+
+            return onset + nucleo + coda;
+        }
+
+        function generarPalabra(poolC, poolV) {
+            let numSilabas = 2;
+            let rand = Math.random();
+            if (rand < 0.4) numSilabas = 2;       // 40% de probabilidad de 2 sílabas (aprox. 4-6 letras)
+            else if (rand < 0.8) numSilabas = 3;  // 40% de probabilidad de 3 sílabas (aprox. 6-8 letras)
+            else numSilabas = 4;                  // 20% de probabilidad de 4 sílabas (aprox. 8-10 letras)
+
+            let palabra = "";
+            for (let i = 0; i < numSilabas; i++) palabra += construirSilaba(poolC, poolV);
+            return palabra;
+        }
+
+        function validarKalfirvach(palabra) {
+            // Modificación táctica: Mínimo 4, Máximo 10 letras
+            if (palabra.length < 4 || palabra.length > 10) return false;
+            let tokens = tokenizar(palabra);
+
+            for (let i = 0; i < tokens.length - 1; i++) {
+                if (KAL_VOCALES.includes(tokens[i]) && KAL_VOCALES.includes(tokens[i+1])) return false;
+            }
+
+            let consecC = 0;
+            for (let t of tokens) {
+                if (KAL_CONSONANTES.includes(t)) consecC++;
+                else consecC = 0;
+                if (consecC >= 3) return false;
+            }
+
+            for (let i = 0; i < tokens.length - 1; i++) {
+                if (KAL_CONSONANTES.includes(tokens[i]) && KAL_CONSONANTES.includes(tokens[i+1])) {
+                    if (!KAL_CODAS_VALIDAS.includes(tokens[i])) return false;
+                }
+            }
+            
+            let ultimo = tokens[tokens.length-1];
+            if (KAL_CONSONANTES.includes(ultimo) && !KAL_CODAS_VALIDAS.includes(ultimo)) return false;
+
+            return true;
+        }
+
+        // PUNTUADOR TOTALMENTE REESCRITO (Anti-Spam de letras con balance de longitud)
+        function puntuar(palabra, poolOriginal) {
+            let score = 0;
+            let tokens = tokenizar(palabra);
+            
+            // Reducimos drásticamente el sesgo artificial para permitir que aflore la variedad natural
+            if (palabra.length >= 5 && palabra.length <= 8) {
+                score += 2; 
+            }
+            
+            let fonemasUsados = new Set();
+
+            tokens.forEach(t => {
+                if (poolOriginal.includes(t)) {
+                    score += 5; // Recompensa uso genético correcto
+                }
+                
+                // PENALIZACIÓN AGRESIVA: Si repite una consonante, destruye el puntaje de la palabra.
+                if (fonemasUsados.has(t) && KAL_CONSONANTES.includes(t)) {
+                    score -= 20; 
+                }
+                fonemasUsados.add(t);
+            });
+
+            // Añadimos una ligera dosis de aleatoriedad (jitter) para diversificar las propuestas en cada click
+            score += Math.random() * 4;
+
+            return score;
+        }
+
+        function mostrarLog(msg) {
+            const logDiv = document.getElementById('log-procesamiento');
+            logDiv.classList.remove('hidden');
+            logDiv.innerHTML = `> ${msg}<br>` + logDiv.innerHTML;
+        }
+
+        function mostrarResultados(palabras) {
+            const container = document.getElementById('resultados-container');
+            container.innerHTML = '';
+            
+            if (palabras.length === 0) {
+                container.innerHTML = `<div class="text-red-400 p-4 border border-red-500/30 rounded bg-red-900/20 text-sm">No se pudieron forjar palabras.</div>`;
+                return;
+            }
+
+            palabras.forEach((p, index) => {
+                const prosodia = formatearProsodia(p);
+                setTimeout(() => {
+                    container.innerHTML += `
+                        <div class="bg-gray-800/60 border border-gray-700 p-4 rounded-xl flex items-center justify-between transform transition hover:scale-[1.02] hover:bg-gray-800 cursor-pointer" onclick="copiarPalabra('${p}')" title="Clic para copiar">
+                            <div>
+                                <h3 class="text-2xl mystical-font text-white font-bold tracking-wide">${p}</h3>
+                                <p class="text-xs text-indigo-400 font-mono mt-1">
+                                    Silabeo: ${prosodia.silabeada}
+                                </p>
+                                <p class="text-[10px] text-gray-500 font-mono mt-0.5">
+                                    Acento: ${prosodia.ipa}
+                                </p>
+                            </div>
+                            <div class="h-10 w-10 rounded-full bg-indigo-900/50 flex items-center justify-center text-indigo-300">
+                                <i data-lucide="copy" class="w-5 h-5"></i>
+                            </div>
+                        </div>
+                    `;
+                    lucide.createIcons();
+                }, index * 120);
+            });
+            mostrarLog("Transmutación completada.");
+        }
+
+        function copiarPalabra(palabra) {
+            const tempInput = document.createElement("input");
+            tempInput.value = palabra;
+            document.body.appendChild(tempInput);
+            tempInput.select();
+            document.execCommand("copy");
+            document.body.removeChild(tempInput);
+            mostrarLog(`Copiada '${palabra}' al portapapeles.`);
+        }
+
+        function copiarEtimologia() {
+            const texto = document.getElementById('etimologia-content').innerText;
+            const tempInput = document.createElement("textarea");
+            tempInput.value = texto;
+            document.body.appendChild(tempInput);
+            tempInput.select();
+            document.execCommand("copy");
+            document.body.removeChild(tempInput);
+            mostrarLog(`Registro etimológico copiado.`);
+        }
+    </script>
+</body>
+</html>

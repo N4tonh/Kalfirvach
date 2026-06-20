@@ -1,6 +1,6 @@
 # Glosario Kalfirvach - v1.4
 
-Total de entradas: 1308
+Total de entradas: 1314
 
 
 ## Pronombres Y Deicticos
@@ -130,6 +130,7 @@ Total de entradas: 1308
 **pitar** - padre (NOUN) [Sánscrito Védico / Griego Koiné / Árabe esotérico]
 **prathum** - primogénito (NOUN) [Griego Koiné / Egipcio Demótico]
 **pátis** - esposo (NOUN) [Sánscrito Védico / Griego Koiné / Árabe esotérico]
+**rachatmi** - humano, ser humano (persona como especie) (NOUN) [Copto / Egipcio Demótico / Persa Avéstico / Tibetano]
 **theia** - tía (NOUN) [Griego Koiné / Egipcio Demótico]
 **theios** - tío (NOUN) [Griego Koiné / Egipcio Demótico]
 **thuktar** - hija (NOUN) [Griego Koiné / Persa Avéstico]
@@ -616,6 +617,7 @@ Total de entradas: 1308
 **zal** - sombra (NOUN) [Persa Avéstico / Árabe esotérico]
 ## Conceptos Espaciales Y Calidades
 
+**abālasa** - idioma, lengua (sistema de comunicación verbal) (NOUN) [Egipcio Demótico / Sánscrito / Griego Koiné]
 **antar** - en/dentro de (NOUN) [Sánscrito Védico / Griego Koiné / Persa Avéstico / Persa Avéstico]
 **antár** - dentro, adentro (locativo) (ADVERB) [Sánscrito Védico / Persa Avéstico / Griego Koiné]
 **atishkāl** - romo/embotado (ADJECTIVE) [Sánscrito Védico / Griego Koiné / Árabe esotérico]
@@ -817,9 +819,11 @@ Total de entradas: 1308
 **máya** - ilusión, apariencia, velo de la realidad fenoménica (NOUN) [Sánscrito Védico / Tibetano Clásico / Persa Avéstico]
 **médhya** - meditar, contemplación profunda (VERB) [Copto / Tibetano Clásico / Persa Avéstico]
 **nafso** - sonido primordial (NOUN) [Sánscrito Védico / Griego Koiné / Copto Sahídico]
+**natūrē** - Dios, deidad (ser divino supremo o deidad) (NOUN) [Copto / Egipcio Demótico / Sánscrito]
 **nemau** - memoria/registro (NOUN) [Griego Koiné / Copto Sahídico]
 **nuī** - exorcizar (expulsar demonio) (VERB) [Sánscrito Védico / Tibetano Clásico / Persa Avéstico]
 **nús** - conciencia, mente, intelecto, principio consciente (NOUN) [Griego Koiné / Sánscrito Védico / Tibetano Clásico]
+**onofotma** - adivinar (adivinación esotérica, presagiar) (VERB) [Persa Moderno / Griego Koiné / Tibetano]
 **onram** - nombre verdadero (NOUN) [Griego Koiné / Copto Sahídico / Árabe esotérico]
 **opsnau** - visión/claridad (NOUN) [Griego Koiné / Copto Sahídico]
 **pagana** - Fuente de la Memoria (NOUN) [Griego Koiné / Egipcio Demótico]
@@ -830,6 +834,7 @@ Total de entradas: 1308
 **pentaka** - pentáculo (disco de cinco puntas) (NOUN) [Griego Koiné / Hebreo / Árabe esotérico]
 **posīdsūn** - espíritu planetario de Neptuno, regente de los abismos, los sueños y lo trascendente (NOUN) [Griego Koiné / Sánscrito Védico / Árabe esotérico]
 **purmōl** - Torre de Vigilancia (NOUN) [Griego Koiné / Copto / Árabe esotérico]
+**pāhatā** - fantasma (espíritu de un fallecido) (NOUN) [Copto / Egipcio Demótico / Árabe Esotérico / Sánscrito]
 **pēgnim** - coagular (operación alquímica) (VERB) [Griego Koiné / Egipcio Demótico]
 **qadesh** - consagrar (verbo ritual) (VERB) [Árabe esotérico / Hebreo]
 **rabdos** - varita (instrumento ritual) (NOUN) [Griego Koiné / Egipcio Demótico]
@@ -911,6 +916,7 @@ Total de entradas: 1308
 **hawlas** - about/acerca de (NOUN) [Árabe esotérico / Griego Koiné]
 **hawnik** - antena/receptor (NOUN) [Árabe esotérico / Griego Koiné]
 **himlas** - loading/carga (NOUN) [Árabe esotérico / Griego Koiné]
+**imtōpi** - libro (códice, obra escrita encuadernada) (NOUN) [Copto / Egipcio Demótico / Tibetano]
 **ishra** - cursor/puntero (NOUN) [Árabe esotérico / Persa Avéstico]
 **ishshar** - señal (NOUN) [Árabe esotérico / Persa Avéstico]
 **itrum** - license/licencia (NOUN) [Árabe esotérico / Griego Koiné]

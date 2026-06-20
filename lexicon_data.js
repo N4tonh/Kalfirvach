@@ -3,8 +3,8 @@ const LEXICON_DATA =
   "kalfirvach_lexicon_v1.4": {
     "metadata": {
       "version": "1.4",
-      "total_entries": 1297,
-      "date_generated": "2026-06-17",
+      "total_entries": 1314,
+      "date_generated": "2026-06-16",
       "languages": [
         "Griego",
         "Sanscrito",
@@ -12,40 +12,16 @@ const LEXICON_DATA =
         "Persa",
         "Tibetano",
         "Arabe",
-        "Egipcio",
-        "Copto"
+        "Egipcio"
       ],
       "writing_system": "Alfabeto griego politonico con arcaicas",
       "last_updated": "2026-06-17",
-      "date_updated": "2026-06-17",
+      "date_updated": "2026-06-16",
       "ipa_coverage": "100%",
+      "schema_version": "v1.0",
+      "total_categorias": 24,
       "total_categories": 24,
-      "categories": [
-        "pronombres_y_deicticos",
-        "onomastica",
-        "numeros",
-        "dimensiones_y_adjetivos",
-        "personas_y_parentesco",
-        "animales",
-        "seres_vivos_plantas",
-        "anatomia_y_cuerpo",
-        "verbos_basicos",
-        "naturaleza_y_elementos",
-        "conceptos_espaciales_y_calidades",
-        "conjunciones_y_particulas",
-        "actitudinales",
-        "magia_y_mitologia",
-        "tecnologia",
-        "tiempo_domestico",
-        "medicina_y_salud",
-        "emociones_y_estados_afectivos",
-        "comida_y_cocina",
-        "vivienda_y_arquitectura",
-        "interjecciones_y_exclamaciones",
-        "biologia_y_micologia",
-        "profesiones_y_roles",
-        "gobierno_politica_derecho"
-      ]
+      "normalized": true
     },
     "categorias": {
       "pronombres_y_deicticos": {
@@ -2037,6 +2013,23 @@ const LEXICON_DATA =
             "derivaciones": [],
             "kalfirvach": "vitpitar",
             "pos": "noun"
+          },
+          {
+            "concepto": "humano, ser humano (persona como especie)",
+            "kalfirvach": "rachatmi",
+            "ipa": "/raˈtʃat.mi/",
+            "pos": "noun",
+            "origen": {
+              "lengua": "Copto / Egipcio Demótico / Persa Avéstico / Tibetano",
+              "raiz_original": "ⲣⲱⲙⲉ rōme \"hombre, ser humano\" (Cop) / rmṯ \"personas, humanidad\" (Dem) / 𐬨𐬀𐬭𐬆𐬙𐬌𐬌𐬀 marətiia \"mortal, humano\" (Av) / མི mi \"persona, humano\" (Tib)",
+              "corpus": ""
+            },
+            "transformacion": [
+              "/ra/ del Cop ⲣⲱⲙⲉ /ˈɾoː.me/ → /ra/",
+              "/chat/ del Dem rmṯ /ˈɾam.t͡ʃ/ → /tʃat/ (intercambio silábico + /t/ epentético)",
+              "/mi/ del Av 𐬨𐬀𐬭𐬆𐬙𐬌𐬌𐬀 /ˈmar.ti.ja/ + Tib མི /mi˩˧/ → /mi/"
+            ],
+            "derivaciones": []
           }
         ]
       },
@@ -4225,6 +4218,24 @@ const LEXICON_DATA =
             "transformacion": [
               "ōmos → om (CVC, coda /m/ permitida)"
             ]
+          },
+          {
+            "kalfirvach": "muk",
+            "concepto": "boca, palabra emitida, comando verbal (raíz)",
+            "ipa": "/ˈmuk/",
+            "pos": "noun",
+            "origen": {
+              "lengua": "Sánscrito Védico / Persa Avéstico / Egipcio Demótico",
+              "raiz_original": "मुख mukha \"boca, rostro\" (Skt) / 𐬨𐬎𐬑 muḫ \"boca\" (Av) / rʀ(?) mdw \"habla, palabra\" → /muk/ (Eg, reducción)",
+              "corpus": "Rig Veda (Skt); Avesta (Av); Papiro Westcar (Eg)"
+            },
+            "transformacion": [
+              "/mu/ de मुख mukha (Skt) + 𐬨𐬎𐬑 muḫ (Av)",
+              "/k/ coda de 𐬨𐬎𐬑 muḫ (Av) + mdw → /muk/ (Eg, reducción)",
+              "CVC, /k/ coda permitida §3.3"
+            ],
+            "derivaciones": [],
+            "notas": "Raíz CVC; forma base de mukha 'boca' (anat.) como variante bisilábica"
           }
         ]
       },
@@ -8048,6 +8059,96 @@ const LEXICON_DATA =
             "transformacion": [
               "/dʒ/->/j/, /n/->/n/"
             ]
+          },
+          {
+            "kalfirvach": "kár",
+            "concepto": "hacer, actuar, obrar, realizar una acción",
+            "ipa": "/ˈkar/",
+            "pos": "verb",
+            "origen": {
+              "lengua": "Sánscrito Védico / Griego Koiné / Persa Avéstico",
+              "raiz_original": "कृ kṛ \"hacer, actuar\" (Skt) / πράσσω prāssō \"hacer, obrar\" (Gr) / kār- \"hacer\" (Pers, cf. kār كا ر, 'trabajo, acción')",
+              "corpus": "Rig Veda (Skt); Homero (Gr); Avesta (Pers)"
+            },
+            "transformacion": [
+              "/k/ de कृ /kṛ/ preservado + πράσσω /p/→/k/ (Gr, debilitamiento)",
+              "/ār/ de kār- (Pers) + πράσσω /rass/→/ar/ (Gr, reducción)",
+              "La raíz /kar/ es compatible CVC y no viola §3.2"
+            ],
+            "derivaciones": [],
+            "notas": "Raíz CVC añadida en v1.4 para sincronizar gramática; compatible con gashgī 'hacer manual'"
+          },
+          {
+            "kalfirvach": "gach",
+            "concepto": "ir, venir, moverse de un lugar a otro",
+            "ipa": "/ˈɡatʃ/",
+            "pos": "verb",
+            "origen": {
+              "lengua": "Sánscrito Védico / Persa Avéstico / Griego Koiné",
+              "raiz_original": "गच्छति gacchati \"va\" (Skt, raíz गम् gam) / 𐬔𐬀𐬗𐬀𐬌𐬙𐬌 gacaiti \"va, mueve\" (Av) / βαίνω baínō \"ir, andar\" (Gr)",
+              "corpus": "Rig Veda I.1.1 (Skt); Yasna 28.1 (Av); Homero Il. I.1 (Gr)"
+            },
+            "transformacion": [
+              "/g/ de गच्छ gacch (Skt) preservado + βαίνω /b/→/g/ (Gr)",
+              "/ach/ blend de गच्छ /gattʃʰ/ (Skt) + 𐬔𐬀𐬗𐬀𐬌𐬚𐬌 /gac/ (Av)",
+              "Forma base de gachad 'caminar' y ayāmej 'venir'"
+            ],
+            "derivaciones": [],
+            "notas": "Raíz añadida en v1.4; compatible con gacha/gachad como raíz CVC"
+          },
+          {
+            "kalfirvach": "dhar",
+            "concepto": "deber, tener obligación, tener que (modal deóntico)",
+            "ipa": "/ˈdʰar/",
+            "pos": "verb",
+            "origen": {
+              "lengua": "Sánscrito Védico / Persa Avéstico / Griego Koiné",
+              "raiz_original": "धृ dhṛ \"sostener, mantener, soportar\" (Skt) / 𐬛𐬀𐬭 dar- \"tener, poseer\" (Av) / ὀφείλω opheilō \"deber, estar obligado\" (Gr)",
+              "corpus": "Rig Veda I.89 (Skt); Yasna 30 (Av); Platón, Rep. (Gr)"
+            },
+            "transformacion": [
+              "/dha/ blend de धृ /dʰṛ/ + 𐬛𐬀 /da/ (Av)",
+              "/r/ coda de धृ (Skt) + dar- (Av) + opheilō /l/→/r/ (Gr)",
+              "La raíz dhar- es CVC, coda /r/ permitida §3.3"
+            ],
+            "derivaciones": [],
+            "notas": "Modal deóntico v1.2; compatible con deya (deber/tener obligación) y khyohe (deber)"
+          },
+          {
+            "kalfirvach": "vach",
+            "concepto": "hablar, decir, expresar verbalmente",
+            "ipa": "/ˈvatʃ/",
+            "pos": "verb",
+            "origen": {
+              "lengua": "Sánscrito Védico / Persa Avéstico / Griego Koiné",
+              "raiz_original": "वच् vac \"hablar, decir\" (Skt) / 𐬬𐬀𐬗 vac- \"voz, palabra\" (Av) / φάτις phátis \"habla, dicho\" (Gr)",
+              "corpus": "Rig Veda (Skt); Gathas (Av); Píndaro (Gr)"
+            },
+            "transformacion": [
+              "/v/ de वच् vac (Skt) + 𐬬𐬀𐬗 vac- (Av) + φάτις phátis (Gr)",
+              "/ach/ blend de vac (Skt) + vac- (Av) + φάτις /atis/→/ach/ (Gr, palatalización)",
+              "CVC, coda /tʃ/ permitida §3.3"
+            ],
+            "derivaciones": [],
+            "notas": "Raíz compatible con wacha 'decir/hablar' como forma base de registro cortés"
+          },
+          {
+            "kalfirvach": "dirish",
+            "concepto": "ver, observar, percibir visualmente",
+            "ipa": "/ˈdi.riʃ/",
+            "pos": "verb",
+            "origen": {
+              "lengua": "Sánscrito Védico / Persa Avéstico / Griego Koiné",
+              "raiz_original": "दृश् dṛś 'ver, mirar' (Skt) / 𐬛𐬀𐬭𐬀𐬯 dare + 𐬵𐬀𐬭 har + 'ver' (Av) / δέρκομαι dérkomai 'ver, mirar fijamente' (Gr)",
+              "corpus": "Rig Veda X.129 (Skt); Yasna 31 (Av); Homero, Odisea (Gr)"
+            },
+            "transformacion": [
+              "/di/ de दृश् /driʃ/ → /di/ (Skt, reducción silábica)",
+              "/rish/ blend de δέρκομαι /der.komai/ → /riʃ/ + 𐬛𐬀𐬭𐬀𐬯 dare- /ʃ/ coda (Av)",
+              "Disílaba CVCVC, compatible con fonotaxis §3.2"
+            ],
+            "derivaciones": [],
+            "notas": "Raíz añadida en v1.4; compatible con dirid 'ver' como forma base sin fricativa final"
           }
         ]
       },
@@ -10001,6 +10102,23 @@ const LEXICON_DATA =
             "derivaciones": [],
             "kalfirvach": "wirita",
             "pos": "noun"
+          },
+          {
+            "concepto": "idioma, lengua (sistema de comunicación verbal)",
+            "kalfirvach": "abālasa",
+            "ipa": "/aˈbaː.la.sa/",
+            "pos": "noun",
+            "origen": {
+              "lengua": "Egipcio Demótico / Sánscrito / Griego Koiné",
+              "raiz_original": "rꜥ \"boca, habla\" (Dem) / भाषा bhāṣā \"lengua, idioma\" (Skt) / γλῶσσα glōssa \"lengua, lenguaje\" (Gr)",
+              "corpus": ""
+            },
+            "transformacion": [
+              "/a/ del Dem rꜥ /ɾaː/ → /a/ (elisión de /ɾ/)",
+              "/bā/ del Skt भाषा /ˈbʱɑː.ʂɑː/ → /baː/ (desaspiración)",
+              "/lasa/ del Gr γλῶσσα /ˈɡloːs.sa/ → /la.sa/ (elisión de /ɡ/ + simplificación)"
+            ],
+            "derivaciones": []
           }
         ]
       },
@@ -10398,6 +10516,24 @@ const LEXICON_DATA =
             "kalfirvach": "cha",
             "pos": "particle",
             "ipa": "/ˈtʃa/"
+          },
+          {
+            "kalfirvach": "awa",
+            "concepto": "menos, excepto, sin (preposición privativa, marcador de sustracción)",
+            "ipa": "/ˈa.wa/",
+            "pos": "particle",
+            "origen": {
+              "lengua": "Sánscrito Védico / Persa Avéstico / Árabe esotérico",
+              "raiz_original": "अव ava \"abajo, lejos, fuera\" (Skt, prefijo privativo) / 𐬀𐬎𐬎𐬀 auua \"fuera, lejos\" (Av) / إِلّا illā \"excepto, sino\" (Ar, reducción)",
+              "corpus": "Rig Veda (Skt); Avesta (Av); Quran (Ar)"
+            },
+            "transformacion": [
+              "/a/ de अव ava (Skt) + إِلّا /il/→/a/ (Ar, apertura)",
+              "/wa/ de 𐬀𐬎𐬎𐬀 auua (Av)",
+              "Disílaba V.CV, compatible con fonotaxis §3.2"
+            ],
+            "derivaciones": [],
+            "notas": "Partícula añadida en v1.4 para expresar sustracción y exclusión"
           }
         ]
       },
@@ -13203,6 +13339,125 @@ const LEXICON_DATA =
             "transformacion": [
               "/g/→/ɡ/ (fricativización opcional en coda)"
             ]
+          },
+          {
+            "kalfirvach": "kair",
+            "concepto": "momento ritual, coyuntura mágica, sincronía, instante oportuno",
+            "ipa": "/ˈka.ir/",
+            "pos": "noun",
+            "origen": {
+              "lengua": "Griego Koiné / Árabe esotérico / Egipcio Demótico",
+              "raiz_original": "καιρός kairós \"momento oportuno, tiempo cualitativo\" (Gr) / وقت waqt \"tiempo, momento\" + قدر qadr \"destino, medida\" (Ar) / tr \"tiempo, momento\" (Eg)",
+              "corpus": "Nuevo Testamento (Gr); Ibn Arabi, Futūḥāt (Ar); Textos Sarcófago (Eg)"
+            },
+            "transformacion": [
+              "/kai/ de καιρός (Gr) preservado",
+              "/r/ coda de tr (Eg) + qadr (Ar)"
+            ],
+            "derivaciones": [],
+            "notas": "Concepto de tiempo cualitativo versus cronológico; usado en construcciones rituales kair-kár-"
+          },
+          {
+            "kalfirvach": "shaktí",
+            "concepto": "poder, fuerza, energía (término general, no necesariamente mágica)",
+            "ipa": "/ˈʃak.tiː/",
+            "pos": "noun",
+            "origen": {
+              "lengua": "Sánscrito Védico / Tibetano Clásico / Persa Avéstico",
+              "raiz_original": "शक्ति śakti \"poder, energía, capacidad\" (Skt) / ཤུགས shugs \"fuerza, poder, energía\" (Tib) / 𐬱𐬀𐬐𐬀 šaka- \"fuerza, poder\" (Av)",
+              "corpus": "Śvetāśvatara Upaniṣad (Skt); Dzogchen (Tib); Yasna (Av)"
+            },
+            "transformacion": [
+              "/šak/ de शक्ति śakti (Skt) + ཤུགས shugs /ɕuk/→/ʃak/ (Tib) + 𐬱𐬀𐬐𐬀 šaka (Av)",
+              "/tí/ de शक्ति (Skt) + 𐬱𐬀𐬐𐬀 /ti/ (Av)"
+            ],
+            "derivaciones": [],
+            "notas": "Término general; no reemplaza šakdom 'poder dinámico/mágico' (ver magia_y_mitologia)"
+          },
+          {
+            "kalfirvach": "nús",
+            "concepto": "conciencia, mente, intelecto, principio consciente",
+            "ipa": "/ˈnuːs/",
+            "pos": "noun",
+            "origen": {
+              "lengua": "Griego Koiné / Sánscrito Védico / Tibetano Clásico",
+              "raiz_original": "νοῦς nous \"mente, intelecto, conciencia\" (Gr) / विज्ञान vijñāna \"discernimiento, conciencia\" (Skt) / རིག་པ rig pa \"conciencia, awareness\" (Tib)",
+              "corpus": "Plotino, Enn. IV (Gr); Yogācāra (Skt); Dzogchen (Tib)"
+            },
+            "transformacion": [
+              "/nū/ de νοῦς /nous/ → /nuː/ (Gr, contracción)",
+              "/s/ coda de विज्ञान vi-jñā-na /n/ → /s/ (Skt, debilitamiento) + rig pa (Tib)"
+            ],
+            "derivaciones": [],
+            "notas": "No reemplaza dayanso 'conciencia interior' ni rignōn 'conciencia discriminativa'; nús es el término general"
+          },
+          {
+            "kalfirvach": "máya",
+            "concepto": "ilusión, apariencia, velo de la realidad fenoménica",
+            "ipa": "/ˈmaː.ja/",
+            "pos": "noun",
+            "origen": {
+              "lengua": "Sánscrito Védico / Tibetano Clásico / Persa Avéstico",
+              "raiz_original": "माया māyā \"ilusión, poder de manifestación\" (Skt) / སྒྱུ་མ sgyu ma \"ilusión, magia\" (Tib) / 𐬨𐬀𐬌𐬌𐬁 māiiā \"poder de transformación\" (Av)",
+              "corpus": "Rig Veda VI.47 (Skt); Mūlamadhyamakakārikā (Tib); Gathas (Av)"
+            },
+            "transformacion": [
+              "/mā/ de माया māyā (Skt) + 𐬨𐬀𐬌𐬌𐬁 māiiā (Av)",
+              "/ya/ de माया (Skt) + སྒྱུ་མ sgyu ma /ɡju/→/ja/ (Tib)"
+            ],
+            "derivaciones": [],
+            "notas": "Término filosófico; compatible con el uso en ejemplos gramaticales como 'velo de realidad'"
+          },
+          {
+            "concepto": "fantasma (espíritu de un fallecido)",
+            "kalfirvach": "pāhatā",
+            "ipa": "/paː.haˈtaː/",
+            "pos": "noun",
+            "origen": {
+              "lengua": "Copto / Egipcio Demótico / Árabe Esotérico / Sánscrito",
+              "raiz_original": "ⲡⲓⲁⲕⲉ piake \"oscuridad, tinieblas\" (Cop) / ꜣḫ \"espíritu, aj\" (Dem) / رُوح rūḥ \"espíritu, alma\" (Ar) / प्रेत preta \"fantasma, muerto\" (Skt)",
+              "corpus": ""
+            },
+            "transformacion": [
+              "/pā/ del Cop ⲡⲓⲁⲕⲉ /pi.aˈkeː/ → /paː/ (elisión + alargamiento)",
+              "/ha/ del Dem ꜣḫ /ˈaːχ/ → /ha/ (aspiración preservada)",
+              "/tā/ blend del Ar رُوح /ruːħ/ + Skt प्रेत /pɾeː.t̪ɐ/ → /taː/ (coda del Skt + alargamiento)"
+            ],
+            "derivaciones": []
+          },
+          {
+            "concepto": "Dios, deidad (ser divino supremo o deidad)",
+            "kalfirvach": "natūrē",
+            "ipa": "/na.tuːˈɾeː/",
+            "pos": "noun",
+            "origen": {
+              "lengua": "Copto / Egipcio Demótico / Sánscrito",
+              "raiz_original": "ⲛⲟⲩϯ noute \"Dios\" (Cop) / nṯr \"dios, deidad\" (Dem) / देव deva \"deidad, dios\" (Skt)",
+              "corpus": ""
+            },
+            "transformacion": [
+              "/na/ del Cop ⲛⲟⲩϯ /ˈnuː.ti/ → /na/ (apertura vocálica)",
+              "/tū/ del Dem nṯr /ˈnaː.t͡ʃar/ → /tuː/ (núcleo silábico)",
+              "/rē/ del Skt देव /ˈd̪eː.ʋɐ/ → /reː/ (rotacismo + alargamiento)"
+            ],
+            "derivaciones": []
+          },
+          {
+            "concepto": "adivinar (adivinación esotérica, presagiar)",
+            "kalfirvach": "onofotma",
+            "ipa": "/o.noˈfot.ma/",
+            "pos": "verb",
+            "origen": {
+              "lengua": "Persa Moderno / Griego Koiné / Tibetano",
+              "raiz_original": "فال گرفتن fāl gereftan \"echar las cartas, adivinar\" (Pers) / μαντεύομαι manteuomai \"profetizar, adivinar\" (Gr) / མོ mo \"adivinación, augurio\" (Tib)",
+              "corpus": ""
+            },
+            "transformacion": [
+              "/ono/ del Pers فال /fɒːl/ → /fal/ → /on/ + /o/ epentética",
+              "/fot/ del Gr μαντεύομαι /manˈteu̯.o.mai̯/ → /fot/ (síncopa + consonante inicial)",
+              "/ma/ del Tib མོ /mo˩˧/ → /ma/ (apertura vocálica)"
+            ],
+            "derivaciones": []
           }
         ]
       },
@@ -16325,6 +16580,23 @@ const LEXICON_DATA =
               "adāh (Ar) + uzgāra- (Pers) + órganon (Gr) → ad- + -ar- + -k",
               "/d/→/d/ preservada, /g/→/k/ por §3.3 coda ensordecida",
               "CC coda /rk/ permitida §10.3 (líquida + oclusiva sorda)"
+            ],
+            "derivaciones": []
+          },
+          {
+            "concepto": "libro (códice, obra escrita encuadernada)",
+            "kalfirvach": "imtōpi",
+            "ipa": "/imˈtoː.pi/",
+            "pos": "noun",
+            "origen": {
+              "lengua": "Copto / Egipcio Demótico / Tibetano",
+              "raiz_original": "ⲧϫⲱⲙⲉ tchōme \"libro\" (Cop) / ḏmꜥ \"papiro, libro\" (Dem) / དཔེ་ཆ pe cha \"libro\" (Tib)",
+              "corpus": ""
+            },
+            "transformacion": [
+              "/im/ del Cop ⲧϫⲱⲙⲉ /t͡ʃʼoː.me/ → /im/ (síncopa)",
+              "/tō/ del Dem ḏmꜥ /t͡ʃʼaː.miʕ/ → /toː/ (alargamiento)",
+              "/pi/ del Tib དཔེ་ཆ /pe˥.t͡ɕʰɑ˥/ → /pi/"
             ],
             "derivaciones": []
           }
@@ -21186,4 +21458,4 @@ const LEXICON_DATA =
       }
     }
   }
-}
+};

@@ -1,8 +1,8 @@
 {
-  "kalfirvach_lexicon_v1.4": {
+  "kalfirvach_lexicon_v1.5": {
     "metadata": {
-      "version": "1.4",
-      "total_entries": 1314,
+      "version": "1.5",
+      "total_entries": 1425,
       "date_generated": "2026-06-16",
       "languages": [
         "Griego",
@@ -14,13 +14,14 @@
         "Egipcio"
       ],
       "writing_system": "Alfabeto griego politonico con arcaicas",
-      "last_updated": "2026-06-17",
-      "date_updated": "2026-06-16",
+      "last_updated": "2026-06-20",
+      "date_updated": "2026-06-20",
       "ipa_coverage": "100%",
       "schema_version": "v1.0",
       "total_categorias": 24,
       "total_categories": 24,
-      "normalized": true
+      "normalized": true,
+      "total_entradas": 1425
     },
     "categorias": {
       "pronombres_y_deicticos": {
@@ -1345,6 +1346,21 @@
             "kalfirvach": "qadim",
             "pos": "adjective",
             "ipa": "/ˈka.dim/"
+          },
+          {
+            "concepto": "firme",
+            "ipa": "/so.tam.ˈbi.do/",
+            "origen": {
+              "lengua": "Ancient Greek / Arabic / Persian / Sanskrit",
+              "raiz_original": "Sanskrit: स्थिर (sthira) / Persian: ثابت (sābet / sabet) / Arabic: صَامِد (ṣāmid) / Ancient Greek: βέβαιος (bebaios)",
+              "corpus": "generado por forja v1.4"
+            },
+            "transformacion": [
+              "forjado"
+            ],
+            "derivaciones": [],
+            "kalfirvach": "sotambido",
+            "pos": "noun"
           }
         ]
       },
@@ -4235,6 +4251,21 @@
             ],
             "derivaciones": [],
             "notas": "Raíz CVC; forma base de mukha 'boca' (anat.) como variante bisilábica"
+          },
+          {
+            "concepto": "audición",
+            "ipa": "/ha.ne.ˈse.dim/",
+            "origen": {
+              "lengua": "Ancient Greek / Arabic / Persian / Sanskrit",
+              "raiz_original": "Sanskrit: श्रवणम् (śravaṇam) / Persian: شنیدن (šenīdan) / Arabic: سَمْع (samʿ) / Ancient Greek: ἄκουσις (akousis)",
+              "corpus": "generado por forja v1.4"
+            },
+            "transformacion": [
+              "forjado"
+            ],
+            "derivaciones": [],
+            "kalfirvach": "hanesedim",
+            "pos": "noun"
           }
         ]
       },
@@ -8148,6 +8179,576 @@
             ],
             "derivaciones": [],
             "notas": "Raíz añadida en v1.4; compatible con dirid 'ver' como forma base sin fricativa final"
+          },
+          {
+            "concepto": "aparecer",
+            "ipa": "/peʃ.ˈdiːn.riː/",
+            "origen": {
+              "lengua": "Persian",
+              "raiz_original": "پدیدار شدن (Persian)",
+              "corpus": "generado por forja v1.4"
+            },
+            "transformacion": [
+              "forjado"
+            ],
+            "derivaciones": [],
+            "kalfirvach": "peshdīnrī",
+            "pos": "verb"
+          },
+          {
+            "concepto": "desaparecer",
+            "ipa": "/du.mu.ˈniʃ.ta/",
+            "origen": {
+              "lengua": "Persian / Sanskrit",
+              "raiz_original": "नश्यति (Sanskrit) / گم شدن (Persian)",
+              "corpus": "generado por forja v1.4"
+            },
+            "transformacion": [
+              "forjado"
+            ],
+            "derivaciones": [],
+            "kalfirvach": "dumunishta",
+            "pos": "verb"
+          },
+          {
+            "concepto": "detener",
+            "ipa": "/mo.doʃ.ˈsi.no/",
+            "origen": {
+              "lengua": "Persian",
+              "raiz_original": "ایستادن (Persian) / بازداشتن (Persian) / ماندن (Persian)",
+              "corpus": "generado por forja v1.4"
+            },
+            "transformacion": [
+              "forjado"
+            ],
+            "derivaciones": [],
+            "kalfirvach": "modoshsino",
+            "pos": "verb"
+          },
+          {
+            "concepto": "alejar",
+            "ipa": "/ˈmuː.fiːl.re.dot/",
+            "origen": {
+              "lengua": "Persian / Sanskrit",
+              "raiz_original": "दूरम् (Sanskrit) / دوری (Persian) / فاصله (Persian) / مسافت (Persian)",
+              "corpus": "generado por forja v1.4"
+            },
+            "transformacion": [
+              "forjado"
+            ],
+            "derivaciones": [],
+            "kalfirvach": "mūfīlredot",
+            "pos": "verb"
+          },
+          {
+            "concepto": "escribir",
+            "ipa": "/pit.ki.ˈli.bin/",
+            "origen": {
+              "lengua": "Arabic / Persian / Sanskrit / Tibetan",
+              "raiz_original": "लिखति (Sanskrit) / نوشتن (Persian) / katibu (Arabic) / འབྲི (Tibetan)",
+              "corpus": "generado por forja v1.4"
+            },
+            "transformacion": [
+              "forjado"
+            ],
+            "derivaciones": [],
+            "kalfirvach": "pitkilibin",
+            "pos": "verb"
+          },
+          {
+            "concepto": "dibujar",
+            "ipa": "/ke.ˈniː.teʃ.sa/",
+            "origen": {
+              "lengua": "Persian / Sanskrit / Tibetan",
+              "raiz_original": "कर्षति (Sanskrit) / رسم کردن (Persian) / کشیدن (Persian) / འདོན (Tibetan)",
+              "corpus": "generado por forja v1.4"
+            },
+            "transformacion": [
+              "forjado"
+            ],
+            "derivaciones": [],
+            "kalfirvach": "kenīteshsa",
+            "pos": "verb"
+          },
+          {
+            "concepto": "atraer",
+            "ipa": "/za.hi.ˈman.dil/",
+            "origen": {
+              "lengua": "Ancient Greek / Arabic / Persian / Sanskrit",
+              "raiz_original": "Sanskrit: आकर्षणम् (ākarṣaṇam) / Persian: جذب کردن (jazb kardan) / Arabic: يجذب (yajdhib) / Ancient Greek: ἕλκειν (helkein)",
+              "corpus": "generado por forja v1.4"
+            },
+            "transformacion": [
+              "forjado"
+            ],
+            "derivaciones": [],
+            "kalfirvach": "zahimandil",
+            "pos": "verb"
+          },
+          {
+            "concepto": "avanzar",
+            "ipa": "/ro.ˈkeː.fam.tan/",
+            "origen": {
+              "lengua": "Ancient Greek / Arabic / Persian / Sanskrit",
+              "raiz_original": "Sanskrit: प्रगमनम् (pragamanam) / Persian: پیش رفتن (pīsh raftan) / Arabic: تَقَدَّمَ (taqaddama) / Ancient Greek: προκοπτή (prokoptē)",
+              "corpus": "generado por forja v1.4"
+            },
+            "transformacion": [
+              "forjado"
+            ],
+            "derivaciones": [],
+            "kalfirvach": "rokēfamtan",
+            "pos": "verb"
+          },
+          {
+            "concepto": "pintar",
+            "ipa": "/nik.ram.ˈpo.da/",
+            "origen": {
+              "lengua": "Ancient Greek / Arabic / Persian / Sanskrit",
+              "raiz_original": "Sanskrit: रञ्जयति (rañjayati) / Persian: رنگ آمیزی کردن (rang amīzī kardan) / Arabic: صَبَغَ (ṣabaḡa) / Ancient Greek: ζωγραφεῖν (zōgraphein)",
+              "corpus": "generado por forja v1.4"
+            },
+            "transformacion": [
+              "forjado"
+            ],
+            "derivaciones": [],
+            "kalfirvach": "nikrampoda",
+            "pos": "verb"
+          },
+          {
+            "concepto": "mentir",
+            "ipa": "/i.ðim.kap.ˈbeː/",
+            "origen": {
+              "lengua": "Ancient Greek / Arabic / Persian / Sanskrit",
+              "raiz_original": "Sanskrit: मिथयति (mithayati) / Persian: دروغ فرمود (durūġ farmud) / Arabic: كَذَبَ (kaḏaba) / Ancient Greek: ψεύδειν (pseudein)",
+              "corpus": "generado por forja v1.4"
+            },
+            "transformacion": [
+              "forjado"
+            ],
+            "derivaciones": [],
+            "kalfirvach": "idhimkapbē",
+            "pos": "verb"
+          },
+          {
+            "concepto": "desmentir",
+            "ipa": "/nak.ðe.ˈla.di/",
+            "origen": {
+              "lengua": "Ancient Greek / Arabic / Persian / Sanskrit",
+              "raiz_original": "Sanskrit: निषेधयति (niṣedhayati) / Persian: تکذیب کردن (takzīb kardan) / Arabic: كَذَّبَ (kaḏḏaba) / Ancient Greek: ἐλέγχειν (elenkhein)",
+              "corpus": "generado por forja v1.4"
+            },
+            "transformacion": [
+              "forjado"
+            ],
+            "derivaciones": [],
+            "kalfirvach": "nakdheladi",
+            "pos": "verb"
+          },
+          {
+            "concepto": "callar",
+            "ipa": "/ˈsuːt.diː.be.ke/",
+            "origen": {
+              "lengua": "Ancient Greek / Arabic / Persian / Sanskrit",
+              "raiz_original": "Sanskrit: तूष्णीं भवति (tūṣṇīm bhavati) / Persian: خاموش شدن (xāmūš šodan) / Arabic: سَكَتَ (sakata) / Ancient Greek: σιωπᾶν (siōpān)",
+              "corpus": "generado por forja v1.4"
+            },
+            "transformacion": [
+              "forjado"
+            ],
+            "derivaciones": [],
+            "kalfirvach": "sūtdībeke",
+            "pos": "verb"
+          },
+          {
+            "concepto": "nacer",
+            "ipa": "/tas.mi.ˈwi.den/",
+            "origen": {
+              "lengua": "Ancient Greek / Arabic / Coptic / Persian / Sanskrit",
+              "raiz_original": "Sanskrit: जयते (jayate) / Persian: زاییده شدن (zadīdan) / Arabic: وُلِدَ (wulida) / Ancient Greek: γίγνομαι (gignomai) / Coptic: ⲙⲓⲥⲓ (misi)",
+              "corpus": "generado por forja v1.4"
+            },
+            "transformacion": [
+              "forjado"
+            ],
+            "derivaciones": [],
+            "kalfirvach": "tasmiwiden",
+            "pos": "verb"
+          },
+          {
+            "concepto": "despertar",
+            "ipa": "/ma.sap.ˈder.ba/",
+            "origen": {
+              "lengua": "Ancient Greek / Arabic / Persian / Sanskrit",
+              "raiz_original": "Sanskrit: प्रबुध्यते (prabudhyate) / Persian: بیدار شدن (bīdār šodan) / Arabic: اِسْتَيْقَظَ (istayqaẓa) / Ancient Greek: ἐγείρομαι (egeiromai)",
+              "corpus": "generado por forja v1.4"
+            },
+            "transformacion": [
+              "forjado"
+            ],
+            "derivaciones": [],
+            "kalfirvach": "masapderba",
+            "pos": "verb"
+          },
+          {
+            "concepto": "descansar",
+            "ipa": "/vi.po.rit.ˈnaːs/",
+            "origen": {
+              "lengua": "Ancient Greek / Arabic / Persian / Sanskrit",
+              "raiz_original": "Sanskrit: विश्रमति (viśramati) / Persian: آسودن (āsūdan) / Arabic: اِسْتَرَاحَ (istarāḥa) / Ancient Greek: ἀναπαύομαι (anapauomai)",
+              "corpus": "generado por forja v1.4"
+            },
+            "transformacion": [
+              "forjado"
+            ],
+            "derivaciones": [],
+            "kalfirvach": "viporitnās",
+            "pos": "verb"
+          },
+          {
+            "concepto": "cansar",
+            "ipa": "/nat.la.ˈdek.si/",
+            "origen": {
+              "lengua": "Ancient Greek / Arabic / Persian / Sanskrit",
+              "raiz_original": "Sanskrit: क्लम्यति (klamyati) / Persian: خسته کردن (xaste kardan) / Arabic: أَتْعَبَ (atʿaba) / Ancient Greek: κοποῦν (kopoun)",
+              "corpus": "generado por forja v1.4"
+            },
+            "transformacion": [
+              "forjado"
+            ],
+            "derivaciones": [],
+            "kalfirvach": "natladeksi",
+            "pos": "verb"
+          },
+          {
+            "concepto": "destruir",
+            "ipa": "/na.rik.ˈte.vep/",
+            "origen": {
+              "lengua": "Ancient Greek / Arabic / Persian / Sanskrit",
+              "raiz_original": "Sanskrit: नध्यति (nadhyaṯi) / नाशयति (nāśayati) / Persian: ویران کردن (vīrān kardan) / Arabic: Arabic: دَمَّرَ (dammara) / هَدَمَ (hadama) / Ancient Greek: φθείρω (phtheirō)",
+              "corpus": "generado por forja v1.4"
+            },
+            "transformacion": [
+              "forjado"
+            ],
+            "derivaciones": [],
+            "kalfirvach": "nariktevep",
+            "pos": "verb"
+          },
+          {
+            "concepto": "arreglar",
+            "ipa": "/mi.kin.ˈlet.ro/",
+            "origen": {
+              "lengua": "Ancient Greek / Arabic / Persian / Sanskrit",
+              "raiz_original": "Sanskrit: संस्करोति (saṃskaroti) / Persian: تعمیم کردن (taʿmīm kardan) / مرمت کردن (tarmīm kardan) / Arabic: صَلَّحَ (ṣallaḥa) / Ancient Greek: ἐπανορθοῦν (epanorthoun)",
+              "corpus": "generado por forja v1.4"
+            },
+            "transformacion": [
+              "forjado"
+            ],
+            "derivaciones": [],
+            "kalfirvach": "mikinletro",
+            "pos": "verb"
+          },
+          {
+            "concepto": "suspender",
+            "ipa": "/ne.da.ˈber.ke/",
+            "origen": {
+              "lengua": "Ancient Greek / Arabic / Persian / Sanskrit",
+              "raiz_original": "Sanskrit: लम्बते (lambate) / Persian: آویز کردن (āvīz kardan) / Arabic: عَلَّقَ (ʿallaqa) / Ancient Greek: κρεμάννυμι (kremannumi)",
+              "corpus": "generado por forja v1.4"
+            },
+            "transformacion": [
+              "forjado"
+            ],
+            "derivaciones": [],
+            "kalfirvach": "nedaberke",
+            "pos": "verb"
+          },
+          {
+            "concepto": "vibrar",
+            "ipa": "/nel.zit.ˈda.se/",
+            "origen": {
+              "lengua": "Ancient Greek / Arabic / Persian / Sanskrit",
+              "raiz_original": "Sanskrit: स्पन्दते (spandate) / Persian: لرزیدن (larzīdan) / Arabic: اِهْتَزَّ (ihtazza) / Ancient Greek: πάλλειν (pallein)",
+              "corpus": "generado por forja v1.4"
+            },
+            "transformacion": [
+              "forjado"
+            ],
+            "derivaciones": [],
+            "kalfirvach": "nelzitdase",
+            "pos": "verb"
+          },
+          {
+            "concepto": "amaestrar",
+            "ipa": "/ri.sik.ti.ˈdeː/",
+            "origen": {
+              "lengua": "Ancient Greek / Arabic / Persian / Sanskrit",
+              "raiz_original": "Sanskrit: विनियमयति (viniyamayati) / Persian: تربیت دادن (tarbīyat dādan) / Arabic: دَرَّبَ (darraba) / Ancient Greek: διδάσκειν (didaskein)",
+              "corpus": "generado por forja v1.4"
+            },
+            "transformacion": [
+              "forjado"
+            ],
+            "derivaciones": [],
+            "kalfirvach": "risiktidē",
+            "pos": "verb"
+          },
+          {
+            "concepto": "repartir",
+            "ipa": "/ˈeː.zeːm.dis.kep/",
+            "origen": {
+              "lengua": "Ancient Greek / Arabic / Persian / Sanskrit",
+              "raiz_original": "Sanskrit: वितरति (vitarati) / Persian: بخشیدن (baxšīdan) / Arabic: قَسَّمَ (qassama) / Ancient Greek: διανέμειν (dianemein)",
+              "corpus": "generado por forja v1.4"
+            },
+            "transformacion": [
+              "forjado"
+            ],
+            "derivaciones": [],
+            "kalfirvach": "ēzēmdiskep",
+            "pos": "verb"
+          },
+          {
+            "concepto": "multiplicar",
+            "ipa": "/zit.de.ˈlip.fe/",
+            "origen": {
+              "lengua": "Ancient Greek / Arabic / Persian / Sanskrit",
+              "raiz_original": "Sanskrit: गुणयति (guṇayati) / Persian: افزایش دادن (taḍʿīf kardan) / Arabic: ضَاعَفَ (ḍāʿafa) / Ancient Greek: πολλαπλασιάζω (pollaplasiázō)",
+              "corpus": "generado por forja v1.4"
+            },
+            "transformacion": [
+              "forjado"
+            ],
+            "derivaciones": [],
+            "kalfirvach": "zitdelipfe",
+            "pos": "verb"
+          },
+          {
+            "concepto": "resumir",
+            "ipa": "/di.til.ˈxi.mi/",
+            "origen": {
+              "lengua": "Ancient Greek / Arabic / Persian / Sanskrit",
+              "raiz_original": "Sanskrit: संक्षिपति (saṃkṣipati) / Persian: خلاصه کردن (xolāse kardan) / Arabic: لَخَّصَ (laḵḵaṣa) / Ancient Greek: συνελόντι (synelonty) / ἐπιτέμνειν",
+              "corpus": "generado por forja v1.4"
+            },
+            "transformacion": [
+              "forjado"
+            ],
+            "derivaciones": [],
+            "kalfirvach": "ditilkhimi",
+            "pos": "verb"
+          },
+          {
+            "concepto": "creer",
+            "ipa": "/de.ˈzo.pes/",
+            "origen": {
+              "lengua": "Sánscrito / Avéstico / Griego Koiné",
+              "raiz_original": "Skt: श्रद्दधाति (śraddadhāti) — cree, tiene fe / Av: zrazdāiti — cree, confía / GK (Koiné): πιστεύω (pisteúō) — creo",
+              "corpus": "generado por forja v1.4"
+            },
+            "transformacion": [
+              "forjado"
+            ],
+            "derivaciones": [],
+            "kalfirvach": "dezopes",
+            "pos": "verb"
+          },
+          {
+            "concepto": "entender",
+            "ipa": "/bis.ˈni.dit/",
+            "origen": {
+              "lengua": "Sánscrito / Avéstico / Griego Koiné",
+              "raiz_original": "Skt: बुध्यते (budhyate) — entiende, percibe / Av: baodayeiti — percibe, entiende / GK (Koiné): συνίημι (syníēmi) — entiendo",
+              "corpus": "generado por forja v1.4"
+            },
+            "transformacion": [
+              "forjado"
+            ],
+            "derivaciones": [],
+            "kalfirvach": "bisnidit",
+            "pos": "verb"
+          },
+          {
+            "concepto": "comprender",
+            "ipa": "/bi.ˈtok.por/",
+            "origen": {
+              "lengua": "Sánscrito / Avéstico / Griego Koiné",
+              "raiz_original": "Skt: प्रतिपद्यते (pratipadyate) — comprende / Av: framerəti — comprensión, intelecto / GK (Koiné): καταλαμβάνω (katalambánō) — comprendo",
+              "corpus": "generado por forja v1.4"
+            },
+            "transformacion": [
+              "forjado"
+            ],
+            "derivaciones": [],
+            "kalfirvach": "bitokpor",
+            "pos": "verb"
+          },
+          {
+            "concepto": "confundir",
+            "ipa": "/te.ˈvi.mis/",
+            "origen": {
+              "lengua": "Sánscrito / Avéstico / Griego Koiné",
+              "raiz_original": "Skt: संमोहयति (saṃmohayati) — confunde, aturde / Av: vīmadⁱaⁱti — se confunde, se embriaga / GK (Koiné): συγχέω (synchéō) — confundo, mezclo",
+              "corpus": "generado por forja v1.4"
+            },
+            "transformacion": [
+              "forjado"
+            ],
+            "derivaciones": [],
+            "kalfirvach": "tevimis",
+            "pos": "verb"
+          },
+          {
+            "concepto": "interpretar",
+            "ipa": "/he.ˈmer.kin/",
+            "origen": {
+              "lengua": "Sánscrito / Avéstico / Griego Koiné",
+              "raiz_original": "Skt: व्याख्याति (vyākhyāti) — explica, interpreta / Av: frāvācⁱaⁱti — proclama, interpreta / GK (Koiné): ἑρμηνεύω (hermēneúō) — interpreto",
+              "corpus": "generado por forja v1.4"
+            },
+            "transformacion": [
+              "forjado"
+            ],
+            "derivaciones": [],
+            "kalfirvach": "hemerkin",
+            "pos": "verb"
+          },
+          {
+            "concepto": "deducir",
+            "ipa": "/mu.ˈnit.lus/",
+            "origen": {
+              "lengua": "Sánscrito / Avéstico / Griego Koiné",
+              "raiz_original": "Skt: अनुमिनोति (anuminoti) — infiere, deduce / Av: anumanⁱaⁱti — deduce, concluye / GK (Koiné): συλλογίζομαι (syllogízomai) — deduzco",
+              "corpus": "generado por forja v1.4"
+            },
+            "transformacion": [
+              "forjado"
+            ],
+            "derivaciones": [],
+            "kalfirvach": "munitlus",
+            "pos": "verb"
+          },
+          {
+            "concepto": "suponer",
+            "ipa": "/ki.ˈtir.lim/",
+            "origen": {
+              "lengua": "Sánscrito / Avéstico / Griego Koiné",
+              "raiz_original": "Skt: कल्पयति (kalpayati) — supone, imagina / Av: fraourvaⁱti — supone, asume / GK (Koiné): ὑποτίθημι (hypotíthēmi) — supongo",
+              "corpus": "generado por forja v1.4"
+            },
+            "transformacion": [
+              "forjado"
+            ],
+            "derivaciones": [],
+            "kalfirvach": "kitirlim",
+            "pos": "verb"
+          },
+          {
+            "concepto": "concluir",
+            "ipa": "/to.ˈpin.ris/",
+            "origen": {
+              "lengua": "Sánscrito / Avéstico / Griego Koiné",
+              "raiz_original": "Skt: निश्चिनोति (niścinoti) — decide, concluye / Av: niščinaⁱti — decide, concluye / GK (Koiné): συμπεραίνω (symperaínō) — concluyo",
+              "corpus": "generado por forja v1.4"
+            },
+            "transformacion": [
+              "forjado"
+            ],
+            "derivaciones": [],
+            "kalfirvach": "topinris",
+            "pos": "verb"
+          },
+          {
+            "concepto": "ignorar",
+            "ipa": "/pen.ˈteː.ku/",
+            "origen": {
+              "lengua": "Sánscrito / Avéstico / Griego Koiné",
+              "raiz_original": "Skt: उपेक्षते (upekṣate) — ignora, desatiende / Av: avakāⁱti — desatiende, ignora / GK (Koiné): ἀγνοέω (agnoéō) — ignoro, no sé",
+              "corpus": "generado por forja v1.4"
+            },
+            "transformacion": [
+              "forjado"
+            ],
+            "derivaciones": [],
+            "kalfirvach": "pentēku",
+            "pos": "verb"
+          },
+          {
+            "concepto": "reconocer",
+            "ipa": "/no.ˈrat.zip/",
+            "origen": {
+              "lengua": "Sánscrito / Avéstico / Griego Koiné",
+              "raiz_original": "Skt: प्रत्यभिजानाति (pratyabhijānāti) — reconoce / Av: paitizanaⁱti — reconoce, identifica / GK (Koiné): ἀναγνωρίζω (anagnōrízō) — reconozco",
+              "corpus": "generado por forja v1.4"
+            },
+            "transformacion": [
+              "forjado"
+            ],
+            "derivaciones": [],
+            "kalfirvach": "noratzip",
+            "pos": "verb"
+          },
+          {
+            "concepto": "reflexionar",
+            "ipa": "/di.ˈtil.zan/",
+            "origen": {
+              "lengua": "Sánscrito / Avéstico / Griego Koiné",
+              "raiz_original": "Skt: चिन्तयति (cintayati) — piensa, reflexiona / Av: čiθaⁱti — piensa, contempla / GK (Koiné): διαλογίζομαι (dialogízomai) — reflexiono",
+              "corpus": "generado por forja v1.4"
+            },
+            "transformacion": [
+              "forjado"
+            ],
+            "derivaciones": [],
+            "kalfirvach": "ditilzan",
+            "pos": "verb"
+          },
+          {
+            "concepto": "razonar",
+            "ipa": "/mil.ˈki.hor/",
+            "origen": {
+              "lengua": "Sánscrito / Avéstico / Griego Koiné",
+              "raiz_original": "Skt: तर्कयति (tarkayati) — razona, infiere / Av: vacah karti — razona, usa la palabra / GK (Koiné): λογίζομαι (logízomai) — razono, calculo",
+              "corpus": "generado por forja v1.4"
+            },
+            "transformacion": [
+              "forjado"
+            ],
+            "derivaciones": [],
+            "kalfirvach": "milkihor",
+            "pos": "verb"
+          },
+          {
+            "concepto": "considerar",
+            "ipa": "/fo.ˈnit.mir/",
+            "origen": {
+              "lengua": "Sánscrito / Avéstico / Griego Koiné",
+              "raiz_original": "Skt: मन्यते (manyate) — piensa, considera / Av: framanⁱaⁱti — considera, medita / GK (Koiné): θεωρέω (theōréō) — considero, contemplo",
+              "corpus": "generado por forja v1.4"
+            },
+            "transformacion": [
+              "forjado"
+            ],
+            "derivaciones": [],
+            "kalfirvach": "fonitmir",
+            "pos": "verb"
+          },
+          {
+            "concepto": "concebir",
+            "ipa": "/fal.ˈtin.sa/",
+            "origen": {
+              "lengua": "Sánscrito / Avéstico / Griego Koiné",
+              "raiz_original": "Skt: गर्भधारयति (garbhadhārayati) — concibe, engendra / Av: āfrasti — concibe, formula / GK (Koiné): συλλαμβάνω (syllambánō) — concibo, capto",
+              "corpus": "generado por forja v1.4"
+            },
+            "transformacion": [
+              "forjado"
+            ],
+            "derivaciones": [],
+            "kalfirvach": "faltinsa",
+            "pos": "verb"
           }
         ]
       },
@@ -9389,6 +9990,396 @@
             "transformacion": [
               "mantenido de lexico original con /f/"
             ]
+          },
+          {
+            "concepto": "desastre",
+            "ipa": "/ˈliː.fi.kos.ti/",
+            "origen": {
+              "lengua": "Persian",
+              "raiz_original": "فاجعه (Persian) / مصیبت (Persian) / فلاکت (Persian) / آفت (Persian)",
+              "corpus": "generado por forja v1.4"
+            },
+            "transformacion": [
+              "forjado"
+            ],
+            "derivaciones": [],
+            "kalfirvach": "līfikosti",
+            "pos": "noun"
+          },
+          {
+            "concepto": "vibración",
+            "ipa": "/map.ˈnaː.leh.daː/",
+            "origen": {
+              "lengua": "Ancient Greek / Arabic / Persian / Sanskrit",
+              "raiz_original": "Sanskrit: स्पन्दनम् (spandanam) / Persian: لرزش (larzeš) / Arabic: اِهْتِزَاز (ihtizāz) / Ancient Greek: παλμός (palmos)",
+              "corpus": "generado por forja v1.4"
+            },
+            "transformacion": [
+              "forjado"
+            ],
+            "derivaciones": [],
+            "kalfirvach": "mapnālehdā",
+            "pos": "noun"
+          },
+          {
+            "concepto": "gema",
+            "ipa": "/hom.wo.ˈnet.re/",
+            "origen": {
+              "lengua": "Arabic / Persian / Sanskrit",
+              "raiz_original": "Sanskrit: रत्नम् (ratnam) / Persian: گوهر (gowhar) / Arabic: جَوْهَر (jawhar)",
+              "corpus": "generado por forja v1.4"
+            },
+            "transformacion": [
+              "forjado"
+            ],
+            "derivaciones": [],
+            "kalfirvach": "homwonetre",
+            "pos": "noun"
+          },
+          {
+            "concepto": "ágata",
+            "ipa": "/e.ˈhiː.ke.te/",
+            "origen": {
+              "lengua": "Arabic / Persian / Sanskrit",
+              "raiz_original": "Sanskrit: अकति (akati) / अगति (agati) / Persian: عقیق (aqīq) / Arabic: عَقِيق (ʿaqīq)",
+              "corpus": "generado por forja v1.4"
+            },
+            "transformacion": [
+              "forjado"
+            ],
+            "derivaciones": [],
+            "kalfirvach": "ehīkete",
+            "pos": "noun"
+          },
+          {
+            "concepto": "esmeralda",
+            "ipa": "/rum.zos.ˈtu.du/",
+            "origen": {
+              "lengua": "Ancient Greek / Arabic / Persian / Sanskrit",
+              "raiz_original": "Sanskrit: मरकतम् (marakatam) / Persian: زمرد (zomorrod) / Arabic: زُمُرُّد (zumurrud) / Ancient Greek: σμάραγδος (smaragdos)",
+              "corpus": "generado por forja v1.4"
+            },
+            "transformacion": [
+              "forjado"
+            ],
+            "derivaciones": [],
+            "kalfirvach": "rumzostudu",
+            "pos": "noun"
+          },
+          {
+            "concepto": "amatista",
+            "ipa": "/ˈnoːh.mi.bo.kit/",
+            "origen": {
+              "lengua": "Arabic / Persian / Sanskrit",
+              "raiz_original": "Sanskrit: जम्भीरः (jambhīraḥ) / कटवेणी (kaṭaveṇī) / Persian: یاقوت (yāqūt, lit. ruby/sapphire) / Arabic: جَامَانِ (jamānī) / بَنَفْسَجِيّ",
+              "corpus": "generado por forja v1.4"
+            },
+            "transformacion": [
+              "forjado"
+            ],
+            "derivaciones": [],
+            "kalfirvach": "nōhmibokit",
+            "pos": "noun"
+          },
+          {
+            "concepto": "rubí",
+            "ipa": "/ˈtuː.duː.kuː.no/",
+            "origen": {
+              "lengua": "Arabic / Persian / Sanskrit",
+              "raiz_original": "Sanskrit: कुरुविन्दम् (kuruvindam) / पद्मरागः (padmarāgaḥ) / Persian: یاقوت (yāqūt) / Arabic: يَاقُوت (yāqūt)",
+              "corpus": "generado por forja v1.4"
+            },
+            "transformacion": [
+              "forjado"
+            ],
+            "derivaciones": [],
+            "kalfirvach": "tūdūkūno",
+            "pos": "noun"
+          },
+          {
+            "concepto": "carbón",
+            "ipa": "/fe.me.ˈɣen.zo/",
+            "origen": {
+              "lengua": "Arabic / Persian / Sanskrit",
+              "raiz_original": "Sanskrit: अङ्गारः (aṅgāraḥ) / Persian: زغال (zoġāl) / Arabic: فَحْم (faḥm)",
+              "corpus": "generado por forja v1.4"
+            },
+            "transformacion": [
+              "forjado"
+            ],
+            "derivaciones": [],
+            "kalfirvach": "femeghenzo",
+            "pos": "noun"
+          },
+          {
+            "concepto": "plata",
+            "ipa": "/din.mo.ˈtek.re/",
+            "origen": {
+              "lengua": "Arabic / Persian / Sanskrit",
+              "raiz_original": "Sanskrit: रजतम् (rajatam) / Persian: نقره (noqre) / Arabic: فِضَّة (fiḍḍa)",
+              "corpus": "generado por forja v1.4"
+            },
+            "transformacion": [
+              "forjado"
+            ],
+            "derivaciones": [],
+            "kalfirvach": "dinmotekre",
+            "pos": "noun"
+          },
+          {
+            "concepto": "metal",
+            "ipa": "/lit.du.ˈfi.zi/",
+            "origen": {
+              "lengua": "Arabic / Persian / Sanskrit",
+              "raiz_original": "Sanskrit: धातु (dhātu) / Persian: فلز (felez) / Arabic: فِلِزّ (filizz) / مَعْدِن (maʿdin)",
+              "corpus": "generado por forja v1.4"
+            },
+            "transformacion": [
+              "forjado"
+            ],
+            "derivaciones": [],
+            "kalfirvach": "litdufizi",
+            "pos": "noun"
+          },
+          {
+            "concepto": "zinc",
+            "ipa": "/i.mu.ˈtuː.di/",
+            "origen": {
+              "lengua": "Arabic / Persian / Sanskrit",
+              "raiz_original": "Sanskrit: यशदम् (yaśadam) / Persian: روی (rūy) / Arabic: تُوتِيَاء (tūtiyāʾ)",
+              "corpus": "generado por forja v1.4"
+            },
+            "transformacion": [
+              "forjado"
+            ],
+            "derivaciones": [],
+            "kalfirvach": "imutūdi",
+            "pos": "noun"
+          },
+          {
+            "concepto": "tormenta",
+            "ipa": "/hes.lep.ni.ˈtoː/",
+            "origen": {
+              "lengua": "Ancient Greek / Arabic / Coptic / Persian / Sanskrit",
+              "raiz_original": "Sanskrit: प्रवर्ष (pravarṣa) — lluvia torrencial / Persian: طوفان (tūfān) — tormenta / Arabic: عَاصِفَة (ʿāṣifa) — tormenta / Ancient Greek: θύελλα (thýella) — tempestad, vendaval / Coptic: ϧⲉⲣⲱⲛⲓ (kherōni) — tormenta",
+              "corpus": "generado por forja v1.4"
+            },
+            "transformacion": [
+              "forjado"
+            ],
+            "derivaciones": [],
+            "kalfirvach": "heslepnitō",
+            "pos": "noun"
+          },
+          {
+            "concepto": "huracán",
+            "ipa": "/he.to.ˈbik.ro/",
+            "origen": {
+              "lengua": "Ancient Greek / Arabic / Persian / Sanskrit",
+              "raiz_original": "Sanskrit: चक्रवात (cakravāta) — ciclón, torbellino / Persian: گردباد (gerdbād) — ciclón, tornado / Arabic: إِعْصَار (iʿṣār) — huracán, ciclón / Ancient Greek: τυφών (typhōn) — tifón, huracán",
+              "corpus": "generado por forja v1.4"
+            },
+            "transformacion": [
+              "forjado"
+            ],
+            "derivaciones": [],
+            "kalfirvach": "hetobikro",
+            "pos": "noun"
+          },
+          {
+            "concepto": "tifón",
+            "ipa": "/ˈuː.puː.tuːn.fuː/",
+            "origen": {
+              "lengua": "Ancient Greek / Arabic / Persian / Sanskrit",
+              "raiz_original": "Sanskrit: दापोय (dāphoya) / चक्रवात (cakravāta) / Persian: طوفان (tūfān) — tifón / Arabic: طُوفَان (ṭūfān) — diluvio, tifón / Ancient Greek: τυφών (typhōn) — tifón, huracán",
+              "corpus": "generado por forja v1.4"
+            },
+            "transformacion": [
+              "forjado"
+            ],
+            "derivaciones": [],
+            "kalfirvach": "ūpūtūnfū",
+            "pos": "noun"
+          },
+          {
+            "concepto": "granizo",
+            "ipa": "/ma.lip.ˈka.bet/",
+            "origen": {
+              "lengua": "Ancient Greek / Arabic / Persian / Sanskrit",
+              "raiz_original": "Sanskrit: हिमोपल (himopala) — piedra de hielo, granizo / Persian: تگرگ (tagarg) — granizo / Arabic: بَرَد (barad) — granizo / Ancient Greek: χάλαζα (khálaza) — granizo",
+              "corpus": "generado por forja v1.4"
+            },
+            "transformacion": [
+              "forjado"
+            ],
+            "derivaciones": [],
+            "kalfirvach": "malipkabet",
+            "pos": "noun"
+          },
+          {
+            "concepto": "sequía",
+            "ipa": "/kem.ˈsiː.fu.ni/",
+            "origen": {
+              "lengua": "Ancient Greek / Arabic / Persian / Sanskrit",
+              "raiz_original": "Sanskrit: अनावृष्टि (anāvṛṣṭi) — falta de lluvia, sequía / Persian: خشکسالی (xašk-sālī) — sequía / Arabic: جَفَاف (jafāf) — sequía, aridez / Ancient Greek: αὐχμός (auchmós) — sequía",
+              "corpus": "generado por forja v1.4"
+            },
+            "transformacion": [
+              "forjado"
+            ],
+            "derivaciones": [],
+            "kalfirvach": "kemsīfuni",
+            "pos": "noun"
+          },
+          {
+            "concepto": "inundación",
+            "ipa": "/zin.ˈkoː.fut.me/",
+            "origen": {
+              "lengua": "Ancient Greek / Arabic / Coptic / Persian / Sanskrit",
+              "raiz_original": "Sanskrit: प्लावनम् (plāvanam) — inundación / Persian: سیل (seyl) — inundación / Arabic: فَيَضَان (fayaḍān) — inundación / Ancient Greek: κατακλυσμός (kataklysmós) — diluvio, cataclismo / Coptic: ⲙⲟⲟⲩ (moou) — agua, inundación",
+              "corpus": "generado por forja v1.4"
+            },
+            "transformacion": [
+              "forjado"
+            ],
+            "derivaciones": [],
+            "kalfirvach": "zinkōfutme",
+            "pos": "noun"
+          },
+          {
+            "concepto": "rocío",
+            "ipa": "/un.dem.ˈre.set/",
+            "origen": {
+              "lengua": "Ancient Greek / Arabic / Persian / Sanskrit",
+              "raiz_original": "Sanskrit: तुषार (tuṣāra) — rocío, escarcha / Persian: شبنم (šabnam) — rocío / Arabic: نَدَى (nadā) — rocío / Ancient Greek: δρόσος (drósos) — rocío",
+              "corpus": "generado por forja v1.4"
+            },
+            "transformacion": [
+              "forjado"
+            ],
+            "derivaciones": [],
+            "kalfirvach": "undemreset",
+            "pos": "noun"
+          },
+          {
+            "concepto": "brisa",
+            "ipa": "/ˈiː.nas.mu/",
+            "origen": {
+              "lengua": "Ancient Greek / Arabic / Persian / Sanskrit",
+              "raiz_original": "Sanskrit: समीर (samīra) — brisa, vientecillo / Persian: نسیم (nasīm) — brisa / Arabic: نَسِيم (nasīm) — brisa / Ancient Greek: αὔρα (aúra) — brisa, aire suave",
+              "corpus": "generado por forja v1.4"
+            },
+            "transformacion": [
+              "forjado"
+            ],
+            "derivaciones": [],
+            "kalfirvach": "īnasmu",
+            "pos": "noun"
+          },
+          {
+            "concepto": "tempestad",
+            "ipa": "/ˈbuː.da.mok.fon/",
+            "origen": {
+              "lengua": "Ancient Greek / Persian / Sanskrit",
+              "raiz_original": "Sanskrit: प्रभञ्जन (prabhañjana) — viento huracanado, tempestad / Persian: طوفان (tūfān) — tempestad / Ancient Greek: καταιγίς (kataigís) — tempestad, turbonada / Ancient Greek: χειμών (kheimōn) — tormenta invernal",
+              "corpus": "generado por forja v1.4"
+            },
+            "transformacion": [
+              "forjado"
+            ],
+            "derivaciones": [],
+            "kalfirvach": "būdamokfon",
+            "pos": "noun"
+          },
+          {
+            "concepto": "rayo",
+            "ipa": "/na.se.ˈker.hi/",
+            "origen": {
+              "lengua": "Ancient Greek / Arabic / Persian / Sanskrit",
+              "raiz_original": "Sanskrit: वज्र (vajra) — rayo, trueno / Persian: صاعقه (sāʿeġe) — rayo, centella / Arabic: صَاعِقَة (ṣāʿiqa) — rayo / Ancient Greek: κεραυνός (keraunós) — rayo, centella",
+              "corpus": "generado por forja v1.4"
+            },
+            "transformacion": [
+              "forjado"
+            ],
+            "derivaciones": [],
+            "kalfirvach": "nasekerhi",
+            "pos": "noun"
+          },
+          {
+            "concepto": "llovizna",
+            "ipa": "/di.rip.ˈme.ke/",
+            "origen": {
+              "lengua": "Ancient Greek / Arabic / Persian / Sanskrit",
+              "raiz_original": "Sanskrit: सीपिर (sīpira) / वर्षिका (varṣikā) — llovizna / Persian: نم نم (nam nam) — llovizna / Arabic: رَذَاذ (raḏāḏ) — llovizna, garúa / Ancient Greek: ψακάς (psakás) — llovizna",
+              "corpus": "generado por forja v1.4"
+            },
+            "transformacion": [
+              "forjado"
+            ],
+            "derivaciones": [],
+            "kalfirvach": "diripmeke",
+            "pos": "noun"
+          },
+          {
+            "concepto": "despejado",
+            "ipa": "/fo.θon.ˈsi.li/",
+            "origen": {
+              "lengua": "Ancient Greek / Arabic / Persian / Sanskrit",
+              "raiz_original": "Sanskrit: अनविल (anavila) — claro, sin nubes / विमल (vimala) — puro / Persian: صافی (sāfī) — despejado, claro / Arabic: صَافٍ (ṣāfin) — despejado, sereno / Ancient Greek: αἴθριος (aíthrios) — cielo claro, despejado",
+              "corpus": "generado por forja v1.4"
+            },
+            "transformacion": [
+              "forjado"
+            ],
+            "derivaciones": [],
+            "kalfirvach": "fothonsili",
+            "pos": "noun"
+          },
+          {
+            "concepto": "nublado",
+            "ipa": "/se.pi.ˈne.del/",
+            "origen": {
+              "lengua": "Ancient Greek / Arabic / Persian / Sanskrit",
+              "raiz_original": "Sanskrit: मव्रिन (mavrina) / मेघावृत (meghāvṛta) — cubierto de nubes / Persian: ابری (abrī) — nublado / Arabic: غَائِم (ġāʾim) — nublado / Ancient Greek: νεφελώδης (nephelṓdēs) — nublado",
+              "corpus": "generado por forja v1.4"
+            },
+            "transformacion": [
+              "forjado"
+            ],
+            "derivaciones": [],
+            "kalfirvach": "sepinedel",
+            "pos": "noun"
+          },
+          {
+            "concepto": "humedad",
+            "ipa": "/tos.de.ˈner.ho/",
+            "origen": {
+              "lengua": "Ancient Greek / Arabic / Persian / Sanskrit",
+              "raiz_original": "Sanskrit: आर्द्रता (ārdratā) — humedad / Persian: نم (nam) / رطوبت (rotūbat) — humedad / Arabic: رُطُوبَة (ruṭūba) — humedad / Ancient Greek: ὑγρός (hugrós) — húmedo",
+              "corpus": "generado por forja v1.4"
+            },
+            "transformacion": [
+              "forjado"
+            ],
+            "derivaciones": [],
+            "kalfirvach": "tosdenerho",
+            "pos": "noun"
+          },
+          {
+            "concepto": "viento fuerte",
+            "ipa": "/ˈpiːn.zes.diː.ha/",
+            "origen": {
+              "lengua": "Ancient Greek / Arabic / Persian / Sanskrit",
+              "raiz_original": "Sanskrit: प्रभञ्जन (prabhañjana) — vendaval / Persian: باد منجزر (bād-e manjezer) / تندباد (tondbād) — vendaval / Arabic: رِيح عَاصِفَة (rīḥ ʿāṣifa) — viento tempestuoso / Ancient Greek: λαιλαψ (lailaps) — vendaval, huracán",
+              "corpus": "generado por forja v1.4"
+            },
+            "transformacion": [
+              "forjado"
+            ],
+            "derivaciones": [],
+            "kalfirvach": "pīnzesdīha",
+            "pos": "noun"
           }
         ]
       },
@@ -13457,6 +14448,96 @@
               "/ma/ del Tib མོ /mo˩˧/ → /ma/ (apertura vocálica)"
             ],
             "derivaciones": []
+          },
+          {
+            "concepto": "talismán",
+            "ipa": "/ˈviː.wet.zi.mil/",
+            "origen": {
+              "lengua": "Persian / Sanskrit",
+              "raiz_original": "मङ्गल (Sanskrit) / طلسم (Persian) / تعویذ (Persian)",
+              "corpus": "generado por forja v1.4"
+            },
+            "transformacion": [
+              "forjado"
+            ],
+            "derivaciones": [],
+            "kalfirvach": "vīwetzimil",
+            "pos": "noun"
+          },
+          {
+            "concepto": "alquimia",
+            "ipa": "/i.so.ˈkim.ni/",
+            "origen": {
+              "lengua": "Arabic / Persian / Sanskrit",
+              "raiz_original": "Sanskrit: रसयानम् (rasayānam) / धातुवादः (dhātuvādaḥ) / Persian: کیمیا (kīmīyā) / Arabic: كِيمِيَاء (kīmiyāʾ)",
+              "corpus": "generado por forja v1.4"
+            },
+            "transformacion": [
+              "forjado"
+            ],
+            "derivaciones": [],
+            "kalfirvach": "isokimni",
+            "pos": "noun"
+          },
+          {
+            "concepto": "espada",
+            "ipa": "/ˈiːp.miː.fi.kiːs/",
+            "origen": {
+              "lengua": "Ancient Greek / Arabic / Persian / Sanskrit",
+              "raiz_original": "Sanskrit: खड्ग (khaḍga) / Persian: شمشیر (šamšīr) / Arabic: سَيْف (sayf) / Ancient Greek: ξίφος (xiphos)",
+              "corpus": "generado por forja v1.4"
+            },
+            "transformacion": [
+              "forjado"
+            ],
+            "derivaciones": [],
+            "kalfirvach": "īpmīfikīs",
+            "pos": "noun"
+          },
+          {
+            "concepto": "armadura",
+            "ipa": "/mi.hon.ˈtok.do/",
+            "origen": {
+              "lengua": "Ancient Greek / Arabic / Persian / Sanskrit",
+              "raiz_original": "Sanskrit: कवच (kavaca) / Persian: زره (zereh) / Arabic: دِرْع (dirʿ) / Ancient Greek: ἅμαντoς (hamantos) / θώραξ",
+              "corpus": "generado por forja v1.4"
+            },
+            "transformacion": [
+              "forjado"
+            ],
+            "derivaciones": [],
+            "kalfirvach": "mihontokdo",
+            "pos": "noun"
+          },
+          {
+            "concepto": "hacha",
+            "ipa": "/sek.be.ˈpe.tel/",
+            "origen": {
+              "lengua": "Ancient Greek / Arabic / Persian / Sanskrit",
+              "raiz_original": "Sanskrit: परशु (paraśu) / Persian: تبر (tabar) / Arabic: بَلْط (balṭ) / فَأْس (faʾs) / Ancient Greek: πέλεκυς (pelekys)",
+              "corpus": "generado por forja v1.4"
+            },
+            "transformacion": [
+              "forjado"
+            ],
+            "derivaciones": [],
+            "kalfirvach": "sekbepetel",
+            "pos": "noun"
+          },
+          {
+            "concepto": "flecha",
+            "ipa": "/bo.hot.ˈmo.so/",
+            "origen": {
+              "lengua": "Ancient Greek / Arabic / Persian / Sanskrit",
+              "raiz_original": "Sanskrit: बाण (bāṇa) / शर (śara) / Persian: تیر (tīr) / Arabic: سَهْم (sahm) / Ancient Greek: τόξευμα (tóxeuma) / ἰός",
+              "corpus": "generado por forja v1.4"
+            },
+            "transformacion": [
+              "forjado"
+            ],
+            "derivaciones": [],
+            "kalfirvach": "bohotmoso",
+            "pos": "noun"
           }
         ]
       },
@@ -16598,6 +17679,336 @@
               "/pi/ del Tib དཔེ་ཆ /pe˥.t͡ɕʰɑ˥/ → /pi/"
             ],
             "derivaciones": []
+          },
+          {
+            "concepto": "matemática",
+            "ipa": "/mi.di.ˈki.re/",
+            "origen": {
+              "lengua": "Ancient Greek / Arabic / Persian / Sanskrit",
+              "raiz_original": "Sanskrit: गणितम् (gaṇitam) / Persian: ریاضیات (riyāżiyāt / riyāziyāt) / Arabic: رِيَاضِيَّات (riyāḍiyyāt) / Ancient Greek: μαθηματική (mathēmatikē)",
+              "corpus": "generado por forja v1.4"
+            },
+            "transformacion": [
+              "forjado"
+            ],
+            "derivaciones": [],
+            "kalfirvach": "midikire",
+            "pos": "noun"
+          },
+          {
+            "concepto": "lógica",
+            "ipa": "/ˈteː.ke.lin.mi/",
+            "origen": {
+              "lengua": "Ancient Greek / Arabic / Persian / Sanskrit",
+              "raiz_original": "Sanskrit: तर्कशास्त्रम् (tarkaśāstram) / Persian: منطق (manteq) / Arabic: مَنْطِق (manṭiq) / Ancient Greek: λογική (logikē)",
+              "corpus": "generado por forja v1.4"
+            },
+            "transformacion": [
+              "forjado"
+            ],
+            "derivaciones": [],
+            "kalfirvach": "tēkelinmi",
+            "pos": "noun"
+          },
+          {
+            "concepto": "álgebra",
+            "ipa": "/be.mi.re.ˈtiː/",
+            "origen": {
+              "lengua": "Arabic / Persian / Sanskrit",
+              "raiz_original": "Sanskrit: बीजगणितम् (bījagaṇitam) / Persian: جبر (jabr) / Arabic: جَبْر (jabr)",
+              "corpus": "generado por forja v1.4"
+            },
+            "transformacion": [
+              "forjado"
+            ],
+            "derivaciones": [],
+            "kalfirvach": "bemiretī",
+            "pos": "noun"
+          },
+          {
+            "concepto": "derivada",
+            "ipa": "/te.ku.ˈpu.nem/",
+            "origen": {
+              "lengua": "Arabic / Persian / Sanskrit",
+              "raiz_original": "Sanskrit: पतन्धनम् (patandhanam) / वैकल्पिकम् / Persian: مشتق (moštaqq) / Arabic: مُشْتَقّ (muštaqq)",
+              "corpus": "generado por forja v1.4"
+            },
+            "transformacion": [
+              "forjado"
+            ],
+            "derivaciones": [],
+            "kalfirvach": "tekupunem",
+            "pos": "noun"
+          },
+          {
+            "concepto": "integral",
+            "ipa": "/til.ki.ˈsi.mi/",
+            "origen": {
+              "lengua": "Arabic / Persian / Sanskrit",
+              "raiz_original": "Sanskrit: समकलितम् (samakalitam) / Persian: انتگرال (integral) / Arabic: تَامّ (tāmm) / تَكَامُل (takāmul)",
+              "corpus": "generado por forja v1.4"
+            },
+            "transformacion": [
+              "forjado"
+            ],
+            "derivaciones": [],
+            "kalfirvach": "tilkisimi",
+            "pos": "noun"
+          },
+          {
+            "concepto": "química",
+            "ipa": "/ki.ʃi.sim.ˈriː/",
+            "origen": {
+              "lengua": "Arabic / Persian / Sanskrit",
+              "raiz_original": "Sanskrit: रसायनम् (rasāyanam) / Persian: شیمی (šīmī) / Arabic: كِيمِيَاء (kīmiyāʾ)",
+              "corpus": "generado por forja v1.4"
+            },
+            "transformacion": [
+              "forjado"
+            ],
+            "derivaciones": [],
+            "kalfirvach": "kishisimrī",
+            "pos": "noun"
+          },
+          {
+            "concepto": "música",
+            "ipa": "/ˈsiː.niː.meː.tiːk/",
+            "origen": {
+              "lengua": "Ancient Greek / Arabic / Persian / Sanskrit",
+              "raiz_original": "Sanskrit: संगीत (saṃgīta) — música / Persian: موسیقی (mūsīqī) — música / Arabic: مُوسِيقَى (mūsīqā) — música / Ancient Greek: μουσική (mousikē) — arte de las musas, música",
+              "corpus": "generado por forja v1.4"
+            },
+            "transformacion": [
+              "forjado"
+            ],
+            "derivaciones": [],
+            "kalfirvach": "sīnīmētīk",
+            "pos": "noun"
+          },
+          {
+            "concepto": "melodía",
+            "ipa": "/lo.nes.ˈmo.ɣo/",
+            "origen": {
+              "lengua": "Ancient Greek / Arabic / Persian / Sanskrit",
+              "raiz_original": "Sanskrit: राग (rāga) — melodía, estructura melódica / Persian: نغمه (naġme) — melodía, tonada / Arabic: نَغْمَة (naġma) — nota, melodía / Ancient Greek: μέλος (melos) — melodía, canción",
+              "corpus": "generado por forja v1.4"
+            },
+            "transformacion": [
+              "forjado"
+            ],
+            "derivaciones": [],
+            "kalfirvach": "lonesmogho",
+            "pos": "noun"
+          },
+          {
+            "concepto": "ritmo",
+            "ipa": "/lot.re.ˈbe.him/",
+            "origen": {
+              "lengua": "Ancient Greek / Arabic / Persian / Sanskrit",
+              "raiz_original": "Sanskrit: ताल (tāla) — ritmo, compás musical / Persian: ضرب (żarb) — golpe, ritmo / Arabic: إِيقَاع (īqāʿ) — ritmo / Ancient Greek: ῥυθμός (rhythmós) — ritmo, cadencia",
+              "corpus": "generado por forja v1.4"
+            },
+            "transformacion": [
+              "forjado"
+            ],
+            "derivaciones": [],
+            "kalfirvach": "lotrebehim",
+            "pos": "noun"
+          },
+          {
+            "concepto": "armonía",
+            "ipa": "/re.so.ˈnat.da/",
+            "origen": {
+              "lengua": "Ancient Greek / Arabic / Persian / Sanskrit",
+              "raiz_original": "Sanskrit: स्वरसंवाद (svarasaṃvāda) — consonancia de notas / Persian: هماهنگی (ham-āhangī) — armonía / Arabic: تَنَاغُم (tanāġum) — armonía musical / Ancient Greek: ἁρμονία (harmonía) — armonía, concordia",
+              "corpus": "generado por forja v1.4"
+            },
+            "transformacion": [
+              "forjado"
+            ],
+            "derivaciones": [],
+            "kalfirvach": "resonatda",
+            "pos": "noun"
+          },
+          {
+            "concepto": "nota",
+            "ipa": "/on.pot.ˈɣo.so/",
+            "origen": {
+              "lengua": "Ancient Greek / Arabic / Persian / Sanskrit",
+              "raiz_original": "Sanskrit: स्वर (svara) — nota musical, tono / Persian: نغمه (naġme) — nota, melodía / Arabic: نَغْمَة (naġma) — nota musical / Ancient Greek: φθόγγος (phthóngos) — sonido musical, nota",
+              "corpus": "generado por forja v1.4"
+            },
+            "transformacion": [
+              "forjado"
+            ],
+            "derivaciones": [],
+            "kalfirvach": "onpotghoso",
+            "pos": "noun"
+          },
+          {
+            "concepto": "acorde",
+            "ipa": "/teh.wip.ˈso.me/",
+            "origen": {
+              "lengua": "Ancient Greek / Arabic / Persian / Sanskrit",
+              "raiz_original": "Sanskrit: संवाद (saṃvāda) — consonancia, acorde / Persian: هماهنگ (ham-āhang) — acorde, concertado / Arabic: وَتَر (watar) — cuerda, acorde / Ancient Greek: συμφωνία (symphōnía) — acorde, sinfonía",
+              "corpus": "generado por forja v1.4"
+            },
+            "transformacion": [
+              "forjado"
+            ],
+            "derivaciones": [],
+            "kalfirvach": "tehwipsome",
+            "pos": "noun"
+          },
+          {
+            "concepto": "canción",
+            "ipa": "/ti.di.ne.ˈɣoː/",
+            "origen": {
+              "lengua": "Ancient Greek / Arabic / Persian / Sanskrit",
+              "raiz_original": "Sanskrit: गीत (gīta) — canción, canto / Persian: ترانه (tarāne) — canción, balada / Arabic: أُغْنِيَة (uġniya) — canción / Ancient Greek: ᾠδή (ōidḗ) — oda, canción",
+              "corpus": "generado por forja v1.4"
+            },
+            "transformacion": [
+              "forjado"
+            ],
+            "derivaciones": [],
+            "kalfirvach": "tidineghō",
+            "pos": "noun"
+          },
+          {
+            "concepto": "lira",
+            "ipa": "/ˈriːk.nitʃ.li/",
+            "origen": {
+              "lengua": "Ancient Greek / Arabic / Persian / Sanskrit",
+              "raiz_original": "Sanskrit: वीणा (vīṇā) — instrumento de cuerda, laúd / Persian: چنگ (čang) — arpa, lira / Arabic: قِيثَارَة (qīṯāra) — cítara, lira / Ancient Greek: λύρα (lyra) — lira",
+              "corpus": "generado por forja v1.4"
+            },
+            "transformacion": [
+              "forjado"
+            ],
+            "derivaciones": [],
+            "kalfirvach": "rīknichli",
+            "pos": "noun"
+          },
+          {
+            "concepto": "arpa",
+            "ipa": "/le.sir.ˈnet.ko/",
+            "origen": {
+              "lengua": "Ancient Greek / Arabic / Persian / Sanskrit",
+              "raiz_original": "Sanskrit: वीणा (vīṇā) — arpa, laúd indio / Persian: چنگ (čang) — arpa / Arabic: قَانُون (qānūn) — qanun, arpa de mesa / Ancient Greek: ψαλτήριον (psaltērion) — salterio, arpa",
+              "corpus": "generado por forja v1.4"
+            },
+            "transformacion": [
+              "forjado"
+            ],
+            "derivaciones": [],
+            "kalfirvach": "lesirnetko",
+            "pos": "noun"
+          },
+          {
+            "concepto": "flauta",
+            "ipa": "/u.ˈnis.li/",
+            "origen": {
+              "lengua": "Ancient Greek / Arabic / Persian / Sanskrit",
+              "raiz_original": "Sanskrit: वेणु (veṇu) — flauta de bambú / Persian: نی (ney) — flauta de caña / Arabic: نَاي (nāy) — flauta / Ancient Greek: αὐλός (aulós) — flauta doble",
+              "corpus": "generado por forja v1.4"
+            },
+            "transformacion": [
+              "forjado"
+            ],
+            "derivaciones": [],
+            "kalfirvach": "unisli",
+            "pos": "noun"
+          },
+          {
+            "concepto": "tambor",
+            "ipa": "/man.li.ˈbe.ta/",
+            "origen": {
+              "lengua": "Ancient Greek / Arabic / Persian / Sanskrit",
+              "raiz_original": "Sanskrit: मृदङ्गम् (mṛdaṅgam) — tambor de dos caras / Persian: طبل (tabl) — tambor / Arabic: طَبْل (ṭabl) — tambor / Ancient Greek: τύμπανον (týmpanon) — tambor, tímpano",
+              "corpus": "generado por forja v1.4"
+            },
+            "transformacion": [
+              "forjado"
+            ],
+            "derivaciones": [],
+            "kalfirvach": "manlibeta",
+            "pos": "noun"
+          },
+          {
+            "concepto": "laúd",
+            "ipa": "/ˈtuː.huː.do.pek/",
+            "origen": {
+              "lengua": "Ancient Greek / Arabic / Persian / Sanskrit",
+              "raiz_original": "Sanskrit: कच्छपी (kacchapī) — laúd de caparazón / Persian: عود (ʿūd) — laúd, oud / Arabic: عُود (ʿūd) — oud, laúd árabe / Ancient Greek: πανδοῦρα (pandoura) — laúd de tres cuerdas",
+              "corpus": "generado por forja v1.4"
+            },
+            "transformacion": [
+              "forjado"
+            ],
+            "derivaciones": [],
+            "kalfirvach": "tūhūdopek",
+            "pos": "noun"
+          },
+          {
+            "concepto": "cítara",
+            "ipa": "/ris.te.ˈpiːk.niː/",
+            "origen": {
+              "lengua": "Ancient Greek / Arabic / Persian / Sanskrit",
+              "raiz_original": "Sanskrit: सप्ततन्त्री (saptatantrī) — de siete cuerdas / Persian: سنتور (santūr) — santur, cítara persa / Arabic: سَنْطِير (sanṭīr) — salterio, cítara / Ancient Greek: κιθάρα (kithára) — cítara, lira grande",
+              "corpus": "generado por forja v1.4"
+            },
+            "transformacion": [
+              "forjado"
+            ],
+            "derivaciones": [],
+            "kalfirvach": "ristepīknī",
+            "pos": "noun"
+          },
+          {
+            "concepto": "trompeta",
+            "ipa": "/ˈnuː.tuːs.buːp.kuː/",
+            "origen": {
+              "lengua": "Ancient Greek / Arabic / Persian / Sanskrit",
+              "raiz_original": "Sanskrit: तूर्य (tūrya) — instrumento de viento, trompeta / Persian: شیپور (šeypūr) — trompeta / Arabic: بُوق (būq) — trompeta, cuerno / Ancient Greek: σάλπιγξ (sálpinx) — trompeta de guerra",
+              "corpus": "generado por forja v1.4"
+            },
+            "transformacion": [
+              "forjado"
+            ],
+            "derivaciones": [],
+            "kalfirvach": "nūtūsbūpkū",
+            "pos": "noun"
+          },
+          {
+            "concepto": "campana",
+            "ipa": "/zor.ˈsik.no/",
+            "origen": {
+              "lengua": "Ancient Greek / Arabic / Persian / Sanskrit",
+              "raiz_original": "Sanskrit: घण्टा (ghaṇṭā) — campana / Persian: زنگ (zang) — campana, timbre / Arabic: جَرَس (jaras) — campana / Ancient Greek: κώδων (kōdōn) — campana",
+              "corpus": "generado por forja v1.4"
+            },
+            "transformacion": [
+              "forjado"
+            ],
+            "derivaciones": [],
+            "kalfirvach": "zorsikno",
+            "pos": "noun"
+          },
+          {
+            "concepto": "danza",
+            "ipa": "/ko.ɣe.ˈre.set/",
+            "origen": {
+              "lengua": "Ancient Greek / Arabic / Persian / Sanskrit",
+              "raiz_original": "Sanskrit: नृत्य (nṛtya) — danza / Persian: رقص (raqs) — danza / Arabic: رَقْص (raqṣ) — danza / Ancient Greek: ὄρχησις (órkhēsis) — danza",
+              "corpus": "generado por forja v1.4"
+            },
+            "transformacion": [
+              "forjado"
+            ],
+            "derivaciones": [],
+            "kalfirvach": "koghereset",
+            "pos": "noun"
           }
         ]
       },
@@ -18416,6 +19827,36 @@
             ],
             "derivaciones": [],
             "ipa": "/ˈvi.rax/"
+          },
+          {
+            "concepto": "muerte",
+            "ipa": "/si.ˈnom.rut/",
+            "origen": {
+              "lengua": "Ancient Greek / Arabic / Coptic / Persian / Sanskrit",
+              "raiz_original": "Sanskrit: मृत्यु (mṛtyu) / Persian: مرگ (marg) / Arabic: موت (mawt) / Ancient Greek: θάνατος (thanatos) / Coptic: ⲙⲟⲩⲧ (mout)",
+              "corpus": "generado por forja v1.4"
+            },
+            "transformacion": [
+              "forjado"
+            ],
+            "derivaciones": [],
+            "kalfirvach": "sinomrut",
+            "pos": "noun"
+          },
+          {
+            "concepto": "sentir",
+            "ipa": "/ves.te.ˈken.ri/",
+            "origen": {
+              "lengua": "Ancient Greek / Arabic / Persian / Sanskrit",
+              "raiz_original": "Sanskrit: वेदयति (vedayati) / Persian: احساس کردن (ehsās kardan) / Arabic: شَعَرَ (šaʿara) / Ancient Greek: αἰσθάνεσθαι (aisthanesthai)",
+              "corpus": "generado por forja v1.4"
+            },
+            "transformacion": [
+              "forjado"
+            ],
+            "derivaciones": [],
+            "kalfirvach": "vestekenri",
+            "pos": "verb"
           }
         ]
       },
@@ -19779,6 +21220,231 @@
             ],
             "derivaciones": [],
             "ipa": "/mak.heːr.ʃilp/"
+          },
+          {
+            "concepto": "camisa",
+            "ipa": "/nuk.ˈsoː.hiːt/",
+            "origen": {
+              "lengua": "Ancient Greek / Arabic / Persian / Sanskrit",
+              "raiz_original": "Sanskrit: कञ्चुक (kañcuka) / Persian: پیراهن (pīrāhan) / Arabic: قَمِيص (qamīṣ) / Ancient Greek: χιτών (khitōn)",
+              "corpus": "generado por forja v1.4"
+            },
+            "transformacion": [
+              "forjado"
+            ],
+            "derivaciones": [],
+            "kalfirvach": "nuksōhīt",
+            "pos": "noun"
+          },
+          {
+            "concepto": "calcetín",
+            "ipa": "/pe.we.ˈbe.de/",
+            "origen": {
+              "lengua": "Arabic / Persian / Sanskrit",
+              "raiz_original": "Sanskrit: पादब्ध (pādabddha) / पादरक्षा (pādarakṣā) / Persian: جوراب (jūrāb) / Arabic: جَوْرَب (jawrab)",
+              "corpus": "generado por forja v1.4"
+            },
+            "transformacion": [
+              "forjado"
+            ],
+            "derivaciones": [],
+            "kalfirvach": "pewebede",
+            "pos": "noun"
+          },
+          {
+            "concepto": "traje",
+            "ipa": "/les.ti.ˈme.vo/",
+            "origen": {
+              "lengua": "Ancient Greek / Arabic / Persian / Sanskrit",
+              "raiz_original": "Sanskrit: वसनम् (vasanam) / परिधानम् (paridhānam) / Persian: لباس (lebās) / Arabic: لِبَاس (libās) / Ancient Greek: ἐσθής (esthēs) / στολή (stolē)",
+              "corpus": "generado por forja v1.4"
+            },
+            "transformacion": [
+              "forjado"
+            ],
+            "derivaciones": [],
+            "kalfirvach": "lestimevo",
+            "pos": "noun"
+          },
+          {
+            "concepto": "falda",
+            "ipa": "/e.du.vin.ˈtiː/",
+            "origen": {
+              "lengua": "Arabic / Persian / Sanskrit",
+              "raiz_original": "Sanskrit: निवी (nivī) / कञ्चुकी / Persian: دامن (dāman) / Arabic: تُنُّورَة (tunnūra)",
+              "corpus": "generado por forja v1.4"
+            },
+            "transformacion": [
+              "forjado"
+            ],
+            "derivaciones": [],
+            "kalfirvach": "eduvintī",
+            "pos": "noun"
+          },
+          {
+            "concepto": "pantaleta",
+            "ipa": "/ki.ʃo.ˈli.vot/",
+            "origen": {
+              "lengua": "Arabic / Persian / Sanskrit",
+              "raiz_original": "Sanskrit: कण्चिका (kaṇcikā) / कटीसूत्रम् / Persian: شلوار (šalvār) / Arabic: سِرْوَال (sirwāl)",
+              "corpus": "generado por forja v1.4"
+            },
+            "transformacion": [
+              "forjado"
+            ],
+            "derivaciones": [],
+            "kalfirvach": "kisholivot",
+            "pos": "noun"
+          },
+          {
+            "concepto": "armario",
+            "ipa": "/ke.lem.ˈtoː/",
+            "origen": {
+              "lengua": "Sánscrito / Persa / Griego",
+              "raiz_original": "Skt: कोष्ठ (koṣṭha) — compartimento, cámara / Pers: الماری (almārī) — armario, ropero / GK: θήκη (thēkē) — caja, receptáculo",
+              "corpus": "generado por forja v1.4"
+            },
+            "transformacion": [
+              "forjado"
+            ],
+            "derivaciones": [],
+            "kalfirvach": "kelemtō",
+            "pos": "noun"
+          },
+          {
+            "concepto": "estante",
+            "ipa": "/din.ˈseː.keː/",
+            "origen": {
+              "lengua": "Sánscrito / Persa / Griego",
+              "raiz_original": "Skt: वेदिका (vedikā) — plataforma, repisa / Pers: رف (raf) — estante, anaquel / GK: σανίς (sanís) — tabla, estante",
+              "corpus": "generado por forja v1.4"
+            },
+            "transformacion": [
+              "forjado"
+            ],
+            "derivaciones": [],
+            "kalfirvach": "dinsēkē",
+            "pos": "noun"
+          },
+          {
+            "concepto": "alfombra",
+            "ipa": "/tol.bak.ˈseː/",
+            "origen": {
+              "lengua": "Sánscrito / Persa / Griego",
+              "raiz_original": "Skt: कम्बल (kambala) — manta, alfombra / Pers: قالی (qālī) — alfombra, tapiz / GK: τάπης (tápēs) — alfombra, tapicería",
+              "corpus": "generado por forja v1.4"
+            },
+            "transformacion": [
+              "forjado"
+            ],
+            "derivaciones": [],
+            "kalfirvach": "tolbaksē",
+            "pos": "noun"
+          },
+          {
+            "concepto": "cortina",
+            "ipa": "/ne.ˈlop.bik/",
+            "origen": {
+              "lengua": "Sánscrito / Persa / Griego",
+              "raiz_original": "Skt: जवनिका (javanikā) — cortina, telón / Pers: پرده (parde) — cortina, velo / GK (Koiné): βῆλον (bêlon) — cortina, velo",
+              "corpus": "generado por forja v1.4"
+            },
+            "transformacion": [
+              "forjado"
+            ],
+            "derivaciones": [],
+            "kalfirvach": "nelopbik",
+            "pos": "noun"
+          },
+          {
+            "concepto": "cojín",
+            "ipa": "/ˈdeː.tip.bin/",
+            "origen": {
+              "lengua": "Sánscrito / Persa / Griego",
+              "raiz_original": "Skt: उपधान (upadhāna) — almohada, cojín / Pers: بالش (bāleš) — almohada, cojín / GK: τύλη (týlē) — cojín, almohadón",
+              "corpus": "generado por forja v1.4"
+            },
+            "transformacion": [
+              "forjado"
+            ],
+            "derivaciones": [],
+            "kalfirvach": "dētipbin",
+            "pos": "noun"
+          },
+          {
+            "concepto": "escritorio",
+            "ipa": "/za.ˈreːp.dem/",
+            "origen": {
+              "lengua": "Sánscrito / Persa / Griego",
+              "raiz_original": "Skt: लेखपट्ट (lekhapaṭṭa) — tabla de escribir / Pers: میز (mīz) — mesa, escritorio / GK (Koiné): τράπεζα (trápeza) — mesa",
+              "corpus": "generado por forja v1.4"
+            },
+            "transformacion": [
+              "forjado"
+            ],
+            "derivaciones": [],
+            "kalfirvach": "zarēpdem",
+            "pos": "noun"
+          },
+          {
+            "concepto": "sillón",
+            "ipa": "/se.ˈdon.met/",
+            "origen": {
+              "lengua": "Sánscrito / Persa / Griego",
+              "raiz_original": "Skt: आसन्दी (āsandī) — sillón, asiento / Pers: مسند (masnad) — sillón, trono / GK: θρόνος (thrónos) — trono, sillón",
+              "corpus": "generado por forja v1.4"
+            },
+            "transformacion": [
+              "forjado"
+            ],
+            "derivaciones": [],
+            "kalfirvach": "sedonmet",
+            "pos": "noun"
+          },
+          {
+            "concepto": "cómoda",
+            "ipa": "/so.ˈvi.tok/",
+            "origen": {
+              "lengua": "Sánscrito / Persa / Griego",
+              "raiz_original": "Skt: कोष्ठक (koṣṭhaka) — cajón, compartimiento / Pers: کمد (komod) — cómoda, armario / GK (Koiné): κιβωτός (kibōtós) — arca, cofre",
+              "corpus": "generado por forja v1.4"
+            },
+            "transformacion": [
+              "forjado"
+            ],
+            "derivaciones": [],
+            "kalfirvach": "sovitok",
+            "pos": "noun"
+          },
+          {
+            "concepto": "banco",
+            "ipa": "/re.ban.ˈtiː/",
+            "origen": {
+              "lengua": "Sánscrito / Persa / Griego",
+              "raiz_original": "Skt: पीठ (pīṭha) — banco, asiento / Pers: تخت (taxt) — banco, plataforma / GK: βάθρον (báthron) — banco, pedestal",
+              "corpus": "generado por forja v1.4"
+            },
+            "transformacion": [
+              "forjado"
+            ],
+            "derivaciones": [],
+            "kalfirvach": "rebantī",
+            "pos": "noun"
+          },
+          {
+            "concepto": "sofá",
+            "ipa": "/ˈkeː.len.ti/",
+            "origen": {
+              "lengua": "Sánscrito / Persa / Griego",
+              "raiz_original": "Skt: शय्या (śayyā) — lecho, diván / Pers: تخت (taxt) — sofá, diván / GK: κλίνη (klínē) — lecho, diván",
+              "corpus": "generado por forja v1.4"
+            },
+            "transformacion": [
+              "forjado"
+            ],
+            "derivaciones": [],
+            "kalfirvach": "kēlenti",
+            "pos": "noun"
           }
         ]
       },
