@@ -1,8 +1,8 @@
 # Léxico Kalfírvach v1.5
 
 **Versión**: 1.5
-**Entradas**: 1625
-**Generado**: 2026-06-21
+**Entradas**: 1670
+**Generado**: 2026-06-22
 **Lenguas fuente**: Griego, Sanscrito, Avestan, Persa, Tibetano, Arabe, Egipcio
 **Sistema de escritura**: Alfabeto griego politonico con arcaicas
 
@@ -28495,6 +28495,771 @@ _Terminos esotericos, magicos y mitologicos originales_
 #### Transformación
 
 - forjado desde nehfe /neh.fe/ + ghirbāl /ɣir.baːl/ + cālanī /t͡ʃɑː.lɐ.niː/
+
+---
+
+### murīk
+
+- **Concepto**: lamen, placa con sigilos
+- **IPA**: /mu.ˈriːk/
+
+#### Origen
+
+- **Lengua**: Copto/Egipcio / Árabe Esotérico / Sánscrito
+- **Raíz original**: ⲧⲱⲙ (tōm) "sello" (Cop) / رَقِيم (raqīm) "tableta inscrita" (Ar) / मुद्रा (mudrā) "sello, sigilo" (Skt)
+- **Corpus**: forjado por motor de síntesis v1.4.1 (short mode)
+
+#### Transformación
+
+- forjado desde tōm /toːm/ + raqīm /ra.qiːm/ + mudrā /mu.drɑː/
+
+---
+
+### dōrba
+
+- **Concepto**: cuerda ritual
+- **IPA**: /ˈdoːr.ba/
+
+#### Origen
+
+- **Lengua**: Copto/Egipcio / Árabe Esotérico / Sánscrito
+- **Raíz original**: ⲙⲟⲩⲣ (mour) "atar, ligar" (Cop) / حَبْل (ḥabl) "cuerda" (Ar) / रज्जु (rajju) "soga" (Skt)
+- **Corpus**: forjado por motor de síntesis v1.4.1 (short mode)
+
+#### Transformación
+
+- forjado desde mour /moːr/ + ḥabl /ħabl/ + rajju /rɐd.dʒu/
+
+---
+
+### amhak
+
+- **Concepto**: flagelo ritual, látigo de purificación
+- **IPA**: /ˈam.hak/
+
+#### Origen
+
+- **Lengua**: Copto/Egipcio / Árabe Esotérico / Sánscrito
+- **Raíz original**: ⲙⲁϩ (mah) "látigo, flagelo" (Cop) / سَوْط (sawṭ) "látigo" (Ar) / कशा (kaśā) "flagelo" (Skt)
+- **Corpus**: forjado por motor de síntesis v1.4.1 (short mode)
+
+#### Transformación
+
+- forjado desde mah /mah/ + sawṭ /sawtˤ/ + kaśā /kɐ.ɕɑː/
+
+---
+
+### fakar
+
+- **Concepto**: espejo de visión, scrying mirror
+- **IPA**: /ˈfa.kar/
+
+#### Origen
+
+- **Lengua**: Copto/Egipcio / Árabe Esotérico / Sánscrito
+- **Raíz original**: ⲉⲓⲁⲗ (eial) "espejo" (Cop) / تَكَشُّف (takaššuf) "revelación, scrying" (Ar) / दर्पण (darpaṇa) "espejo" (Skt)
+- **Corpus**: forjado por motor de síntesis v1.4.1 (short mode)
+
+#### Transformación
+
+- forjado desde eial /e.jal/ + takaššuf /ta.kaʃ.ʃuf/ + darpaṇa /d̪ɐr.pɐ.ɳɐ/
+
+---
+
+### likōt
+
+- **Concepto**: anillo de conjuro
+- **IPA**: /li.ˈkoːt/
+
+#### Origen
+
+- **Lengua**: Copto/Egipcio / Árabe Esotérico / Sánscrito
+- **Raíz original**: ⲕⲱϯ (kōti) "rodear" (Cop) / خَاتَم (khātam) "anillo" (Ar) / वलय (valaya) "anillo, brazalete" (Skt)
+- **Corpus**: forjado por motor de síntesis v1.4.1 (short mode)
+
+#### Transformación
+
+- forjado desde kōti /koː.ti/ + khātam /xaː.tam/ + valaya /ʋɐ.lɐ.jɐ/
+
+---
+
+### felak
+
+- **Concepto**: rueda talismánica
+- **IPA**: /ˈfe.lak/
+
+#### Origen
+
+- **Lengua**: Copto/Egipcio / Árabe Esotérico / Sánscrito
+- **Raíz original**: ⲕⲁⲕⲗⲉ (kakle) "rueda" (Cop) / فَلَك (falak) "rueda, orbe" (Ar) / चक्र (cakra) "rueda, disco" (Skt)
+- **Corpus**: forjado por motor de síntesis v1.4.1 (short mode)
+
+#### Transformación
+
+- forjado desde kakle /ka.kle/ + falak /fa.lak/ + cakra /t͡ʃɐ.krɐ/
+
+---
+
+### sahta
+
+- **Concepto**: férula, bastón ritual con núcleo conductor
+- **IPA**: /ˈsah.ta/
+
+#### Origen
+
+- **Lengua**: Copto/Egipcio / Árabe Esotérico / Sánscrito
+- **Raíz original**: ⲙⲁⲧⲟⲩ (matou) "vara, bastón" (Cop) / عَصًا (ʿaṣan) "bastón" (Ar) / दण्ड (daṇḍa) "vara, bastón" (Skt)
+- **Corpus**: forjado por motor de síntesis v1.4.1 (short mode)
+
+#### Transformación
+
+- forjado desde matou /ma.tuː/ + ʿaṣan /ʕa.sˤan/ + daṇḍa /d̪ɐɳ.ɖɐ/
+
+---
+
+### hīnā
+
+- **Concepto**: ankh, cruz de la vida, llave dimensional
+- **IPA**: /ˈhiː.naː/
+
+#### Origen
+
+- **Lengua**: Copto/Egipcio / Árabe Esotérico / Sánscrito
+- **Raíz original**: ⲱⲛϧ (ōnh) "vida" (Cop) / حَيَاة (ḥayāh) "vida" (Ar) / जीव (jīva) "vida, viviente" (Skt)
+- **Corpus**: forjado por motor de síntesis v1.4.1 (short mode)
+
+#### Transformación
+
+- forjado desde ōnh /oːnx/ + ḥayāh /ħa.jaːh/ + jīva /dʒiː.ʋɐ/
+
+---
+
+### tareh
+
+- **Concepto**: ojo (ícono mágico)
+- **IPA**: /ˈta.reh/
+
+#### Origen
+
+- **Lengua**: Copto/Egipcio / Árabe Esotérico / Sánscrito
+- **Raíz original**: ⲉⲓⲁⲧ (eiat) "ojo" (Cop) / عَيْن (ʿayn) "ojo (esotérico)" (Ar) / नेत्र (netra) "ojo, vista" (Skt)
+- **Corpus**: forjado por motor de síntesis v1.4.1 (short mode)
+
+#### Transformación
+
+- forjado desde eiat /e.jat/ + ʿayn /ʕajn/ + netra /neː.t̪rɐ/
+
+---
+
+### īwīka
+
+- **Concepto**: doble etérico, cuerpo energético
+- **IPA**: /ˈiː.wiː.ka/
+
+#### Origen
+
+- **Lengua**: Copto/Egipcio / Árabe Esotérico / Sánscrito
+- **Raíz original**: ⲧⲏⲩ (tēu) "espíritu" (Cop) / أَثِير (athīr) "éter" (Ar) / आकाश (ākāśa) "éter, espacio" (Skt)
+- **Corpus**: forjado por motor de síntesis v1.4.1 (short mode)
+
+#### Transformación
+
+- forjado desde tēu /teːw/ + athīr /ʔa.θiːr/ + ākāśa /ɑː.kɑː.ɕɐ/
+
+---
+
+### witan
+
+- **Concepto**: cuerpo astral, vehículo emocional
+- **IPA**: /ˈwi.tan/
+
+#### Origen
+
+- **Lengua**: Copto/Egipcio / Árabe Esotérico / Sánscrito
+- **Raíz original**: ⲥⲓⲟⲩ (siou) "estrella" (Cop) / نَجْمِيّ (najmiyy) "astral" (Ar) / तारक (tāraka) "estrella" (Skt)
+- **Corpus**: forjado por motor de síntesis v1.4.1 (short mode)
+
+#### Transformación
+
+- forjado desde siou /siw/ + najmiyy /nadʒ.mi/ + tāraka /t̪ɑː.rɐ.kɐ/
+
+---
+
+### wēsni
+
+- **Concepto**: cuerpo mental, vehículo del pensamiento
+- **IPA**: /ˈweːs.ni/
+
+#### Origen
+
+- **Lengua**: Copto/Egipcio / Árabe Esotérico / Sánscrito
+- **Raíz original**: ⲙⲉⲉⲩⲉ (meeuē) "mente" (Cop) / ذِهْن (dhihn) "mente" (Ar) / मनस् (manas) "mente" (Skt)
+- **Corpus**: forjado por motor de síntesis v1.4.1 (short mode)
+
+#### Transformación
+
+- forjado desde meeuē /meː.we/ + dhihn /ðihn/ + manas /mɐ.nɐs/
+
+---
+
+### porka
+
+- **Concepto**: cuerpo causal, vehículo del karma
+- **IPA**: /ˈpor.ka/
+
+#### Origen
+
+- **Lengua**: Copto/Egipcio / Árabe Esotérico / Sánscrito
+- **Raíz original**: ϣⲟⲣⲡ̅ (šorp) "causa primera" (Cop) / سَبَب (sabab) "causa" (Ar) / कारण (kāraṇa) "causa" (Skt)
+- **Corpus**: forjado por motor de síntesis v1.4.1 (short mode)
+
+#### Transformación
+
+- forjado desde šorp /ʃorp/ + sabab /sa.bab/ + kāraṇa /kɑː.rɐ.ɳɐ/
+
+---
+
+### kitō
+
+- **Concepto**: kosha, envoltura de conciencia
+- **IPA**: /ki.ˈtoː/
+
+#### Origen
+
+- **Lengua**: Copto/Egipcio / Árabe Esotérico / Sánscrito
+- **Raíz original**: ⲕⲱⲧⲉ (kōte) "rodear, envolver" (Cop) / غِشَاء (ghishā') "cubierta" (Ar) / कोश (kośa) "vaina, kosha" (Skt)
+- **Corpus**: forjado por motor de síntesis v1.4.1 (short mode)
+
+#### Transformación
+
+- forjado desde kōte /koː.te/ + ghishā' /ɣi.ʃaːʔ/ + kośa /koː.ɕɐ/
+
+---
+
+### hānta
+
+- **Concepto**: nadi, canal sutil
+- **IPA**: /ˈhaːn.ta/
+
+#### Origen
+
+- **Lengua**: Copto/Egipcio / Árabe Esotérico / Sánscrito
+- **Raíz original**: ⲙⲟⲩⲧ (mout) "vena, sinew" (Cop) / قَنَاة (qanāh) "canal" (Ar) / नाडी (nāḍī) "nadi, canal" (Skt)
+- **Corpus**: forjado por motor de síntesis v1.4.1 (short mode)
+
+#### Transformación
+
+- forjado desde mout /moːt/ + qanāh /qa.naːh/ + nāḍī /nɑː.ɖiː/
+
+---
+
+### marwā
+
+- **Concepto**: chakra, centro energético
+- **IPA**: /mar.ˈwaː/
+
+#### Origen
+
+- **Lengua**: Copto/Egipcio / Árabe Esotérico / Sánscrito
+- **Raíz original**: ⲥⲟⲣⲡ̅ (sorp) "girar" (Cop) / دُوَام (dawām) "vórtico" (Ar) / चक्र (cakra) "rueda, chakra" (Skt)
+- **Corpus**: forjado por motor de síntesis v1.4.1 (short mode)
+
+#### Transformación
+
+- forjado desde sorp /sorp/ + dawām /da.waːm/ + cakra /t͡ʃɐ.krɐ/
+
+---
+
+### repfī
+
+- **Concepto**: respiración sutil, prāṇa
+- **IPA**: /rep.ˈfiː/
+
+#### Origen
+
+- **Lengua**: Copto/Egipcio / Árabe Esotérico / Sánscrito
+- **Raíz original**: ⲛⲓϥⲉ (nife) "aliento" (Cop) / نَسِيم (nasīm) "brisa sutil" (Ar) / प्राण (prāṇa) "aliento vital" (Skt)
+- **Corpus**: forjado por motor de síntesis v1.4.1 (short mode)
+
+#### Transformación
+
+- forjado desde nife /ni.fe/ + nasīm /na.siːm/ + prāṇa /prɑː.ɳɐ/
+
+---
+
+### salbē
+
+- **Concepto**: pulso, latido energético
+- **IPA**: /sal.ˈbeː/
+
+#### Origen
+
+- **Lengua**: Copto/Egipcio / Árabe Esotérico / Sánscrito
+- **Raíz original**: ⲥⲏ (sē) "golpe, pulso" (Cop) / نَبْض (nabḍ) "pulso" (Ar) / ताल (tāla) "ritmo, pulso" (Skt)
+- **Corpus**: forjado por motor de síntesis v1.4.1 (short mode)
+
+#### Transformación
+
+- forjado desde sē /seː/ + nabḍ /nabdˤ/ + tāla /t̪ɑː.lɐ/
+
+---
+
+### līsdī
+
+- **Concepto**: diksha, transmisión directa de maestro a estudiante
+- **IPA**: /ˈliːs.diː/
+
+#### Origen
+
+- **Lengua**: Copto/Egipcio / Árabe Esotérico / Sánscrito
+- **Raíz original**: ⲥⲃⲱ (sbō) "enseñanza" (Cop) / تَلْقِين (talqīn) "impartación" (Ar) / दीक्षा (dīkṣā) "diksha" (Skt)
+- **Corpus**: forjado por motor de síntesis v1.4.1 (short mode)
+
+#### Transformación
+
+- forjado desde sbō /sboː/ + talqīn /tal.qiːn/ + dīkṣā /d̪iːk.ʂɑː/
+
+---
+
+### pokot
+
+- **Concepto**: juramento ritual
+- **IPA**: /ˈpo.kot/
+
+#### Origen
+
+- **Lengua**: Copto/Egipcio / Árabe Esotérico / Sánscrito
+- **Raíz original**: ⲱⲣⲕ (ork) "juramento" (Cop) / قَسَم (qasam) "juramento" (Ar) / शपथ (śapatha) "juramento, voto" (Skt)
+- **Corpus**: forjado por motor de síntesis v1.4.1 (short mode)
+
+#### Transformación
+
+- forjado desde ork /ork/ + qasam /qa.sam/ + śapatha /ɕɐ.pɐ.t̪ʰɐ/
+
+---
+
+### ātsīk
+
+- **Concepto**: pacto (entre fuerzas)
+- **IPA**: /ˈaːt.siːk/
+
+#### Origen
+
+- **Lengua**: Copto/Egipcio / Árabe Esotérico / Sánscrito
+- **Raíz original**: ⲥⲱⲟⲩ (sōou) "reunir" (Cop) / مِيثَاق (mīthāq) "pacto" (Ar) / व्रत (vrata) "pacto religioso" (Skt)
+- **Corpus**: forjado por motor de síntesis v1.4.1 (short mode)
+
+#### Transformación
+
+- forjado desde sōou /soːw/ + mīthāq /miː.θaːq/ + vrata /ʋrɐ.t̪ɐ/
+
+---
+
+### tisri
+
+- **Concepto**: forja ritual, crafting de artefactos mágicos
+- **IPA**: /ˈtis.ri/
+
+#### Origen
+
+- **Lengua**: Copto/Egipcio / Árabe Esotérico / Sánscrito
+- **Raíz original**: ⲧⲁⲙⲓⲟ (tamio) "crear, manufacturar" (Cop) / صَنْعَة (ṣanʿah) "artesanía" (Ar) / निर्माण (nirmāṇa) "creación" (Skt)
+- **Corpus**: forjado por motor de síntesis v1.4.1 (short mode)
+
+#### Transformación
+
+- forjado desde tamio /ta.mi.o/ + ṣanʿah /sˤan.ʕah/ + nirmāṇa /nir.mɑː.ɳɐ/
+
+---
+
+### lamki
+
+- **Concepto**: trazado mágico (en aire/arena)
+- **IPA**: /ˈlam.ki/
+
+#### Origen
+
+- **Lengua**: Copto/Egipcio / Árabe Esotérico / Sánscrito
+- **Raíz original**: ⲥϩⲁⲓ (shai) "escribir, dibujar" (Cop) / رَسْم (rasm) "dibujo, trazo" (Ar) / लेख (lekha) "trazo, línea" (Skt)
+- **Corpus**: forjado por motor de síntesis v1.4.1 (short mode)
+
+#### Transformación
+
+- forjado desde shai /ʃaj/ + rasm /rasm/ + lekha /leː.kʰɐ/
+
+---
+
+### wōnas
+
+- **Concepto**: proyección de aliento, exhalar intención
+- **IPA**: /ˈwoː.nas/
+
+#### Origen
+
+- **Lengua**: Copto/Egipcio / Árabe Esotérico / Sánscrito
+- **Raíz original**: ⲥⲧⲱⲟⲩ (stōou) "soplar" (Cop) / نَفْث (nafth) "soplido mágico" (Ar) / उच्छ्वास (ucchvāsa) "exhalación" (Skt)
+- **Corpus**: forjado por motor de síntesis v1.4.1 (short mode)
+
+#### Transformación
+
+- forjado desde stōou /stoːw/ + nafth /nafθ/ + ucchvāsa /ut.t͡ʃʰʋɑː.sɐ/
+
+---
+
+### konūm
+
+- **Concepto**: quietud, inmovilidad contemplativa
+- **IPA**: /ko.ˈnuːm/
+
+#### Origen
+
+- **Lengua**: Copto/Egipcio / Árabe Esotérico / Sánscrito
+- **Raíz original**: ⲙⲧⲟⲛ (mton) "reposo" (Cop) / سُكُون (sukūn) "quietud" (Ar) / शान्त (śānta) "calma, quietud" (Skt)
+- **Corpus**: forjado por motor de síntesis v1.4.1 (short mode)
+
+#### Transformación
+
+- forjado desde mton /mton/ + sukūn /su.kuːn/ + śānta /ɕɑːn̪.t̪ɐ/
+
+---
+
+### mahit
+
+- **Concepto**: trance, estado alterado de conciencia
+- **IPA**: /ˈma.hit/
+
+#### Origen
+
+- **Lengua**: Copto/Egipcio / Árabe Esotérico / Sánscrito
+- **Raíz original**: ⲛⲕⲟⲧⲕ (nkotk) "dormir" (Cop) / غَيْبُوبَة (ghaybūbah) "trance" (Ar) / समाधि (samādhi) "trance, absorción" (Skt)
+- **Corpus**: forjado por motor de síntesis v1.4.1 (short mode)
+
+#### Transformación
+
+- forjado desde nkotk /nkotk/ + ghaybūbah /ɣaj.buː.bah/ + samādhi /sɐ.mɑː.d̪ʱi/
+
+---
+
+### harsu
+
+- **Concepto**: sueño lúcido, ensueño consciente
+- **IPA**: /ˈhar.su/
+
+#### Origen
+
+- **Lengua**: Copto/Egipcio / Árabe Esotérico / Sánscrito
+- **Raíz original**: ⲣⲁⲥⲟⲩ (rasou) "sueño" (Cop) / حُلْم (ḥulm) "sueño" (Ar) / स्वप्न (svapna) "sueño" (Skt)
+- **Corpus**: forjado por motor de síntesis v1.4.1 (short mode)
+
+#### Transformación
+
+- forjado desde rasou /ra.suː/ + ḥulm /ħulm/ + svapna /sʋɐp.nɐ/
+
+---
+
+### niwir
+
+- **Concepto**: theoria, visión directa de realidades sutiles
+- **IPA**: /ˈni.wir/
+
+#### Origen
+
+- **Lengua**: Copto/Egipcio / Árabe Esotérico / Sánscrito
+- **Raíz original**: ⲛⲁⲩ (nau) "ver" (Cop) / رُؤْيَا (ru'ya) "visión" (Ar) / दर्शन (darśana) "visión, darśan" (Skt)
+- **Corpus**: forjado por motor de síntesis v1.4.1 (short mode)
+
+#### Transformación
+
+- forjado desde nau /naw/ + ru'ya /ruʔ.jaː/ + darśana /d̪ɐr.ɕɐ.nɐ/
+
+---
+
+### dinwa
+
+- **Concepto**: claridad perceptual, nitidez de percepción
+- **IPA**: /ˈdin.wa/
+
+#### Origen
+
+- **Lengua**: Copto/Egipcio / Árabe Esotérico / Sánscrito
+- **Raíz original**: ⲟⲩⲟⲉⲓⲛ (ouoein) "luz" (Cop) / صَفَاء (ṣafā') "claridad" (Ar) / विशद (viśada) "claro, puro" (Skt)
+- **Corpus**: forjado por motor de síntesis v1.4.1 (short mode)
+
+#### Transformación
+
+- forjado desde ouoein /woː.in/ + ṣafā' /sˤa.faːʔ/ + viśada /ʋi.ɕɐ.d̪ɐ/
+
+---
+
+### makah
+
+- **Concepto**: silencio sagrado
+- **IPA**: /ˈma.kah/
+
+#### Origen
+
+- **Lengua**: Copto/Egipcio / Árabe Esotérico / Sánscrito
+- **Raíz original**: ⲕⲁⲣⲱⲟⲩ (karōou) "callar" (Cop) / سَكِينَة (sakīnah) "quietud sagrada" (Ar) / मौन (mauna) "silencio sagrado" (Skt)
+- **Corpus**: forjado por motor de síntesis v1.4.1 (short mode)
+
+#### Transformación
+
+- forjado desde karōou /ka.roːw/ + sakīnah /sa.kiː.nah/ + mauna /maw.nɐ/
+
+---
+
+### puhso
+
+- **Concepto**: presencia, estar aquí y ahora
+- **IPA**: /ˈpuh.so/
+
+#### Origen
+
+- **Lengua**: Copto/Egipcio / Árabe Esotérico / Sánscrito
+- **Raíz original**: ϣⲟⲡ (šop) "estar presente" (Cop) / حُضُور (ḥuḍūr) "presencia" (Ar) / स्थिति (sthiti) "estar, presencia" (Skt)
+- **Corpus**: forjado por motor de síntesis v1.4.1 (short mode)
+
+#### Transformación
+
+- forjado desde šop /ʃop/ + ḥuḍūr /ħu.dˤuːr/ + sthiti /st̪ʰi.t̪i/
+
+---
+
+### wahis
+
+- **Concepto**: conciencia testigo, awareness
+- **IPA**: /ˈwa.his/
+
+#### Origen
+
+- **Lengua**: Copto/Egipcio / Árabe Esotérico / Sánscrito
+- **Raíz original**: ⲥⲟⲩⲛ (soun) "saber, percibir" (Cop) / وَعْي (wa'y) "conciencia" (Ar) / साक्षिन् (sākṣin) "testigo" (Skt)
+- **Corpus**: forjado por motor de síntesis v1.4.1 (short mode)
+
+#### Transformación
+
+- forjado desde soun /soːn/ + wa'y /waʕj/ + sākṣin /sɑːk.ʂin/
+
+---
+
+### bōtkā
+
+- **Concepto**: atención, dirección de la conciencia
+- **IPA**: /ˈboːt.kaː/
+
+#### Origen
+
+- **Lengua**: Copto/Egipcio / Árabe Esotérico / Sánscrito
+- **Raíz original**: ⲥⲱⲧⲙ (sōtm) "atender" (Cop) / اِنْتِبَاه (intibāh) "atención" (Ar) / एकाग्र (ekāgra) "atención unipuntual" (Skt)
+- **Corpus**: forjado por motor de síntesis v1.4.1 (short mode)
+
+#### Transformación
+
+- forjado desde sōtm /soːtm/ + intibāh /in.ti.baːh/ + ekāgra /eː.kɑː.ɡrɐ/
+
+---
+
+### eraha
+
+- **Concepto**: esfinge, ser liminal guardián de umbrales
+- **IPA**: /e.ˈra.ha/
+
+#### Origen
+
+- **Lengua**: Copto/Egipcio / Árabe Esotérico / Sánscrito
+- **Raíz original**: ⲁⲣⲉϩ (areh) "guardar" (Cop) / حَارِس (ḥāris) "guardián" (Ar) / द्वारपाल (dvārapāla) "guardián de puerta" (Skt)
+- **Corpus**: forjado por motor de síntesis v1.4.1 (short mode)
+
+#### Transformación
+
+- forjado desde areh /a.reh/ + ḥāris /ħaː.ris/ + dvārapāla /d̪ʋɑː.rɐ.pɑː.lɐ/
+
+---
+
+### nihār
+
+- **Concepto**: fénix, ciclo de combustión y renovación
+- **IPA**: /ni.ˈhaːr/
+
+#### Origen
+
+- **Lengua**: Copto/Egipcio / Árabe Esotérico / Sánscrito
+- **Raíz original**: ⲃⲉⲛⲛⲟⲩ (bennou) "fénix" (Cop) / عَنْقَاء (ʿanqā') "fénix" (Ar) / चिरायु (cirāyu) "inmortal" (Skt)
+- **Corpus**: forjado por motor de síntesis v1.4.1 (short mode)
+
+#### Transformación
+
+- forjado desde bennou /ben.nuː/ + ʿanqā' /ʕan.qaːʔ/ + cirāyu /t͡ʃi.rɑː.ju/
+
+---
+
+### inti
+
+- **Concepto**: drake, dragón telúrico, memoria de la tierra
+- **IPA**: /ˈin.ti/
+
+#### Origen
+
+- **Lengua**: Copto/Egipcio / Árabe Esotérico / Sánscrito
+- **Raíz original**: ⲛⲟⲩⲛ (noun) "abismo" (Cop) / تِنِّين (tinnīn) "dragón" (Ar) / नाग (nāga) "nāga" (Skt)
+- **Corpus**: forjado por motor de síntesis v1.4.1 (short mode)
+
+#### Transformación
+
+- forjado desde noun /nuːn/ + tinnīn /tin.niːn/ + nāga /nɑː.ɡɐ/
+
+---
+
+### adiri
+
+- **Concepto**: basilisco, entidad de mirada paralizante
+- **IPA**: /a.ˈdi.ri/
+
+#### Origen
+
+- **Lengua**: Copto/Egipcio / Árabe Esotérico / Sánscrito
+- **Raíz original**: ⲉⲓⲁⲧ (eiat) "ojo" (Cop) / بَصَر (baṣar) "mirada" (Ar) / दृष्टि (dṛṣṭi) "mirada" (Skt)
+- **Corpus**: forjado por motor de síntesis v1.4.1 (short mode)
+
+#### Transformación
+
+- forjado desde eiat /e.jat/ + baṣar /ba.sˤar/ + dṛṣṭi /d̪r̩ʂ.ʈi/
+
+---
+
+### minsū
+
+- **Concepto**: grifo, guardián de tesoros
+- **IPA**: /min.ˈsuː/
+
+#### Origen
+
+- **Lengua**: Copto/Egipcio / Árabe Esotérico / Sánscrito
+- **Raíz original**: ⲙⲟⲩⲓ (moui) "león" (Cop) / نَسْر (nasr) "águila" (Ar) / गरुड (garuḍa) "garuḍa" (Skt)
+- **Corpus**: forjado por motor de síntesis v1.4.1 (short mode)
+
+#### Transformación
+
+- forjado desde moui /muːj/ + nasr /nasr/ + garuḍa /ɡɐ.ru.ɖɐ/
+
+---
+
+### hīnīk
+
+- **Concepto**: golém, forma animada por palabra y barro
+- **IPA**: /ˈhiː.niːk/
+
+#### Origen
+
+- **Lengua**: Copto/Egipcio / Árabe Esotérico / Sánscrito
+- **Raíz original**: ⲕⲁϩ (kah) "barro" (Cop) / طِين (ṭīn) "arcilla" (Ar) / पिण्ड (piṇḍa) "masa, bola de arcilla" (Skt)
+- **Corpus**: forjado por motor de síntesis v1.4.1 (short mode)
+
+#### Transformación
+
+- forjado desde kah /kah/ + ṭīn /tˤiːn/ + piṇḍa /pɪɳ.ɖɐ/
+
+---
+
+### rimak
+
+- **Concepto**: homúnculo, ser artificial en matriz
+- **IPA**: /ˈri.mak/
+
+#### Origen
+
+- **Lengua**: Copto/Egipcio / Árabe Esotérico / Sánscrito
+- **Raíz original**: ϣⲏⲣⲉ (šēre) "pequeño" (Cop) / جَنِين (janīn) "embrión" (Ar) / कृत्रिम (kṛtrima) "artificial" (Skt)
+- **Corpus**: forjado por motor de síntesis v1.4.1 (short mode)
+
+#### Transformación
+
+- forjado desde šēre /ʃeː.re/ + janīn /dʒa.niːn/ + kṛtrima /kr̩t̪.ri.mɐ/
+
+---
+
+### tarwa
+
+- **Concepto**: sátiro, fauno, conciencia silvestre extática
+- **IPA**: /ˈtar.wa/
+
+#### Origen
+
+- **Lengua**: Copto/Egipcio / Árabe Esotérico / Sánscrito
+- **Raíz original**: ⲧⲱⲟⲩ (tōou) "monte, lugar salvaje" (Cop) / طَرَب (ṭarab) "éxtasis musical" (Ar) / गन्धर्व (gandharva) "espíritu musical celeste" (Skt)
+- **Corpus**: forjado por motor de síntesis v1.4.1 (short mode)
+
+#### Transformación
+
+- forjado desde tōou /toːw/ + ṭarab /tˤa.rab/ + gandharva /ɡɐn.d̪ʱɐr.ʋɐ/
+
+---
+
+### fapit
+
+- **Concepto**: ancestro, espíritu del linaje
+- **IPA**: /ˈfa.pit/
+
+#### Origen
+
+- **Lengua**: Copto/Egipcio / Árabe Esotérico / Sánscrito
+- **Raíz original**: ⲉⲓⲟⲧⲉ (eiote) "padres, ancestros" (Cop) / سَلَف (salaf) "antepasado" (Ar) / पितृ (pitṛ) "padre, ancestro" (Skt)
+- **Corpus**: forjado por motor de síntesis v1.4.1 (short mode)
+
+#### Transformación
+
+- forjado desde eiote /ej.jo.te/ + salaf /sa.laf/ + pitṛ /pi.tr̩/
+
+---
+
+### kepli
+
+- **Concepto**: espíritu tutelar, guardián de lugar o linaje
+- **IPA**: /ˈkep.li/
+
+#### Origen
+
+- **Lengua**: Copto/Egipcio / Árabe Esotérico / Sánscrito
+- **Raíz original**: ⲁⲣⲉϩ (areh) "proteger" (Cop) / وَلِيّ (waliyy) "protector" (Ar) / पालक (pālaka) "guardián" (Skt)
+- **Corpus**: forjado por motor de síntesis v1.4.1 (short mode)
+
+#### Transformación
+
+- forjado desde areh /a.reh/ + waliyy /wa.lijj/ + pālaka /pɑː.lɐ.kɐ/
+
+---
+
+### ōmahō
+
+- **Concepto**: egregoro, entidad mental colectiva
+- **IPA**: /ˈoː.ma.hoː/
+
+#### Origen
+
+- **Lengua**: Copto/Egipcio / Árabe Esotérico / Sánscrito
+- **Raíz original**: ⲥⲱⲟⲩϩⲥ (sōouhs) "asamblea" (Cop) / عَقْل جَمْع (ʿaql jam') "mente colectiva" (Ar) / समूह (samūha) "colectivo" (Skt)
+- **Corpus**: forjado por motor de síntesis v1.4.1 (short mode)
+
+#### Transformación
+
+- forjado desde sōouhs /soːwhs/ + ʿaql jam' /ʕaql dʒamʕ/ + samūha /sɐ.muː.ɦɐ/
+
+---
+
+### nirsa
+
+- **Concepto**: daimon, intermediario entre humano y divino
+- **IPA**: /ˈnir.sa/
+
+#### Origen
+
+- **Lengua**: Copto/Egipcio / Árabe Esotérico / Sánscrito
+- **Raíz original**: ⲥⲱⲛ (sōn) "compañero" (Cop) / قَرِين (qarīn) "compañero espiritual" (Ar) / दैव (daiva) "ser divino, espíritu" (Skt)
+- **Corpus**: forjado por motor de síntesis v1.4.1 (short mode)
+
+#### Transformación
+
+- forjado desde sōn /soːn/ + qarīn /qa.riːn/ + daiva /d̪aj.ʋɐ/
 
 ---
 
