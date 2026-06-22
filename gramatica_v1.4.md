@@ -1,12 +1,12 @@
 ---
-title: "Kalfírvach v1.4 — Gramática Completa"
-version: v1.4
-date: 2026-06-06
+title: "Kalfírvach v1.5 — Gramática Completa"
+version: v1.5
+date: 2026-06-20
 lang: es
 status: stable
 ---
 
-# KALFÍRVACH v1.4 — Gramática Completa
+# KALFÍRVACH v1.5 — Gramática Completa
 
 ---
 
@@ -162,6 +162,53 @@ DEF.SG luz tan  grande DEF.SG sombra-GEN ser-PRES
 "La luz es tan grande como la sombra"
 ```
 
+#### 1.6.1 Superlativo absoluto
+
+El superlativo absoluto expresa una cualidad en su **grado máximo**, sin comparación con un estándar externo ("el más grande", "la más oscura", "supremamente ___"). Se diferencia del comparativo (§1.6) en que **no requiere** un término de comparación con `-sya`.
+
+| Grado | Partícula | Origen (≥2) | Uso |
+|-------|-----------|------------|-----|
+| **kāsmopte** | "supremamente, en grado extremo" | Griego *ὕψιστος* "supremo" + Persa *بالاترین* "el más alto" + Sánscrito *परम* "supremo" + Tibetano *མཆོག* "supremo" + Árabe *أقصى* "extremo" (forja léxica KFA, 5 lenguas) | superlativo absoluto |
+
+**Estructura:**
+- **Adj + kāsmopte**
+
+La partícula **kāsmopte** se pospone al adjetivo que modifica. Al no haber estándar de comparación, la construcción es más simple que la comparativa.
+
+**Ejemplos:**
+```
+ha  nūros  rík  kāsmopte  as-a
+DEF.SG luz  grande SUP.ABS  ser-PRES
+"La luz es grandísima / supremamente grande / la más grande"
+```
+
+```
+ha  zal  khap  kāsmopte  as-a
+DEF.SG sombra oscura SUP.ABS  ser-PRES
+"La sombra es oscurísima / supremamente oscura"
+```
+
+```
+ha  romālik  wālrat  kāsmopte  as-a
+DEF.SG rey   gobernante SUP.ABS  ser-PRES
+"El rey es el gobernante supremo"
+```
+
+**Diferencia con tís (§3.10.1):** `tís` funciona como adverbio de grado ("muy") y expresa alta intensidad pero no necesariamente el grado máximo absoluto. `kāsmopte` expresa **el grado extremo, sin comparación posible**. La elección entre ambos es escalar:
+
+| Construcción | Significado | Fuerza |
+|-------------|------------|--------|
+| `tís rík` | "muy grande" | alta intensidad |
+| `rík kāsmopte` | "grandísimo / supremamente grande" | **máximo absoluto** |
+
+**Uso con atributos negativos:** `kāsmopte` puede aplicarse a cualquier adjetivo, incluidos peyorativos, sin cambiar su valor semántico:
+
+```
+ha  jurmbōn  kolnamē  kāsmopte  as-a
+DEF.SG crimen delito   SUP.ABS  ser-PRES
+"El crimen es el delito supremo / el peor delito"
+```
+
 ### 1.7 Vocativo
 
 El vocativo KFA se marca con la partícula **`o`** en posición **pre-nominal absoluta**: `o + SN + , + resto de cláusula`. La coma es ortográfica (separa la invocación del resto de la cláusula), no gramatical.
@@ -221,6 +268,33 @@ ma  as-a-e = "yo soy [veo]" (visual, ritual: lo sé porque lo veo)
 ```
 
 **Justificación de la obligatoriedad (en contexto ritual):** En las 6 tradiciones fuente, la **distinción entre modos de conocimiento es ontológicamente significativa**: el PGM distingue entre fórmulas "vistas" y "reveladas"; el Mantraśāstra distingue entre mantras "escuchados" (śruti) y "inferidos"; el Ilm al-Huruf distingue entre conocimiento ilham (inspirado) e istidlāl (inferido). El neutro permite que el hablante use el idioma fuera de este marco cuando la precisión epistemológica no es necesaria.
+
+**Evidenciales en preguntas:** Los evidenciales codifican la fuente del conocimiento de una **aserción**. Una pregunta no es una aserción — el hablante no está afirmando algo que sabe, sino solicitando información que ignora. Por lo tanto, en preguntas **genuinas** (información que el hablante no posee), los evidenciales no se usan. No tendría sentido marcar cómo se sabe algo que no se sabe.
+
+```
+nūros  as-a  ka?           = "¿Hay luz?"        (pregunta genuina, sin evidencial)
+kwa  idá  as-a?            = "¿Quién está aquí?" (ídem)
+```
+
+**Excepción — preguntas retóricas rituales:** En contexto ritual o iniciático, cuando el hablante **ya sabe** la respuesta y la pregunta es un vehículo performativo (no una solicitud de información), el evidencial es **opcional** y marca la pregunta como retórica:
+
+```
+kwa  nūros  kár-i-e?       = "¿Quién creó la luz [lo vi]?"
+                           (pregunta retórica: el hablante sabe la respuesta
+                            y el evidencial visual marca que lo sabe por
+                            conocimiento directo. La pregunta es una
+                            revelación performativa, no una consulta.)
+```
+
+En este uso, el evidencial **invierte** su función normal: no certifica la fuente de la aserción, sino que certifica que la pregunta es un **acto ritual consciente**, no una ignorancia genuina. El oyente reconoce la pregunta como didáctica o hierática.
+
+La distinción es escalar:
+
+| Tipo de pregunta | Evidencial | Significado pragmático |
+|-----------------|-----------|----------------------|
+| Genuina | **prohibido** | "No sé, preguntá" |
+| Retórica cotidiana | opcional (neutro) | "Sabemos los dos" |
+| Retórica ritual | **opcional** (cualquier evidencial) | "Lo sé ritualmente y esta pregunta es una revelación" |
 
 > **v1.4 cross-ref:** las actitudinales coercitivas (`-ran`/`-rak`/`-rab`/`-ro-hék`) comparten la morfología de las actitudinales (§2.2), pero reservan el slot final del verbo para un sufijo dedicado de fuerza ritual (ver §5.3).
 
@@ -978,11 +1052,8 @@ Kalfírvach posee un rico conjunto de adverbios temporales en el léxico de `tie
 | **yawm** | /jawm/ | "hoy" | Árabe *yawm* "día" + Persa *yawm* "día" → yawm. 2 lenguas. |
 | **ams** | /ams/ | "ayer" | Árabe *ams* "ayer" + Persa *dī* (con asimilación) → ams. 2 lenguas. |
 | **ghat** | /ɣad/ | "mañana" (día siguiente) | Árabe *ġad(an)* "mañana" + Persa *qad* "tiempo" → ghat. 2 lenguas. |
-| **dáim** | /'da.im/ | "siempre" | Árabe *dāʾim* "permanente, continuo" + Persa *dāyem* "siempre". 2 lenguas. |
-| **áb-d** | /'ab.d/ | "nunca" | Persa *āb* "agua (tiempo)" + Árabe *dāʾim* (contracción negativa). 1 fuente + a- privativo del léxico derivativo. |
 | **qábal** | /ˈka.bal/ | "antes" (anterioridad) | Árabe *qabl* "antes" + Persa *qabl* "previo". 2 lenguas. |
 | **bákd** | /'bakd/ | "después" (posterioridad) | Árabe *baʿd* "después" + Persa *pas* → bakd (fusión). 2 lenguas. |
-| **bád-zam** | /'bad.zam/ | "a veces" | Persa *bād* "al viento" + Árabe *zamān* "tiempo" → "en tiempo al viento" = "ocasionalmente". 2 lenguas. |
 | **bákra** | /ˈbak.ra/ | "temprano" | Árabe *bakr* "madrugada, temprano" + Persa *bāmdād* "amanecer" → bakr. 2 lenguas. |
 | **atáp** | /'a.taf/ | "tarde" (hora tardía) | Árabe *ʿatash* "tarde" + Persa *towf* "atardecer" → atáp. 2 lenguas. |
 
@@ -1000,7 +1071,63 @@ ayer sombra actuar-PAS-REVELADO-certeza_mágica
 "Ayer la sombra actuó [revelado con certeza mágica]"
 ```
 
-#### 3.10.3 Adverbios locativos
+#### 3.10.3 Adverbios de frecuencia
+
+Kalfírvach gramaticaliza la frecuencia como una subclase de adverbios con su propia posición sintáctica y distinciones semánticas. A diferencia de los temporales puros (§3.10.2), los adverbios de frecuencia modifican la **iteración** de la acción, no su anclaje temporal.
+
+| Adverbio | IPA | Significado | Origen |
+|----------|-----|-------------|--------|
+| **dáim** | /'da.im/ | "siempre" | Árabe *dāʾim* "permanente, continuo" + Persa *dāyem* "siempre". 2 lenguas. |
+| **práy** | /'praj/ | "frecuentemente, a menudo" | Griego *πρᾶγμα* prâgma "cosa, asunto (recurrente)" + Sánscrito *प्राय* prāya "frecuentemente, generalmente". 2 lenguas. |
+| **bád-zam** | /'bad.zam/ | "a veces, ocasionalmente" | Persa *bād* "al viento" + Árabe *zamān* "tiempo" → "en tiempo al viento". 2 lenguas. |
+| **dirlapsi** | /dir.'lap.si/ | "raramente, casi nunca" | Griego *σπάνιος* spanios "raro" + Sánscrito *विरल* virala "raro, escaso" + Persa *نادر* nâder "raro" + Árabe *نادر* nādir "raro". Forja léxica KFA, 4 lenguas. |
+| **áb-d** | /'ab.d/ | "nunca" | Persa *āb* "agua (tiempo)" + Árabe *dāʾim* (contracción negativa). 1 fuente + a- privativo del léxico derivativo. |
+
+**Estructura y posición sintáctica:**
+
+Los adverbios de frecuencia ocupan la **posición pre-sujeto** (inicio de cláusula) por defecto, o la **posición post-sujeto** (inmediatamente antes del SV) para foco estrecho (§3.10.8):
+
+```
+Posición neutra:     [Frecuencia] + Sujeto + Verbo
+Posición de foco:    Sujeto + [Frecuencia] + Verbo
+```
+
+**Ejemplos:**
+```
+dáim  ha  nūros  rík  as-a
+siempre DEF.SG luz  grande ser-PRES
+"La luz siempre es grande"
+
+ma  práy  kár-a
+yo  frecuentemente actuar-PRES
+"Actúo frecuentemente / a menudo"
+
+bád-zam  zal  kár-i-e
+a.veces  sombra actuar-PAS-veo
+"A veces la sombra actuó [lo vi]"
+
+ma  dirlapsi  nūros  veth-a
+yo  raramente  luz    ver-PRES
+"Raramente veo la luz"
+
+áb-d  ha  zal  kár-i
+nunca DEF.SG sombra actuar-PAS
+"La sombra nunca actuó"
+```
+
+**Gradación semántica (escala de frecuencia):**
+
+| Kalfírvach | Significado | Tipo |
+|-----------|-------------|------|
+| `dáim` | "siempre" | universal (100%) |
+| `práy` | "frecuentemente, a menudo" | alta frecuencia |
+| `bád-zam` | "a veces, ocasionalmente" | frecuencia media |
+| `dirlapsi` | "raramente, casi nunca" | baja frecuencia |
+| `áb-d` | "nunca" | cero (0%) |
+
+**Diferencia con `áb-d` vs. negación `na-` (§3.4.1):** `áb-d` es un adverbio léxico ("nunca", cero ocurrencias). La negación verbal `na-` niega una ocurrencia específica. Se pueden combinar para énfasis: `áb-d na-kár-a` = "nunca no-actuó" = "siempre actuó" (lit. doble negación → afirmación enfática).
+
+#### 3.10.4 Adverbios locativos
 
 | Adverbio | IPA | Significado | Origen |
 |----------|-----|-------------|--------|
@@ -1026,7 +1153,7 @@ idá-ra  aya-ro!    = "¡Ven desde aquí!"
 ka-ná-muk  gach-a  = "Va hacia allá"
 ```
 
-#### 3.10.4 Adverbios de modo (derivación)
+#### 3.10.5 Adverbios de modo (derivación)
 
 Los adverbios de modo se forman añadiendo el sufijo **-ka** (instrumental, §3.2) a una **raíz adjetiva**. El significado es "de manera [adjetivo]" o "con [cualidad del adjetivo]".
 
@@ -1071,7 +1198,70 @@ Ambas lecturas convergen en la misma realidad — no hay ambigüedad problemáti
 |-------|-------------|--------|
 | **ich-ka** | "voluntariamente, por deseo" | ich "querer" + -ka → lexicalizado como adverbio |
 
-#### 3.10.5 Adverbios de grado
+##### Adverbios similitudinales: `milrich` (desde sustantivos)
+
+El sufijo `-ka` forma adverbios de modo desde **adjetivos**. Para expresar "a la manera de X", "como X" desde un **sustantivo**, Kalfírvach provee la partícula posposicional **milrich**.
+
+**Origen:** Árabe *مثل* (mithl) "semejante, como" + Persa *چون* (čun) "como, así como" + Tibetano *ལྟར* (ltar) "como, a la manera de" + Copto *ⲙ̀ⲙⲏⲛ* (mmēin) "a la manera de". Forja léxica KFA desde 4 lenguas (excluyendo sánscrito y griego).
+
+**Regla:**
+```
+Sustantivo + milrich → frase adverbial similitudinal
+```
+
+| Kalfírvach | Traducción | Estructura |
+|-----------|-----------|-----------|
+| `heka milrich` | "como un mago, a la manera de un mago" | mago + **milrich** |
+| `romālik milrich` | "como un rey, a la manera real" | rey + **milrich** |
+| `nūros milrich` | "como la luz, a la manera de la luz" | luz + **milrich** |
+| `zal milrich` | "como una sombra" | sombra + **milrich** |
+| `nīwtagrong milrich` | "como una ciudad, a la manera urbana" | ciudad + **milrich** |
+
+**Posición sintáctica:** la frase similitudinal ocupa la misma posición que los adverbios de modo (§3.10.1): **inmediatamente antes del verbo** (posición neutra) o **antes del sujeto** para tópico.
+
+```
+Posición neutra:   SUJ + [N milrich] + VERBO
+Posición tópico:   [N milrich] + SUJ + VERBO
+```
+
+**Ejemplos:**
+```
+ma  heka  milrich  kár-a
+1sg mago   como   hacer-PRES
+"Actúo como un mago" / "Actúo a la manera de un mago"
+```
+
+```
+sa  romālik  milrich  vach-i-e
+3sg rey      como    hablar-PAS-veo
+"Habló como un rey [lo vi]"
+```
+
+```
+heka  milrich  ma  pas-y-a
+mago  como    1sg  ver-PRES  
+"Como un mago, veo" (tópico: la manera de mago es el marco)
+```
+
+**Diferencia con -ka adjetival:**
+
+| Construcción | Base | Significado |
+|-------------|------|-------------|
+| `heka-ka kár-a` | "con magia" (instrumental) | usa poder mágico como herramienta |
+| `heka milrich kár-a` | "como un mago" (similitud) | a la manera/en el estilo de un mago |
+| `rík-ka kár-a` | "grandemente" (adjetivo) | adverbial desde adjetivo |
+
+**Compatibilidad con tiempos verbales y evidenciales:** `milrich` no bloquea ninguna partícula verbal. Funciona como un adverbio más:
+
+```
+ha  nūros  sév-a  milrich  rat-y-a-e
+DEF.SG luz   manzana como    brillar-PRES-VIS
+"La luz brilla como una manzana [lo veo]"
+```
+
+> **Nota:** `milrich` no es un sufijo — es una partícula independiente que mantiene su forma. A diferencia de `-ka`, no se fusiona con la base nominal.
+
+#### 3.10.6 Adverbios de grado
 
 Los adverbios de grado modifican adjetivos, verbos u otros adverbios para indicar intensidad. Pueden ser palabras independientes o prefijos derivativos.
 
@@ -1111,7 +1301,7 @@ La diferencia entre el prefijo léxico **su-** (§3.6.1) y el adverbio **tís**:
 
 `su-` crea una **nueva raíz léxica**, mientras que `tís` **modifica sintácticamente** al elemento existente. Son complementarios.
 
-#### 3.10.6 Adverbios modales
+#### 3.10.7 Adverbios modales
 
 Kalfírvach ya expresa modalidad epistémica mediante el sistema de evidenciales (§2.1) y actitudinales (§2.2) anclados al verbo. Sin embargo, existe un adverbio modal para expresar incertidumbre sin compromiso evidencial:
 
@@ -1134,7 +1324,7 @@ quizás  DEF  ilusión ser-PRES-REVELADO
 
 La incertidumbre recae sobre el contenido (`sháyat`), la certeza sobre el modo de conocimiento (`-wah`).
 
-#### 3.10.7 Resumen rápido
+#### 3.10.8 Resumen rápido
 
 | Qué querés decir | Cómo se dice | Patrón |
 |-----------------|-------------|--------|
@@ -1275,6 +1465,8 @@ díwa-na  é   súrua  as-a  ka?  = "¿Hay un sol en el cielo?"
 kím  as-a?                  = "¿Qué hay?" / "¿Qué existe?"
 kwa  idá  as-a?             = "¿Quién está aquí?"
 ```
+
+> **Evidenciales en preguntas (§2.1):** Las preguntas existenciales son preguntas genuinas (el hablante no sabe la respuesta). Por lo tanto **no llevan evidencial**. La excepción son las preguntas retóricas rituales, donde el evidencial es opcional y marca que la pregunta es performativa, no informativa.
 
 #### 3.11.6 Sustantivo derivado: as-tá ("existencia, ser")
 
@@ -1669,7 +1861,7 @@ ma  dhar-a-poi      = "debo (performativamente)" → el deber es el acto (auto-o
 
 La **modalidad epistémica** ("probablemente", "debe ser que...") NO usa las raíces modales. Se construye con:
 
-- **Adverbio modal `sháyat`** (§3.10.6) para "quizás / tal vez"
+- **Adverbio modal `sháyat`** (§3.10.7) para "quizás / tal vez"
 - **Evidencial inferencial `-anu`** (§2.1) para "debe ser que..." (inferido)
 - **Evidencial revelado `-wah`** para "es necesariamente el caso [revelado]"
 
@@ -1886,8 +2078,93 @@ o bien
 | **D. Recíproco distributivo** | "se miran uno a otro" | san any-anya pas-y-a | PL + **any-anya** + VERBO |
 | **D. Recíproco nominal** | "co-unión" | kham-yuj | **kham-** + raíz |
 | **D. Recíproco + reflexivo (énfasis)** | "se aman mutuamente" | san kham pri-y-a-at | PL + **kham** + VERBO + **-at** |
+| **E. Autobenefactivo (voz media)** | "me compro un libro" | ma-te pustak gher-a | SUJ-**te** + OBJ + VERBO |
+| **E. Dativo ético** | "me como la manzana" | ma-te sév bhaksh-a | SUJ-**te** + OBJ + VERBO |
 
-#### 3.13.9 Compatibilidad con otros sistemas
+#### 3.13.9 Voz media — benefactivo y autobenefactivo
+
+El reflexivo simple (§3.13.3) expresa acción del agente **sobre** sí mismo ("me veo", "me lavo"). El **benefactivo/autobenefactivo** expresa acción del agente **para/por** sí mismo, sin que la acción recaiga directamente sobre él — el beneficio recae en el sujeto, pero la acción se aplica a un objeto externo.
+
+**El problema (español → KFA):**
+
+| Español | Tipo | Traducción ingenua | Problema |
+|---------|------|-------------------|----------|
+| "Me compré un libro" | autobenefactivo | `ma pustak-a gher-a` | "compro un libro" (pierde el matiz de beneficio) |
+| "Me como la manzana" | dativo ético | `ma sév-a bhaksh-a` | "como la manzana" (pierde el matiz de envolvimiento) |
+| "Me hago un café" | autobenefactivo | `ma kafí kár-a` | "hago café" (suena genérico) |
+
+**Solución:** la postposición **-te** (dativo/posesivo) se reutiliza como marcador de **voz media/benefactivo** cuando aparece en una cláusula con verbo transitivo (sin la cópula `as`). En esta función, `-te` no marca posesión ni receptor dativo, sino que indica que el sujeto es **beneficiario de su propia acción**.
+
+```
+Posición: SUJETO[-te] + OBJETO + VERBO
+```
+
+Donde `-te` se sufija al pronombre o SN del sujeto, igual que en la construcción posesiva. El contexto verbal (verbo transitivo sin `as`) desambigua de la lectura posesiva.
+
+**Ejemplos:**
+```
+ma-te  pustak-a  gher-a
+yo-DAT libro-ACC comprar-PRES
+"Me compro un libro" (lit. "Para mí compro un libro")
+```
+
+```
+ma-te  sév-a  bhaksh-a
+yo-DAT manzana-ACC comer-PRES
+"Me como la manzana" (lit. "Para mí como la manzana" — envolvimiento personal)
+```
+
+```
+sa-te  kafí  kár-a
+él-DAT café  hacer-PRES
+"Se hace un café" / "Él se prepara un café"
+```
+
+```
+ta-te  gít   gā-y-a
+tú-DAT canción cantar-PRES
+"Te cantas una canción" / "Te cantas para vos mismo"
+```
+
+```
+man-te  mokti  vach-a
+PL1-DAT pacto  hablar-PRES
+"Nos hablamos un pacto" / "Acordamos entre nosotros"
+```
+
+**Diferencia con el reflexivo simple con -at:**
+
+| Construcción | Significado | Estructura |
+|-------------|-------------|-----------|
+| `ma dho-a-at` | "me lavo (a mí mismo)" | SUJ + VERBO + **-at** (acción sobre el sujeto) |
+| `ma-te rúk dho-a` | "me lavo la mano" | SUJ-te + OBJ + VERBO (acción sobre objeto, beneficio para el sujeto) |
+| `ma rúk-te dho-a-at` | "me lavo la mano (a mí mismo)" | SUJ + [parte]-te + VERBO + **-at** (reflexivo indirecto, §3.13.4) |
+
+**Combinación con -at (énfasis medio-reflexivo):**
+
+Se pueden combinar `-te` (benefactivo) y `-at` (reflexivo) para acciones donde el beneficio recae sobre el sujeto **y** la acción se aplica a algo del sujeto:
+
+```
+ma-te  rúk-te  dho-a-at
+yo-DAT mano-DAT lavar-REFL
+"Me lavo la mano para mí mismo" (doble énfasis)
+```
+
+Esta combinación es rara y solo se usa en registro enfático o ritual.
+
+**Distinción formal con el posesivo (§3.9.2):**
+
+| Construcción | Significado | Diagnóstico |
+|-------------|-------------|-------------|
+| `ma-te nūros as-a` | "tengo luz" (posesión) | usa **as** (cópula) |
+| `ma-te pustak gher-a` | "me compro un libro" (benefactivo) | usa **verbo transitivo** |
+| `ma-te nūros pas-y-a` | "veo luz para mí" (benefactivo) | usa **verbo transitivo** |
+
+La presencia de la cópula `as` fuerza la lectura posesiva; la presencia de un verbo transitivo (sin `as`) fuerza la lectura benefactiva. No hay ambigüedad real.
+
+**Origen tipológico:** Este uso del dativo como marcador de voz media/autobenefactivo está atestiguado en las lenguas fuente: sánscrito usa el dativo *(ātmane)* para el "ātmanepada" (voz media, acción para el sí mismo) frente al *parasmaipada* (voz activa, acción para otro); griego usa el dativo de interés (*dativus commodi*); español y las lenguas romances lo tienen como "dativo ético" o "se aspectual".
+
+#### 3.13.10 Compatibilidad con otros sistemas
 
 **Con sistema temporal:**
 - ma kár-a-at-u = "me haré" (-at + futuro -u)
@@ -3585,7 +3862,7 @@ Los saludos en KFA son **frases nominales elípticas**: tópico (`sadu` + adverb
 | **Hasta luego** | `ay-u-kal` | `ay-u-kal, tum` | /a.ju kal/ | `ay-u` (venir-FUT) + `-kal` (hipotético, §2.3) = "vendré potencialmente / nos veremos" |
 | **Hasta mañana** | `ghat ay-u` | `ghat ay-u, tum` | /ɣat a.ju/ | `ghat` (mañana siguiente, §3.10.2) + `ay-u` (venir-FUT) |
 | **Buenas noches (despedida)** | `sadu ratiri, fīkhā` | `sadu ratiri, fīkhā nam` | /sa.du ra.ti.ri fiː.xaː/ | "Buena noche, me despido" |
-| **Que descanses** | `shant-ka shay-u` | `shant-ka shay-u, tum` | /ʃant.ka ʃa.ju/ | `shant-ka` (calmadamente, adv modo §3.10.4) + `shay-u` (yacer-FUT, §3.16) |
+| **Que descanses** | `shant-ka shay-u` | `shant-ka shay-u, tum` | /ʃant.ka ʃa.ju/ | `shant-ka` (calmadamente, adv modo §3.10.5) + `shay-u` (yacer-FUT, §3.16) |
 
 ---
 
@@ -3595,7 +3872,7 @@ Los saludos en KFA son **frases nominales elípticas**: tópico (`sadu` + adverb
 |---------|----------------|--------------|-----|---------------------|
 | **Por favor** | `kár-ran` | `kár-ran` | /kar.ran/ | `kár-` (hacer) + `-ran` (precativo, §5.3) = "haz por favor". **Úsalo ante cualquier verbo**: `ay-a-ran` (ven por favor), `vach-a-ran` (habla por favor) |
 | **Gracias** | `dziywū-a` | `dziywū-a-nam` | /ʣij.wu.a/ | `dziywū-a` (agradecer-PRES). Con `-nam` (reverencia, §2.2) en cortés |
-| **Muchas gracias** | `tís dziywū-a` | `tís dziywū-a-nam` | /tis ʣij.wu.a/ | `tís` (muy, adv grado §3.10.5) + agradecer |
+| **Muchas gracias** | `tís dziywū-a` | `tís dziywū-a-nam` | /tis ʣij.wu.a/ | `tís` (muy, adv grado §3.10.6) + agradecer |
 | **De nada / No hay de qué** | `la itrum` | `la itrum, tum` | /la it.rum/ | `la` (no, interj. §3.19) + `itrum` (permiso/licencia, §tecnología) = "no hay permiso [necesario]" |
 | **Con permiso / Permiso** | `itrum-te` | `itrum-te, tum` | /it.rum.te/ | `itrum` (permiso) + `-te` (dativo, §3.2) = "con permiso" |
 | **Disculpe / Perdón** | `na-rashe-a` | `na-rashe-a-nam` | /na.ra.ʃe.a/ | `na-` (NEG) + `rashe-a` (autorizar-PRES) + `-nam` = "no autorizo [la ofensa]" |
@@ -3625,7 +3902,7 @@ Los saludos en KFA son **frases nominales elípticas**: tópico (`sadu` + adverb
 | **Entiendo / Comprendo** | `gnán-a` | `gnán-a-nam` | /gna.na/ | `gnán-a` (saber/conocer-PRES, raíz `yana` con prefijo `gn-` de `gnotha` "saber cómo", §3.6). Con `-nam` reverencia |
 | **No entiendo** | `na-gnán-a` | `na-gnán-a-nam` | /na.gna.na/ | `na-` (NEG) + `gnán-a` |
 | **Repita, por favor** | `vach-a-ran` | `vach-a-ran` | /vatʃ.a.ran/ | `vach-a` (hablar-PRES) + `-ran` (precativo, §5.3) |
-| **Más despacio, por favor** | `bátí-ka vach-a-ran` | `bátí-ka vach-a-ran` | /ba.ti.ka vatʃ.a.ran/ | `bátí-ka` (lentamente, adj `bátí` + `-ka` adv modo, §3.10.4) + hablar-precativo |
+| **Más despacio, por favor** | `bátí-ka vach-a-ran` | `bátí-ka vach-a-ran` | /ba.ti.ka vatʃ.a.ran/ | `bátí-ka` (lentamente, adj `bátí` + `-ka` adv modo, §3.10.5) + hablar-precativo |
 
 ---
 
@@ -4189,7 +4466,7 @@ kát,  nūros  as-u       = "Se dice que la luz será"
 
 ### 5.6 Foco por posición preverbal
 
-Kalfírvach, siendo SOV, usa la **posición preverbal inmediata** (slot -1 del SV) como el locus canónico de foco. Cualquier constituyente — adverbio, SN, partícula — que se coloque en esa posición recibe **foco estrecho** automáticamente, sin necesidad de marca morfológica adicional. Este mecanismo ya está documentado parcialmente en §3.10.6 (adverbios); aquí se formaliza como principio general de estructura informativa.
+Kalfírvach, siendo SOV, usa la **posición preverbal inmediata** (slot -1 del SV) como el locus canónico de foco. Cualquier constituyente — adverbio, SN, partícula — que se coloque en esa posición recibe **foco estrecho** automáticamente, sin necesidad de marca morfológica adicional. Este mecanismo ya está documentado parcialmente en §3.10.7 (adverbios); aquí se formaliza como principio general de estructura informativa.
 
 **Regla:** un constituyente en posición preverbal recibe foco (interpretación "estrecha" o "contrastiva" según contexto).
 
@@ -4478,8 +4755,9 @@ El SN dislocado va al final, sin partícula de tópico; el contexto o una pausa 
 ;; ============================================================
 <postpos>        ::= "-na" | "-te" | "-ra" | "-sya" | "-ka" | "-muk"
 
-<adv>            ::= <adv_temporal> | <adv_locativo> | <adv_modo> | <adv_grado> | <adv_modal>
-<adv_temporal>   ::= "nun" | "yawm" | "ams" | "ghat" | "dáim" | "áb-d" | "qábal" | "bákd" | "bákra" | "atáp"
+<adv>            ::= <adv_temporal> | <adv_frecuencia> | <adv_locativo> | <adv_modo> | <adv_grado> | <adv_modal>
+<adv_temporal>   ::= "nun" | "yawm" | "ams" | "ghat" | "qábal" | "bákd" | "bákra" | "atáp"
+<adv_frecuencia> ::= "dáim" | "práy" | "bád-zam" | "dirlapsi" | "áb-d"
 <adv_locativo>   ::= "idá" | "ta-ná" | "ka-ná" | "antár" | "bahí"
 <adv_modo>       ::= <adj> "-ka"
 <adv_grado>      ::= "tís" | "lav" | "atísh" | "káf"

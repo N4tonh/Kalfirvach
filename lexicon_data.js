@@ -3,7 +3,7 @@ const LEXICON_DATA =
   "kalfirvach_lexicon_v1.5": {
     "metadata": {
       "version": "1.5",
-      "total_entries": 1606,
+      "total_entries": 1625,
       "date_generated": "2026-06-20",
       "languages": [
         "Griego",
@@ -15,13 +15,13 @@ const LEXICON_DATA =
         "Egipcio"
       ],
       "writing_system": "Alfabeto griego politonico con arcaicas",
-      "last_updated": "2026-06-20",
-      "date_updated": "2026-06-20",
+      "last_updated": "2026-06-21",
+      "date_updated": "2026-06-21",
       "ipa_coverage": "100%",
       "schema_version": "v1.1",
       "total_categorias": 24,
       "normalized": true,
-      "total_entradas": 1525
+      "total_entradas": 1625
     },
     "categorias": {
       "pronombres_y_deicticos": {
@@ -13244,6 +13244,21 @@ const LEXICON_DATA =
               "/lasa/ del Gr γλῶσσα /ˈɡloːs.sa/ → /la.sa/ (elisión de /ɡ/ + simplificación)"
             ],
             "derivaciones": []
+          },
+          {
+            "kalfirvach": "kāsmopte",
+            "concepto": "supremamente, en grado extremo (superlativo absoluto)",
+            "pos": "particle",
+            "ipa": "/kaːsˈmop.te/",
+            "origen": {
+              "lengua": "Griego Koiné / Persa Moderno / Sánscrito Védico / Tibetano / Árabe esotérico",
+              "raiz_original": "ὕψιστος hypistos \"supremo\" (Gr) / بالاترین bâlâtarin \"el más alto\" (Pers) / परम parama \"supremo\" (Skt) / མཆོག tchok \"supremo, excelso\" (Tib) / أقصى aqṣā \"extremo, máximo\" (Ar)",
+              "corpus": "Forja léxica KFA v1.5 — síntesis fonotáctica desde 5 lenguas fuente"
+            },
+            "transformacion": [
+              "Fusión fonotáctica: ū/p/b/ā + s/t/k/m/p/t → kāsmopte"
+            ],
+            "derivaciones": []
           }
         ]
       },
@@ -13659,6 +13674,21 @@ const LEXICON_DATA =
             ],
             "derivaciones": [],
             "notas": "Partícula añadida en v1.4 para expresar sustracción y exclusión"
+          },
+          {
+            "kalfirvach": "milrich",
+            "concepto": "como, a la manera de (partícula similitudinal)",
+            "pos": "particle",
+            "ipa": "/ˈmil.ritʃ/",
+            "origen": {
+              "lengua": "Árabe esotérico / Persa Moderno / Tibetano / Copto",
+              "raiz_original": "مثل mithl \"semejante, como\" (Ar) / چون čun \"como\" (Pers) / ལྟར ltar \"como, a la manera de\" (Tib) / ⲙ̀ⲙⲏⲛ mmēin \"a la manera de\" (Cop)",
+              "corpus": "Forja léxica KFA v1.5 — síntesis fonotáctica desde 4 lenguas (excluye sánscrito y griego)"
+            },
+            "transformacion": [
+              "Fusión fonotáctica: mithl + čun + ltar + mmēin → milrich"
+            ],
+            "derivaciones": []
           }
         ]
       },
@@ -16684,6 +16714,231 @@ const LEXICON_DATA =
             },
             "transformacion": [
               "forjado"
+            ],
+            "derivaciones": []
+          },
+          {
+            "kalfirvach": "dēnsāmē",
+            "concepto": "resonancia",
+            "pos": "noun",
+            "ipa": "/ˈdeːn.saː.meː/",
+            "origen": {
+              "lengua": "Copto/Egipcio / Árabe Esotérico / Sánscrito",
+              "raiz_original": "ⲥⲙⲏ (smē) \"sonido\" (Cop) / صَدَى (ṣadā) \"eco\" (Ar) / नाद (nāda) \"sonido, tono\" (Skt)",
+              "corpus": "forjado por motor de síntesis v1.4.1"
+            },
+            "transformacion": [
+              "forjado desde smē /smeː/ + ṣadā /sˤa.daː/ + nāda /nɑː.dɐ/"
+            ],
+            "derivaciones": []
+          },
+          {
+            "kalfirvach": "pimdinas",
+            "concepto": "vibración",
+            "pos": "noun",
+            "ipa": "/pim.ˈdi.nas/",
+            "origen": {
+              "lengua": "Copto/Egipcio / Árabe Esotérico / Sánscrito",
+              "raiz_original": "ⲕⲓⲙ (kim) \"moverse\" (Cop) / ذَبْذَبَة (dhabdhaba) \"vibración\" (Ar) / स्पन्द (spanda) \"pulso, vibración\" (Skt)",
+              "corpus": "forjado por motor de síntesis v1.4.1"
+            },
+            "transformacion": [
+              "forjado desde kim /kim/ + dhabdhaba /ðab.ða.ba/ + spanda /spɐn̪.dɐ/"
+            ],
+            "derivaciones": []
+          },
+          {
+            "kalfirvach": "wistōpik",
+            "concepto": "sintonización",
+            "pos": "noun",
+            "ipa": "/wis.ˈtoː.pik/",
+            "origen": {
+              "lengua": "Copto/Egipcio / Árabe Esotérico / Sánscrito",
+              "raiz_original": "ⲥⲱⲧⲡ (sōtp) \"enderezar\" (Cop) / وِفَاق (wifāq) \"armonía\" (Ar) / योजन (yojana) \"unión, ajuste\" (Skt)",
+              "corpus": "forjado por motor de síntesis v1.4.1"
+            },
+            "transformacion": [
+              "forjado desde sōtp /soːtp/ + wifāq /wi.faːq/ + yojana /joː.dʒɐ.nɐ/"
+            ],
+            "derivaciones": []
+          },
+          {
+            "kalfirvach": "wāsnitmā",
+            "concepto": "alineación",
+            "pos": "noun",
+            "ipa": "/ˈwaːs.nit.maː/",
+            "origen": {
+              "lengua": "Copto/Egipcio / Árabe Esotérico / Sánscrito",
+              "raiz_original": "ⲥⲟⲟⲩⲧⲛ̅ (sooutn) \"alinear\" (Cop) / قِوَام (qiwām) \"rectitud\" (Ar) / ऋजु (ṛju) \"recto\" (Skt)",
+              "corpus": "forjado por motor de síntesis v1.4.1"
+            },
+            "transformacion": [
+              "forjado desde sooutn /soːw.tən/ + qiwām /qi.waːm/ + ṛju /r̩.dʒu/"
+            ],
+            "derivaciones": []
+          },
+          {
+            "kalfirvach": "ridiswōm",
+            "concepto": "corriente",
+            "pos": "noun",
+            "ipa": "/ri.dis.ˈwoːm/",
+            "origen": {
+              "lengua": "Copto/Egipcio / Árabe Esotérico / Sánscrito",
+              "raiz_original": "ⲙⲟⲟⲩ (moou) \"agua, flujo\" (Cop) / سَيْل (sayl) \"corriente\" (Ar) / धारा (dhārā) \"corriente, flujo\" (Skt)",
+              "corpus": "forjado por motor de síntesis v1.4.1"
+            },
+            "transformacion": [
+              "forjado desde moou /moːw/ + sayl /sajl/ + dhārā /d̪ʱɑː.rɑː/"
+            ],
+            "derivaciones": []
+          },
+          {
+            "kalfirvach": "bokwadam",
+            "concepto": "vórtice",
+            "pos": "noun",
+            "ipa": "/bok.ˈwa.dam/",
+            "origen": {
+              "lengua": "Copto/Egipcio / Árabe Esotérico / Sánscrito",
+              "raiz_original": "ⲕⲣⲟϥ (krof) \"torbellino\" (Cop) / دَوَّامَة (dawwāma) \"vórtice\" (Ar) / भ्रम (bhrama) \"rotación\" (Skt)",
+              "corpus": "forjado por motor de síntesis v1.4.1"
+            },
+            "transformacion": [
+              "forjado desde krof /krof/ + dawwāma /daw.waː.ma/ + bhrama /bʱrɐ.mɐ/"
+            ],
+            "derivaciones": []
+          },
+          {
+            "kalfirvach": "tērmasin",
+            "concepto": "campo morfogenético",
+            "pos": "noun",
+            "ipa": "/ˈteːr.ma.sin/",
+            "origen": {
+              "lengua": "Copto/Egipcio / Árabe Esotérico / Sánscrito",
+              "raiz_original": "ⲥⲭⲏⲙⲁ (skhēma) \"forma\" (Cop) / نَمَط (namaṭ) \"patrón\" (Ar) / प्रतिमान (pratimāna) \"patrón, medida\" (Skt)",
+              "corpus": "forjado por motor de síntesis v1.4.1"
+            },
+            "transformacion": [
+              "forjado desde skhēma /sxeː.ma/ + namaṭ /na.matˤ/ + pratimāna /prɐ.t̪i.mɑː.nɐ/"
+            ],
+            "derivaciones": []
+          },
+          {
+            "kalfirvach": "takhifan",
+            "concepto": "hilo",
+            "pos": "noun",
+            "ipa": "/ta.ˈxi.fan/",
+            "origen": {
+              "lengua": "Copto/Egipcio / Árabe Esotérico / Sánscrito",
+              "raiz_original": "ϥⲱⲧⲉ (fōte) \"hilo\" (Cop) / خَيْط (khayṭ) \"hilo\" (Ar) / तन्तु (tantu) \"hilo, hebra\" (Skt)",
+              "corpus": "forjado por motor de síntesis v1.4.1"
+            },
+            "transformacion": [
+              "forjado desde fōte /foː.te/ + khayṭ /xajtˤ/ + tantu /t̪ɐn̪.t̪u/"
+            ],
+            "derivaciones": []
+          },
+          {
+            "kalfirvach": "wirtabal",
+            "concepto": "espiral",
+            "pos": "noun",
+            "ipa": "/wir.ˈta.bal/",
+            "origen": {
+              "lengua": "Copto/Egipcio / Árabe Esotérico / Sánscrito",
+              "raiz_original": "ⲕⲱϯ (kōti) \"rodear\" (Cop) / لَوْلَب (lawlab) \"espiral\" (Ar) / वक्र (vakra) \"curvo\" (Skt)",
+              "corpus": "forjado por motor de síntesis v1.4.1"
+            },
+            "transformacion": [
+              "forjado desde kōti /koː.ti/ + lawlab /law.lab/ + vakra /ʋɐ.krɐ/"
+            ],
+            "derivaciones": []
+          },
+          {
+            "kalfirvach": "kēswitōr",
+            "concepto": "radiancia",
+            "pos": "noun",
+            "ipa": "/ˈkeːs.wi.toːr/",
+            "origen": {
+              "lengua": "Copto/Egipcio / Árabe Esotérico / Sánscrito",
+              "raiz_original": "ⲟⲩⲟⲉⲓⲛ (ouoein) \"luz\" (Cop) / إِشْرَاق (ishrāq) \"resplandor\" (Ar) / तेजस् (tejas) \"radiancia, brillo\" (Skt)",
+              "corpus": "forjado por motor de síntesis v1.4.1"
+            },
+            "transformacion": [
+              "forjado desde ouoein /woː.in/ + ishrāq /ʔiʃ.raːq/ + tejas /t̪eː.dʒɐs/"
+            ],
+            "derivaciones": []
+          },
+          {
+            "kalfirvach": "chamohno",
+            "concepto": "carga (energética)",
+            "pos": "noun",
+            "ipa": "/tʃa.ˈmoh.no/",
+            "origen": {
+              "lengua": "Copto/Egipcio / Árabe Esotérico / Sánscrito",
+              "raiz_original": "ϫⲟⲙ (čom) \"fuerza\" (Cop) / شَحْن (shaḥn) \"carga\" (Ar) / आवेश (āveśa) \"carga, posesión\" (Skt)",
+              "corpus": "forjado por motor de síntesis v1.4.1"
+            },
+            "transformacion": [
+              "forjado desde čom /tʃom/ + shaḥn /ʃaħn/ + āveśa /ɑː.ʋeː.ɕɐ/"
+            ],
+            "derivaciones": []
+          },
+          {
+            "kalfirvach": "bisfīrīt",
+            "concepto": "descarga",
+            "pos": "noun",
+            "ipa": "/bis.ˈfiː.riːt/",
+            "origen": {
+              "lengua": "Copto/Egipcio / Árabe Esotérico / Sánscrito",
+              "raiz_original": "ⲃⲟⲗ (bol) \"soltar\" (Cop) / تَفْرِيغ (tafrīgh) \"vaciado\" (Ar) / विसर्ग (visarga) \"liberación\" (Skt)",
+              "corpus": "forjado por motor de síntesis v1.4.1"
+            },
+            "transformacion": [
+              "forjado desde bol /bol/ + tafrīgh /taf.riːɣ/ + visarga /ʋi.sɐr.ɡɐ/"
+            ],
+            "derivaciones": []
+          },
+          {
+            "kalfirvach": "bōnhātrā",
+            "concepto": "vínculo",
+            "pos": "noun",
+            "ipa": "/ˈboːn.haːt.raː/",
+            "origen": {
+              "lengua": "Copto/Egipcio / Árabe Esotérico / Sánscrito",
+              "raiz_original": "ⲥⲱⲛϩ̅ (sōnh) \"atar\" (Cop) / رِبَاط (ribāṭ) \"atadura\" (Ar) / बन्ध (bandha) \"atadura\" (Skt)",
+              "corpus": "forjado por motor de síntesis v1.4.1"
+            },
+            "transformacion": [
+              "forjado desde sōnh /soːnh/ + ribāṭ /ri.baːtˤ/ + bandha /bɐn̪.d̪ʱɐ/"
+            ],
+            "derivaciones": []
+          },
+          {
+            "kalfirvach": "kihēpres",
+            "concepto": "escudo",
+            "pos": "noun",
+            "ipa": "/ki.ˈheːp.res/",
+            "origen": {
+              "lengua": "Copto/Egipcio / Árabe Esotérico / Sánscrito",
+              "raiz_original": "ⲥⲕⲉⲡⲏ (skepē) \"cobertura\" (Cop) / دِرْع (dir') \"escudo\" (Ar) / कवच (kavaca) \"armadura\" (Skt)",
+              "corpus": "forjado por motor de síntesis v1.4.1"
+            },
+            "transformacion": [
+              "forjado desde skepē /ske.peː/ + dir' /dirʕ/ + kavaca /kɐ.ʋɐ.t͡ʃɐ/"
+            ],
+            "derivaciones": []
+          },
+          {
+            "kalfirvach": "benīlre",
+            "concepto": "filtro, criba",
+            "pos": "noun",
+            "ipa": "/be.ˈniːl.re/",
+            "origen": {
+              "lengua": "Copto/Egipcio / Árabe Esotérico / Sánscrito",
+              "raiz_original": "ⲛⲉϩϥⲉ (nehfe) \"criba\" (Cop) / غِرْبَال (ghirbāl) \"criba\" (Ar) / चालनी (cālanī) \"tamiz\" (Skt)",
+              "corpus": "forjado por motor de síntesis v1.4.1"
+            },
+            "transformacion": [
+              "forjado desde nehfe /neh.fe/ + ghirbāl /ɣir.baːl/ + cālanī /t͡ʃɑː.lɐ.niː/"
             ],
             "derivaciones": []
           }
@@ -20791,6 +21046,36 @@ const LEXICON_DATA =
             },
             "transformacion": [
               "keyzu (Saturno) + mera (sufijo de daimera)"
+            ],
+            "derivaciones": []
+          },
+          {
+            "kalfirvach": "práy",
+            "concepto": "frecuentemente, a menudo",
+            "pos": "adverb",
+            "ipa": "/ˈpraj/",
+            "origen": {
+              "lengua": "Griego Koiné / Sánscrito Védico",
+              "raiz_original": "πρᾶγμα prâgma \"cosa, asunto (recurrente)\" (Gr) / प्राय prāya \"frecuentemente\" (Skt)",
+              "corpus": "Corpus helenístico (Gr); literatura védica (Skt)"
+            },
+            "transformacion": [
+              "prâgma → práy (caída de /gma/, /j/ final por convergencia con prāya)"
+            ],
+            "derivaciones": []
+          },
+          {
+            "kalfirvach": "dirlapsi",
+            "concepto": "raramente, casi nunca",
+            "pos": "adverb",
+            "ipa": "/dir.ˈlap.si/",
+            "origen": {
+              "lengua": "Griego Koiné / Sánscrito Védico / Persa Moderno / Árabe esotérico",
+              "raiz_original": "σπάνιος spanios \"raro\" (Gr) / विरल virala \"raro, escaso\" (Skt) / نادر nâder \"raro\" (Pers) / نادر nādir \"raro\" (Ar)",
+              "corpus": "Forja léxica KFA v1.5 — síntesis fonotáctica desde 4 lenguas fuente"
+            },
+            "transformacion": [
+              "Fusión fonotáctica: sp/v/n/n + p/r/l/d → dirlapsi"
             ],
             "derivaciones": []
           }
@@ -25264,7 +25549,11 @@ const LEXICON_DATA =
             "concepto": "gobierno",
             "pos": "sustantivo",
             "ipa": "[nal.ˈte.wur]",
-            "origen": "forjado desde persa moderno, griego koiné, tibetano",
+            "origen": {
+              "lengua": "forjado desde persa moderno, griego koiné, tibetano",
+              "raiz_original": "forjado desde persa moderno, griego koiné, tibetano",
+              "corpus": "Forja léxica KFA (kalfirvach)"
+            },
             "transformacion": "score 44.5 — silabeo: nal.té.wur",
             "derivaciones": []
           },
@@ -25273,7 +25562,11 @@ const LEXICON_DATA =
             "concepto": "gobernar",
             "pos": "verbo",
             "ipa": "[ˈkoːn.hat.ro]",
-            "origen": "forjado desde persa moderno, griego koiné, tibetano",
+            "origen": {
+              "lengua": "forjado desde persa moderno, griego koiné, tibetano",
+              "raiz_original": "forjado desde persa moderno, griego koiné, tibetano",
+              "corpus": "Forja léxica KFA (kalfirvach)"
+            },
             "transformacion": "score 44.8 — silabeo: kṓn.hat.ro",
             "derivaciones": []
           },
@@ -25282,7 +25575,11 @@ const LEXICON_DATA =
             "concepto": "estado / nación",
             "pos": "sustantivo",
             "ipa": "[tip.ˈvil.ke]",
-            "origen": "forjado desde persa moderno, griego koiné, tibetano",
+            "origen": {
+              "lengua": "forjado desde persa moderno, griego koiné, tibetano",
+              "raiz_original": "forjado desde persa moderno, griego koiné, tibetano",
+              "corpus": "Forja léxica KFA (kalfirvach)"
+            },
             "transformacion": "score 43.8 — silabeo: tip.víl.ke",
             "derivaciones": []
           },
@@ -25291,7 +25588,11 @@ const LEXICON_DATA =
             "concepto": "autoridad",
             "pos": "sustantivo",
             "ipa": "[wet.sa.ˈduːk]",
-            "origen": "forjado desde persa moderno, griego koiné, tibetano",
+            "origen": {
+              "lengua": "forjado desde persa moderno, griego koiné, tibetano",
+              "raiz_original": "forjado desde persa moderno, griego koiné, tibetano",
+              "corpus": "Forja léxica KFA (kalfirvach)"
+            },
             "transformacion": "score 43.6 — silabeo: wet.sa.dū́k",
             "derivaciones": []
           },
@@ -25300,7 +25601,11 @@ const LEXICON_DATA =
             "concepto": "líder",
             "pos": "sustantivo",
             "ipa": "[ˈheːm.beː.noː]",
-            "origen": "forjado desde persa moderno, griego koiné, tibetano",
+            "origen": {
+              "lengua": "forjado desde persa moderno, griego koiné, tibetano",
+              "raiz_original": "forjado desde persa moderno, griego koiné, tibetano",
+              "corpus": "Forja léxica KFA (kalfirvach)"
+            },
             "transformacion": "score 41.7 — silabeo: hḗm.bē.nō",
             "derivaciones": []
           },
@@ -25309,7 +25614,11 @@ const LEXICON_DATA =
             "concepto": "rey / soberano",
             "pos": "sustantivo",
             "ipa": "[be.ˈhep.sol]",
-            "origen": "forjado desde persa moderno, griego koiné, tibetano",
+            "origen": {
+              "lengua": "forjado desde persa moderno, griego koiné, tibetano",
+              "raiz_original": "forjado desde persa moderno, griego koiné, tibetano",
+              "corpus": "Forja léxica KFA (kalfirvach)"
+            },
             "transformacion": "score 45.0 — silabeo: be.hép.sol",
             "derivaciones": []
           },
@@ -25318,7 +25627,11 @@ const LEXICON_DATA =
             "concepto": "consejo",
             "pos": "sustantivo",
             "ipa": "[ko.ˈla.voʃ]",
-            "origen": "forjado desde persa moderno, griego koiné, tibetano",
+            "origen": {
+              "lengua": "forjado desde persa moderno, griego koiné, tibetano",
+              "raiz_original": "forjado desde persa moderno, griego koiné, tibetano",
+              "corpus": "Forja léxica KFA (kalfirvach)"
+            },
             "transformacion": "score 40.0 — silabeo: ko.lá.vosh",
             "derivaciones": []
           },
@@ -25327,7 +25640,11 @@ const LEXICON_DATA =
             "concepto": "jefe / cabeza",
             "pos": "sustantivo",
             "ipa": "[rat.ˈsoː.ni]",
-            "origen": "forjado desde persa moderno, griego koiné, tibetano",
+            "origen": {
+              "lengua": "forjado desde persa moderno, griego koiné, tibetano",
+              "raiz_original": "forjado desde persa moderno, griego koiné, tibetano",
+              "corpus": "Forja léxica KFA (kalfirvach)"
+            },
             "transformacion": "score 42.0 — silabeo: rat.sṓ.ni",
             "derivaciones": []
           },
@@ -25336,7 +25653,11 @@ const LEXICON_DATA =
             "concepto": "política",
             "pos": "sustantivo",
             "ipa": "[ˈeːl.tis.kip]",
-            "origen": "forjado desde persa moderno, griego koiné, tibetano",
+            "origen": {
+              "lengua": "forjado desde persa moderno, griego koiné, tibetano",
+              "raiz_original": "forjado desde persa moderno, griego koiné, tibetano",
+              "corpus": "Forja léxica KFA (kalfirvach)"
+            },
             "transformacion": "score 44.8 — silabeo: ḗl.tis.kip",
             "derivaciones": []
           },
@@ -25345,7 +25666,11 @@ const LEXICON_DATA =
             "concepto": "comunidad",
             "pos": "sustantivo",
             "ipa": "[tin.ˈmi.kos]",
-            "origen": "forjado desde persa moderno, griego koiné, tibetano",
+            "origen": {
+              "lengua": "forjado desde persa moderno, griego koiné, tibetano",
+              "raiz_original": "forjado desde persa moderno, griego koiné, tibetano",
+              "corpus": "Forja léxica KFA (kalfirvach)"
+            },
             "transformacion": "score 45.0 — silabeo: tin.mí.kos",
             "derivaciones": []
           },
@@ -25354,7 +25679,11 @@ const LEXICON_DATA =
             "concepto": "pueblo / gente",
             "pos": "sustantivo",
             "ipa": "[sim.ˈneː.de]",
-            "origen": "forjado desde persa moderno, griego koiné, tibetano",
+            "origen": {
+              "lengua": "forjado desde persa moderno, griego koiné, tibetano",
+              "raiz_original": "forjado desde persa moderno, griego koiné, tibetano",
+              "corpus": "Forja léxica KFA (kalfirvach)"
+            },
             "transformacion": "score 41.9 — silabeo: sim.nḗ.de",
             "derivaciones": []
           },
@@ -25363,7 +25692,11 @@ const LEXICON_DATA =
             "concepto": "ciudadano",
             "pos": "sustantivo",
             "ipa": "[ˈveːp.le.kim]",
-            "origen": "forjado desde persa moderno, griego koiné, tibetano",
+            "origen": {
+              "lengua": "forjado desde persa moderno, griego koiné, tibetano",
+              "raiz_original": "forjado desde persa moderno, griego koiné, tibetano",
+              "corpus": "Forja léxica KFA (kalfirvach)"
+            },
             "transformacion": "score 44.7 — silabeo: vḗp.le.kim",
             "derivaciones": []
           },
@@ -25372,7 +25705,11 @@ const LEXICON_DATA =
             "concepto": "derecho (civil)",
             "pos": "sustantivo",
             "ipa": "[ken.ˈhi.pot]",
-            "origen": "forjado desde persa moderno, griego koiné, tibetano",
+            "origen": {
+              "lengua": "forjado desde persa moderno, griego koiné, tibetano",
+              "raiz_original": "forjado desde persa moderno, griego koiné, tibetano",
+              "corpus": "Forja léxica KFA (kalfirvach)"
+            },
             "transformacion": "score 44.6 — silabeo: ken.hí.pot",
             "derivaciones": []
           },
@@ -25381,7 +25718,11 @@ const LEXICON_DATA =
             "concepto": "deber / obligación",
             "pos": "sustantivo",
             "ipa": "[ˈfiːl.vi.zet]",
-            "origen": "forjado desde persa moderno, griego koiné, tibetano",
+            "origen": {
+              "lengua": "forjado desde persa moderno, griego koiné, tibetano",
+              "raiz_original": "forjado desde persa moderno, griego koiné, tibetano",
+              "corpus": "Forja léxica KFA (kalfirvach)"
+            },
             "transformacion": "score 44.4 — silabeo: fī́l.vi.zet",
             "derivaciones": []
           },
@@ -25390,7 +25731,11 @@ const LEXICON_DATA =
             "concepto": "libertad",
             "pos": "sustantivo",
             "ipa": "[ral.ˈwa.zan]",
-            "origen": "forjado desde persa moderno, griego koiné, tibetano",
+            "origen": {
+              "lengua": "forjado desde persa moderno, griego koiné, tibetano",
+              "raiz_original": "forjado desde persa moderno, griego koiné, tibetano",
+              "corpus": "Forja léxica KFA (kalfirvach)"
+            },
             "transformacion": "score 45.0 — silabeo: ral.wá.zan",
             "derivaciones": []
           },
@@ -25399,7 +25744,11 @@ const LEXICON_DATA =
             "concepto": "decisión",
             "pos": "sustantivo",
             "ipa": "[tim.ˈrek.sa]",
-            "origen": "forjado desde persa moderno, griego koiné, tibetano",
+            "origen": {
+              "lengua": "forjado desde persa moderno, griego koiné, tibetano",
+              "raiz_original": "forjado desde persa moderno, griego koiné, tibetano",
+              "corpus": "Forja léxica KFA (kalfirvach)"
+            },
             "transformacion": "score 44.5 — silabeo: tim.rék.sa",
             "derivaciones": []
           },
@@ -25408,7 +25757,11 @@ const LEXICON_DATA =
             "concepto": "ley",
             "pos": "sustantivo",
             "ipa": "[os.ˈmo.no]",
-            "origen": "forjado desde persa moderno, griego koiné, tibetano",
+            "origen": {
+              "lengua": "forjado desde persa moderno, griego koiné, tibetano",
+              "raiz_original": "forjado desde persa moderno, griego koiné, tibetano",
+              "corpus": "Forja léxica KFA (kalfirvach)"
+            },
             "transformacion": "score 36.9 — silabeo: os.mó.no",
             "derivaciones": []
           },
@@ -25417,7 +25770,11 @@ const LEXICON_DATA =
             "concepto": "justicia",
             "pos": "sustantivo",
             "ipa": "[ti.ˈlin.sok]",
-            "origen": "forjado desde persa moderno, griego koiné, tibetano",
+            "origen": {
+              "lengua": "forjado desde persa moderno, griego koiné, tibetano",
+              "raiz_original": "forjado desde persa moderno, griego koiné, tibetano",
+              "corpus": "Forja léxica KFA (kalfirvach)"
+            },
             "transformacion": "score 45.0 — silabeo: ti.lín.sok",
             "derivaciones": []
           },
@@ -25426,7 +25783,11 @@ const LEXICON_DATA =
             "concepto": "juez",
             "pos": "sustantivo",
             "ipa": "[mip.zo.ˈsiːt]",
-            "origen": "forjado desde persa moderno, griego koiné, tibetano",
+            "origen": {
+              "lengua": "forjado desde persa moderno, griego koiné, tibetano",
+              "raiz_original": "forjado desde persa moderno, griego koiné, tibetano",
+              "corpus": "Forja léxica KFA (kalfirvach)"
+            },
             "transformacion": "score 44.9 — silabeo: mip.zo.sī́t",
             "derivaciones": []
           },
@@ -25435,7 +25796,11 @@ const LEXICON_DATA =
             "concepto": "juzgar",
             "pos": "verbo",
             "ipa": "[zin.mit.ˈvoː]",
-            "origen": "forjado desde persa moderno, griego koiné, tibetano",
+            "origen": {
+              "lengua": "forjado desde persa moderno, griego koiné, tibetano",
+              "raiz_original": "forjado desde persa moderno, griego koiné, tibetano",
+              "corpus": "Forja léxica KFA (kalfirvach)"
+            },
             "transformacion": "score 44.9 — silabeo: zin.mit.vṓ",
             "derivaciones": []
           },
@@ -25444,7 +25809,11 @@ const LEXICON_DATA =
             "concepto": "culpa",
             "pos": "sustantivo",
             "ipa": "[ko.ˈta.han]",
-            "origen": "forjado desde persa moderno, griego koiné, tibetano",
+            "origen": {
+              "lengua": "forjado desde persa moderno, griego koiné, tibetano",
+              "raiz_original": "forjado desde persa moderno, griego koiné, tibetano",
+              "corpus": "Forja léxica KFA (kalfirvach)"
+            },
             "transformacion": "score 41.7 — silabeo: ko.tá.han",
             "derivaciones": []
           },
@@ -25453,7 +25822,11 @@ const LEXICON_DATA =
             "concepto": "sentencia / veredicto",
             "pos": "sustantivo",
             "ipa": "[ki.ˈmot.sip]",
-            "origen": "forjado desde persa moderno, griego koiné, tibetano",
+            "origen": {
+              "lengua": "forjado desde persa moderno, griego koiné, tibetano",
+              "raiz_original": "forjado desde persa moderno, griego koiné, tibetano",
+              "corpus": "Forja léxica KFA (kalfirvach)"
+            },
             "transformacion": "score 45.0 — silabeo: ki.mót.sip",
             "derivaciones": []
           },
@@ -25462,7 +25835,11 @@ const LEXICON_DATA =
             "concepto": "castigo",
             "pos": "sustantivo",
             "ipa": "[zem.ˈni.rot]",
-            "origen": "forjado desde persa moderno, griego koiné, tibetano",
+            "origen": {
+              "lengua": "forjado desde persa moderno, griego koiné, tibetano",
+              "raiz_original": "forjado desde persa moderno, griego koiné, tibetano",
+              "corpus": "Forja léxica KFA (kalfirvach)"
+            },
             "transformacion": "score 45.0 — silabeo: zem.ní.rot",
             "derivaciones": []
           },
@@ -25471,7 +25848,11 @@ const LEXICON_DATA =
             "concepto": "crimen / delito",
             "pos": "sustantivo",
             "ipa": "[kol.na.ˈmeː]",
-            "origen": "forjado desde persa moderno, griego koiné, tibetano",
+            "origen": {
+              "lengua": "forjado desde persa moderno, griego koiné, tibetano",
+              "raiz_original": "forjado desde persa moderno, griego koiné, tibetano",
+              "corpus": "Forja léxica KFA (kalfirvach)"
+            },
             "transformacion": "score 42.0 — silabeo: kol.na.mḗ",
             "derivaciones": []
           },
@@ -25480,7 +25861,11 @@ const LEXICON_DATA =
             "concepto": "multa",
             "pos": "sustantivo",
             "ipa": "[pat.ˈmi.ze]",
-            "origen": "forjado desde persa moderno, griego koiné, tibetano",
+            "origen": {
+              "lengua": "forjado desde persa moderno, griego koiné, tibetano",
+              "raiz_original": "forjado desde persa moderno, griego koiné, tibetano",
+              "corpus": "Forja léxica KFA (kalfirvach)"
+            },
             "transformacion": "score 42.0 — silabeo: pat.mí.ze",
             "derivaciones": []
           },
@@ -25489,7 +25874,11 @@ const LEXICON_DATA =
             "concepto": "prueba / evidencia",
             "pos": "sustantivo",
             "ipa": "[nor.ˈpi.dak]",
-            "origen": "forjado desde persa moderno, griego koiné, tibetano",
+            "origen": {
+              "lengua": "forjado desde persa moderno, griego koiné, tibetano",
+              "raiz_original": "forjado desde persa moderno, griego koiné, tibetano",
+              "corpus": "Forja léxica KFA (kalfirvach)"
+            },
             "transformacion": "score 45.0 — silabeo: nor.pí.dak",
             "derivaciones": []
           },
@@ -25498,7 +25887,11 @@ const LEXICON_DATA =
             "concepto": "testigo",
             "pos": "sustantivo",
             "ipa": "[mah.ˈdo.pos]",
-            "origen": "forjado desde persa moderno, griego koiné, tibetano",
+            "origen": {
+              "lengua": "forjado desde persa moderno, griego koiné, tibetano",
+              "raiz_original": "forjado desde persa moderno, griego koiné, tibetano",
+              "corpus": "Forja léxica KFA (kalfirvach)"
+            },
             "transformacion": "score 45.0 — silabeo: mah.dó.pos",
             "derivaciones": []
           },
@@ -25507,7 +25900,11 @@ const LEXICON_DATA =
             "concepto": "votar",
             "pos": "verbo",
             "ipa": "[dis.ˈte.zip]",
-            "origen": "forjado desde persa moderno, griego koiné, tibetano",
+            "origen": {
+              "lengua": "forjado desde persa moderno, griego koiné, tibetano",
+              "raiz_original": "forjado desde persa moderno, griego koiné, tibetano",
+              "corpus": "Forja léxica KFA (kalfirvach)"
+            },
             "transformacion": "score 44.9 — silabeo: dis.té.zip",
             "derivaciones": []
           },
@@ -25516,7 +25913,11 @@ const LEXICON_DATA =
             "concepto": "aprobar",
             "pos": "verbo",
             "ipa": "[to.ˈmoːk.ziːs]",
-            "origen": "forjado desde persa moderno, griego koiné, tibetano",
+            "origen": {
+              "lengua": "forjado desde persa moderno, griego koiné, tibetano",
+              "raiz_original": "forjado desde persa moderno, griego koiné, tibetano",
+              "corpus": "Forja léxica KFA (kalfirvach)"
+            },
             "transformacion": "score 44.8 — silabeo: to.mṓk.zīs",
             "derivaciones": []
           },
@@ -25525,7 +25926,11 @@ const LEXICON_DATA =
             "concepto": "prohibir",
             "pos": "verbo",
             "ipa": "[ˈoːn.tas.kel]",
-            "origen": "forjado desde persa moderno, griego koiné, tibetano",
+            "origen": {
+              "lengua": "forjado desde persa moderno, griego koiné, tibetano",
+              "raiz_original": "forjado desde persa moderno, griego koiné, tibetano",
+              "corpus": "Forja léxica KFA (kalfirvach)"
+            },
             "transformacion": "score 44.9 — silabeo: ṓn.tas.kel",
             "derivaciones": []
           },
@@ -25534,7 +25939,11 @@ const LEXICON_DATA =
             "concepto": "permitir",
             "pos": "verbo",
             "ipa": "[per.ˈzi.tok]",
-            "origen": "forjado desde persa moderno, griego koiné, tibetano",
+            "origen": {
+              "lengua": "forjado desde persa moderno, griego koiné, tibetano",
+              "raiz_original": "forjado desde persa moderno, griego koiné, tibetano",
+              "corpus": "Forja léxica KFA (kalfirvach)"
+            },
             "transformacion": "score 44.8 — silabeo: per.zí.tok",
             "derivaciones": []
           },
@@ -25543,7 +25952,11 @@ const LEXICON_DATA =
             "concepto": "acusar",
             "pos": "verbo",
             "ipa": "[ˈmoː.tes.roh]",
-            "origen": "forjado desde persa moderno, griego koiné, tibetano",
+            "origen": {
+              "lengua": "forjado desde persa moderno, griego koiné, tibetano",
+              "raiz_original": "forjado desde persa moderno, griego koiné, tibetano",
+              "corpus": "Forja léxica KFA (kalfirvach)"
+            },
             "transformacion": "score 44.9 — silabeo: mṓ.tes.roh",
             "derivaciones": []
           },
@@ -25552,7 +25965,11 @@ const LEXICON_DATA =
             "concepto": "defender / abogar",
             "pos": "verbo",
             "ipa": "[pes.ˈnom.do]",
-            "origen": "forjado desde persa moderno, griego koiné, tibetano",
+            "origen": {
+              "lengua": "forjado desde persa moderno, griego koiné, tibetano",
+              "raiz_original": "forjado desde persa moderno, griego koiné, tibetano",
+              "corpus": "Forja léxica KFA (kalfirvach)"
+            },
             "transformacion": "score 44.9 — silabeo: pes.nóm.do",
             "derivaciones": []
           },
@@ -25561,7 +25978,11 @@ const LEXICON_DATA =
             "concepto": "acuerdo / pacto",
             "pos": "sustantivo",
             "ipa": "[vit.ˈpas.fa]",
-            "origen": "forjado desde persa moderno, griego koiné, tibetano",
+            "origen": {
+              "lengua": "forjado desde persa moderno, griego koiné, tibetano",
+              "raiz_original": "forjado desde persa moderno, griego koiné, tibetano",
+              "corpus": "Forja léxica KFA (kalfirvach)"
+            },
             "transformacion": "score 44.9 — silabeo: vit.pás.fa",
             "derivaciones": []
           }

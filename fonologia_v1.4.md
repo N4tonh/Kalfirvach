@@ -1,12 +1,12 @@
 ---
-title: "Kalfírvach v1.4 — Fonología"
-version: v1.4
-date: 2026-06-06
+title: "Kalfírvach v1.5 — Fonología"
+version: v1.5
+date: 2026-06-20
 lang: es
 status: stable
 ---
 
-# KALFÍRVACH v1.4 — Fonología
+# KALFÍRVACH v1.5 — Fonología
 
 ## 1. Metodología de construcción
 
