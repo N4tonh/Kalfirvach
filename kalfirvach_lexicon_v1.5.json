@@ -2,7 +2,7 @@
   "kalfirvach_lexicon_v1.5": {
     "metadata": {
       "version": "1.5",
-      "total_entries": 1670,
+      "total_entries": 1723,
       "date_generated": "2026-06-20",
       "languages": [
         "Griego",
@@ -14,13 +14,13 @@
         "Egipcio"
       ],
       "writing_system": "Alfabeto griego politonico con arcaicas",
-      "last_updated": "2026-06-21",
+      "last_updated": "2026-06-22",
       "date_updated": "2026-06-21",
       "ipa_coverage": "100%",
       "schema_version": "v1.1",
       "total_categorias": 24,
       "normalized": true,
-      "total_entradas": 1670
+      "total_entradas": 1723
     },
     "categorias": {
       "pronombres_y_deicticos": {
@@ -26658,6 +26658,803 @@
               "corpus": "Forja léxica KFA (kalfirvach)"
             },
             "transformacion": "score 44.9 — silabeo: vit.pás.fa",
+            "derivaciones": []
+          }
+        ]
+      },
+      "postposiciones_y_casos": {
+        "nombre": "Postposicion",
+        "descripcion": "Afijos gramaticales: postposicion",
+        "entradas": [
+          {
+            "kalfirvach": "sya",
+            "pos": "suffix",
+            "concepto": "-sya: genitivo, posesión o pertenencia",
+            "ipa": "/sja/",
+            "origen": {
+              "lengua": "Sánscrito / Avestan",
+              "raiz_original": "Sánscrito -sya (genitivo singular); Avestan -sya (genitivo)",
+              "corpus": "gramática v1.5 §3.2"
+            },
+            "transformacion": [],
+            "derivaciones": []
+          },
+          {
+            "kalfirvach": "te",
+            "pos": "suffix",
+            "concepto": "-te: dativo, recipiente o destinatario",
+            "ipa": "/te/",
+            "origen": {
+              "lengua": "Sánscrito / Griego",
+              "raiz_original": "Sánscrito -te (terminación dativa); Griego -τε (enclítica)",
+              "corpus": "gramática v1.5 §3.2"
+            },
+            "transformacion": [],
+            "derivaciones": []
+          },
+          {
+            "kalfirvach": "ra",
+            "pos": "suffix",
+            "concepto": "-ra: ablativo, origen o procedencia",
+            "ipa": "/ra/",
+            "origen": {
+              "lengua": "Sánscrito / Persa",
+              "raiz_original": "Sánscrito -rāt (ablativo) → ra; Persa -ra (marcador de objeto definido)",
+              "corpus": "gramática v1.5 §3.2"
+            },
+            "transformacion": [],
+            "derivaciones": []
+          },
+          {
+            "kalfirvach": "na",
+            "pos": "suffix",
+            "concepto": "-na: locativo, posición o ubicación",
+            "ipa": "/na/",
+            "origen": {
+              "lengua": "Sánscrito / Tibetano",
+              "raiz_original": "Sánscrito -na (sufijo locativo); Tibetano -na (partícula locativa)",
+              "corpus": "gramática v1.5 §3.2"
+            },
+            "transformacion": [],
+            "derivaciones": [
+              "na- (negación, homógrafo prefijo aspectual)"
+            ]
+          },
+          {
+            "kalfirvach": "lo",
+            "pos": "suffix",
+            "concepto": "-lo: acusativo, objeto directo",
+            "ipa": "/lo/",
+            "origen": {
+              "lengua": "Griego / Sánscrito",
+              "raiz_original": "Griego -λον (-lon, sufijo de objeto); Sánscrito -lo (sufijo verbal de objeto)",
+              "corpus": "gramática v1.5 §3.2"
+            },
+            "transformacion": [],
+            "derivaciones": []
+          },
+          {
+            "kalfirvach": "o",
+            "concepto": "o: partícula vocativa, invocación directa ('oh')",
+            "pos": "particle",
+            "ipa": "/o/",
+            "origen": {
+              "lengua": "Griego / Sánscrito",
+              "raiz_original": "Griego ὦ (ô) 'oh' (vocativo); Sánscrito o (interjección vocativa)",
+              "corpus": "gramática v1.5 §1.7"
+            },
+            "transformacion": [],
+            "derivaciones": []
+          }
+        ]
+      },
+      "aspecto_verbal": {
+        "nombre": "Aspecto",
+        "descripcion": "Afijos gramaticales: aspecto",
+        "entradas": [
+          {
+            "kalfirvach": "su",
+            "pos": "prefix",
+            "concepto": "su-: perfectivo, acción completada",
+            "ipa": "/su/",
+            "origen": {
+              "lengua": "Sánscrito / Avestan",
+              "raiz_original": "Sánscrito su- 'bien, completamente'; Avestan hu-/su- 'bien'",
+              "corpus": "gramática v1.5 §3.3.3"
+            },
+            "transformacion": [],
+            "derivaciones": []
+          },
+          {
+            "kalfirvach": "ta",
+            "pos": "prefix",
+            "concepto": "ta-: habitual, acción repetitiva o acostumbrada",
+            "ipa": "/ta/",
+            "origen": {
+              "lengua": "Sánscrito / Tibetano",
+              "raiz_original": "Sánscrito -tá- (sufijo participio pasado → habitual); Tibetano -ta- (marcador habitual)",
+              "corpus": "gramática v1.5 §3.3.3"
+            },
+            "transformacion": [],
+            "derivaciones": []
+          },
+          {
+            "kalfirvach": "a",
+            "concepto": "a-: prefijo aspectual imperfectivo, acción en progreso",
+            "ipa": "/a/",
+            "pos": "prefix",
+            "origen": {
+              "lengua": "Sánscrito / Griego",
+              "raiz_original": "Sánscrito a- (aumentativo, marca pasado → imperfectivo); Griego ἐ- (aumento → imperfectivo)",
+              "corpus": "gramática v1.5 §3.3.3"
+            },
+            "transformacion": [
+              "Homógrafo del sufijo de presente -a (posición +1) — contexto posicional distingue"
+            ],
+            "derivaciones": [
+              "-a (sufijo de presente verbal, homógrafo en posición +1)"
+            ]
+          }
+        ]
+      },
+      "negacion": {
+        "nombre": "Negacion",
+        "descripcion": "Afijos gramaticales: negacion",
+        "entradas": [
+          {
+            "kalfirvach": "na",
+            "pos": "prefix",
+            "concepto": "na-: negación verbal (prefijo)",
+            "ipa": "/na/",
+            "origen": {
+              "lengua": "Sánscrito / Egipcio / Árabe / Avestan",
+              "raiz_original": "Sánscrito ná 'no'; Egipcio n/nḏ 'no'; Árabe lā → na; Avestan naē 'no'. 4 lenguas.",
+              "corpus": "gramática v1.5 §3.3.4"
+            },
+            "transformacion": [],
+            "derivaciones": [
+              "-na (locativo, homógrafo sufijo casual)"
+            ]
+          }
+        ]
+      },
+      "tiempo_magico": {
+        "nombre": "Tiempo Magico",
+        "descripcion": "Afijos gramaticales: tiempo magico",
+        "entradas": [
+          {
+            "kalfirvach": "chron",
+            "pos": "prefix",
+            "concepto": "chrón-: tiempo lineal, cronológico, mundano",
+            "ipa": "/xron/",
+            "origen": {
+              "lengua": "Griego",
+              "raiz_original": "Griego χρόνος (chrónos) 'tiempo secuencial'",
+              "corpus": "gramática v1.5 §3.3.2"
+            },
+            "transformacion": [
+              "chr- por /x/ adaptado a /kr/ en algunos dialectos"
+            ],
+            "derivaciones": []
+          },
+          {
+            "kalfirvach": "neh",
+            "pos": "prefix",
+            "concepto": "neh-: tiempo cíclico, eterno retorno",
+            "ipa": "/neh/",
+            "origen": {
+              "lengua": "Egipcio",
+              "raiz_original": "Egipcio nḥḥ (neheh) 'eternidad recurrente'",
+              "corpus": "gramática v1.5 §3.3.2"
+            },
+            "transformacion": [],
+            "derivaciones": []
+          }
+        ]
+      },
+      "fase_ritual": {
+        "nombre": "Fase Ritual",
+        "descripcion": "Afijos gramaticales: fase ritual",
+        "entradas": [
+          {
+            "kalfirvach": "pra",
+            "pos": "prefix",
+            "concepto": "pra-: fase de preparación o purificación ritual",
+            "ipa": "/pra/",
+            "origen": {
+              "lengua": "Griego / Persa",
+              "raiz_original": "Griego πρό (pro-) 'antes'; Persa par- 'preparar'",
+              "corpus": "gramática v1.5 §3.3.2"
+            },
+            "transformacion": [],
+            "derivaciones": []
+          },
+          {
+            "kalfirvach": "kal",
+            "pos": "prefix",
+            "concepto": "kal-: fase de invocación o llamado ritual",
+            "ipa": "/kal/",
+            "origen": {
+              "lengua": "Árabe / Persa",
+              "raiz_original": "Árabe qāla 'decir, invocar' → kal; Persa kalām 'palabra'",
+              "corpus": "gramática v1.5 §3.3.2"
+            },
+            "transformacion": [],
+            "derivaciones": [
+              "-kal (modo hipotético, sufijo homógrafo en posición +4)"
+            ]
+          },
+          {
+            "kalfirvach": "tel",
+            "pos": "prefix",
+            "concepto": "tél-: fase de culminación o realización",
+            "ipa": "/tel/",
+            "origen": {
+              "lengua": "Griego / Árabe",
+              "raiz_original": "Griego τέλος (télos) 'fin, culminación'; Árabe tamām 'completado'",
+              "corpus": "gramática v1.5 §3.3.2"
+            },
+            "transformacion": [],
+            "derivaciones": []
+          },
+          {
+            "kalfirvach": "sel",
+            "pos": "prefix",
+            "concepto": "sél-: fase de cierre o fijación ritual",
+            "ipa": "/sel/",
+            "origen": {
+              "lengua": "Persa / Egipcio",
+              "raiz_original": "Persa sal 'año/completo'; Egipcio sḥr 'sellar, fijar'",
+              "corpus": "gramática v1.5 §3.3.2"
+            },
+            "transformacion": [],
+            "derivaciones": []
+          }
+        ]
+      },
+      "tiempo_verbal": {
+        "nombre": "Tiempo Verbal",
+        "descripcion": "Afijos gramaticales: tiempo verbal",
+        "entradas": [
+          {
+            "kalfirvach": "a",
+            "pos": "suffix",
+            "concepto": "-a: presente, tiempo presente",
+            "ipa": "/a/",
+            "origen": {
+              "lengua": "Sánscrito / Griego",
+              "raiz_original": "Sánscrito -ati (3sg presente) → -a; Griego -ω (presente) → -a (reducción)",
+              "corpus": "gramática v1.5 §3.3.1"
+            },
+            "transformacion": [],
+            "derivaciones": [
+              "a- (imperfectivo, prefijo homógrafo en posición -1)"
+            ]
+          },
+          {
+            "kalfirvach": "i",
+            "pos": "suffix",
+            "concepto": "-i: pasado, tiempo pretérito",
+            "ipa": "/i/",
+            "origen": {
+              "lengua": "Sánscrito / Tibetano",
+              "raiz_original": "Sánscrito -ī (aoristo); Tibetano -ki (pasado) → -i",
+              "corpus": "gramática v1.5 §3.3.1"
+            },
+            "transformacion": [],
+            "derivaciones": []
+          },
+          {
+            "kalfirvach": "u",
+            "pos": "suffix",
+            "concepto": "-u: futuro, tiempo futuro",
+            "ipa": "/u/",
+            "origen": {
+              "lengua": "Sánscrito / Persa",
+              "raiz_original": "Sánscrito -iṣyati (futuro) → -u (reducción extrema); Persa -ad (futuro) → -u",
+              "corpus": "gramática v1.5 §3.3.1"
+            },
+            "transformacion": [],
+            "derivaciones": []
+          }
+        ]
+      },
+      "evidenciales": {
+        "nombre": "Evidencial",
+        "descripcion": "Afijos gramaticales: evidencial",
+        "entradas": [
+          {
+            "kalfirvach": "e",
+            "pos": "suffix",
+            "concepto": "-e: evidencial visual, conocimiento directo por percepción",
+            "ipa": "/e/",
+            "origen": {
+              "lengua": "Griego / Sánscrito",
+              "raiz_original": "Griego ὁράω (horáō) 'ver' → -e; Sánscrito ākṣi 'ojo' → -e",
+              "corpus": "gramática v1.5 §2.1"
+            },
+            "transformacion": [],
+            "derivaciones": []
+          },
+          {
+            "kalfirvach": "on",
+            "pos": "suffix",
+            "concepto": "-on: evidencial onírico, conocimiento recibido en sueños",
+            "ipa": "/on/",
+            "origen": {
+              "lengua": "Griego / Tibetano",
+              "raiz_original": "Griego ὄναρ (ónar) 'sueño' → on; Tibetano rmi.lam (milam) 'sueño' → -on",
+              "corpus": "gramática v1.5 §2.1"
+            },
+            "transformacion": [],
+            "derivaciones": []
+          },
+          {
+            "kalfirvach": "anu",
+            "pos": "suffix",
+            "concepto": "-anu: evidencial inferido, conocimiento por deducción",
+            "ipa": "/a.nu/",
+            "origen": {
+              "lengua": "Sánscrito / Persa",
+              "raiz_original": "Sánscrito anumāna 'inferencia' → anu; Persa danistan 'saber por deducción' → anu",
+              "corpus": "gramática v1.5 §2.1"
+            },
+            "transformacion": [],
+            "derivaciones": []
+          },
+          {
+            "kalfirvach": "wah",
+            "pos": "suffix",
+            "concepto": "-wah: evidencial revelado, conocimiento por revelación directa",
+            "ipa": "/wah/",
+            "origen": {
+              "lengua": "Árabe / Egipcio",
+              "raiz_original": "Árabe وحي (waḥy) 'revelación divina' → wah; Egipcio wḥꜣ 'revelar' → wah",
+              "corpus": "gramática v1.5 §2.1"
+            },
+            "transformacion": [],
+            "derivaciones": []
+          }
+        ]
+      },
+      "derivacion_verbal": {
+        "nombre": "Derivacion",
+        "descripcion": "Afijos gramaticales: derivacion",
+        "entradas": [
+          {
+            "kalfirvach": "an",
+            "pos": "suffix",
+            "concepto": "-an: infinitivo, nombre verbal ('el acto de…')",
+            "ipa": "/an/",
+            "origen": {
+              "lengua": "Sánscrito / Avestan",
+              "raiz_original": "Sánscrito -ana (nombre verbal); Avestan -ana",
+              "corpus": "gramática v1.5 §3.3.5"
+            },
+            "transformacion": [],
+            "derivaciones": []
+          },
+          {
+            "kalfirvach": "ant",
+            "pos": "suffix",
+            "concepto": "-ant: participio activo ('que hace, actuante')",
+            "ipa": "/ant/",
+            "origen": {
+              "lengua": "Sánscrito / Avestan",
+              "raiz_original": "Sánscrito -ant (participio presente); Avestan -ant",
+              "corpus": "gramática v1.5 §3.3.5"
+            },
+            "transformacion": [],
+            "derivaciones": []
+          },
+          {
+            "kalfirvach": "ro",
+            "pos": "suffix",
+            "concepto": "-ro: imperativo, modo de mandato directo",
+            "ipa": "/ro/",
+            "origen": {
+              "lengua": "Griego / Sánscrito",
+              "raiz_original": "Griego -ρω (imperativo); Sánscrito -ro (sufijo imperativo)",
+              "corpus": "gramática v1.5 §3.3.5"
+            },
+            "transformacion": [],
+            "derivaciones": []
+          },
+          {
+            "kalfirvach": "th",
+            "pos": "suffix",
+            "concepto": "-th: sufijo ordinal (eka → ekamith, dwi → dwith, etc.)",
+            "ipa": "/θ/",
+            "origen": {
+              "lengua": "Sánscrito / Griego",
+              "raiz_original": "Sánscrito -tha (ordinal); Griego -τος (-tos) → -th",
+              "corpus": "gramática v1.5 §3.5"
+            },
+            "transformacion": [],
+            "derivaciones": []
+          },
+          {
+            "kalfirvach": "ta",
+            "concepto": "-ta: participio resultativo o pasivo ('hecho, completado')",
+            "pos": "suffix",
+            "ipa": "/ta/",
+            "origen": {
+              "lengua": "Sánscrito / Avestan",
+              "raiz_original": "Sánscrito -ta (participio pasado); Avestan -ta",
+              "corpus": "gramática v1.5 §3.3.5"
+            },
+            "transformacion": [
+              "Homógrafo del demostrativo proximal ta (este/esta) — contexto morfológico distingue"
+            ],
+            "derivaciones": [
+              "ta- (prefijo aspectual habitual, homógrafo en posición -1)"
+            ]
+          }
+        ]
+      },
+      "actitudinales_rituales": {
+        "nombre": "Actitudinal",
+        "descripcion": "Afijos gramaticales: actitudinal",
+        "entradas": [
+          {
+            "kalfirvach": "tuf",
+            "pos": "suffix",
+            "concepto": "-tuf: actitudinal de desafío, resistencia o asedio",
+            "ipa": "/tuf/",
+            "origen": {
+              "lengua": "Árabe / Persa",
+              "raiz_original": "Árabe طوف (ṭūf) 'circuito, asedio'; Persa طوفان (ṭūfān) 'tormenta'",
+              "corpus": "gramática v1.5 §2.2.1"
+            },
+            "transformacion": [],
+            "derivaciones": []
+          },
+          {
+            "kalfirvach": "al",
+            "pos": "suffix",
+            "concepto": "-al: actitudinal de certeza mágica, verdad gnóstica",
+            "ipa": "/al/",
+            "origen": {
+              "lengua": "Griego / Árabe",
+              "raiz_original": "Griego ἀλήθεια (alētheia) 'verdad' → al; Árabe الحق (al-ḥaqq) 'la Verdad' → al",
+              "corpus": "gramática v1.5 §2.2.1"
+            },
+            "transformacion": [],
+            "derivaciones": []
+          },
+          {
+            "kalfirvach": "has",
+            "pos": "suffix",
+            "concepto": "-has: actitudinal de ironía sagrada, risa divina",
+            "ipa": "/has/",
+            "origen": {
+              "lengua": "Sánscrito / Tibetano",
+              "raiz_original": "Sánscrito हास्य (hāsya) 'risa ritual' → has; Tibetano bzhad.pa 'reír' → has",
+              "corpus": "gramática v1.5 §2.2.1"
+            },
+            "transformacion": [],
+            "derivaciones": []
+          },
+          {
+            "kalfirvach": "nand",
+            "pos": "suffix",
+            "concepto": "-nand: actitudinal de alegría, gozo o deleite",
+            "ipa": "/nand/",
+            "origen": {
+              "lengua": "Sánscrito / Avestan",
+              "raiz_original": "Sánscrito nanda 'gozo'; Avestan nand- (raíz IE *ned- 'regocijarse')",
+              "corpus": "gramática v1.5 §2.2.2"
+            },
+            "transformacion": [],
+            "derivaciones": []
+          },
+          {
+            "kalfirvach": "shok",
+            "pos": "suffix",
+            "concepto": "-shok: actitudinal de tristeza, duelo o melancolía",
+            "ipa": "/ʃok/",
+            "origen": {
+              "lengua": "Sánscrito / Avestan",
+              "raiz_original": "Sánscrito śoka 'pena'; Avestan saok- 'quemar' (pena que quema)",
+              "corpus": "gramática v1.5 §2.2.2"
+            },
+            "transformacion": [],
+            "derivaciones": []
+          },
+          {
+            "kalfirvach": "bay",
+            "pos": "suffix",
+            "concepto": "-bay: actitudinal de miedo, temor o aprensión",
+            "ipa": "/baj/",
+            "origen": {
+              "lengua": "Sánscrito / Avestan",
+              "raiz_original": "Sánscrito bhaya 'miedo'; Avestan baya- (raíz IE *bheyh₂- 'temer')",
+              "corpus": "gramática v1.5 §2.2.2"
+            },
+            "transformacion": [],
+            "derivaciones": []
+          },
+          {
+            "kalfirvach": "krod",
+            "pos": "suffix",
+            "concepto": "-krod: actitudinal de ira, furia o indignación",
+            "ipa": "/krod/",
+            "origen": {
+              "lengua": "Sánscrito / Avestan",
+              "raiz_original": "Sánscrito krodha 'ira'; Avestan khrōdha- (raíz IE compartida)",
+              "corpus": "gramática v1.5 §2.2.2"
+            },
+            "transformacion": [],
+            "derivaciones": []
+          },
+          {
+            "kalfirvach": "vismay",
+            "pos": "suffix",
+            "concepto": "-vismay: actitudinal de asombro, sorpresa o maravilla",
+            "ipa": "/ˈwis.maj/",
+            "origen": {
+              "lengua": "Sánscrito / Persa",
+              "raiz_original": "Sánscrito vismaya 'asombro'; Persa vismā (misma raíz IE)",
+              "corpus": "gramática v1.5 §2.2.2"
+            },
+            "transformacion": [],
+            "derivaciones": []
+          },
+          {
+            "kalfirvach": "viras",
+            "pos": "suffix",
+            "concepto": "-viras: actitudinal de disgusto, repulsión o rechazo",
+            "ipa": "/ˈwi.ras/",
+            "origen": {
+              "lengua": "Sánscrito / Persa",
+              "raiz_original": "Sánscrito virasa 'repulsivo'; Persa bī-ras 'sin sabor'",
+              "corpus": "gramática v1.5 §2.2.2"
+            },
+            "transformacion": [],
+            "derivaciones": []
+          },
+          {
+            "kalfirvach": "shant",
+            "pos": "suffix",
+            "concepto": "-shant: actitudinal de calma, paz o serenidad",
+            "ipa": "/ʃant/",
+            "origen": {
+              "lengua": "Sánscrito / Avestan",
+              "raiz_original": "Sánscrito śānti 'paz'; Avestan spanta- 'sagrado, pacífico'",
+              "corpus": "gramática v1.5 §2.2.2"
+            },
+            "transformacion": [],
+            "derivaciones": []
+          }
+        ]
+      },
+      "actitudinales_prometeicos": {
+        "nombre": "Actitudinal Prometeico",
+        "descripcion": "Afijos gramaticales: actitudinal prometeico",
+        "entradas": [
+          {
+            "kalfirvach": "gar",
+            "pos": "suffix",
+            "concepto": "-gar: actitudinal de orgullo justo, dignidad, excelencia",
+            "ipa": "/gar/",
+            "origen": {
+              "lengua": "Persa / Árabe",
+              "raiz_original": "Persa gharur 'orgullo'; Árabe ghurūr 'orgullo, autoconocimiento' → gar",
+              "corpus": "gramática v1.5 §2.2.3"
+            },
+            "transformacion": [
+              "No confundir con gar**p** (orgullo sustantivo)"
+            ],
+            "derivaciones": []
+          },
+          {
+            "kalfirvach": "ek",
+            "pos": "suffix",
+            "concepto": "-ék: actitudinal de trascendencia, éxtasis, estar fuera de sí",
+            "ipa": "/ek/",
+            "origen": {
+              "lengua": "Griego / Egipcio",
+              "raiz_original": "Griego ἔκστασις (ékstasis) 'éxtasis'; Egipcio Ꜣḫ (akh) 'espíritu transfigurado' → ék",
+              "corpus": "gramática v1.5 §2.2.3"
+            },
+            "transformacion": [],
+            "derivaciones": [
+              "-hék (autoridad hierática: -h + -ék?)"
+            ]
+          },
+          {
+            "kalfirvach": "wil",
+            "pos": "suffix",
+            "concepto": "-wíl: actitudinal de voluntad, determinación inquebrantable",
+            "ipa": "/wil/",
+            "origen": {
+              "lengua": "Persa / Griego",
+              "raiz_original": "Persa wilāyat 'autoridad, voluntad soberana'; Griego βουλή (boulḗ) 'voluntad'",
+              "corpus": "gramática v1.5 §2.2.3"
+            },
+            "transformacion": [],
+            "derivaciones": []
+          },
+          {
+            "kalfirvach": "azaz",
+            "pos": "suffix",
+            "concepto": "-azáz: actitudinal de liberación, rebelión consciente",
+            "ipa": "/a.zaz/",
+            "origen": {
+              "lengua": "Árabe / Egipcio",
+              "raiz_original": "Árabe ʿazīz 'poderoso, libre'; Egipcio ꜤsꜢ 'rebelarse' → az (reduplicación)",
+              "corpus": "gramática v1.5 §2.2.3"
+            },
+            "transformacion": [],
+            "derivaciones": []
+          },
+          {
+            "kalfirvach": "soph",
+            "pos": "suffix",
+            "concepto": "-soph: actitudinal de sabiduría, gnosis, conocimiento esotérico",
+            "ipa": "/sof/",
+            "origen": {
+              "lengua": "Griego / Persa",
+              "raiz_original": "Griego σοφία (sophía) 'sabiduría'; Persa saf 'puro, sabio esotérico'",
+              "corpus": "gramática v1.5 §2.2.3"
+            },
+            "transformacion": [],
+            "derivaciones": []
+          },
+          {
+            "kalfirvach": "lux",
+            "pos": "suffix",
+            "concepto": "-lúx: actitudinal de anhelo de luz, iluminación, deseo de trascender",
+            "ipa": "/luks/",
+            "origen": {
+              "lengua": "Griego / Persa",
+              "raiz_original": "Griego λυχνία (lychnía) 'luz, revelación' → lúx; Persa raxš 'luz, brillo' → lúx",
+              "corpus": "gramática v1.5 §2.2.3"
+            },
+            "transformacion": [],
+            "derivaciones": []
+          },
+          {
+            "kalfirvach": "sig",
+            "pos": "suffix",
+            "concepto": "-síg: actitudinal de silencio gnóstico, plenitud en reposo",
+            "ipa": "/sig/",
+            "origen": {
+              "lengua": "Árabe / Griego",
+              "raiz_original": "Árabe sakīna 'presencia divina, paz interior' → síg; Griego σιγή (sigḗ) 'silencio'",
+              "corpus": "gramática v1.5 §2.2.3"
+            },
+            "transformacion": [],
+            "derivaciones": []
+          }
+        ]
+      },
+      "modo_realidad": {
+        "nombre": "Modo Realidad",
+        "descripcion": "Afijos gramaticales: modo realidad",
+        "entradas": [
+          {
+            "kalfirvach": "som",
+            "pos": "suffix",
+            "concepto": "-som: modo realidad físico, plano material",
+            "ipa": "/som/",
+            "origen": {
+              "lengua": "Griego / Sánscrito",
+              "raiz_original": "Griego σῶμα (sōma) 'cuerpo'; Sánscrito सोम (soma) 'jugo ritual, encarnación física'",
+              "corpus": "gramática v1.5 §2.3"
+            },
+            "transformacion": [],
+            "derivaciones": []
+          },
+          {
+            "kalfirvach": "ast",
+            "pos": "suffix",
+            "concepto": "-ast: modo realidad astral, plano sutil",
+            "ipa": "/ast/",
+            "origen": {
+              "lengua": "Griego / Sánscrito",
+              "raiz_original": "Griego ἀστήρ (astēr) 'estrella' → ast; Sánscrito अस्त्र (astra) 'arma ritual, proyección'",
+              "corpus": "gramática v1.5 §2.3"
+            },
+            "transformacion": [],
+            "derivaciones": []
+          },
+          {
+            "kalfirvach": "kal",
+            "pos": "suffix",
+            "concepto": "-kal: modo realidad hipotético, especulativo o posible",
+            "ipa": "/kal/",
+            "origen": {
+              "lengua": "Sánscrito / Persa",
+              "raiz_original": "Sánscrito कल्पना (kalpanā) 'imaginación, hipótesis'; Persa کالبد (kālbod) 'cuerpo sutil'",
+              "corpus": "gramática v1.5 §2.3"
+            },
+            "transformacion": [],
+            "derivaciones": [
+              "kal- (prefijo de invocación ritual, homógrafo en posición -2)"
+            ]
+          },
+          {
+            "kalfirvach": "poi",
+            "pos": "suffix",
+            "concepto": "-poi: modo realidad performativo, decir es hacer",
+            "ipa": "/poi/",
+            "origen": {
+              "lengua": "Griego / Sánscrito",
+              "raiz_original": "Griego ποιέω (poieō) 'hacer, crear'; Sánscrito पुरोहित (purohita) 'sacerdote' → poi",
+              "corpus": "gramática v1.5 §2.3"
+            },
+            "transformacion": [
+              "El léxico pre-v1.5 registra -poyit como variante ortográfica"
+            ],
+            "derivaciones": []
+          }
+        ]
+      },
+      "registro_hieratico": {
+        "nombre": "Registro",
+        "descripcion": "Afijos gramaticales: registro",
+        "entradas": [
+          {
+            "kalfirvach": "h",
+            "pos": "suffix",
+            "concepto": "-h: registro hierático, marca de lenguaje sacro o iniciático",
+            "ipa": "/h/",
+            "origen": {
+              "lengua": "Egipcio / Árabe",
+              "raiz_original": "Egipcio ḥ (marca de hierático); Árabe h (sufijo de pausa sagrada)",
+              "corpus": "gramática v1.5 §1.3"
+            },
+            "transformacion": [
+              "Posiblemente alomorfo de -hék (autoridad hierática)"
+            ],
+            "derivaciones": [
+              "-hék: autoridad hierática (sello ritual)"
+            ]
+          }
+        ]
+      },
+      "tiempo_astrologico": {
+        "nombre": "Tiempo Astrologico",
+        "descripcion": "Afijos gramaticales: tiempo astrologico",
+        "entradas": [
+          {
+            "kalfirvach": "din",
+            "pos": "suffix",
+            "concepto": "-dín: tiempo astrológico diurno, en el día/tiempo de",
+            "ipa": "/din/",
+            "origen": {
+              "lengua": "Persa / Árabe",
+              "raiz_original": "Persa din 'día, tiempo'; Árabe dīn 'ciclo'",
+              "corpus": "gramática v1.5 §3.3.2"
+            },
+            "transformacion": [],
+            "derivaciones": []
+          },
+          {
+            "kalfirvach": "sol",
+            "pos": "suffix",
+            "concepto": "-sól: tiempo astrológico solar, posición solar",
+            "ipa": "/sol/",
+            "origen": {
+              "lengua": "Extensión de nūros 'luz'",
+              "raiz_original": "nūros 'luz' → temporalidad solar (gramática v1.5)",
+              "corpus": "gramática v1.5 §3.3.2"
+            },
+            "transformacion": [],
+            "derivaciones": []
+          },
+          {
+            "kalfirvach": "djet",
+            "pos": "suffix",
+            "concepto": "-djet: tiempo estático, permanencia, eternidad inmutable",
+            "ipa": "/d͡ʒet/",
+            "origen": {
+              "lengua": "Egipcio",
+              "raiz_original": "Egipcio ḏt (djet) 'eternidad estática'",
+              "corpus": "gramática v1.5 §3.3.2"
+            },
+            "transformacion": [],
             "derivaciones": []
           }
         ]

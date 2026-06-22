@@ -1,7 +1,7 @@
 # Léxico Kalfírvach v1.5
 
 **Versión**: 1.5
-**Entradas**: 1670
+**Entradas**: 1723
 **Generado**: 2026-06-22
 **Lenguas fuente**: Griego, Sanscrito, Avestan, Persa, Tibetano, Arabe, Egipcio
 **Sistema de escritura**: Alfabeto griego politonico con arcaicas
@@ -29423,5 +29423,806 @@ Tibetano sa-bon 'semilla'
 
 - Skt gupta → KFA gup (aféresis de -ta)
 - Árabe sirr → refuerzo semántico (3ª fuente: Hebreo sod 'secreto')
+
+---
+
+## Actitudinales Prometeicos
+
+_Afijos gramaticales: actitudinal prometeico_
+
+### gar
+
+- **Concepto**: -gar: actitudinal de orgullo justo, dignidad, excelencia
+- **IPA**: /gar/
+
+#### Origen
+
+- **Lengua**: Persa / Árabe
+- **Raíz original**: Persa gharur 'orgullo'; Árabe ghurūr 'orgullo, autoconocimiento' → gar
+- **Corpus**: gramática v1.5 §2.2.3
+
+#### Transformación
+
+- No confundir con gar**p** (orgullo sustantivo)
+
+---
+
+### ek
+
+- **Concepto**: -ék: actitudinal de trascendencia, éxtasis, estar fuera de sí
+- **IPA**: /ek/
+
+#### Origen
+
+- **Lengua**: Griego / Egipcio
+- **Raíz original**: Griego ἔκστασις (ékstasis) 'éxtasis'; Egipcio Ꜣḫ (akh) 'espíritu transfigurado' → ék
+- **Corpus**: gramática v1.5 §2.2.3
+
+#### Derivaciones
+
+- -hék (autoridad hierática: -h + -ék?)
+
+---
+
+### wil
+
+- **Concepto**: -wíl: actitudinal de voluntad, determinación inquebrantable
+- **IPA**: /wil/
+
+#### Origen
+
+- **Lengua**: Persa / Griego
+- **Raíz original**: Persa wilāyat 'autoridad, voluntad soberana'; Griego βουλή (boulḗ) 'voluntad'
+- **Corpus**: gramática v1.5 §2.2.3
+
+---
+
+### azaz
+
+- **Concepto**: -azáz: actitudinal de liberación, rebelión consciente
+- **IPA**: /a.zaz/
+
+#### Origen
+
+- **Lengua**: Árabe / Egipcio
+- **Raíz original**: Árabe ʿazīz 'poderoso, libre'; Egipcio ꜤsꜢ 'rebelarse' → az (reduplicación)
+- **Corpus**: gramática v1.5 §2.2.3
+
+---
+
+### soph
+
+- **Concepto**: -soph: actitudinal de sabiduría, gnosis, conocimiento esotérico
+- **IPA**: /sof/
+
+#### Origen
+
+- **Lengua**: Griego / Persa
+- **Raíz original**: Griego σοφία (sophía) 'sabiduría'; Persa saf 'puro, sabio esotérico'
+- **Corpus**: gramática v1.5 §2.2.3
+
+---
+
+### lux
+
+- **Concepto**: -lúx: actitudinal de anhelo de luz, iluminación, deseo de trascender
+- **IPA**: /luks/
+
+#### Origen
+
+- **Lengua**: Griego / Persa
+- **Raíz original**: Griego λυχνία (lychnía) 'luz, revelación' → lúx; Persa raxš 'luz, brillo' → lúx
+- **Corpus**: gramática v1.5 §2.2.3
+
+---
+
+### sig
+
+- **Concepto**: -síg: actitudinal de silencio gnóstico, plenitud en reposo
+- **IPA**: /sig/
+
+#### Origen
+
+- **Lengua**: Árabe / Griego
+- **Raíz original**: Árabe sakīna 'presencia divina, paz interior' → síg; Griego σιγή (sigḗ) 'silencio'
+- **Corpus**: gramática v1.5 §2.2.3
+
+---
+
+## Actitudinales Rituales
+
+_Afijos gramaticales: actitudinal_
+
+### tuf
+
+- **Concepto**: -tuf: actitudinal de desafío, resistencia o asedio
+- **IPA**: /tuf/
+
+#### Origen
+
+- **Lengua**: Árabe / Persa
+- **Raíz original**: Árabe طوف (ṭūf) 'circuito, asedio'; Persa طوفان (ṭūfān) 'tormenta'
+- **Corpus**: gramática v1.5 §2.2.1
+
+---
+
+### al
+
+- **Concepto**: -al: actitudinal de certeza mágica, verdad gnóstica
+- **IPA**: /al/
+
+#### Origen
+
+- **Lengua**: Griego / Árabe
+- **Raíz original**: Griego ἀλήθεια (alētheia) 'verdad' → al; Árabe الحق (al-ḥaqq) 'la Verdad' → al
+- **Corpus**: gramática v1.5 §2.2.1
+
+---
+
+### has
+
+- **Concepto**: -has: actitudinal de ironía sagrada, risa divina
+- **IPA**: /has/
+
+#### Origen
+
+- **Lengua**: Sánscrito / Tibetano
+- **Raíz original**: Sánscrito हास्य (hāsya) 'risa ritual' → has; Tibetano bzhad.pa 'reír' → has
+- **Corpus**: gramática v1.5 §2.2.1
+
+---
+
+### nand
+
+- **Concepto**: -nand: actitudinal de alegría, gozo o deleite
+- **IPA**: /nand/
+
+#### Origen
+
+- **Lengua**: Sánscrito / Avestan
+- **Raíz original**: Sánscrito nanda 'gozo'; Avestan nand- (raíz IE *ned- 'regocijarse')
+- **Corpus**: gramática v1.5 §2.2.2
+
+---
+
+### shok
+
+- **Concepto**: -shok: actitudinal de tristeza, duelo o melancolía
+- **IPA**: /ʃok/
+
+#### Origen
+
+- **Lengua**: Sánscrito / Avestan
+- **Raíz original**: Sánscrito śoka 'pena'; Avestan saok- 'quemar' (pena que quema)
+- **Corpus**: gramática v1.5 §2.2.2
+
+---
+
+### bay
+
+- **Concepto**: -bay: actitudinal de miedo, temor o aprensión
+- **IPA**: /baj/
+
+#### Origen
+
+- **Lengua**: Sánscrito / Avestan
+- **Raíz original**: Sánscrito bhaya 'miedo'; Avestan baya- (raíz IE *bheyh₂- 'temer')
+- **Corpus**: gramática v1.5 §2.2.2
+
+---
+
+### krod
+
+- **Concepto**: -krod: actitudinal de ira, furia o indignación
+- **IPA**: /krod/
+
+#### Origen
+
+- **Lengua**: Sánscrito / Avestan
+- **Raíz original**: Sánscrito krodha 'ira'; Avestan khrōdha- (raíz IE compartida)
+- **Corpus**: gramática v1.5 §2.2.2
+
+---
+
+### vismay
+
+- **Concepto**: -vismay: actitudinal de asombro, sorpresa o maravilla
+- **IPA**: /ˈwis.maj/
+
+#### Origen
+
+- **Lengua**: Sánscrito / Persa
+- **Raíz original**: Sánscrito vismaya 'asombro'; Persa vismā (misma raíz IE)
+- **Corpus**: gramática v1.5 §2.2.2
+
+---
+
+### viras
+
+- **Concepto**: -viras: actitudinal de disgusto, repulsión o rechazo
+- **IPA**: /ˈwi.ras/
+
+#### Origen
+
+- **Lengua**: Sánscrito / Persa
+- **Raíz original**: Sánscrito virasa 'repulsivo'; Persa bī-ras 'sin sabor'
+- **Corpus**: gramática v1.5 §2.2.2
+
+---
+
+### shant
+
+- **Concepto**: -shant: actitudinal de calma, paz o serenidad
+- **IPA**: /ʃant/
+
+#### Origen
+
+- **Lengua**: Sánscrito / Avestan
+- **Raíz original**: Sánscrito śānti 'paz'; Avestan spanta- 'sagrado, pacífico'
+- **Corpus**: gramática v1.5 §2.2.2
+
+---
+
+## Aspecto Verbal
+
+_Afijos gramaticales: aspecto_
+
+### su
+
+- **Concepto**: su-: perfectivo, acción completada
+- **IPA**: /su/
+
+#### Origen
+
+- **Lengua**: Sánscrito / Avestan
+- **Raíz original**: Sánscrito su- 'bien, completamente'; Avestan hu-/su- 'bien'
+- **Corpus**: gramática v1.5 §3.3.3
+
+---
+
+### ta
+
+- **Concepto**: ta-: habitual, acción repetitiva o acostumbrada
+- **IPA**: /ta/
+
+#### Origen
+
+- **Lengua**: Sánscrito / Tibetano
+- **Raíz original**: Sánscrito -tá- (sufijo participio pasado → habitual); Tibetano -ta- (marcador habitual)
+- **Corpus**: gramática v1.5 §3.3.3
+
+---
+
+### a
+
+- **Concepto**: a-: prefijo aspectual imperfectivo, acción en progreso
+- **IPA**: /a/
+
+#### Origen
+
+- **Lengua**: Sánscrito / Griego
+- **Raíz original**: Sánscrito a- (aumentativo, marca pasado → imperfectivo); Griego ἐ- (aumento → imperfectivo)
+- **Corpus**: gramática v1.5 §3.3.3
+
+#### Transformación
+
+- Homógrafo del sufijo de presente -a (posición +1) — contexto posicional distingue
+
+#### Derivaciones
+
+- -a (sufijo de presente verbal, homógrafo en posición +1)
+
+---
+
+## Derivacion Verbal
+
+_Afijos gramaticales: derivacion_
+
+### an
+
+- **Concepto**: -an: infinitivo, nombre verbal ('el acto de…')
+- **IPA**: /an/
+
+#### Origen
+
+- **Lengua**: Sánscrito / Avestan
+- **Raíz original**: Sánscrito -ana (nombre verbal); Avestan -ana
+- **Corpus**: gramática v1.5 §3.3.5
+
+---
+
+### ant
+
+- **Concepto**: -ant: participio activo ('que hace, actuante')
+- **IPA**: /ant/
+
+#### Origen
+
+- **Lengua**: Sánscrito / Avestan
+- **Raíz original**: Sánscrito -ant (participio presente); Avestan -ant
+- **Corpus**: gramática v1.5 §3.3.5
+
+---
+
+### ro
+
+- **Concepto**: -ro: imperativo, modo de mandato directo
+- **IPA**: /ro/
+
+#### Origen
+
+- **Lengua**: Griego / Sánscrito
+- **Raíz original**: Griego -ρω (imperativo); Sánscrito -ro (sufijo imperativo)
+- **Corpus**: gramática v1.5 §3.3.5
+
+---
+
+### th
+
+- **Concepto**: -th: sufijo ordinal (eka → ekamith, dwi → dwith, etc.)
+- **IPA**: /θ/
+
+#### Origen
+
+- **Lengua**: Sánscrito / Griego
+- **Raíz original**: Sánscrito -tha (ordinal); Griego -τος (-tos) → -th
+- **Corpus**: gramática v1.5 §3.5
+
+---
+
+### ta
+
+- **Concepto**: -ta: participio resultativo o pasivo ('hecho, completado')
+- **IPA**: /ta/
+
+#### Origen
+
+- **Lengua**: Sánscrito / Avestan
+- **Raíz original**: Sánscrito -ta (participio pasado); Avestan -ta
+- **Corpus**: gramática v1.5 §3.3.5
+
+#### Transformación
+
+- Homógrafo del demostrativo proximal ta (este/esta) — contexto morfológico distingue
+
+#### Derivaciones
+
+- ta- (prefijo aspectual habitual, homógrafo en posición -1)
+
+---
+
+## Evidenciales
+
+_Afijos gramaticales: evidencial_
+
+### e
+
+- **Concepto**: -e: evidencial visual, conocimiento directo por percepción
+- **IPA**: /e/
+
+#### Origen
+
+- **Lengua**: Griego / Sánscrito
+- **Raíz original**: Griego ὁράω (horáō) 'ver' → -e; Sánscrito ākṣi 'ojo' → -e
+- **Corpus**: gramática v1.5 §2.1
+
+---
+
+### on
+
+- **Concepto**: -on: evidencial onírico, conocimiento recibido en sueños
+- **IPA**: /on/
+
+#### Origen
+
+- **Lengua**: Griego / Tibetano
+- **Raíz original**: Griego ὄναρ (ónar) 'sueño' → on; Tibetano rmi.lam (milam) 'sueño' → -on
+- **Corpus**: gramática v1.5 §2.1
+
+---
+
+### anu
+
+- **Concepto**: -anu: evidencial inferido, conocimiento por deducción
+- **IPA**: /a.nu/
+
+#### Origen
+
+- **Lengua**: Sánscrito / Persa
+- **Raíz original**: Sánscrito anumāna 'inferencia' → anu; Persa danistan 'saber por deducción' → anu
+- **Corpus**: gramática v1.5 §2.1
+
+---
+
+### wah
+
+- **Concepto**: -wah: evidencial revelado, conocimiento por revelación directa
+- **IPA**: /wah/
+
+#### Origen
+
+- **Lengua**: Árabe / Egipcio
+- **Raíz original**: Árabe وحي (waḥy) 'revelación divina' → wah; Egipcio wḥꜣ 'revelar' → wah
+- **Corpus**: gramática v1.5 §2.1
+
+---
+
+## Fase Ritual
+
+_Afijos gramaticales: fase ritual_
+
+### pra
+
+- **Concepto**: pra-: fase de preparación o purificación ritual
+- **IPA**: /pra/
+
+#### Origen
+
+- **Lengua**: Griego / Persa
+- **Raíz original**: Griego πρό (pro-) 'antes'; Persa par- 'preparar'
+- **Corpus**: gramática v1.5 §3.3.2
+
+---
+
+### kal
+
+- **Concepto**: kal-: fase de invocación o llamado ritual
+- **IPA**: /kal/
+
+#### Origen
+
+- **Lengua**: Árabe / Persa
+- **Raíz original**: Árabe qāla 'decir, invocar' → kal; Persa kalām 'palabra'
+- **Corpus**: gramática v1.5 §3.3.2
+
+#### Derivaciones
+
+- -kal (modo hipotético, sufijo homógrafo en posición +4)
+
+---
+
+### tel
+
+- **Concepto**: tél-: fase de culminación o realización
+- **IPA**: /tel/
+
+#### Origen
+
+- **Lengua**: Griego / Árabe
+- **Raíz original**: Griego τέλος (télos) 'fin, culminación'; Árabe tamām 'completado'
+- **Corpus**: gramática v1.5 §3.3.2
+
+---
+
+### sel
+
+- **Concepto**: sél-: fase de cierre o fijación ritual
+- **IPA**: /sel/
+
+#### Origen
+
+- **Lengua**: Persa / Egipcio
+- **Raíz original**: Persa sal 'año/completo'; Egipcio sḥr 'sellar, fijar'
+- **Corpus**: gramática v1.5 §3.3.2
+
+---
+
+## Modo Realidad
+
+_Afijos gramaticales: modo realidad_
+
+### som
+
+- **Concepto**: -som: modo realidad físico, plano material
+- **IPA**: /som/
+
+#### Origen
+
+- **Lengua**: Griego / Sánscrito
+- **Raíz original**: Griego σῶμα (sōma) 'cuerpo'; Sánscrito सोम (soma) 'jugo ritual, encarnación física'
+- **Corpus**: gramática v1.5 §2.3
+
+---
+
+### ast
+
+- **Concepto**: -ast: modo realidad astral, plano sutil
+- **IPA**: /ast/
+
+#### Origen
+
+- **Lengua**: Griego / Sánscrito
+- **Raíz original**: Griego ἀστήρ (astēr) 'estrella' → ast; Sánscrito अस्त्र (astra) 'arma ritual, proyección'
+- **Corpus**: gramática v1.5 §2.3
+
+---
+
+### kal
+
+- **Concepto**: -kal: modo realidad hipotético, especulativo o posible
+- **IPA**: /kal/
+
+#### Origen
+
+- **Lengua**: Sánscrito / Persa
+- **Raíz original**: Sánscrito कल्पना (kalpanā) 'imaginación, hipótesis'; Persa کالبد (kālbod) 'cuerpo sutil'
+- **Corpus**: gramática v1.5 §2.3
+
+#### Derivaciones
+
+- kal- (prefijo de invocación ritual, homógrafo en posición -2)
+
+---
+
+### poi
+
+- **Concepto**: -poi: modo realidad performativo, decir es hacer
+- **IPA**: /poi/
+
+#### Origen
+
+- **Lengua**: Griego / Sánscrito
+- **Raíz original**: Griego ποιέω (poieō) 'hacer, crear'; Sánscrito पुरोहित (purohita) 'sacerdote' → poi
+- **Corpus**: gramática v1.5 §2.3
+
+#### Transformación
+
+- El léxico pre-v1.5 registra -poyit como variante ortográfica
+
+---
+
+## Negacion
+
+_Afijos gramaticales: negacion_
+
+### na
+
+- **Concepto**: na-: negación verbal (prefijo)
+- **IPA**: /na/
+
+#### Origen
+
+- **Lengua**: Sánscrito / Egipcio / Árabe / Avestan
+- **Raíz original**: Sánscrito ná 'no'; Egipcio n/nḏ 'no'; Árabe lā → na; Avestan naē 'no'. 4 lenguas.
+- **Corpus**: gramática v1.5 §3.3.4
+
+#### Derivaciones
+
+- -na (locativo, homógrafo sufijo casual)
+
+---
+
+## Postposiciones Y Casos
+
+_Afijos gramaticales: postposicion_
+
+### sya
+
+- **Concepto**: -sya: genitivo, posesión o pertenencia
+- **IPA**: /sja/
+
+#### Origen
+
+- **Lengua**: Sánscrito / Avestan
+- **Raíz original**: Sánscrito -sya (genitivo singular); Avestan -sya (genitivo)
+- **Corpus**: gramática v1.5 §3.2
+
+---
+
+### te
+
+- **Concepto**: -te: dativo, recipiente o destinatario
+- **IPA**: /te/
+
+#### Origen
+
+- **Lengua**: Sánscrito / Griego
+- **Raíz original**: Sánscrito -te (terminación dativa); Griego -τε (enclítica)
+- **Corpus**: gramática v1.5 §3.2
+
+---
+
+### ra
+
+- **Concepto**: -ra: ablativo, origen o procedencia
+- **IPA**: /ra/
+
+#### Origen
+
+- **Lengua**: Sánscrito / Persa
+- **Raíz original**: Sánscrito -rāt (ablativo) → ra; Persa -ra (marcador de objeto definido)
+- **Corpus**: gramática v1.5 §3.2
+
+---
+
+### na
+
+- **Concepto**: -na: locativo, posición o ubicación
+- **IPA**: /na/
+
+#### Origen
+
+- **Lengua**: Sánscrito / Tibetano
+- **Raíz original**: Sánscrito -na (sufijo locativo); Tibetano -na (partícula locativa)
+- **Corpus**: gramática v1.5 §3.2
+
+#### Derivaciones
+
+- na- (negación, homógrafo prefijo aspectual)
+
+---
+
+### lo
+
+- **Concepto**: -lo: acusativo, objeto directo
+- **IPA**: /lo/
+
+#### Origen
+
+- **Lengua**: Griego / Sánscrito
+- **Raíz original**: Griego -λον (-lon, sufijo de objeto); Sánscrito -lo (sufijo verbal de objeto)
+- **Corpus**: gramática v1.5 §3.2
+
+---
+
+### o
+
+- **Concepto**: o: partícula vocativa, invocación directa ('oh')
+- **IPA**: /o/
+
+#### Origen
+
+- **Lengua**: Griego / Sánscrito
+- **Raíz original**: Griego ὦ (ô) 'oh' (vocativo); Sánscrito o (interjección vocativa)
+- **Corpus**: gramática v1.5 §1.7
+
+---
+
+## Registro Hieratico
+
+_Afijos gramaticales: registro_
+
+### h
+
+- **Concepto**: -h: registro hierático, marca de lenguaje sacro o iniciático
+- **IPA**: /h/
+
+#### Origen
+
+- **Lengua**: Egipcio / Árabe
+- **Raíz original**: Egipcio ḥ (marca de hierático); Árabe h (sufijo de pausa sagrada)
+- **Corpus**: gramática v1.5 §1.3
+
+#### Transformación
+
+- Posiblemente alomorfo de -hék (autoridad hierática)
+
+#### Derivaciones
+
+- -hék: autoridad hierática (sello ritual)
+
+---
+
+## Tiempo Astrologico
+
+_Afijos gramaticales: tiempo astrologico_
+
+### din
+
+- **Concepto**: -dín: tiempo astrológico diurno, en el día/tiempo de
+- **IPA**: /din/
+
+#### Origen
+
+- **Lengua**: Persa / Árabe
+- **Raíz original**: Persa din 'día, tiempo'; Árabe dīn 'ciclo'
+- **Corpus**: gramática v1.5 §3.3.2
+
+---
+
+### sol
+
+- **Concepto**: -sól: tiempo astrológico solar, posición solar
+- **IPA**: /sol/
+
+#### Origen
+
+- **Lengua**: Extensión de nūros 'luz'
+- **Raíz original**: nūros 'luz' → temporalidad solar (gramática v1.5)
+- **Corpus**: gramática v1.5 §3.3.2
+
+---
+
+### djet
+
+- **Concepto**: -djet: tiempo estático, permanencia, eternidad inmutable
+- **IPA**: /d͡ʒet/
+
+#### Origen
+
+- **Lengua**: Egipcio
+- **Raíz original**: Egipcio ḏt (djet) 'eternidad estática'
+- **Corpus**: gramática v1.5 §3.3.2
+
+---
+
+## Tiempo Magico
+
+_Afijos gramaticales: tiempo magico_
+
+### chron
+
+- **Concepto**: chrón-: tiempo lineal, cronológico, mundano
+- **IPA**: /xron/
+
+#### Origen
+
+- **Lengua**: Griego
+- **Raíz original**: Griego χρόνος (chrónos) 'tiempo secuencial'
+- **Corpus**: gramática v1.5 §3.3.2
+
+#### Transformación
+
+- chr- por /x/ adaptado a /kr/ en algunos dialectos
+
+---
+
+### neh
+
+- **Concepto**: neh-: tiempo cíclico, eterno retorno
+- **IPA**: /neh/
+
+#### Origen
+
+- **Lengua**: Egipcio
+- **Raíz original**: Egipcio nḥḥ (neheh) 'eternidad recurrente'
+- **Corpus**: gramática v1.5 §3.3.2
+
+---
+
+## Tiempo Verbal
+
+_Afijos gramaticales: tiempo verbal_
+
+### a
+
+- **Concepto**: -a: presente, tiempo presente
+- **IPA**: /a/
+
+#### Origen
+
+- **Lengua**: Sánscrito / Griego
+- **Raíz original**: Sánscrito -ati (3sg presente) → -a; Griego -ω (presente) → -a (reducción)
+- **Corpus**: gramática v1.5 §3.3.1
+
+#### Derivaciones
+
+- a- (imperfectivo, prefijo homógrafo en posición -1)
+
+---
+
+### i
+
+- **Concepto**: -i: pasado, tiempo pretérito
+- **IPA**: /i/
+
+#### Origen
+
+- **Lengua**: Sánscrito / Tibetano
+- **Raíz original**: Sánscrito -ī (aoristo); Tibetano -ki (pasado) → -i
+- **Corpus**: gramática v1.5 §3.3.1
+
+---
+
+### u
+
+- **Concepto**: -u: futuro, tiempo futuro
+- **IPA**: /u/
+
+#### Origen
+
+- **Lengua**: Sánscrito / Persa
+- **Raíz original**: Sánscrito -iṣyati (futuro) → -u (reducción extrema); Persa -ad (futuro) → -u
+- **Corpus**: gramática v1.5 §3.3.1
 
 ---
