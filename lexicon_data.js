@@ -3,7 +3,7 @@ const LEXICON_DATA =
   "kalfirvach_lexicon_v1.5": {
     "metadata": {
       "version": "1.5",
-      "total_entries": 1723,
+      "total_entries": 1943,
       "date_generated": "2026-06-20",
       "languages": [
         "Griego",
@@ -21,7 +21,7 @@ const LEXICON_DATA =
       "schema_version": "v1.1",
       "total_categorias": 24,
       "normalized": true,
-      "total_entradas": 1723
+      "total_entradas": 1943
     },
     "categorias": {
       "pronombres_y_deicticos": {
@@ -3158,6 +3158,1311 @@ const LEXICON_DATA =
               "/n/ coda permitido §3.3, penúltima ligera — acento retrocede a antepenúltima"
             ],
             "derivaciones": []
+          },
+          {
+            "kalfirvach": "isoli",
+            "concepto": "lobo",
+            "pos": "noun",
+            "ipa": "/i.ˈso.li/",
+            "origen": {
+              "lengua": "Sánscrito / Griego / Árabe",
+              "raiz_original": "Sánscrito Védico वृक (vṛka) /ˈʋr̩.kɐ/; Griego Koiné λύκος (lýkos) /ˈly.kos/; Árabe esotérico ذئب (dhi'b) /ðiʔb/",
+              "corpus": "forjado por motor de síntesis v1.4.1 (short mode, expansión animalia)"
+            },
+            "transformacion": [
+              "forjado desde Sánscrito Védico वृक (vṛka) + Griego Koiné λύκος (lýkos) + Árabe esotérico ذئب (dhi'b)"
+            ],
+            "derivaciones": []
+          },
+          {
+            "kalfirvach": "besol",
+            "concepto": "zorro",
+            "pos": "noun",
+            "ipa": "/ˈbe.sol/",
+            "origen": {
+              "lengua": "Sánscrito / Griego / Árabe",
+              "raiz_original": "Sánscrito क्रोष्टृ (kroṣṭṛ) /ˈkroːʂ.ʈr̩/; Griego ἀλώπηξ (alṓpēx) /aˈlɔː.pɛːks/; Árabe ثعلب (tha'lab) /ˈθaʕ.lab/",
+              "corpus": "forjado por motor de síntesis v1.4.1 (short mode, expansión animalia)"
+            },
+            "transformacion": [
+              "forjado desde Sánscrito क्रोष्टृ (kroṣṭṛ) + Griego ἀλώπηξ (alṓpēx) + Árabe ثعلب (tha'lab)"
+            ],
+            "derivaciones": []
+          },
+          {
+            "kalfirvach": "darus",
+            "concepto": "oso",
+            "pos": "noun",
+            "ipa": "/ˈda.rus/",
+            "origen": {
+              "lengua": "Sánscrito / Griego / Árabe",
+              "raiz_original": "Sánscrito ऋक्ष (ṛkṣa) /ˈr̩k.ʂɐ/; Griego ἄρκτος (árktos) /ˈark.tos/; Árabe دب (dubb) /dubb/",
+              "corpus": "forjado por motor de síntesis v1.4.1 (short mode, expansión animalia)"
+            },
+            "transformacion": [
+              "forjado desde Sánscrito ऋक्ष (ṛkṣa) + Griego ἄρκτος (árktos) + Árabe دب (dubb)"
+            ],
+            "derivaciones": []
+          },
+          {
+            "kalfirvach": "lemep",
+            "concepto": "ciervo",
+            "pos": "noun",
+            "ipa": "/ˈle.mep/",
+            "origen": {
+              "lengua": "Sánscrito / Griego / Persa",
+              "raiz_original": "Sánscrito मृग (mṛga) /ˈmr̩.ɡɐ/; Griego ἔλαφος (élaphos) /ˈe.la.pʰos/; Persa گوزن (gavazn) /ɡæˈvæzn/",
+              "corpus": "forjado por motor de síntesis v1.4.1 (short mode, expansión animalia)"
+            },
+            "transformacion": [
+              "forjado desde Sánscrito मृग (mṛga) + Griego ἔλαφος (élaphos) + Persa گوزن (gavazn)"
+            ],
+            "derivaciones": []
+          },
+          {
+            "kalfirvach": "lakin",
+            "concepto": "conejo",
+            "pos": "noun",
+            "ipa": "/ˈla.kin/",
+            "origen": {
+              "lengua": "Sánscrito / Griego / Árabe",
+              "raiz_original": "Sánscrito शश (śaśa) /ˈɕɐ.ɕɐ/; Griego κύνικλος (kýniklos) /ˈky.ni.klos/; Árabe أرنب (arnab) /ˈʔar.nab/",
+              "corpus": "forjado por motor de síntesis v1.4.1 (short mode, expansión animalia)"
+            },
+            "transformacion": [
+              "forjado desde Sánscrito शश (śaśa) + Griego κύνικλος (kýniklos) + Árabe أرنب (arnab)"
+            ],
+            "derivaciones": []
+          },
+          {
+            "kalfirvach": "ikino",
+            "concepto": "ardilla",
+            "pos": "noun",
+            "ipa": "/i.ˈki.no/",
+            "origen": {
+              "lengua": "Sánscrito / Griego / Persa",
+              "raiz_original": "Sánscrito वृक्षमार्जार (vṛkṣamārjāra) /ʋr̩k.ʂɐ.mɑːr.dʒɑː.rɐ/; Griego σκίουρος (skíouros) /ˈski.u.ros/; Persa سنجاب (sanjāb) /sænˈdʒɒːb/",
+              "corpus": "forjado por motor de síntesis v1.4.1 (short mode, expansión animalia)"
+            },
+            "transformacion": [
+              "forjado desde Sánscrito वृक्षमार्जार (vṛkṣamārjāra) + Griego σκίουρος (skíouros) + Persa سنجاب (sanjāb)"
+            ],
+            "derivaciones": []
+          },
+          {
+            "kalfirvach": "siner",
+            "concepto": "murciélago",
+            "pos": "noun",
+            "ipa": "/ˈsi.ner/",
+            "origen": {
+              "lengua": "Sánscrito / Griego / Árabe",
+              "raiz_original": "Sánscrito वाजिन् (vājin) /ˈʋɑː.dʒin/; Griego νυκτερίς (nykterís) /nyk.teˈris/; Árabe خفاش (khuffāsh) /xufˈfɑːʃ/",
+              "corpus": "forjado por motor de síntesis v1.4.1 (short mode, expansión animalia)"
+            },
+            "transformacion": [
+              "forjado desde Sánscrito वाजिन् (vājin) + Griego νυκτερίς (nykterís) + Árabe خفاش (khuffāsh)"
+            ],
+            "derivaciones": []
+          },
+          {
+            "kalfirvach": "pikle",
+            "concepto": "erizo",
+            "pos": "noun",
+            "ipa": "/ˈpik.le/",
+            "origen": {
+              "lengua": "Sánscrito / Griego / Persa",
+              "raiz_original": "Sánscrito शल्य (śalya) /ˈɕɐl.jɐ/; Griego ἐχῖνος (ekhînos) /eˈkʰiː.nos/; Persa خارپشت (khārpusht) /xɒːɾˈpuʃt/",
+              "corpus": "forjado por motor de síntesis v1.4.1 (short mode, expansión animalia)"
+            },
+            "transformacion": [
+              "forjado desde Sánscrito शल्य (śalya) + Griego ἐχῖνος (ekhînos) + Persa خارپشت (khārpusht)"
+            ],
+            "derivaciones": []
+          },
+          {
+            "kalfirvach": "dipsū",
+            "concepto": "tejón",
+            "pos": "noun",
+            "ipa": "/dip.ˈsuː/",
+            "origen": {
+              "lengua": "Sánscrito / Griego / Persa",
+              "raiz_original": "Sánscrito बिज्ज (bijja) /ˈbid.dʒɐ/; Griego ἀσπάλαξ (aspálax) /asˈpa.laks/; Persa گورکن (gūrkan) /ɡuːɾˈkæn/",
+              "corpus": "forjado por motor de síntesis v1.4.1 (short mode, expansión animalia)"
+            },
+            "transformacion": [
+              "forjado desde Sánscrito बिज्ज (bijja) + Griego ἀσπάλαξ (aspálax) + Persa گورکن (gūrkan)"
+            ],
+            "derivaciones": []
+          },
+          {
+            "kalfirvach": "nibes",
+            "concepto": "nutria",
+            "pos": "noun",
+            "ipa": "/ˈni.bes/",
+            "origen": {
+              "lengua": "Sánscrito / Griego / Persa",
+              "raiz_original": "Sánscrito उद्र (udra) /ˈud.ɾɐ/; Griego ἔνυδρις (énydris) /ˈe.ny.dris/; Persa سمور آبی (samur-e ābī) /sæˈmuɾ ɒːˈbiː/",
+              "corpus": "forjado por motor de síntesis v1.4.1 (short mode, expansión animalia)"
+            },
+            "transformacion": [
+              "forjado desde Sánscrito उद्र (udra) + Griego ἔνυδρις (énydris) + Persa سمور آبی (samur-e ābī)"
+            ],
+            "derivaciones": []
+          },
+          {
+            "kalfirvach": "lapdu",
+            "concepto": "topo",
+            "pos": "noun",
+            "ipa": "/ˈlap.du/",
+            "origen": {
+              "lengua": "Sánscrito / Griego / Árabe",
+              "raiz_original": "Sánscrito आखु (ākhu) /ˈɑː.kʰu/; Griego ἀσπάλαξ (aspálax) /asˈpa.laks/; Árabe خلد (khuld) /xuld/",
+              "corpus": "forjado por motor de síntesis v1.4.1 (short mode, expansión animalia)"
+            },
+            "transformacion": [
+              "forjado desde Sánscrito आखु (ākhu) + Griego ἀσπάλαξ (aspálax) + Árabe خلد (khuld)"
+            ],
+            "derivaciones": []
+          },
+          {
+            "kalfirvach": "benke",
+            "concepto": "mofeta",
+            "pos": "noun",
+            "ipa": "/ˈben.ke/",
+            "origen": {
+              "lengua": "Sánscrito / Griego / Persa",
+              "raiz_original": "Sánscrito विड् (viḍ) /ʋiɖ/; Griego ἴκτις (íktis) /ˈik.tis/; Persa گورکن بدبو (gūrkan-e badbū) /ɡuːɾˈkæn e bædˈbuː/",
+              "corpus": "forjado por motor de síntesis v1.4.1 (short mode, expansión animalia)"
+            },
+            "transformacion": [
+              "forjado desde Sánscrito विड् (viḍ) + Griego ἴκτις (íktis) + Persa گورکن بدبو (gūrkan-e badbū)"
+            ],
+            "derivaciones": []
+          },
+          {
+            "kalfirvach": "nītra",
+            "concepto": "rinoceronte",
+            "pos": "noun",
+            "ipa": "/ˈniːt.ra/",
+            "origen": {
+              "lengua": "Sánscrito / Griego / Árabe",
+              "raiz_original": "Sánscrito खड्ग (khaḍga) /ˈkʰɐɖ.ɡɐ/; Griego ῥινόκερως (rhinókerōs) /r̥iˈno.ke.rɔːs/; Árabe خرتيت (kharītīt) /xaˈriː.tiːt/",
+              "corpus": "forjado por motor de síntesis v1.4.1 (short mode, expansión animalia)"
+            },
+            "transformacion": [
+              "forjado desde Sánscrito खड्ग (khaḍga) + Griego ῥινόκερως (rhinókerōs) + Árabe خرتيت (kharītīt)"
+            ],
+            "derivaciones": []
+          },
+          {
+            "kalfirvach": "nopta",
+            "concepto": "hipopótamo",
+            "pos": "noun",
+            "ipa": "/ˈnop.ta/",
+            "origen": {
+              "lengua": "Griego / Sánscrito / Árabe",
+              "raiz_original": "Griego ἱπποπόταμος (hippopótamos) /hip.poˈpo.ta.mos/; Sánscrito गण्डक (gaṇḍaka) /ˈɡɐɳ.ɖɐ.kɐ/; Árabe فرس النهر (faras an-nahr) /fa.ras anˈnahr/",
+              "corpus": "forjado por motor de síntesis v1.4.1 (short mode, expansión animalia)"
+            },
+            "transformacion": [
+              "forjado desde Griego ἱπποπόταμος (hippopótamos) + Sánscrito गण्डक (gaṇḍaka) + Árabe فرس النهر (faras an-nahr)"
+            ],
+            "derivaciones": []
+          },
+          {
+            "kalfirvach": "pilri",
+            "concepto": "jirafa",
+            "pos": "noun",
+            "ipa": "/ˈpil.ri/",
+            "origen": {
+              "lengua": "Sánscrito / Griego / Árabe",
+              "raiz_original": "Sánscrito चित्रोष्ट्र (citroṣṭra) /t͡ʃitˈroːʂ.ʈrɐ/; Griego καμηλοπάρδαλις (kamēlopárdalis) /ka.mɛː.loˈpar.da.lis/; Árabe زرافة (zirāfa) /ziˈrɑː.fa/",
+              "corpus": "forjado por motor de síntesis v1.4.1 (short mode, expansión animalia)"
+            },
+            "transformacion": [
+              "forjado desde Sánscrito चित्रोष्ट्र (citroṣṭra) + Griego καμηλοπάρδαλις (kamēlopárdalis) + Árabe زرافة (zirāfa)"
+            ],
+            "derivaciones": []
+          },
+          {
+            "kalfirvach": "līpoh",
+            "concepto": "cebra",
+            "pos": "noun",
+            "ipa": "/ˈliː.poh/",
+            "origen": {
+              "lengua": "Sánscrito / Griego / Árabe",
+              "raiz_original": "Sánscrito कृष्णाश्व (kṛṣṇāśva) /kr̩ʂˈɳɑː.ɕʋɐ/; Griego ἵππος ἴουλος (híppos íoulos) /ˈhip.pos ˈi.uː.los/; Árabe حمار وحشي (ḥimār waḥshī) /ħiˈmɑːr waħˈʃiː/",
+              "corpus": "forjado por motor de síntesis v1.4.1 (short mode, expansión animalia)"
+            },
+            "transformacion": [
+              "forjado desde Sánscrito कृष्णाश्व (kṛṣṇāśva) + Griego ἵππος ἴουλος (híppos íoulos) + Árabe حمار وحشي (ḥimār waḥshī)"
+            ],
+            "derivaciones": []
+          },
+          {
+            "kalfirvach": "ībūlo",
+            "concepto": "búfalo",
+            "pos": "noun",
+            "ipa": "/ˈiː.buː.lo/",
+            "origen": {
+              "lengua": "Sánscrito / Griego / Persa",
+              "raiz_original": "Sánscrito महिष (mahiṣa) /ˈmɐ.ɦi.ʂɐ/; Griego βούβαλος (boúbalos) /ˈbuː.ba.los/; Persa گاومیش (gāvmīsh) /ɡɒːvˈmiːʃ/",
+              "corpus": "forjado por motor de síntesis v1.4.1 (short mode, expansión animalia)"
+            },
+            "transformacion": [
+              "forjado desde Sánscrito महिष (mahiṣa) + Griego βούβαλος (boúbalos) + Persa گاومیش (gāvmīsh)"
+            ],
+            "derivaciones": []
+          },
+          {
+            "kalfirvach": "kīrda",
+            "concepto": "antílope",
+            "pos": "noun",
+            "ipa": "/ˈkiːr.da/",
+            "origen": {
+              "lengua": "Sánscrito / Griego / Árabe",
+              "raiz_original": "Sánscrito एण (eṇa) /ˈeː.ɳɐ/; Griego δορκάς (dorkás) /dorˈkas/; Árabe ظبي (ẓabī) /ðˤaˈbiː/",
+              "corpus": "forjado por motor de síntesis v1.4.1 (short mode, expansión animalia)"
+            },
+            "transformacion": [
+              "forjado desde Sánscrito एण (eṇa) + Griego δορκάς (dorkás) + Árabe ظبي (ẓabī)"
+            ],
+            "derivaciones": []
+          },
+          {
+            "kalfirvach": "lemīr",
+            "concepto": "alce",
+            "pos": "noun",
+            "ipa": "/le.ˈmiːr/",
+            "origen": {
+              "lengua": "Sánscrito / Griego / Persa",
+              "raiz_original": "Sánscrito मस्कारी (maskārī) /mɐsˈkɑː.riː/; Griego ἄλκη (álkē) /ˈal.kɛː/; Persa گوزن شمالی (gavazn-e shomālī) /ɡæˈvæzn-e ʃoˈmɒːliː/",
+              "corpus": "forjado por motor de síntesis v1.4.1 (short mode, expansión animalia)"
+            },
+            "transformacion": [
+              "forjado desde Sánscrito मस्कारी (maskārī) + Griego ἄλκη (álkē) + Persa گوزن شمالی (gavazn-e shomālī)"
+            ],
+            "derivaciones": []
+          },
+          {
+            "kalfirvach": "hilit",
+            "concepto": "ballena",
+            "pos": "noun",
+            "ipa": "/ˈhi.lit/",
+            "origen": {
+              "lengua": "Sánscrito / Griego / Árabe",
+              "raiz_original": "Sánscrito तिमि (timi) /ˈti.mi/; Griego φάλαινα (phálaina) /ˈpʰa.lɛː.na/; Árabe حوت (hūt) /huːt/",
+              "corpus": "forjado por motor de síntesis v1.4.1 (short mode, expansión animalia)"
+            },
+            "transformacion": [
+              "forjado desde Sánscrito तिमि (timi) + Griego φάλαινα (phálaina) + Árabe حوت (hūt)"
+            ],
+            "derivaciones": []
+          },
+          {
+            "kalfirvach": "kitro",
+            "concepto": "orca",
+            "pos": "noun",
+            "ipa": "/ˈkit.ro/",
+            "origen": {
+              "lengua": "Sánscrito / Griego / Árabe",
+              "raiz_original": "Sánscrito तिमिङ्गिल (timiṅgila) /tiˈmiŋ.ɡi.lɐ/; Griego ὄρυξ (óryx) /ˈo.ryks/; Árabe حوت قاتل (hūt qātil) /huːt ˈqɑː.til/",
+              "corpus": "forjado por motor de síntesis v1.4.1 (short mode, expansión animalia)"
+            },
+            "transformacion": [
+              "forjado desde Sánscrito तिमिङ्गिल (timiṅgila) + Griego ὄρυξ (óryx) + Árabe حوت قاتل (hūt qātil)"
+            ],
+            "derivaciones": []
+          },
+          {
+            "kalfirvach": "punla",
+            "concepto": "foca",
+            "pos": "noun",
+            "ipa": "/ˈpun.la/",
+            "origen": {
+              "lengua": "Sánscrito / Griego / Árabe",
+              "raiz_original": "Sánscrito कुलिङ्ग (kuliṅga) /kuˈliŋ.ɡɐ/; Griego φώκη (phṓkē) /ˈpʰɔː.kɛː/; Árabe فقمة (fuqma) /ˈfuq.ma/",
+              "corpus": "forjado por motor de síntesis v1.4.1 (short mode, expansión animalia)"
+            },
+            "transformacion": [
+              "forjado desde Sánscrito कुलिङ्ग (kuliṅga) + Griego φώκη (phṓkē) + Árabe فقمة (fuqma)"
+            ],
+            "derivaciones": []
+          },
+          {
+            "kalfirvach": "hikos",
+            "concepto": "morsa",
+            "pos": "noun",
+            "ipa": "/ˈhi.kos/",
+            "origen": {
+              "lengua": "Sánscrito / Griego / Persa",
+              "raiz_original": "Sánscrito दन्तितिमि (dantitimi) /dɐnˈti.ti.mi/; Griego ὁδόκαιρος (hodókairos) /hoˈdo.kɛː.ros/; Persa گراز دریایی (gorāz-e daryāyī) /ɡoˈɾɒːz-e dæɾˈjɒːjiː/",
+              "corpus": "forjado por motor de síntesis v1.4.1 (short mode, expansión animalia)"
+            },
+            "transformacion": [
+              "forjado desde Sánscrito दन्तितिमि (dantitimi) + Griego ὁδόκαιρος (hodókairos) + Persa گراز دریایی (gorāz-e daryāyī)"
+            ],
+            "derivaciones": []
+          },
+          {
+            "kalfirvach": "riknē",
+            "concepto": "halcón",
+            "pos": "noun",
+            "ipa": "/rik.ˈneː/",
+            "origen": {
+              "lengua": "Sánscrito / Griego / Árabe",
+              "raiz_original": "Sánscrito श्येन (śyena) /ˈɕjeː.nɐ/; Griego ἱέραξ (hiérax) /hiˈe.raks/; Árabe صقر (ṣaqr) /sˤaqr/",
+              "corpus": "forjado por motor de síntesis v1.4.1 (short mode, expansión animalia)"
+            },
+            "transformacion": [
+              "forjado desde Sánscrito श्येन (śyena) + Griego ἱέραξ (hiérax) + Árabe صقر (ṣaqr)"
+            ],
+            "derivaciones": []
+          },
+          {
+            "kalfirvach": "siknī",
+            "concepto": "gavilán",
+            "pos": "noun",
+            "ipa": "/sik.ˈniː/",
+            "origen": {
+              "lengua": "Sánscrito / Griego / Persa",
+              "raiz_original": "Sánscrito श्येन (śyena) /ˈɕjeː.nɐ/; Griego κιρκίνος (kirkínos) /kirˈki.nos/; Persa قرقی (qorqī) /ɢoɾˈɢiː/",
+              "corpus": "forjado por motor de síntesis v1.4.1 (short mode, expansión animalia)"
+            },
+            "transformacion": [
+              "forjado desde Sánscrito श्येन (śyena) + Griego κιρκίνος (kirkínos) + Persa قرقی (qorqī)"
+            ],
+            "derivaciones": []
+          },
+          {
+            "kalfirvach": "risip",
+            "concepto": "buitre",
+            "pos": "noun",
+            "ipa": "/ˈri.sip/",
+            "origen": {
+              "lengua": "Sánscrito / Griego / Árabe",
+              "raiz_original": "Sánscrito गृध्र (gṛdhra) /ˈɡr̩d̪ʱ.ɾɐ/; Griego γύψ (gýps) /ɡyps/; Árabe نسر (nisr) /nisr/",
+              "corpus": "forjado por motor de síntesis v1.4.1 (short mode, expansión animalia)"
+            },
+            "transformacion": [
+              "forjado desde Sánscrito गृध्र (gṛdhra) + Griego γύψ (gýps) + Árabe نسر (nisr)"
+            ],
+            "derivaciones": []
+          },
+          {
+            "kalfirvach": "hepis",
+            "concepto": "paloma",
+            "pos": "noun",
+            "ipa": "/ˈhe.pis/",
+            "origen": {
+              "lengua": "Sánscrito / Griego / Árabe",
+              "raiz_original": "Sánscrito पारावत (pārāvata) /pɑːˈrɑː.ʋɐ.tɐ/; Griego περιστερά (peristerá) /pe.ri.steˈra/; Árabe حمام (ḥamām) /ħaˈmɑːm/",
+              "corpus": "forjado por motor de síntesis v1.4.1 (short mode, expansión animalia)"
+            },
+            "transformacion": [
+              "forjado desde Sánscrito पारावत (pārāvata) + Griego περιστερά (peristerá) + Árabe حمام (ḥamām)"
+            ],
+            "derivaciones": []
+          },
+          {
+            "kalfirvach": "reset",
+            "concepto": "gorrión",
+            "pos": "noun",
+            "ipa": "/ˈre.set/",
+            "origen": {
+              "lengua": "Sánscrito / Griego / Persa",
+              "raiz_original": "Sánscrito चटक (caṭaka) /ˈt͡ʃɐ.ʈɐ.kɐ/; Griego στρουθός (strouthós) /struːˈtʰos/; Persa گنجشک (gonjeshk) /ɡonˈdʒeʃk/",
+              "corpus": "forjado por motor de síntesis v1.4.1 (short mode, expansión animalia)"
+            },
+            "transformacion": [
+              "forjado desde Sánscrito चटक (caṭaka) + Griego στρουθός (strouthós) + Persa گنجشک (gonjeshk)"
+            ],
+            "derivaciones": []
+          },
+          {
+            "kalfirvach": "bipek",
+            "concepto": "golondrina",
+            "pos": "noun",
+            "ipa": "/ˈbi.pek/",
+            "origen": {
+              "lengua": "Sánscrito / Griego / Persa",
+              "raiz_original": "Sánscrito अभ्रक (abhraka) /ˈɐbʱ.ɾɐ.kɐ/; Griego χελιδών (khelidṓn) /kʰe.liˈdɔːn/; Persa پرستو (parastū) /pæɾæsˈtuː/",
+              "corpus": "forjado por motor de síntesis v1.4.1 (short mode, expansión animalia)"
+            },
+            "transformacion": [
+              "forjado desde Sánscrito अभ्रक (abhraka) + Griego χελιδών (khelidṓn) + Persa پرستو (parastū)"
+            ],
+            "derivaciones": []
+          },
+          {
+            "kalfirvach": "kutbi",
+            "concepto": "loro",
+            "pos": "noun",
+            "ipa": "/ˈkut.bi/",
+            "origen": {
+              "lengua": "Sánscrito / Griego / Árabe",
+              "raiz_original": "Sánscrito शुक (śuka) /ˈɕu.kɐ/; Griego ψιττακός (psittakós) /psit.taˈkos/; Árabe ببغاء (babaghā') /ba.baˈɣɑːʔ/",
+              "corpus": "forjado por motor de síntesis v1.4.1 (short mode, expansión animalia)"
+            },
+            "transformacion": [
+              "forjado desde Sánscrito शुक (śuka) + Griego ψιττακός (psittakós) + Árabe ببغاء (babaghā')"
+            ],
+            "derivaciones": []
+          },
+          {
+            "kalfirvach": "mupnū",
+            "concepto": "tucán",
+            "pos": "noun",
+            "ipa": "/mup.ˈnuː/",
+            "origen": {
+              "lengua": "Sánscrito / Griego / Árabe",
+              "raiz_original": "Sánscrito चञ्चु (cañcu) /ˈt͡ʃɐɲ.t͡ʃu/; Griego ῥάμφος (rhámphos) /ˈr̥am.pʰos/; Árabe طوقان (ṭūqān) /tˤuːˈqɑːn/",
+              "corpus": "forjado por motor de síntesis v1.4.1 (short mode, expansión animalia)"
+            },
+            "transformacion": [
+              "forjado desde Sánscrito चञ्चु (cañcu) + Griego ῥάμφος (rhámphos) + Árabe طوقان (ṭūqān)"
+            ],
+            "derivaciones": []
+          },
+          {
+            "kalfirvach": "kenmū",
+            "concepto": "pavo",
+            "pos": "noun",
+            "ipa": "/ken.ˈmuː/",
+            "origen": {
+              "lengua": "Sánscrito / Griego / Persa",
+              "raiz_original": "Sánscrito ग्राम्यकुक्कुट (grāmyakukkuṭa) /ɡrɑːm.jɐˈkuk.ku.ʈɐ/; Griego μελεαγρίς (meleagrís) /me.le.aˈɡris/; Persa بوقلمون (būqalamūn) /buː.ɣæ.læˈmuːn/",
+              "corpus": "forjado por motor de síntesis v1.4.1 (short mode, expansión animalia)"
+            },
+            "transformacion": [
+              "forjado desde Sánscrito ग्राम्यकुक्कुट (grāmyakukkuṭa) + Griego μελεαγρίς (meleagrís) + Persa بوقلمون (būqalamūn)"
+            ],
+            "derivaciones": []
+          },
+          {
+            "kalfirvach": "atame",
+            "concepto": "pato",
+            "pos": "noun",
+            "ipa": "/a.ˈta.me/",
+            "origen": {
+              "lengua": "Sánscrito / Griego / Árabe",
+              "raiz_original": "Sánscrito हंस (haṃsa) /ˈɦɐm.sɐ/; Griego νῆττα (nētta) /ˈnɛːt.ta/; Árabe بط (baṭṭ) /batˤtˤ/",
+              "corpus": "forjado por motor de síntesis v1.4.1 (short mode, expansión animalia)"
+            },
+            "transformacion": [
+              "forjado desde Sánscrito हंस (haṃsa) + Griego νῆττα (nētta) + Árabe بط (baṭṭ)"
+            ],
+            "derivaciones": []
+          },
+          {
+            "kalfirvach": "nosem",
+            "concepto": "ganso",
+            "pos": "noun",
+            "ipa": "/ˈno.sem/",
+            "origen": {
+              "lengua": "Sánscrito / Griego / Persa",
+              "raiz_original": "Sánscrito हंस (haṃsa) /ˈɦɐm.sɐ/; Griego χήν (khḗn) /kʰɛːn/; Persa غاز (ghāz) /ɣɒːz/",
+              "corpus": "forjado por motor de síntesis v1.4.1 (short mode, expansión animalia)"
+            },
+            "transformacion": [
+              "forjado desde Sánscrito हंस (haṃsa) + Griego χήν (khḗn) + Persa غاز (ghāz)"
+            ],
+            "derivaciones": []
+          },
+          {
+            "kalfirvach": "zihas",
+            "concepto": "cisne",
+            "pos": "noun",
+            "ipa": "/ˈzi.has/",
+            "origen": {
+              "lengua": "Sánscrito / Griego / Árabe",
+              "raiz_original": "Sánscrito हंस (haṃsa) /ˈɦɐm.sɐ/; Griego κύκνος (kýknos) /ˈky.knos/; Árabe إوز عراقي (iwazz 'irāqī) /ʔi.wazz ʕiˈrɑː.qɪː/",
+              "corpus": "forjado por motor de síntesis v1.4.1 (short mode, expansión animalia)"
+            },
+            "transformacion": [
+              "forjado desde Sánscrito हंस (haṃsa) + Griego κύκνος (kýknos) + Árabe إوز عراقي (iwazz 'irāqī)"
+            ],
+            "derivaciones": []
+          },
+          {
+            "kalfirvach": "vībeh",
+            "concepto": "garza",
+            "pos": "noun",
+            "ipa": "/ˈviː.beh/",
+            "origen": {
+              "lengua": "Sánscrito / Griego / Persa",
+              "raiz_original": "Sánscrito बक (baka) /ˈbɐ.kɐ/; Griego ἐρῳδιός (erōidiós) /e.rɔːi.diˈos/; Persa حواصیل (havāṣīl) /hævɒːˈsiːl/",
+              "corpus": "forjado por motor de síntesis v1.4.1 (short mode, expansión animalia)"
+            },
+            "transformacion": [
+              "forjado desde Sánscrito बक (baka) + Griego ἐρῳδιός (erōidiós) + Persa حواصیل (havāṣīl)"
+            ],
+            "derivaciones": []
+          },
+          {
+            "kalfirvach": "saple",
+            "concepto": "cigüeña",
+            "pos": "noun",
+            "ipa": "/ˈsap.le/",
+            "origen": {
+              "lengua": "Sánscrito / Griego / Árabe",
+              "raiz_original": "Sánscrito सारस (sārasa) /ˈsɑː.rɐ.sɐ/; Griego πελαργός (pelargós) /pe.larˈɡos/; Árabe لقلق (laqlaq) /ˈlaq.laq/",
+              "corpus": "forjado por motor de síntesis v1.4.1 (short mode, expansión animalia)"
+            },
+            "transformacion": [
+              "forjado desde Sánscrito सारस (sārasa) + Griego πελαργός (pelargós) + Árabe لقلق (laqlaq)"
+            ],
+            "derivaciones": []
+          },
+          {
+            "kalfirvach": "tiris",
+            "concepto": "flamenco",
+            "pos": "noun",
+            "ipa": "/ˈti.ris/",
+            "origen": {
+              "lengua": "Sánscrito / Griego / Árabe",
+              "raiz_original": "Sánscrito रक्तहंस (raktahaṃsa) /rɐk.tɐˈɦɐm.sɐ/; Griego φοινικόπτερος (phoinikópteros) /pʰoi.niˈko.pte.ros/; Árabe نحام (nuḥām) /nuˈħaːm/",
+              "corpus": "forjado por motor de síntesis v1.4.1 (short mode, expansión animalia)"
+            },
+            "transformacion": [
+              "forjado desde Sánscrito रक्तहंस (raktahaṃsa) + Griego φοινικόπτερος (phoinikópteros) + Árabe نحام (nuḥām)"
+            ],
+            "derivaciones": []
+          },
+          {
+            "kalfirvach": "pīsil",
+            "concepto": "pingüino",
+            "pos": "noun",
+            "ipa": "/ˈpiː.sil/",
+            "origen": {
+              "lengua": "Sánscrito / Griego / Persa",
+              "raiz_original": "Sánscrito जलपक्षी (jalapakṣī) /dʒɐ.lɐˈpɐk.ʂiː/; Griego σπηνίσκος (spēnískos) /spɛːˈnis.kos/; Persa پنگوئن (penguen) /peɲˈɡuːen/",
+              "corpus": "forjado por motor de síntesis v1.4.1 (short mode, expansión animalia)"
+            },
+            "transformacion": [
+              "forjado desde Sánscrito जलपक्षी (jalapakṣī) + Griego σπηνίσκος (spēnískos) + Persa پنگوئن (penguen)"
+            ],
+            "derivaciones": []
+          },
+          {
+            "kalfirvach": "rosap",
+            "concepto": "avestruz",
+            "pos": "noun",
+            "ipa": "/ˈro.sap/",
+            "origen": {
+              "lengua": "Sánscrito / Griego / Árabe",
+              "raiz_original": "Sánscrito उष्ट्रपक्षी (uṣṭrapakṣī) /uʂ.ʈrɐˈpɐk.ʂiː/; Griego στρουθιοκάμηλος (strouthiokámēlos) /struː.tʰi.oˈka.mɛː.los/; Árabe نعامة (na'āma) /naˈʕɑː.ma/",
+              "corpus": "forjado por motor de síntesis v1.4.1 (short mode, expansión animalia)"
+            },
+            "transformacion": [
+              "forjado desde Sánscrito उष्ट्रपक्षी (uṣṭrapakṣī) + Griego στρουθιοκάμηλος (strouthiokámēlos) + Árabe نعامة (na'āma)"
+            ],
+            "derivaciones": []
+          },
+          {
+            "kalfirvach": "sekil",
+            "concepto": "pájaro carpintero",
+            "pos": "noun",
+            "ipa": "/ˈse.kil/",
+            "origen": {
+              "lengua": "Sánscrito / Griego / Persa",
+              "raiz_original": "Sánscrito दार्वाघात (dārvāghāta) /dɑːr.ʋɑːˈɡʱɑː.tɐ/; Griego δρυοκολάπτης (dryokoláptēs) /dry.o.koˈlap.tɛːs/; Persa دارکوب (dārkūb) /dɒːɾˈkuːb/",
+              "corpus": "forjado por motor de síntesis v1.4.1 (short mode, expansión animalia)"
+            },
+            "transformacion": [
+              "forjado desde Sánscrito दार्वाघात (dārvāghāta) + Griego δρυοκολάπτης (dryokoláptēs) + Persa دارکوب (dārkūb)"
+            ],
+            "derivaciones": []
+          },
+          {
+            "kalfirvach": "rosdi",
+            "concepto": "colibrí",
+            "pos": "noun",
+            "ipa": "/ˈros.di/",
+            "origen": {
+              "lengua": "Sánscrito / Griego / Árabe",
+              "raiz_original": "Sánscrito मधुप (madhupa) /ˈmɐ.dʱu.pɐ/; Griego μελισσουργός (melissourgós) /me.lis.suːrˈɡos/; Árabe طنان (ṭannān) /tˤanˈnɑːn/",
+              "corpus": "forjado por motor de síntesis v1.4.1 (short mode, expansión animalia)"
+            },
+            "transformacion": [
+              "forjado desde Sánscrito मधुप (madhupa) + Griego μελισσουργός (melissourgós) + Árabe طنان (ṭannān)"
+            ],
+            "derivaciones": []
+          },
+          {
+            "kalfirvach": "nīkīr",
+            "concepto": "canario",
+            "pos": "noun",
+            "ipa": "/ˈniː.kiːr/",
+            "origen": {
+              "lengua": "Sánscrito / Griego / Árabe",
+              "raiz_original": "Sánscrito पीत (pīta) /ˈpiː.tɐ/; Griego κάνναρις (kánnaris) /ˈkan.na.ris/; Árabe كناري (kanārī) /kaˈnɑː.riː/",
+              "corpus": "forjado por motor de síntesis v1.4.1 (short mode, expansión animalia)"
+            },
+            "transformacion": [
+              "forjado desde Sánscrito पीत (pīta) + Griego κάνναρις (kánnaris) + Árabe كناري (kanārī)"
+            ],
+            "derivaciones": []
+          },
+          {
+            "kalfirvach": "aslir",
+            "concepto": "lagarto",
+            "pos": "noun",
+            "ipa": "/ˈas.lir/",
+            "origen": {
+              "lengua": "Sánscrito / Griego / Árabe",
+              "raiz_original": "Sánscrito गोधा (godhā) /ˈɡoː.dʱɑː/; Griego σαῦρος (saûros) /ˈsau̯.ros/; Árabe سحلية (siḥliyya) /siħˈlij.ja/",
+              "corpus": "forjado por motor de síntesis v1.4.1 (short mode, expansión animalia)"
+            },
+            "transformacion": [
+              "forjado desde Sánscrito गोधा (godhā) + Griego σαῦρος (saûros) + Árabe سحلية (siḥliyya)"
+            ],
+            "derivaciones": []
+          },
+          {
+            "kalfirvach": "diwik",
+            "concepto": "iguana",
+            "pos": "noun",
+            "ipa": "/ˈdi.wik/",
+            "origen": {
+              "lengua": "Sánscrito / Griego / Árabe",
+              "raiz_original": "Sánscrito गोधिका (godhikā) /ˈɡoː.dʱi.kɑː/; Griego ἴγουανα (íguana) /ˈi.ɡu.a.na/; Árabe إغوانة (īghwāna) /ʔiɣˈwɑː.na/",
+              "corpus": "forjado por motor de síntesis v1.4.1 (short mode, expansión animalia)"
+            },
+            "transformacion": [
+              "forjado desde Sánscrito गोधिका (godhikā) + Griego ἴγουανα (íguana) + Árabe إغوانة (īghwāna)"
+            ],
+            "derivaciones": []
+          },
+          {
+            "kalfirvach": "ilboh",
+            "concepto": "camaleón",
+            "pos": "noun",
+            "ipa": "/ˈil.boh/",
+            "origen": {
+              "lengua": "Sánscrito / Griego / Árabe",
+              "raiz_original": "Sánscrito कृकलास (kṛkalāsa) /kr̩.kɐˈlɑː.sɐ/; Griego χαμαιλέων (khamailéōn) /kʰa.mai̯ˈle.ɔːn/; Árabe حرباء (ḥirbā') /ħirˈbɑːʔ/",
+              "corpus": "forjado por motor de síntesis v1.4.1 (short mode, expansión animalia)"
+            },
+            "transformacion": [
+              "forjado desde Sánscrito कृकलास (kṛkalāsa) + Griego χαμαιλέων (khamailéōn) + Árabe حرباء (ḥirbā')"
+            ],
+            "derivaciones": []
+          },
+          {
+            "kalfirvach": "onmar",
+            "concepto": "cobra",
+            "pos": "noun",
+            "ipa": "/ˈon.mar/",
+            "origen": {
+              "lengua": "Sánscrito / Griego / Árabe",
+              "raiz_original": "Sánscrito नाग (nāga) /ˈnɑː.ɡɐ/; Griego κόμπρα (kómpra) /ˈkom.pra/; Árabe كوبرا (kūbrā) /kuːˈbrɑː/",
+              "corpus": "forjado por motor de síntesis v1.4.1 (short mode, expansión animalia)"
+            },
+            "transformacion": [
+              "forjado desde Sánscrito नाग (nāga) + Griego κόμπρα (kómpra) + Árabe كوبرا (kūbrā)"
+            ],
+            "derivaciones": []
+          },
+          {
+            "kalfirvach": "tonūp",
+            "concepto": "pitón",
+            "pos": "noun",
+            "ipa": "/to.ˈnuːp/",
+            "origen": {
+              "lengua": "Sánscrito / Griego / Persa",
+              "raiz_original": "Sánscrito अजगर (ajagara) /ˈɐ.dʒɐ.ɡɐ.ɾɐ/; Griego πύθων (pýthōn) /ˈpy.tʰɔːn/; Persa پایتون (pāytūn) /pɒːjˈt̪uːn/",
+              "corpus": "forjado por motor de síntesis v1.4.1 (short mode, expansión animalia)"
+            },
+            "transformacion": [
+              "forjado desde Sánscrito अजगर (ajagara) + Griego πύθων (pýthōn) + Persa پایتون (pāytūn)"
+            ],
+            "derivaciones": []
+          },
+          {
+            "kalfirvach": "basol",
+            "concepto": "boa",
+            "pos": "noun",
+            "ipa": "/ˈba.sol/",
+            "origen": {
+              "lengua": "Sánscrito / Griego / Árabe",
+              "raiz_original": "Sánscrito अजगर (ajagara) /ˈɐ.dʒɐ.ɡɐ.ɾɐ/; Griego βόα (bóa) /ˈbo.a/; Árabe أصلة (aṣala) /ˈʔa.sˤa.la/",
+              "corpus": "forjado por motor de síntesis v1.4.1 (short mode, expansión animalia)"
+            },
+            "transformacion": [
+              "forjado desde Sánscrito अजगर (ajagara) + Griego βόα (bóa) + Árabe أصلة (aṣala)"
+            ],
+            "derivaciones": []
+          },
+          {
+            "kalfirvach": "naram",
+            "concepto": "salamandra",
+            "pos": "noun",
+            "ipa": "/ˈna.ram/",
+            "origen": {
+              "lengua": "Sánscrito / Griego / Persa",
+              "raiz_original": "Sánscrito जलगोधा (jalagodhā) /dʒɐ.lɐˈɡoː.dʱɑː/; Griego σαλαμάνδρα (salamándra) /sa.laˈman.dra/; Persa سمندر (samandar) /sæmænˈdæɾ/",
+              "corpus": "forjado por motor de síntesis v1.4.1 (short mode, expansión animalia)"
+            },
+            "transformacion": [
+              "forjado desde Sánscrito जलगोधा (jalagodhā) + Griego σαλαμάνδρα (salamándra) + Persa سمندر (samandar)"
+            ],
+            "derivaciones": []
+          },
+          {
+            "kalfirvach": "lonti",
+            "concepto": "tritón",
+            "pos": "noun",
+            "ipa": "/ˈlon.ti/",
+            "origen": {
+              "lengua": "Sánscrito / Griego / Árabe",
+              "raiz_original": "Sánscrito जलगोधिका (jalagodhikā) /dʒɐ.lɐˈɡoː.dʱi.kɑː/; Griego τρίτων (trítōn) /ˈtri.tɔːn/; Árabe سمندر مائي (samandar mā'ī) /sa.man.dar ˈmɑː.ʔiː/",
+              "corpus": "forjado por motor de síntesis v1.4.1 (short mode, expansión animalia)"
+            },
+            "transformacion": [
+              "forjado desde Sánscrito जलगोधिका (jalagodhikā) + Griego τρίτων (trítōn) + Árabe سمندر مائي (samandar mā'ī)"
+            ],
+            "derivaciones": []
+          },
+          {
+            "kalfirvach": "ōrtōl",
+            "concepto": "salmón",
+            "pos": "noun",
+            "ipa": "/ˈoːr.toːl/",
+            "origen": {
+              "lengua": "Sánscrito / Griego / Persa",
+              "raiz_original": "Sánscrito रोहित (rohita) /ˈroː.ɦi.tɐ/; Griego σάλμος (sálmos) /ˈsal.mos/; Persa قزل آلا (qezel ālā) /ɢeˈzel ɒːˈlɒː/",
+              "corpus": "forjado por motor de síntesis v1.4.1 (short mode, expansión animalia)"
+            },
+            "transformacion": [
+              "forjado desde Sánscrito रोहित (rohita) + Griego σάλμος (sálmos) + Persa قزل آلا (qezel ālā)"
+            ],
+            "derivaciones": []
+          },
+          {
+            "kalfirvach": "zufal",
+            "concepto": "trucha",
+            "pos": "noun",
+            "ipa": "/ˈzu.fal/",
+            "origen": {
+              "lengua": "Sánscrito / Griego / Persa",
+              "raiz_original": "Sánscrito शकुल (śakula) /ˈɕɐ.ku.lɐ/; Griego πέστροφα (péstrofa) /ˈpe.stro.fa/; Persa قزل آلا (qezel ālā) /ɢeˈzel ɒːˈlɒː/",
+              "corpus": "forjado por motor de síntesis v1.4.1 (short mode, expansión animalia)"
+            },
+            "transformacion": [
+              "forjado desde Sánscrito शकुल (śakula) + Griego πέστροφα (péstrofa) + Persa قزل آلا (qezel ālā)"
+            ],
+            "derivaciones": []
+          },
+          {
+            "kalfirvach": "rosto",
+            "concepto": "atún",
+            "pos": "noun",
+            "ipa": "/ˈros.to/",
+            "origen": {
+              "lengua": "Sánscrito / Griego / Árabe",
+              "raiz_original": "Sánscrito मत्स्यराज (matsyarāja) /mɐt.sjɐˈrɑː.dʒɐ/; Griego θύννος (thýnnos) /ˈtʰyn.nos/; Árabe تون (tūn) /tuːn/",
+              "corpus": "forjado por motor de síntesis v1.4.1 (short mode, expansión animalia)"
+            },
+            "transformacion": [
+              "forjado desde Sánscrito मत्स्यराज (matsyarāja) + Griego θύννος (thýnnos) + Árabe تون (tūn)"
+            ],
+            "derivaciones": []
+          },
+          {
+            "kalfirvach": "kirim",
+            "concepto": "tiburón",
+            "pos": "noun",
+            "ipa": "/ˈki.rim/",
+            "origen": {
+              "lengua": "Sánscrito / Griego / Árabe",
+              "raiz_original": "Sánscrito मकर (makara) /ˈmɐ.kɐ.ɾɐ/; Griego καρχαρίας (karkharías) /kar.kʰaˈri.as/; Árabe قرش (qirsh) /qirʃ/",
+              "corpus": "forjado por motor de síntesis v1.4.1 (short mode, expansión animalia)"
+            },
+            "transformacion": [
+              "forjado desde Sánscrito मकर (makara) + Griego καρχαρίας (karkharías) + Árabe قرش (qirsh)"
+            ],
+            "derivaciones": []
+          },
+          {
+            "kalfirvach": "busop",
+            "concepto": "pulpo",
+            "pos": "noun",
+            "ipa": "/ˈbu.sop/",
+            "origen": {
+              "lengua": "Sánscrito / Griego / Árabe",
+              "raiz_original": "Sánscrito अष्टपाद (aṣṭapāda) /ɐʂ.ʈɐˈpɑː.dɐ/; Griego πολύπους (polýpous) /poˈly.pus/; Árabe أخطبوط (ukhṭubūṭ) /ʔux.tˤuˈbuːtˤ/",
+              "corpus": "forjado por motor de síntesis v1.4.1 (short mode, expansión animalia)"
+            },
+            "transformacion": [
+              "forjado desde Sánscrito अष्टपाद (aṣṭapāda) + Griego πολύπους (polýpous) + Árabe أخطبوط (ukhṭubūṭ)"
+            ],
+            "derivaciones": []
+          },
+          {
+            "kalfirvach": "kabil",
+            "concepto": "calamar",
+            "pos": "noun",
+            "ipa": "/ˈka.bil/",
+            "origen": {
+              "lengua": "Sánscrito / Griego / Árabe",
+              "raiz_original": "Sánscrito कालमार (kālamāra) /kɑː.lɐˈmɑː.ɾɐ/; Griego καλαμάρι (kalamári) /ka.laˈma.ri/; Árabe حبار (ḥabbār) /ħabˈbɑːr/",
+              "corpus": "forjado por motor de síntesis v1.4.1 (short mode, expansión animalia)"
+            },
+            "transformacion": [
+              "forjado desde Sánscrito कालमार (kālamāra) + Griego καλαμάρι (kalamári) + Árabe حبار (ḥabbār)"
+            ],
+            "derivaciones": []
+          },
+          {
+            "kalfirvach": "sakli",
+            "concepto": "cangrejo",
+            "pos": "noun",
+            "ipa": "/ˈsak.li/",
+            "origen": {
+              "lengua": "Sánscrito / Griego / Árabe",
+              "raiz_original": "Sánscrito कर्कट (karkaṭa) /ˈkɐr.kɐ.ʈɐ/; Griego καρκίνος (karkínos) /karˈki.nos/; Árabe سلطعون (salaṭ'ūn) /sa.laˈtˤuːn/",
+              "corpus": "forjado por motor de síntesis v1.4.1 (short mode, expansión animalia)"
+            },
+            "transformacion": [
+              "forjado desde Sánscrito कर्कट (karkaṭa) + Griego καρκίνος (karkínos) + Árabe سلطعون (salaṭ'ūn)"
+            ],
+            "derivaciones": []
+          },
+          {
+            "kalfirvach": "tonka",
+            "concepto": "langosta",
+            "pos": "noun",
+            "ipa": "/ˈton.ka/",
+            "origen": {
+              "lengua": "Sánscrito / Griego / Persa",
+              "raiz_original": "Sánscrito कुलीर (kulīra) /kuˈliː.ɾɐ/; Griego ἀστακός (astakós) /as.taˈkos/; Persa خرچنگ (kharchang) /xæɾˈtʃæŋɡ/",
+              "corpus": "forjado por motor de síntesis v1.4.1 (short mode, expansión animalia)"
+            },
+            "transformacion": [
+              "forjado desde Sánscrito कुलीर (kulīra) + Griego ἀστακός (astakós) + Persa خرچنگ (kharchang)"
+            ],
+            "derivaciones": []
+          },
+          {
+            "kalfirvach": "ribis",
+            "concepto": "camarón",
+            "pos": "noun",
+            "ipa": "/ˈri.bis/",
+            "origen": {
+              "lengua": "Sánscrito / Griego / Árabe",
+              "raiz_original": "Sánscrito चिङ्गट (ciṅgaṭa) /ˈt͡ʃiŋ.ɡɐ.ʈɐ/; Griego γαρίς (garís) /ɡaˈris/; Árabe جمبري (jambarī) /dʒam.baˈriː/",
+              "corpus": "forjado por motor de síntesis v1.4.1 (short mode, expansión animalia)"
+            },
+            "transformacion": [
+              "forjado desde Sánscrito चिङ्गट (ciṅgaṭa) + Griego γαρίς (garís) + Árabe جمبري (jambarī)"
+            ],
+            "derivaciones": []
+          },
+          {
+            "kalfirvach": "helok",
+            "concepto": "anguila",
+            "pos": "noun",
+            "ipa": "/ˈhe.lok/",
+            "origen": {
+              "lengua": "Sánscrito / Griego / Persa",
+              "raiz_original": "Sánscrito वालक (vālaka) /ˈʋɑː.lɐ.kɐ/; Griego ἔγχελυς (énkhelus) /ˈeŋ.kʰe.lys/; Persa مارماهی (mārmāhī) /mɒːɾˈmɒːhiː/",
+              "corpus": "forjado por motor de síntesis v1.4.1 (short mode, expansión animalia)"
+            },
+            "transformacion": [
+              "forjado desde Sánscrito वालक (vālaka) + Griego ἔγχελυς (énkhelus) + Persa مارماهی (mārmāhī)"
+            ],
+            "derivaciones": []
+          },
+          {
+            "kalfirvach": "vūtap",
+            "concepto": "mariposa",
+            "pos": "noun",
+            "ipa": "/ˈvuː.tap/",
+            "origen": {
+              "lengua": "Sánscrito / Griego / Persa",
+              "raiz_original": "Sánscrito पतङ्ग (pataṅga) /pɐˈtɐŋ.ɡɐ/; Griego πεταλούδα (petaloúda) /pe.taˈluː.ða/; Persa پروانه (parvāneh) /pæɾˈvɒː.ne/",
+              "corpus": "forjado por motor de síntesis v1.4.1 (short mode, expansión animalia)"
+            },
+            "transformacion": [
+              "forjado desde Sánscrito पतङ्ग (pataṅga) + Griego πεταλούδα (petaloúda) + Persa پروانه (parvāneh)"
+            ],
+            "derivaciones": []
+          },
+          {
+            "kalfirvach": "bildī",
+            "concepto": "polilla",
+            "pos": "noun",
+            "ipa": "/bil.ˈdiː/",
+            "origen": {
+              "lengua": "Sánscrito / Griego / Persa",
+              "raiz_original": "Sánscrito शलभ (śalabha) /ˈɕɐ.lɐ.bʱɐ/; Griego νυκτοπεταλούδα (nyktopetaloúda) /nyk.to.pe.taˈluː.ða/; Persa بید (bīd) /biːd/",
+              "corpus": "forjado por motor de síntesis v1.4.1 (short mode, expansión animalia)"
+            },
+            "transformacion": [
+              "forjado desde Sánscrito शलभ (śalabha) + Griego νυκτοπεταλούδα (nyktopetaloúda) + Persa بید (bīd)"
+            ],
+            "derivaciones": []
+          },
+          {
+            "kalfirvach": "imibu",
+            "concepto": "mosca",
+            "pos": "noun",
+            "ipa": "/i.ˈmi.bu/",
+            "origen": {
+              "lengua": "Sánscrito / Griego / Árabe",
+              "raiz_original": "Sánscrito मक्षिका (makṣikā) /ˈmɐk.ʂi.kɑː/; Griego μυῖα (myîa) /myː.a/; Árabe ذبابة (dhubāba) /ðuˈbɑː.ba/",
+              "corpus": "forjado por motor de síntesis v1.4.1 (short mode, expansión animalia)"
+            },
+            "transformacion": [
+              "forjado desde Sánscrito मक्षिका (makṣikā) + Griego μυῖα (myîa) + Árabe ذبابة (dhubāba)"
+            ],
+            "derivaciones": []
+          },
+          {
+            "kalfirvach": "okdos",
+            "concepto": "mosquito",
+            "pos": "noun",
+            "ipa": "/ˈok.dos/",
+            "origen": {
+              "lengua": "Sánscrito / Griego / Árabe",
+              "raiz_original": "Sánscrito मशक (maśaka) /ˈmɐ.ɕɐ.kɐ/; Griego κώνωψ (kṓnōps) /ˈkɔː.nɔːps/; Árabe بعوضة (ba'ūḍa) /baˈʕuː.dˤa/",
+              "corpus": "forjado por motor de síntesis v1.4.1 (short mode, expansión animalia)"
+            },
+            "transformacion": [
+              "forjado desde Sánscrito मशक (maśaka) + Griego κώνωψ (kṓnōps) + Árabe بعوضة (ba'ūḍa)"
+            ],
+            "derivaciones": []
+          },
+          {
+            "kalfirvach": "mesik",
+            "concepto": "hormiga",
+            "pos": "noun",
+            "ipa": "/ˈme.sik/",
+            "origen": {
+              "lengua": "Sánscrito / Griego / Persa",
+              "raiz_original": "Sánscrito पिपीलिका (pipīlikā) /piˈpiː.li.kɑː/; Griego μύρμηξ (mýrmēx) /ˈmyr.mɛːks/; Persa مورچه (mūrcheh) /muːɾˈtʃe/",
+              "corpus": "forjado por motor de síntesis v1.4.1 (short mode, expansión animalia)"
+            },
+            "transformacion": [
+              "forjado desde Sánscrito पिपीलिका (pipīlikā) + Griego μύρμηξ (mýrmēx) + Persa مورچه (mūrcheh)"
+            ],
+            "derivaciones": []
+          },
+          {
+            "kalfirvach": "esūpe",
+            "concepto": "avispa",
+            "pos": "noun",
+            "ipa": "/e.ˈsuː.pe/",
+            "origen": {
+              "lengua": "Sánscrito / Griego / Persa",
+              "raiz_original": "Sánscrito शृङ्गिन् (śṛṅgin) /ˈɕr̩.ŋin/; Griego σφήξ (sphḗx) /spʰɛːks/; Persa زنبور (zanbūr) /zænˈbuːɾ/",
+              "corpus": "forjado por motor de síntesis v1.4.1 (short mode, expansión animalia)"
+            },
+            "transformacion": [
+              "forjado desde Sánscrito शृङ्गिन् (śṛṅgin) + Griego σφήξ (sphḗx) + Persa زنبور (zanbūr)"
+            ],
+            "derivaciones": []
+          },
+          {
+            "kalfirvach": "bekle",
+            "concepto": "saltamontes",
+            "pos": "noun",
+            "ipa": "/ˈbek.le/",
+            "origen": {
+              "lengua": "Sánscrito / Griego / Persa",
+              "raiz_original": "Sánscrito शलभ (śalabha) /ˈɕɐ.lɐ.bʱɐ/; Griego ἀκρίς (akrís) /aˈkris/; Persa ملخ (malakh) /mæˈlæx/",
+              "corpus": "forjado por motor de síntesis v1.4.1 (short mode, expansión animalia)"
+            },
+            "transformacion": [
+              "forjado desde Sánscrito शलभ (śalabha) + Griego ἀκρίς (akrís) + Persa ملخ (malakh)"
+            ],
+            "derivaciones": []
+          },
+          {
+            "kalfirvach": "ūlsor",
+            "concepto": "grillo",
+            "pos": "noun",
+            "ipa": "/ˈuːl.sor/",
+            "origen": {
+              "lengua": "Sánscrito / Griego / Árabe",
+              "raiz_original": "Sánscrito झिल्ली (jhillī) /ˈdʒʱil.liː/; Griego γρύλλος (grýllos) /ˈɡryl.los/; Árabe صرصور (ṣarṣūr) /sˤarˈsˤuːr/",
+              "corpus": "forjado por motor de síntesis v1.4.1 (short mode, expansión animalia)"
+            },
+            "transformacion": [
+              "forjado desde Sánscrito झिल्ली (jhillī) + Griego γρύλλος (grýllos) + Árabe صرصور (ṣarṣūr)"
+            ],
+            "derivaciones": []
+          },
+          {
+            "kalfirvach": "tikbi",
+            "concepto": "luciérnaga",
+            "pos": "noun",
+            "ipa": "/ˈtik.bi/",
+            "origen": {
+              "lengua": "Sánscrito / Griego / Persa",
+              "raiz_original": "Sánscrito खद्योत (khadyota) /kʰɐdˈjoː.tɐ/; Griego πυγολαμπίς (pygolampís) /py.ɡo.lamˈpis/; Persa کرم شبتاب (kerm-e shab-tāb) /keɾm-e ʃæbˈtɒːb/",
+              "corpus": "forjado por motor de síntesis v1.4.1 (short mode, expansión animalia)"
+            },
+            "transformacion": [
+              "forjado desde Sánscrito खद्योत (khadyota) + Griego πυγολαμπίς (pygolampís) + Persa کرم شبتاب (kerm-e shab-tāb)"
+            ],
+            "derivaciones": []
+          },
+          {
+            "kalfirvach": "koris",
+            "concepto": "libélula",
+            "pos": "noun",
+            "ipa": "/ˈko.ris/",
+            "origen": {
+              "lengua": "Sánscrito / Griego / Persa",
+              "raiz_original": "Sánscrito प्राचिका (prācikā) /ˈprɑː.t͡ʃi.kɑː/; Griego ἴσηλον (ísēlon) /ˈi.sɛː.lon/; Persa سنجاقک (sanjāqak) /sænˈdʒɒː.ɣæk/",
+              "corpus": "forjado por motor de síntesis v1.4.1 (short mode, expansión animalia)"
+            },
+            "transformacion": [
+              "forjado desde Sánscrito प्राचिका (prācikā) + Griego ἴσηλον (ísēlon) + Persa سنجاقک (sanjāqak)"
+            ],
+            "derivaciones": []
+          },
+          {
+            "kalfirvach": "dūlak",
+            "concepto": "mariquita",
+            "pos": "noun",
+            "ipa": "/ˈduː.lak/",
+            "origen": {
+              "lengua": "Sánscrito / Griego / Persa",
+              "raiz_original": "Sánscrito इन्द्रगोप (indragopa) /in.dɾɐˈɡoː.pɐ/; Griego πασχαλίτσα (paschalítsa) /pas.xaˈli.tsa/; Persa کفشدوزک (kafshdūzak) /kæfʃˈduː.zæk/",
+              "corpus": "forjado por motor de síntesis v1.4.1 (short mode, expansión animalia)"
+            },
+            "transformacion": [
+              "forjado desde Sánscrito इन्द्रगोप (indragopa) + Griego πασχαλίτσα (paschalítsa) + Persa کفشدوزک (kafshdūzak)"
+            ],
+            "derivaciones": []
+          },
+          {
+            "kalfirvach": "kehba",
+            "concepto": "araña",
+            "pos": "noun",
+            "ipa": "/ˈkeh.ba/",
+            "origen": {
+              "lengua": "Sánscrito / Griego / Árabe",
+              "raiz_original": "Sánscrito मर्कट (markaṭa) /ˈmɐr.kɐ.ʈɐ/; Griego ἀράχνη (arákhnē) /aˈra.kʰnɛː/; Árabe عنكبوت ('ankabūt) /ʕan.kaˈbuːt/",
+              "corpus": "forjado por motor de síntesis v1.4.1 (short mode, expansión animalia)"
+            },
+            "transformacion": [
+              "forjado desde Sánscrito मर्कट (markaṭa) + Griego ἀράχνη (arákhnē) + Árabe عنكبوت ('ankabūt)"
+            ],
+            "derivaciones": []
+          },
+          {
+            "kalfirvach": "asuzo",
+            "concepto": "ciempiés",
+            "pos": "noun",
+            "ipa": "/a.ˈsu.zo/",
+            "origen": {
+              "lengua": "Sánscrito / Griego / Persa",
+              "raiz_original": "Sánscrito शतपद (śatapada) /ɕɐ.tɐˈpɐ.dɐ/; Griego ἑκατομπους (hekatompous) /he.ka.tomˈpus/; Persa هزارپا (hezār pā) /heˈzɒːɾ pɒː/",
+              "corpus": "forjado por motor de síntesis v1.4.1 (short mode, expansión animalia)"
+            },
+            "transformacion": [
+              "forjado desde Sánscrito शतपद (śatapada) + Griego ἑκατομπους (hekatompous) + Persa هزارپا (hezār pā)"
+            ],
+            "derivaciones": []
+          },
+          {
+            "kalfirvach": "kanah",
+            "concepto": "escarabajo",
+            "pos": "noun",
+            "ipa": "/ˈka.nah/",
+            "origen": {
+              "lengua": "Sánscrito / Griego / Árabe",
+              "raiz_original": "Sánscrito वृश्चिक (vṛścika) /ˈʋr̩ɕ.t͡ʃi.kɐ/; Griego κάνθαρος (kántharos) /ˈkan.tʰa.ros/; Árabe جعل (ju'al) /dʒuˈʕal/",
+              "corpus": "forjado por motor de síntesis v1.4.1 (short mode, expansión animalia)"
+            },
+            "transformacion": [
+              "forjado desde Sánscrito वृश्चिक (vṛścika) + Griego κάνθαρος (kántharos) + Árabe جعل (ju'al)"
+            ],
+            "derivaciones": []
+          },
+          {
+            "kalfirvach": "zasūh",
+            "concepto": "caracol",
+            "pos": "noun",
+            "ipa": "/za.ˈsuːh/",
+            "origen": {
+              "lengua": "Sánscrito / Griego / Árabe",
+              "raiz_original": "Sánscrito शम्बूक (śambūka) /ɕɐmˈbuː.kɐ/; Griego κοχλίας (kokhlías) /koˈkʰli.as/; Árabe حلزون (ḥalazūn) /ħa.laˈzuːn/",
+              "corpus": "forjado por motor de síntesis v1.4.1 (short mode, expansión animalia)"
+            },
+            "transformacion": [
+              "forjado desde Sánscrito शम्बूक (śambūka) + Griego κοχλίας (kokhlías) + Árabe حلزون (ḥalazūn)"
+            ],
+            "derivaciones": []
+          },
+          {
+            "kalfirvach": "lamas",
+            "concepto": "babosa",
+            "pos": "noun",
+            "ipa": "/ˈla.mas/",
+            "origen": {
+              "lengua": "Sánscrito / Griego / Persa",
+              "raiz_original": "Sánscrito शम्बूक (śambūka) /ɕɐmˈbuː.kɐ/; Griego γυμνοσάλιαγκας (gymnosáliagkas) /ɣym.noˈsa.ʎaŋ.ɡas/; Persa لیزک (līzak) /liːˈzæk/",
+              "corpus": "forjado por motor de síntesis v1.4.1 (short mode, expansión animalia)"
+            },
+            "transformacion": [
+              "forjado desde Sánscrito शम्बूक (śambūka) + Griego γυμνοσάλιαγκας (gymnosáliagkas) + Persa لیزک (līzak)"
+            ],
+            "derivaciones": []
+          },
+          {
+            "kalfirvach": "sonik",
+            "concepto": "mejillón",
+            "pos": "noun",
+            "ipa": "/ˈso.nik/",
+            "origen": {
+              "lengua": "Sánscrito / Griego / Persa",
+              "raiz_original": "Sánscrito शुक्ति (śukti) /ˈɕuk.ti/; Griego μύδιον (mýdion) /ˈmy.di.on/; Persa صدف (sadaf) /sæˈdæf/",
+              "corpus": "forjado por motor de síntesis v1.4.1 (short mode, expansión animalia)"
+            },
+            "transformacion": [
+              "forjado desde Sánscrito शुक्ति (śukti) + Griego μύδιον (mýdion) + Persa صدف (sadaf)"
+            ],
+            "derivaciones": []
+          },
+          {
+            "kalfirvach": "kirma",
+            "concepto": "ostra",
+            "pos": "noun",
+            "ipa": "/ˈkir.ma/",
+            "origen": {
+              "lengua": "Sánscrito / Griego / Árabe",
+              "raiz_original": "Sánscrito शुक्ति (śukti) /ˈɕuk.ti/; Griego ὄστρεον (óstreon) /ˈos.tre.on/; Árabe محارة (maḥāra) /maˈħɑː.ra/",
+              "corpus": "forjado por motor de síntesis v1.4.1 (short mode, expansión animalia)"
+            },
+            "transformacion": [
+              "forjado desde Sánscrito शुक्ति (śukti) + Griego ὄστρεον (óstreon) + Árabe محارة (maḥāra)"
+            ],
+            "derivaciones": []
+          },
+          {
+            "kalfirvach": "lūtan",
+            "concepto": "almeja",
+            "pos": "noun",
+            "ipa": "/ˈluː.tan/",
+            "origen": {
+              "lengua": "Sánscrito / Griego / Árabe",
+              "raiz_original": "Sánscrito शुक्तिका (śuktikā) /ɕukˈti.kɑː/; Griego κτείς (kteís) /kteːs/; Árabe بطلينوس (baṭalīnūs) /ba.tˤaˈliː.nuːs/",
+              "corpus": "forjado por motor de síntesis v1.4.1 (short mode, expansión animalia)"
+            },
+            "transformacion": [
+              "forjado desde Sánscrito शुक्तिका (śuktikā) + Griego κτείς (kteís) + Árabe بطلينوس (baṭalīnūs)"
+            ],
+            "derivaciones": []
+          },
+          {
+            "kalfirvach": "larim",
+            "concepto": "estrella de mar",
+            "pos": "noun",
+            "ipa": "/ˈla.rim/",
+            "origen": {
+              "lengua": "Sánscrito / Griego / Árabe",
+              "raiz_original": "Sánscrito तारामत्स्य (tārāmatsya) /tɑː.ɾɑːˈmɐt.sjɐ/; Griego ἀστερίας (asterías) /as.teˈri.as/; Árabe نجم البحر (najm al-baḥr) /nadʒm alˈbaħr/",
+              "corpus": "forjado por motor de síntesis v1.4.1 (short mode, expansión animalia)"
+            },
+            "transformacion": [
+              "forjado desde Sánscrito तारामत्स्य (tārāmatsya) + Griego ἀστερίας (asterías) + Árabe نجم البحر (najm al-baḥr)"
+            ],
+            "derivaciones": []
+          },
+          {
+            "kalfirvach": "borno",
+            "concepto": "burro",
+            "pos": "noun",
+            "ipa": "/ˈbor.no/",
+            "origen": {
+              "lengua": "Sánscrito / Griego / Persa",
+              "raiz_original": "Sánscrito गर्दभ (gardabha) /ˈɡɐr.d̪ɐ.bʱɐ/; Griego ὄνος (ónos) /ˈo.nos/; Persa خر (khar) /xæɾ/",
+              "corpus": "forjado por motor de síntesis v1.4.1 (short mode, expansión animalia)"
+            },
+            "transformacion": [
+              "forjado desde Sánscrito गर्दभ (gardabha) + Griego ὄνος (ónos) + Persa خر (khar)"
+            ],
+            "derivaciones": []
+          },
+          {
+            "kalfirvach": "oslem",
+            "concepto": "mula",
+            "pos": "noun",
+            "ipa": "/ˈos.lem/",
+            "origen": {
+              "lengua": "Sánscrito / Griego / Árabe",
+              "raiz_original": "Sánscrito अश्वतर (aśvatara) /ɐɕ.ʋɐˈtɐ.ɾɐ/; Griego ἡμίονος (hēmíonos) /hɛːˈmi.o.nos/; Árabe بغل (baghl) /baɣl/",
+              "corpus": "forjado por motor de síntesis v1.4.1 (short mode, expansión animalia)"
+            },
+            "transformacion": [
+              "forjado desde Sánscrito अश्वतर (aśvatara) + Griego ἡμίονος (hēmíonos) + Árabe بغل (baghl)"
+            ],
+            "derivaciones": []
+          },
+          {
+            "kalfirvach": "amal",
+            "concepto": "llama",
+            "pos": "noun",
+            "ipa": "/ˈa.mal/",
+            "origen": {
+              "lengua": "Sánscrito / Griego / Árabe",
+              "raiz_original": "Sánscrito लामा (lāmā) /ˈlɑː.mɑː/; Griego λάμα (láma) /ˈla.ma/; Árabe لاما (lāmā) /ˈlɑː.mɑː/",
+              "corpus": "forjado por motor de síntesis v1.4.1 (short mode, expansión animalia)"
+            },
+            "transformacion": [
+              "forjado desde Sánscrito लामा (lāmā) + Griego λάμα (láma) + Árabe لاما (lāmā)"
+            ],
+            "derivaciones": []
+          },
+          {
+            "kalfirvach": "merik",
+            "concepto": "hámster",
+            "pos": "noun",
+            "ipa": "/ˈme.rik/",
+            "origen": {
+              "lengua": "Sánscrito / Griego / Persa",
+              "raiz_original": "Sánscrito केकर (kekara) /ˈkeː.kɐ.ɾɐ/; Griego κρικητός (krikētós) /kri.kɛːˈtos/; Persa همستر (hamster) /ˈhæmsteɾ/",
+              "corpus": "forjado por motor de síntesis v1.4.1 (short mode, expansión animalia)"
+            },
+            "transformacion": [
+              "forjado desde Sánscrito केकर (kekara) + Griego κρικητός (krikētós) + Persa همستر (hamster)"
+            ],
+            "derivaciones": []
+          },
+          {
+            "kalfirvach": "kūsni",
+            "concepto": "hurón",
+            "pos": "noun",
+            "ipa": "/ˈkuːs.ni/",
+            "origen": {
+              "lengua": "Sánscrito / Griego / Persa",
+              "raiz_original": "Sánscrito नकुल (nakula) /ˈnɐ.ku.lɐ/; Griego ἴκτις (íktis) /ˈik.tis/; Persa راسو (rāsū) /rɒːˈsuː/",
+              "corpus": "forjado por motor de síntesis v1.4.1 (short mode, expansión animalia)"
+            },
+            "transformacion": [
+              "forjado desde Sánscrito नकुल (nakula) + Griego ἴκτις (íktis) + Persa راسو (rāsū)"
+            ],
+            "derivaciones": []
+          },
+          {
+            "kalfirvach": "satik",
+            "concepto": "suricata",
+            "pos": "noun",
+            "ipa": "/ˈsa.tik/",
+            "origen": {
+              "lengua": "Sánscrito / Griego / Árabe",
+              "raiz_original": "Sánscrito नकुल (nakula) /ˈnɐ.ku.lɐ/; Griego σουρικάτα (sourikáta) /su.riˈka.ta/; Árabe سُرَيْقاط (surayqāṭ) /su.rajˈqɑːtˤ/",
+              "corpus": "forjado por motor de síntesis v1.4.1 (short mode, expansión animalia)"
+            },
+            "transformacion": [
+              "forjado desde Sánscrito नकुल (nakula) + Griego σουρικάτα (sourikáta) + Árabe سُرَيْقاط (surayqāṭ)"
+            ],
+            "derivaciones": []
           }
         ]
       },
@@ -4267,21 +5572,6 @@ const LEXICON_DATA =
             "derivaciones": []
           },
           {
-            "kalfirvach": "teklina",
-            "concepto": "lino",
-            "pos": "noun",
-            "ipa": "/tek.ˈli.na/",
-            "origen": {
-              "lengua": "Árabe esotérico / Griego Koiné / Persa moderno",
-              "raiz_original": "Árabe esotérico: كتّان (kattān) / GK Koiné: λίνον (línon) / Persa mod.: کتان (ketān)",
-              "corpus": "generado por forja v1.4 (compacto)"
-            },
-            "transformacion": [
-              "forjado"
-            ],
-            "derivaciones": []
-          },
-          {
             "kalfirvach": "iwōkan",
             "concepto": "quinoa",
             "pos": "noun",
@@ -4829,21 +6119,6 @@ const LEXICON_DATA =
             "origen": {
               "lengua": "Árabe esotérico / Griego Koiné / Persa moderno",
               "raiz_original": "Árabe esotérico: قصب (qaṣab) / GK Koiné: κάλαμος (kálamos) / Persa mod.: نی‌شکر (neyšakar)",
-              "corpus": "generado por forja v1.4 (compacto)"
-            },
-            "transformacion": [
-              "forjado"
-            ],
-            "derivaciones": []
-          },
-          {
-            "kalfirvach": "setponke",
-            "concepto": "algodón (planta)",
-            "pos": "noun",
-            "ipa": "/set.ˈpon.ke/",
-            "origen": {
-              "lengua": "Árabe esotérico / Griego Koiné / Persa moderno",
-              "raiz_original": "Árabe esotérico: قطن (quṭn) / GK Koiné: βύσσος (býssos) / Persa mod.: پنبه (panbe)",
               "corpus": "generado por forja v1.4 (compacto)"
             },
             "transformacion": [
@@ -6195,22 +7470,6 @@ const LEXICON_DATA =
             "derivaciones": []
           },
           {
-            "kalfirvach": "twacha",
-            "concepto": "piel/cuero",
-            "pos": "noun",
-            "ipa": "/ˈtwa.tʃa/",
-            "origen": {
-              "lengua": "Sánscrito Védico / Persa Avéstico / Griego Koiné",
-              "raiz_original": "त्वच् tvac \"piel\" (Skt) / thwarəs- \"piel\" (Pers) / δέρμα dérma \"piel, cuero\" (Gr)",
-              "corpus": "Ṛgveda (Skt); Avesta (Pers); Homero (Gr)"
-            },
-            "transformacion": [
-              "/twa/ convergencia de त्वच् /tʋatʃ/ (Skt) + thwarəs- /θwa.ɾəs/ (Pers) + δέρμα /der.ma/ → /de/→/t/ (Gr)",
-              "/cha/ de त्वच् /tʃ/ (Skt) + /a/ (Pers+Gr)"
-            ],
-            "derivaciones": []
-          },
-          {
             "kalfirvach": "thrix",
             "concepto": "vello corporal",
             "pos": "noun",
@@ -7182,21 +8441,6 @@ const LEXICON_DATA =
             "transformacion": [
               "/fu/ de फूत्कार /pʰuːt.kaː.ra/ → /fuː/ (Skt) + φυσάω /ɸy.sa.oː/ → /fy/→/fu/ (Gr)",
               "/sīd/ de وزیدن /væ.ziː.dan/ → /ziːd/ → /siːd/ (devoicing /z/ → /s/) (Pers)"
-            ],
-            "derivaciones": []
-          },
-          {
-            "kalfirvach": "fweros",
-            "concepto": "tejer",
-            "pos": "verb",
-            "ipa": "/ˈfwe.ros/",
-            "origen": {
-              "lengua": "Persa Avéstico / Árabe esotérico / Griego Koiné",
-              "raiz_original": "dōkhtan / فتح / φέρ-",
-              "corpus": ""
-            },
-            "transformacion": [
-              "Fusión Persa Avéstico + Árabe Esotérico + Griego Koiné"
             ],
             "derivaciones": []
           },
@@ -9170,22 +10414,6 @@ const LEXICON_DATA =
             "transformacion": [
               "/sirava/ de स्रु /sru/ + रेω /r̥e.oː/ → /si.ra.wa/ (Skt+Gr)",
               "/n/ coda de رَوَان /ræ.vɒːn/ → /n/ (Pers)"
-            ],
-            "derivaciones": []
-          },
-          {
-            "kalfirvach": "siwat",
-            "concepto": "coser",
-            "pos": "verb",
-            "ipa": "/ˈsi.wat/",
-            "origen": {
-              "lengua": "Sánscrito Védico / Griego Koiné / Árabe esotérico",
-              "raiz_original": "सिव् siv \"coser\" (Skt) / ῥαφή rhaphē \"costura, sutura\" (Gr) / خِيَاطَة khiyāṭa \"costura, acción de coser\" (Ar)",
-              "corpus": "Rig Veda (Skt); Galeno (Gr); Textos medievales (Ar)"
-            },
-            "transformacion": [
-              "/si/ de सिव् /siv/ (Skt)",
-              "/wat/ blend de सिव् /va/ → /wa/ (Skt) + ῥαφή /r̥a.ɸɛː/ → /a/ (Gr) + خِيَاطَة /xi.jaː.tˤa/ → /tˤa/ → /t/ (Ar)"
             ],
             "derivaciones": []
           },
@@ -16688,21 +17916,6 @@ const LEXICON_DATA =
             "derivaciones": []
           },
           {
-            "kalfirvach": "sekbepetel",
-            "concepto": "hacha",
-            "pos": "noun",
-            "ipa": "/sek.be.ˈpe.tel/",
-            "origen": {
-              "lengua": "Ancient Greek / Arabic / Persian / Sanskrit",
-              "raiz_original": "Sanskrit: परशु (paraśu) / Persian: تبر (tabar) / Arabic: بَلْط (balṭ) / فَأْس (faʾs) / Ancient Greek: πέλεκυς (pelekys)",
-              "corpus": "generado por forja v1.4"
-            },
-            "transformacion": [
-              "forjado"
-            ],
-            "derivaciones": []
-          },
-          {
             "kalfirvach": "bohotmoso",
             "concepto": "flecha",
             "pos": "noun",
@@ -16819,21 +18032,6 @@ const LEXICON_DATA =
             },
             "transformacion": [
               "forjado desde skhēma /sxeː.ma/ + namaṭ /na.matˤ/ + pratimāna /prɐ.t̪i.mɑː.nɐ/"
-            ],
-            "derivaciones": []
-          },
-          {
-            "kalfirvach": "takhifan",
-            "concepto": "hilo",
-            "pos": "noun",
-            "ipa": "/ta.ˈxi.fan/",
-            "origen": {
-              "lengua": "Copto/Egipcio / Árabe Esotérico / Sánscrito",
-              "raiz_original": "ϥⲱⲧⲉ (fōte) \"hilo\" (Cop) / خَيْط (khayṭ) \"hilo\" (Ar) / तन्तु (tantu) \"hilo, hebra\" (Skt)",
-              "corpus": "forjado por motor de síntesis v1.4.1"
-            },
-            "transformacion": [
-              "forjado desde fōte /foː.te/ + khayṭ /xajtˤ/ + tantu /t̪ɐn̪.t̪u/"
             ],
             "derivaciones": []
           },
@@ -23092,22 +24290,6 @@ const LEXICON_DATA =
             "derivaciones": []
           },
           {
-            "kalfirvach": "digh",
-            "concepto": "olla, caldero, pote, marmita",
-            "pos": "noun",
-            "ipa": "/ˈdix/",
-            "origen": {
-              "lengua": "Persa Avéstico / Árabe esotérico",
-              "raiz_original": "دیک (dīg) 'olla, caldero' / قدر (qidr) 'olla'",
-              "corpus": "Poesía persa (dīg como símbolo de hogar) / Textos de gastronomía árabes"
-            },
-            "transformacion": [
-              "dīg → dig → digh (oclusiva sonora aspirada por énfasis KFA)",
-              "qidr → qidr → qid → digh (convergencia, sonorización q→g)"
-            ],
-            "derivaciones": []
-          },
-          {
             "kalfirvach": "fatur",
             "concepto": "desayuno (primera comida del día)",
             "pos": "noun",
@@ -23313,21 +24495,6 @@ const LEXICON_DATA =
             "derivaciones": []
           },
           {
-            "kalfirvach": "milak",
-            "concepto": "cuchara (utensilio cóncavo para líquidos)",
-            "pos": "noun",
-            "ipa": "/ˈmi.lak/",
-            "origen": {
-              "lengua": "Griego Koiné / Árabe esotérico",
-              "raiz_original": "κουτάλι (koutáli) 'cuchara' (Gr) / milʿaka 'cuchara' (Ar)",
-              "corpus": ""
-            },
-            "transformacion": [
-              "/ʿ/→O, /ou/→/i/"
-            ],
-            "derivaciones": []
-          },
-          {
             "kalfirvach": "murak",
             "concepto": "caldo, sopa, cocido, guiso líquido",
             "pos": "noun",
@@ -23372,22 +24539,6 @@ const LEXICON_DATA =
             "transformacion": [
               "/pakh/ de पच् /pa.tɕa/ → /pax/ (Skt) + πέσσω /pes.soː/ → /pe/ → /pax/ (Gr)",
               "/tan/ de پختن /pox.tan/ → /tan/ (Pers)"
-            ],
-            "derivaciones": []
-          },
-          {
-            "kalfirvach": "patarnā",
-            "concepto": "plato, vasija, recipiente, cuenco",
-            "pos": "noun",
-            "ipa": "/paˈtar.naː/",
-            "origen": {
-              "lengua": "Sánscrito Védico / Griego Koiné / Árabe esotérico",
-              "raiz_original": "पात्र pātra \"vasija, recipiente\" (Skt) / ποτήρ potēr \"copa, vaso para beber\" (Gr) / إنَاء ināʾ \"vasija, recipiente\" (Ar)",
-              "corpus": "Rig Veda (Skt); Simposio de Platón (Gr); Cuentos de Las Mil y Una Noches (Ar)"
-            },
-            "transformacion": [
-              "/patar/ de पात्र /paː.tra/ → /pa.tar/ (Skt) + ποτήρ /po.tɛːr/ → /pa.ter/ (Gr)",
-              "/nā/ de إنَاء /ʔi.naːʔ/ → /naː/ (Ar)"
             ],
             "derivaciones": []
           },
@@ -23474,21 +24625,6 @@ const LEXICON_DATA =
             "derivaciones": []
           },
           {
-            "kalfirvach": "shauka",
-            "concepto": "tenedor (utensilio con púas para comer sólidos)",
-            "pos": "noun",
-            "ipa": "/ˈʃa.u.ka/",
-            "origen": {
-              "lengua": "Griego Koiné / Árabe esotérico",
-              "raiz_original": "πιρούνι (pirouni) 'tenedor' (Gr) / shauka 'pincho, tenedor' (Ar)",
-              "corpus": ""
-            },
-            "transformacion": [
-              "/p/→/ʃ/ (síncopa y palatalización)"
-            ],
-            "derivaciones": []
-          },
-          {
             "kalfirvach": "tamar",
             "concepto": "dátil, fruta seca, fruto deshidratado",
             "pos": "noun",
@@ -23502,22 +24638,6 @@ const LEXICON_DATA =
               "tamr → tamr (adopción directa, CVCC válido)",
               "xurmā → khurma → khur → tamr (convergencia con el árabe)",
               "§10.3 fix: tamr→tamar (/mr/→/mar/)"
-            ],
-            "derivaciones": []
-          },
-          {
-            "kalfirvach": "tanur",
-            "concepto": "horno, fogón, lugar de cocción",
-            "pos": "noun",
-            "ipa": "/ˈta.nur/",
-            "origen": {
-              "lengua": "Árabe esotérico / Persa Avéstico",
-              "raiz_original": "تنور (tannūr) 'horno' / تنور (tanūr) 'horno' — raíz acadia común",
-              "corpus": "Corpus coránico (tannūr del diluvio) / Poesía persa"
-            },
-            "transformacion": [
-              "tannūr → tanur (geminación simplificada nn→n, ū→u)",
-              "idéntico en ambas — forma panoriental antigua"
             ],
             "derivaciones": []
           },
@@ -23566,22 +24686,6 @@ const LEXICON_DATA =
             },
             "transformacion": [
               "/n/→/z/ (síncopa)"
-            ],
-            "derivaciones": []
-          },
-          {
-            "kalfirvach": "chur",
-            "concepto": "cuchillo, hoja cortante, cuchilla",
-            "pos": "noun",
-            "ipa": "/ˈtʃur/",
-            "origen": {
-              "lengua": "Sánscrito Védico / Persa Avéstico / Griego Koiné",
-              "raiz_original": "छुरिका churikā \"cuchillo\" (Skt) / چاقو čāqū \"cuchillo\" (Pers) / μάχαιρα máchaira \"cuchillo, cuchilla\" (Gr)",
-              "corpus": "Suśruta Saṃhitā (Skt); Cocina persa (Pers); Homero (Gr)"
-            },
-            "transformacion": [
-              "/chu/ convergencia de छुरिका /tʃʰu.ri.kaː/ (Skt) + چاقو /tʃɒ.quː/ (Pers) + μάχαιρα /ma.kʰai.ra/ → /ma/→/m/→/tʃ/ + /kʰai/→/tʃai/→/tʃu/ (Gr)",
-              "/r/ convergencia de छुरिका /ri/ (Skt) + μάχαιρα /ra/ (Gr)"
             ],
             "derivaciones": []
           },
@@ -24006,21 +25110,6 @@ const LEXICON_DATA =
             "derivaciones": []
           },
           {
-            "kalfirvach": "kalit",
-            "concepto": "llave (instrumento para abrir cerradura)",
-            "pos": "noun",
-            "ipa": "/ˈka.lit/",
-            "origen": {
-              "lengua": "Sánscrito Védico / Griego Koiné / Árabe esotérico",
-              "raiz_original": "tālaka- 'llave' (Skt) / κλειδί (kleidí) 'llave' (Gr) / miftaḥ 'llave' (Ar)",
-              "corpus": ""
-            },
-            "transformacion": [
-              "/tā/→/k/ (síncopa), /eid/→/lid/"
-            ],
-            "derivaciones": []
-          },
-          {
             "kalfirvach": "kamin",
             "concepto": "chimenea (conducto para humo o estructura para el fuego del hogar)",
             "pos": "noun",
@@ -24372,36 +25461,6 @@ const LEXICON_DATA =
             "derivaciones": []
           },
           {
-            "kalfirvach": "nuksōhīt",
-            "concepto": "camisa",
-            "pos": "noun",
-            "ipa": "/nuk.ˈsoː.hiːt/",
-            "origen": {
-              "lengua": "Ancient Greek / Arabic / Persian / Sanskrit",
-              "raiz_original": "Sanskrit: कञ्चुक (kañcuka) / Persian: پیراهن (pīrāhan) / Arabic: قَمِيص (qamīṣ) / Ancient Greek: χιτών (khitōn)",
-              "corpus": "generado por forja v1.4"
-            },
-            "transformacion": [
-              "forjado"
-            ],
-            "derivaciones": []
-          },
-          {
-            "kalfirvach": "pewebede",
-            "concepto": "calcetín",
-            "pos": "noun",
-            "ipa": "/pe.we.ˈbe.de/",
-            "origen": {
-              "lengua": "Arabic / Persian / Sanskrit",
-              "raiz_original": "Sanskrit: पादब्ध (pādabddha) / पादरक्षा (pādarakṣā) / Persian: جوراب (jūrāb) / Arabic: جَوْرَب (jawrab)",
-              "corpus": "generado por forja v1.4"
-            },
-            "transformacion": [
-              "forjado"
-            ],
-            "derivaciones": []
-          },
-          {
             "kalfirvach": "lestimevo",
             "concepto": "traje",
             "pos": "noun",
@@ -24409,21 +25468,6 @@ const LEXICON_DATA =
             "origen": {
               "lengua": "Ancient Greek / Arabic / Persian / Sanskrit",
               "raiz_original": "Sanskrit: वसनम् (vasanam) / परिधानम् (paridhānam) / Persian: لباس (lebās) / Arabic: لِبَاس (libās) / Ancient Greek: ἐσθής (esthēs) / στολή (stolē)",
-              "corpus": "generado por forja v1.4"
-            },
-            "transformacion": [
-              "forjado"
-            ],
-            "derivaciones": []
-          },
-          {
-            "kalfirvach": "eduvintī",
-            "concepto": "falda",
-            "pos": "noun",
-            "ipa": "/e.du.vin.ˈtiː/",
-            "origen": {
-              "lengua": "Arabic / Persian / Sanskrit",
-              "raiz_original": "Sanskrit: निवी (nivī) / कञ्चुकी / Persian: دامن (dāman) / Arabic: تُنُّورَة (tunnūra)",
               "corpus": "generado por forja v1.4"
             },
             "transformacion": [
@@ -25924,6 +26968,630 @@ const LEXICON_DATA =
               "lengua": "Griego Koiné / Persa Avéstico / Sánscrito Védico",
               "raiz_original": "ἀθλητής (athētḗs) atleta (Griego)\nbāz-yār- competidor (Avéstico)\nāthli (आठली) competidor (Sánscrito)",
               "corpus": ""
+            },
+            "transformacion": [],
+            "derivaciones": []
+          },
+          {
+            "kalfirvach": "sepze",
+            "concepto": "panadero: elabora y vende pan",
+            "pos": "noun",
+            "ipa": "/ˈsep.ze/",
+            "origen": {
+              "lengua": "Sánscrito / Griego / Árabe",
+              "raiz_original": "Sánscrito पुलक (pulaka) /pʰu.ˈlɐ.kɐ/; Griego ψωμάς (psomás) /ˈpso.mɑs/; Árabe خباز (khabbāz) /xæb.ˈbɑz/",
+              "corpus": "forjado por motor de síntesis v1.4.1 (short mode, expansión profesiones)"
+            },
+            "transformacion": [],
+            "derivaciones": []
+          },
+          {
+            "kalfirvach": "pesek",
+            "concepto": "carnicero: prepara y vende carne",
+            "pos": "noun",
+            "ipa": "/ˈpe.sek/",
+            "origen": {
+              "lengua": "Sánscrito / Griego / Árabe",
+              "raiz_original": "Sánscrito मांस (māṃsa) /ˈmɑːn.sɐ/; Griego κρεοπώλης (kreopólis) /kre.oˈpo.li.s/; Árabe قصاب (qaṣṣāb) /qɑsˤ.ˈsɑb/",
+              "corpus": "forjado por motor de síntesis v1.4.1 (short mode, expansión profesiones)"
+            },
+            "transformacion": [],
+            "derivaciones": []
+          },
+          {
+            "kalfirvach": "ihisu",
+            "concepto": "herrero: forja y repara metales",
+            "pos": "noun",
+            "ipa": "/i.ˈhi.su/",
+            "origen": {
+              "lengua": "Sánscrito / Griego / Árabe",
+              "raiz_original": "Sánscrito लौह (lauhā) /ˈlɐu.ʋɐ/; Griego σιδηρουργός (sidirourgós) /si.ði.ruːrˈɣos/; Árabe حداد (ḥaddād) /ħɐd.ˈdɑd/",
+              "corpus": "forjado por motor de síntesis v1.4.1 (short mode, expansión profesiones)"
+            },
+            "transformacion": [],
+            "derivaciones": []
+          },
+          {
+            "kalfirvach": "nilis",
+            "concepto": "carpintero: trabaja y talla la madera",
+            "pos": "noun",
+            "ipa": "/ˈni.lis/",
+            "origen": {
+              "lengua": "Sánscrito / Griego / Árabe",
+              "raiz_original": "Sánscrito ताक्ष (tākṣa) /ˈtɑːk.ʂɐ/; Griego ξύλος (xýlos) /ˈksi.los/; Árabe نجار (najjār) /nædʒ.ˈdʒɑr/",
+              "corpus": "forjado por motor de síntesis v1.4.1 (short mode, expansión profesiones)"
+            },
+            "transformacion": [],
+            "derivaciones": []
+          },
+          {
+            "kalfirvach": "mitip",
+            "concepto": "zapatero: fabrica y repara zapatos",
+            "pos": "noun",
+            "ipa": "/ˈmi.tip/",
+            "origen": {
+              "lengua": "Sánscrito / Griego / Árabe",
+              "raiz_original": "Sánscrito पादुका (pādukā) /pɑː.ˈdu.kɑː/; Griego τσαγκάρης (tsagkárēs) /t͡sɑŋ.ˈɡɑ.ris/; Árabe إسكافي (iskāfī) /ʔis.ˈkɑː.fiː/",
+              "corpus": "forjado por motor de síntesis v1.4.1 (short mode, expansión profesiones)"
+            },
+            "transformacion": [],
+            "derivaciones": []
+          },
+          {
+            "kalfirvach": "luske",
+            "concepto": "barbero: corta el cabello y afeita",
+            "pos": "noun",
+            "ipa": "/ˈlus.ke/",
+            "origen": {
+              "lengua": "Sánscrito / Griego / Árabe",
+              "raiz_original": "Sánscrito क्षुर (kṣura) /ˈkʃu.rɐ/; Griego κουρέας (kouréas) /kuˈre.ɑs/; Árabe حلاق (ḥallāq) /ħɐl.ˈlɑq/",
+              "corpus": "forjado por motor de síntesis v1.4.1 (short mode, expansión profesiones)"
+            },
+            "transformacion": [],
+            "derivaciones": []
+          },
+          {
+            "kalfirvach": "sirme",
+            "concepto": "alfarero: fabrica objetos de barro cocido",
+            "pos": "noun",
+            "ipa": "/ˈsir.me/",
+            "origen": {
+              "lengua": "Sánscrito / Griego / Árabe",
+              "raiz_original": "Sánscrito खलश (khalaśa) /ˈkʰɐ.lɐ.ɕɐ/; Griego κεραμίς (keramís) /ke.rɑˈmis/; Árabe فخار (fakhkhār) /fæx.ˈxɑr/",
+              "corpus": "forjado por motor de síntesis v1.4.1 (short mode, expansión profesiones)"
+            },
+            "transformacion": [],
+            "derivaciones": []
+          },
+          {
+            "kalfirvach": "rikit",
+            "concepto": "pintor: crea obras pictóricas",
+            "pos": "noun",
+            "ipa": "/ˈri.kit/",
+            "origen": {
+              "lengua": "Sánscrito / Griego / Árabe",
+              "raiz_original": "Sánscrito चित्रकार (citrakāra) /t͡ʃi.tɾɐˈkɑː.ɾɐ/; Griego ζωγράφος (zōgráfos) /zoˈɣrɑ.fos/; Árabe رسام (rassām) /rɑs.ˈsɑm/",
+              "corpus": "forjado por motor de síntesis v1.4.1 (short mode, expansión profesiones)"
+            },
+            "transformacion": [],
+            "derivaciones": []
+          },
+          {
+            "kalfirvach": "retsi",
+            "concepto": "joyero: fabrica y vende joyas",
+            "pos": "noun",
+            "ipa": "/ˈret.si/",
+            "origen": {
+              "lengua": "Sánscrito / Griego / Árabe",
+              "raiz_original": "Sánscrito रत्न (ratna) /ˈrɐt.nɐ/; Griego χρυσοχόος (khrysokhóos) /kʰri.soˈxo.os/; Árabe صائغ (ṣāʾigh) /sˤɑː.ˈɪʁ/",
+              "corpus": "forjado por motor de síntesis v1.4.1 (short mode, expansión profesiones)"
+            },
+            "transformacion": [],
+            "derivaciones": []
+          },
+          {
+            "kalfirvach": "dunto",
+            "concepto": "tejedor: teje telas en telar",
+            "pos": "noun",
+            "ipa": "/ˈdun.to/",
+            "origen": {
+              "lengua": "Sánscrito / Griego / Árabe",
+              "raiz_original": "Sánscrito तन्तु (tantu) /ˈtɐn.tu/; Griego υφαντής (yfantís) /i.fɑnˈdis/; Árabe حائك (ḥāʾik) /hɑː.ˈik/",
+              "corpus": "forjado por motor de síntesis v1.4.1 (short mode, expansión profesiones)"
+            },
+            "transformacion": [],
+            "derivaciones": []
+          },
+          {
+            "kalfirvach": "dorum",
+            "concepto": "enfermero: asiste y cuida pacientes",
+            "pos": "noun",
+            "ipa": "/ˈdo.rum/",
+            "origen": {
+              "lengua": "Sánscrito / Griego / Árabe",
+              "raiz_original": "Sánscrito सेवा (sevā) /ˈseː.ʋɑː/; Griego νοσοκόμος (nosokómos) /no.soˈko.mos/; Árabe ممرض (mumarriḍ) /mu.mɑ.ˈrɪdˤ/",
+              "corpus": "forjado por motor de síntesis v1.4.1 (short mode, expansión profesiones)"
+            },
+            "transformacion": [],
+            "derivaciones": []
+          },
+          {
+            "kalfirvach": "dibīt",
+            "concepto": "dentista: cuida la salud dental",
+            "pos": "noun",
+            "ipa": "/di.ˈbiːt/",
+            "origen": {
+              "lengua": "Sánscrito / Griego / Árabe",
+              "raiz_original": "Sánscrito दन्त (danta) /ˈdɐn.tɐ/; Griego οδοντίατρος (odontíatros) /o.ðonˈdi.ɑ.tɾos/; Árabe طبيب أسنان (ṭabīb asnān) /tˤɑ.ˈbiːb ʔɑs.ˈnɑːn/",
+              "corpus": "forjado por motor de síntesis v1.4.1 (short mode, expansión profesiones)"
+            },
+            "transformacion": [],
+            "derivaciones": []
+          },
+          {
+            "kalfirvach": "sirbi",
+            "concepto": "veterinario: cuida la salud animal",
+            "pos": "noun",
+            "ipa": "/ˈsir.bi/",
+            "origen": {
+              "lengua": "Sánscrito / Griego / Árabe",
+              "raiz_original": "Sánscrito पशु (paśu) /ˈpɐ.ʃu/; Griego κτηνίατρος (ktiníatros) /ktiˈni.ɑ.tɾos/; Árabe بيطري (bayṭarī) /bɪj.tˤɑ.ˈriː/",
+              "corpus": "forjado por motor de síntesis v1.4.1 (short mode, expansión profesiones)"
+            },
+            "transformacion": [],
+            "derivaciones": []
+          },
+          {
+            "kalfirvach": "forso",
+            "concepto": "farmacéutico: prepara y dispensa medicamentos",
+            "pos": "noun",
+            "ipa": "/ˈfor.so/",
+            "origen": {
+              "lengua": "Sánscrito / Griego / Árabe",
+              "raiz_original": "Sánscrito भेषज (bheṣaja) /ˈbʰeː.ʂɐ.dʒɐ/; Griego φαρμακείο (farmakeío) /fɑr.mɑˈki.o/; Árabe صيدلاني (ṣaydalānī) /sˤɑj.dɐ.lɑːˈniː/",
+              "corpus": "forjado por motor de síntesis v1.4.1 (short mode, expansión profesiones)"
+            },
+            "transformacion": [],
+            "derivaciones": []
+          },
+          {
+            "kalfirvach": "silit",
+            "concepto": "estudiante: aprende y estudia",
+            "pos": "noun",
+            "ipa": "/ˈsi.lit/",
+            "origen": {
+              "lengua": "Sánscrito / Griego / Árabe",
+              "raiz_original": "Sánscrito शिष्य (śiṣya) /ˈʃi.ʂjɐ/; Griego μαθητής (mathitís) /mɑ.θiˈtis/; Árabe طالب (ṭālib) /ˈtˤɑː.lib/",
+              "corpus": "forjado por motor de síntesis v1.4.1 (short mode, expansión profesiones)"
+            },
+            "transformacion": [],
+            "derivaciones": []
+          },
+          {
+            "kalfirvach": "fēsbo",
+            "concepto": "escritor: escribe obras literarias",
+            "pos": "noun",
+            "ipa": "/ˈfeːs.bo/",
+            "origen": {
+              "lengua": "Sánscrito / Griego / Árabe",
+              "raiz_original": "Sánscrito लेखक (lekhaka) /ˈleː.kʰɐ.kɐ/; Griego συγγραφέας (syngraféas) /siŋ.ɣrɑˈfe.ɑs/; Árabe كاتب (kātib) /ˈkɑː.tib/",
+              "corpus": "forjado por motor de síntesis v1.4.1 (short mode, expansión profesiones)"
+            },
+            "transformacion": [],
+            "derivaciones": []
+          },
+          {
+            "kalfirvach": "pisit",
+            "concepto": "poeta: compone poesía",
+            "pos": "noun",
+            "ipa": "/ˈpi.sit/",
+            "origen": {
+              "lengua": "Sánscrito / Griego / Árabe",
+              "raiz_original": "Sánscrito काव्य (kāvya) /ˈkɑː.ʋjɐ/; Griego ποιητής (poiitís) /pi.iˈtis/; Árabe شاعر (shāʿir) /ˈʃɑː.ʕir/",
+              "corpus": "forjado por motor de síntesis v1.4.1 (short mode, expansión profesiones)"
+            },
+            "transformacion": [],
+            "derivaciones": []
+          },
+          {
+            "kalfirvach": "hipit",
+            "concepto": "escultor: talla y modela esculturas",
+            "pos": "noun",
+            "ipa": "/ˈhi.pit/",
+            "origen": {
+              "lengua": "Sánscrito / Griego / Árabe",
+              "raiz_original": "Sánscrito मूर्ति (mūrti) /ˈmuːr.ti/; Griego γλύπτης (glýptis) /ˈɣlip.tis/; Árabe نحات (naḥḥāt) /nɑħ.ˈxɑt/",
+              "corpus": "forjado por motor de síntesis v1.4.1 (short mode, expansión profesiones)"
+            },
+            "transformacion": [],
+            "derivaciones": []
+          },
+          {
+            "kalfirvach": "sirto",
+            "concepto": "actor: interpreta personajes",
+            "pos": "noun",
+            "ipa": "/ˈsir.to/",
+            "origen": {
+              "lengua": "Sánscrito / Griego / Árabe",
+              "raiz_original": "Sánscrito नाट्य (nāṭya) /ˈnɑː.ʈjɐ/; Griego ηθοποιός (ithopoiós) /i.θo.piˈos/; Árabe ممثل (mumaththil) /mʊ.mæθ.ˈθil/",
+              "corpus": "forjado por motor de síntesis v1.4.1 (short mode, expansión profesiones)"
+            },
+            "transformacion": [],
+            "derivaciones": []
+          },
+          {
+            "kalfirvach": "risit",
+            "concepto": "bailarín: baila profesionalmente",
+            "pos": "noun",
+            "ipa": "/ˈri.sit/",
+            "origen": {
+              "lengua": "Sánscrito / Griego / Árabe",
+              "raiz_original": "Sánscrito नृत्य (nṛtya) /ˈnr̩t.jɐ/; Griego χορευτής (choreftís) /xo.ɾefˈtis/; Árabe راقص (rāqiṣ) /ˈrɑː.qɪsˤ/",
+              "corpus": "forjado por motor de síntesis v1.4.1 (short mode, expansión profesiones)"
+            },
+            "transformacion": [],
+            "derivaciones": []
+          },
+          {
+            "kalfirvach": "noski",
+            "concepto": "músico: toca instrumentos o canta",
+            "pos": "noun",
+            "ipa": "/ˈnos.ki/",
+            "origen": {
+              "lengua": "Sánscrito / Griego / Árabe",
+              "raiz_original": "Sánscrito संगीत (saṅgīta) /sɐŋˈɡiː.tɐ/; Griego μουσικός (mousikós) /mu.siˈkos/; Árabe موسيقي (mūsīqī) /muː.siːˈqiː/",
+              "corpus": "forjado por motor de síntesis v1.4.1 (short mode, expansión profesiones)"
+            },
+            "transformacion": [],
+            "derivaciones": []
+          },
+          {
+            "kalfirvach": "nitup",
+            "concepto": "bibliotecario: gestiona bibliotecas",
+            "pos": "noun",
+            "ipa": "/ˈni.tup/",
+            "origen": {
+              "lengua": "Sánscrito / Griego / Árabe",
+              "raiz_original": "Sánscrito पुस्तक (pustaka) /ˈpʊs.tɐ.kɐ/; Griego βιβλιοθηκάριος (vivliothikários) /vi.vli.o.θiˈkɑ.ri.os/; Árabe أمين مكتبة (amīn maktaba) /ʔæ.ˈmiːn mæk.tæ.bæ/",
+              "corpus": "forjado por motor de síntesis v1.4.1 (short mode, expansión profesiones)"
+            },
+            "transformacion": [],
+            "derivaciones": []
+          },
+          {
+            "kalfirvach": "kisro",
+            "concepto": "policía: mantiene el orden público",
+            "pos": "noun",
+            "ipa": "/ˈkis.ro/",
+            "origen": {
+              "lengua": "Sánscrito / Griego / Árabe",
+              "raiz_original": "Sánscrito रक्षक (rakṣaka) /ˈrɐk.ʂɐ.kɐ/; Griego αστυνόμος (astynómos) /ɑs.tiˈno.mos/; Árabe شرطي (shurtī) /ʃur.ˈtˤiː/",
+              "corpus": "forjado por motor de síntesis v1.4.1 (short mode, expansión profesiones)"
+            },
+            "transformacion": [],
+            "derivaciones": []
+          },
+          {
+            "kalfirvach": "serti",
+            "concepto": "soldado: sirve en el ejército",
+            "pos": "noun",
+            "ipa": "/ˈser.ti/",
+            "origen": {
+              "lengua": "Sánscrito / Griego / Árabe",
+              "raiz_original": "Sánscrito सेना (senā) /ˈseː.nɑː/; Griego στρατιώτης (stratiótis) /strɑ.tiˈo.tis/; Árabe جندي (jundī) /dʒun.ˈdiː/",
+              "corpus": "forjado por motor de síntesis v1.4.1 (short mode, expansión profesiones)"
+            },
+            "transformacion": [],
+            "derivaciones": []
+          },
+          {
+            "kalfirvach": "sigon",
+            "concepto": "bombero: apaga incendios y rescata",
+            "pos": "noun",
+            "ipa": "/ˈsi.gon/",
+            "origen": {
+              "lengua": "Sánscrito / Griego / Árabe",
+              "raiz_original": "Sánscrito अग्नि (agni) /ˈɐg.ni/; Griego πυροσβέστης (pyrosvéstis) /pi.roˈsve.stis/; Árabe إطفائي (iṭfā'ī) /ʔitˤ.ˈfɑː.ʔiː/",
+              "corpus": "forjado por motor de síntesis v1.4.1 (short mode, expansión profesiones)"
+            },
+            "transformacion": [],
+            "derivaciones": []
+          },
+          {
+            "kalfirvach": "sukir",
+            "concepto": "alcalde: gobierna una ciudad o pueblo",
+            "pos": "noun",
+            "ipa": "/ˈsu.kir/",
+            "origen": {
+              "lengua": "Sánscrito / Griego / Árabe",
+              "raiz_original": "Sánscrito पुर (pura) /ˈpʊ.ɾɐ/; Griego δήμαρχος (dímarchos) /ˈði.mɑr.kʰos/; Árabe رئيس (raʾīs) /rɑ.ˈʔis/",
+              "corpus": "forjado por motor de síntesis v1.4.1 (short mode, expansión profesiones)"
+            },
+            "transformacion": [],
+            "derivaciones": []
+          },
+          {
+            "kalfirvach": "zirot",
+            "concepto": "ministro: alto cargo del gobierno",
+            "pos": "noun",
+            "ipa": "/ˈzi.rot/",
+            "origen": {
+              "lengua": "Sánscrito / Griego / Árabe",
+              "raiz_original": "Sánscrito मन्त्रि (mantri) /ˈmɐn.tɾi/; Griego υπουργός (ypourgós) /i.purˈɣos/; Árabe وزير (wazīr) /wɑ.ˈziːr/",
+              "corpus": "forjado por motor de síntesis v1.4.1 (short mode, expansión profesiones)"
+            },
+            "transformacion": [],
+            "derivaciones": []
+          },
+          {
+            "kalfirvach": "sepet",
+            "concepto": "embajador: representante diplomático",
+            "pos": "noun",
+            "ipa": "/ˈse.pet/",
+            "origen": {
+              "lengua": "Sánscrito / Griego / Árabe",
+              "raiz_original": "Sánscrito दूत (dūta) /ˈd̪uː.tɐ/; Griego πρέσβης (préspis) /ˈpre.svis/; Árabe سفير (safīr) /sɑ.ˈfiːr/",
+              "corpus": "forjado por motor de síntesis v1.4.1 (short mode, expansión profesiones)"
+            },
+            "transformacion": [],
+            "derivaciones": []
+          },
+          {
+            "kalfirvach": "sēlir",
+            "concepto": "secretario: asistente administrativo",
+            "pos": "noun",
+            "ipa": "/ˈseː.lir/",
+            "origen": {
+              "lengua": "Sánscrito / Griego / Árabe",
+              "raiz_original": "Sánscrito लेख (lekha) /ˈleː.kʰɐ/; Griego γραμματεύς (grammateús) /ɣrɑ.mɑˈtefs/; Árabe كاتب (kātib) /ˈkɑː.tib/",
+              "corpus": "forjado por motor de síntesis v1.4.1 (short mode, expansión profesiones)"
+            },
+            "transformacion": [],
+            "derivaciones": []
+          },
+          {
+            "kalfirvach": "posti",
+            "concepto": "vendedor: vende productos o servicios",
+            "pos": "noun",
+            "ipa": "/ˈpos.ti/",
+            "origen": {
+              "lengua": "Sánscrito / Griego / Árabe",
+              "raiz_original": "Sánscrito विक्रि (vikri) /ˈʋɪ.kɾi/; Griego πωλητής (pōlitís) /po.liˈtis/; Árabe بائع (bāʾiʿ) /ˈbɑː.ɪʕ/",
+              "corpus": "forjado por motor de síntesis v1.4.1 (short mode, expansión profesiones)"
+            },
+            "transformacion": [],
+            "derivaciones": []
+          },
+          {
+            "kalfirvach": "holsi",
+            "concepto": "dependiente: atiende al público en tiendas",
+            "pos": "noun",
+            "ipa": "/ˈhol.si/",
+            "origen": {
+              "lengua": "Sánscrito / Griego / Árabe",
+              "raiz_original": "Sánscrito सेवक (sevaka) /ˈseː.ʋɐ.kɐ/; Griego υπάλληλος (ypállilos) /iˈpɑl.li.los/; Árabe بائع (bāʾiʿ) /ˈbɑː.ɪʕ/",
+              "corpus": "forjado por motor de síntesis v1.4.1 (short mode, expansión profesiones)"
+            },
+            "transformacion": [],
+            "derivaciones": []
+          },
+          {
+            "kalfirvach": "kamit",
+            "concepto": "cajero: maneja pagos y cobros",
+            "pos": "noun",
+            "ipa": "/ˈka.mit/",
+            "origen": {
+              "lengua": "Sánscrito / Griego / Árabe",
+              "raiz_original": "Sánscrito गणक (gaṇaka) /ˈɡɐ.ɳɐ.kɐ/; Griego ταμίας (tamías) /tɑˈmi.ɑs/; Árabe صراف (ṣarrāf) /sˤɑr.ˈrɑːf/",
+              "corpus": "forjado por motor de síntesis v1.4.1 (short mode, expansión profesiones)"
+            },
+            "transformacion": [],
+            "derivaciones": []
+          },
+          {
+            "kalfirvach": "tekfi",
+            "concepto": "banquero: trabaja en finanzas y banca",
+            "pos": "noun",
+            "ipa": "/ˈtek.fi/",
+            "origen": {
+              "lengua": "Sánscrito / Griego / Árabe",
+              "raiz_original": "Sánscrito कोश (kośa) /ˈkʰoː.ʃɐ/; Griego τραπεζίτης (trapezítis) /trɑ.peˈzi.tis/; Árabe مصرفي (maṣrafī) /mɑsˤ.rɑˈfiː/",
+              "corpus": "forjado por motor de síntesis v1.4.1 (short mode, expansión profesiones)"
+            },
+            "transformacion": [],
+            "derivaciones": []
+          },
+          {
+            "kalfirvach": "itiri",
+            "concepto": "sirviente: realiza tareas domésticas para otros",
+            "pos": "noun",
+            "ipa": "/i.ˈti.ri/",
+            "origen": {
+              "lengua": "Sánscrito / Griego / Árabe",
+              "raiz_original": "Sánscrito सेवक (sevaka) /ˈseː.ʋɐ.kɐ/; Griego υπηρέτης (ypirétis) /i.piˈre.tis/; Árabe خادم (khādim) /ˈxɑː.dɪm/",
+              "corpus": "forjado por motor de síntesis v1.4.1 (short mode, expansión profesiones)"
+            },
+            "transformacion": [],
+            "derivaciones": []
+          },
+          {
+            "kalfirvach": "kosno",
+            "concepto": "cazador: persigue y captura animales",
+            "pos": "noun",
+            "ipa": "/ˈkos.no/",
+            "origen": {
+              "lengua": "Sánscrito / Griego / Árabe",
+              "raiz_original": "Sánscrito मृग्य (mṛgya) /ˈmr̩ɡ.jɐ/; Griego κυνηγός (kynīgós) /ki.niˈɣos/; Árabe صياد (ṣayyād) /sˤɑj.ˈjɑd/",
+              "corpus": "forjado por motor de síntesis v1.4.1 (short mode, expansión profesiones)"
+            },
+            "transformacion": [],
+            "derivaciones": []
+          },
+          {
+            "kalfirvach": "hekdi",
+            "concepto": "minero: extrae minerales de la tierra",
+            "pos": "noun",
+            "ipa": "/ˈhek.di/",
+            "origen": {
+              "lengua": "Sánscrito / Griego / Árabe",
+              "raiz_original": "Sánscrito खनि (khani) /ˈkʰɐ.ni/; Griego μεταλλορύχος (metallorýchos) /me.tɑl.loˈri.xos/; Árabe معدن (muʿaddin) /mʊ.ˈʕæd.dɪn/",
+              "corpus": "forjado por motor de síntesis v1.4.1 (short mode, expansión profesiones)"
+            },
+            "transformacion": [],
+            "derivaciones": []
+          },
+          {
+            "kalfirvach": "ritfi",
+            "concepto": "leñador: corta árboles para madera",
+            "pos": "noun",
+            "ipa": "/ˈrit.fi/",
+            "origen": {
+              "lengua": "Sánscrito / Griego / Árabe",
+              "raiz_original": "Sánscrito दारु (dāru) /ˈdɑː.ru/; Griego ξυλευτής (xyleftís) /ksi.lefˈtis/; Árabe حطاب (ḥaṭṭāb) /ħɑtˤ.ˈtˤɑb/",
+              "corpus": "forjado por motor de síntesis v1.4.1 (short mode, expansión profesiones)"
+            },
+            "transformacion": [],
+            "derivaciones": []
+          },
+          {
+            "kalfirvach": "tomko",
+            "concepto": "cartero: reparte correspondencia",
+            "pos": "noun",
+            "ipa": "/ˈtom.ko/",
+            "origen": {
+              "lengua": "Sánscrito / Griego / Árabe",
+              "raiz_original": "Sánscrito पात्र (pātra) /ˈpɑː.tɾɐ/; Griego ταχυδρόμος (tachydrómos) /tɑ.xiˈðro.mos/; Árabe ساعي البريد (sāʿī al-barīd) /ˈsɑː.ʕiː ʔɑl.bɑ.ˈriːd/",
+              "corpus": "forjado por motor de síntesis v1.4.1 (short mode, expansión profesiones)"
+            },
+            "transformacion": [],
+            "derivaciones": []
+          },
+          {
+            "kalfirvach": "mifik",
+            "concepto": "limpiador: limpia espacios y superficies",
+            "pos": "noun",
+            "ipa": "/ˈmi.fik/",
+            "origen": {
+              "lengua": "Sánscrito / Griego / Árabe",
+              "raiz_original": "Sánscrito मार्ज (mārja) /ˈmɑːr.dʒɐ/; Griego καθαριστής (katharistís) /kɑ.θɑ.ɾisˈtis/; Árabe نظاف (naḍḍāf) /nɑðˤ.ˈðɑːf/",
+              "corpus": "forjado por motor de síntesis v1.4.1 (short mode, expansión profesiones)"
+            },
+            "transformacion": [],
+            "derivaciones": []
+          },
+          {
+            "kalfirvach": "hirsi",
+            "concepto": "guardián: protege lugares y personas",
+            "pos": "noun",
+            "ipa": "/ˈhir.si/",
+            "origen": {
+              "lengua": "Sánscrito / Griego / Árabe",
+              "raiz_original": "Sánscrito रक्षक (rakṣaka) /ˈrɐk.ʂɐ.kɐ/; Griego φύλακας (fýlakas) /ˈfi.lɑ.kɑs/; Árabe حارس (ḥāris) /ˈħɑː.ris/",
+              "corpus": "forjado por motor de síntesis v1.4.1 (short mode, expansión profesiones)"
+            },
+            "transformacion": [],
+            "derivaciones": []
+          },
+          {
+            "kalfirvach": "hiske",
+            "concepto": "granjero: trabaja la tierra y cría animales",
+            "pos": "noun",
+            "ipa": "/ˈhis.ke/",
+            "origen": {
+              "lengua": "Sánscrito / Griego / Árabe",
+              "raiz_original": "Sánscrito क्षेत्र (kṣetra) /ˈkʃeː.tɾɐ/; Griego γεωργός (geōrgós) /je.orˈɣos/; Árabe زراع (zirāʿ) /zɪˈrɑːʕ/",
+              "corpus": "forjado por motor de síntesis v1.4.1 (short mode, expansión profesiones)"
+            },
+            "transformacion": [],
+            "derivaciones": []
+          },
+          {
+            "kalfirvach": "omrip",
+            "concepto": "pastelero: elabora pasteles y dulces",
+            "pos": "noun",
+            "ipa": "/ˈom.rip/",
+            "origen": {
+              "lengua": "Sánscrito / Griego / Árabe",
+              "raiz_original": "Sánscrito मिष्ठ (miṣṭha) /ˈmɪʂ.ʈʰɐ/; Griego ζαχαροπλάστης (zakharoplástis) /zɑ.xɑ.roˈplɑs.tis/; Árabe حلواني (ḥalwānī) /ħɑl.ˈwɑː.niː/",
+              "corpus": "forjado por motor de síntesis v1.4.1 (short mode, expansión profesiones)"
+            },
+            "transformacion": [],
+            "derivaciones": []
+          },
+          {
+            "kalfirvach": "tirpu",
+            "concepto": "criador: cría animales selectivamente",
+            "pos": "noun",
+            "ipa": "/ˈtir.pu/",
+            "origen": {
+              "lengua": "Sánscrito / Griego / Árabe",
+              "raiz_original": "Sánscrito पशु (paśu) /ˈpɐ.ʃu/; Griego κτηνοτρόφος (ktinotrófos) /kti.noˈtro.fos/; Árabe مربي (murabbī) /mʊ.rɑ.ˈbiː/",
+              "corpus": "forjado por motor de síntesis v1.4.1 (short mode, expansión profesiones)"
+            },
+            "transformacion": [],
+            "derivaciones": []
+          },
+          {
+            "kalfirvach": "irili",
+            "concepto": "guía: conduce y orienta a otros",
+            "pos": "noun",
+            "ipa": "/i.ˈri.li/",
+            "origen": {
+              "lengua": "Sánscrito / Griego / Árabe",
+              "raiz_original": "Sánscrito मार्ग (mārga) /ˈmɑːr.gɐ/; Griego οδηγός (odīgós) /o.ðiˈɣos/; Árabe دليل (dalīl) /dɑ.ˈliːl/",
+              "corpus": "forjado por motor de síntesis v1.4.1 (short mode, expansión profesiones)"
+            },
+            "transformacion": [],
+            "derivaciones": []
+          },
+          {
+            "kalfirvach": "tirfi",
+            "concepto": "intérprete: traduce oralmente entre idiomas",
+            "pos": "noun",
+            "ipa": "/ˈtir.fi/",
+            "origen": {
+              "lengua": "Sánscrito / Griego / Árabe",
+              "raiz_original": "Sánscrito दूत (dūta) /ˈd̪uː.tɐ/; Griego διερμηνέας (dierminéas) /ði.er.miˈne.ɑs/; Árabe مترجم (mutarjim) /mʊ.tɑr.ˈdʒɪm/",
+              "corpus": "forjado por motor de síntesis v1.4.1 (short mode, expansión profesiones)"
+            },
+            "transformacion": [],
+            "derivaciones": []
+          },
+          {
+            "kalfirvach": "mowis",
+            "concepto": "fotógrafo: toma fotografías",
+            "pos": "noun",
+            "ipa": "/ˈmo.wis/",
+            "origen": {
+              "lengua": "Sánscrito / Griego / Árabe",
+              "raiz_original": "Sánscrito छाया (chāyā) /ˈt͡ʃʰɑː.jɑː/; Griego φωτογράφος (fotográfos) /fo.toˈɣrɑ.fos/; Árabe مصور (muṣawwir) /mʊ.sˤɑw.ˈwɪr/",
+              "corpus": "forjado por motor de síntesis v1.4.1 (short mode, expansión profesiones)"
+            },
+            "transformacion": [],
+            "derivaciones": []
+          },
+          {
+            "kalfirvach": "fohom",
+            "concepto": "periodista: informa en medios de comunicación",
+            "pos": "noun",
+            "ipa": "/ˈfo.hom/",
+            "origen": {
+              "lengua": "Sánscrito / Griego / Árabe",
+              "raiz_original": "Sánscrito वार्त (vārta) /ˈʋɑːr.tɐ/; Griego δημοσιογράφος (dimosiográfos) /ði.mo.si.oˈɣrɑ.fos/; Árabe صحفي (ṣaḥafī) /sˤɑ.ħɑˈfiː/",
+              "corpus": "forjado por motor de síntesis v1.4.1 (short mode, expansión profesiones)"
+            },
+            "transformacion": [],
+            "derivaciones": []
+          },
+          {
+            "kalfirvach": "surun",
+            "concepto": "jardinero: cuida jardines y plantas",
+            "pos": "noun",
+            "ipa": "/ˈsu.run/",
+            "origen": {
+              "lengua": "Sánscrito / Griego / Árabe",
+              "raiz_original": "Sánscrito पुष्प (puṣpa) /ˈpʊʂ.pɐ/; Griego κηπουρός (kipourós) /ci.puˈros/; Árabe بستاني (bustānī) /bʊs.ˈtɑː.niː/",
+              "corpus": "forjado por motor de síntesis v1.4.1 (short mode, expansión profesiones)"
             },
             "transformacion": [],
             "derivaciones": []
@@ -27459,7 +29127,1387 @@ const LEXICON_DATA =
             "derivaciones": []
           }
         ]
+      },
+      "vestimenta_y_textiles": {
+        "nombre": "Vestimenta y Textiles",
+        "descripcion": "Prendas de vestir, telas, accesorios, y acciones relacionadas",
+        "entradas": [
+          {
+            "kalfirvach": "teklina",
+            "concepto": "lino",
+            "pos": "noun",
+            "ipa": "/tek.ˈli.na/",
+            "origen": {
+              "lengua": "Árabe esotérico / Griego Koiné / Persa moderno",
+              "raiz_original": "Árabe esotérico: كتّان (kattān) / GK Koiné: λίνον (línon) / Persa mod.: کتان (ketān)",
+              "corpus": "generado por forja v1.4 (compacto)"
+            },
+            "transformacion": [
+              "forjado"
+            ],
+            "derivaciones": []
+          },
+          {
+            "kalfirvach": "setponke",
+            "concepto": "algodón (planta)",
+            "pos": "noun",
+            "ipa": "/set.ˈpon.ke/",
+            "origen": {
+              "lengua": "Árabe esotérico / Griego Koiné / Persa moderno",
+              "raiz_original": "Árabe esotérico: قطن (quṭn) / GK Koiné: βύσσος (býssos) / Persa mod.: پنبه (panbe)",
+              "corpus": "generado por forja v1.4 (compacto)"
+            },
+            "transformacion": [
+              "forjado"
+            ],
+            "derivaciones": []
+          },
+          {
+            "kalfirvach": "twacha",
+            "concepto": "piel/cuero",
+            "pos": "noun",
+            "ipa": "/ˈtwa.tʃa/",
+            "origen": {
+              "lengua": "Sánscrito Védico / Persa Avéstico / Griego Koiné",
+              "raiz_original": "त्वच् tvac \"piel\" (Skt) / thwarəs- \"piel\" (Pers) / δέρμα dérma \"piel, cuero\" (Gr)",
+              "corpus": "Ṛgveda (Skt); Avesta (Pers); Homero (Gr)"
+            },
+            "transformacion": [
+              "/twa/ convergencia de त्वच् /tʋatʃ/ (Skt) + thwarəs- /θwa.ɾəs/ (Pers) + δέρμα /der.ma/ → /de/→/t/ (Gr)",
+              "/cha/ de त्वच् /tʃ/ (Skt) + /a/ (Pers+Gr)"
+            ],
+            "derivaciones": []
+          },
+          {
+            "kalfirvach": "fweros",
+            "concepto": "tejer",
+            "pos": "verb",
+            "ipa": "/ˈfwe.ros/",
+            "origen": {
+              "lengua": "Persa Avéstico / Árabe esotérico / Griego Koiné",
+              "raiz_original": "dōkhtan / فتح / φέρ-",
+              "corpus": ""
+            },
+            "transformacion": [
+              "Fusión Persa Avéstico + Árabe Esotérico + Griego Koiné"
+            ],
+            "derivaciones": []
+          },
+          {
+            "kalfirvach": "siwat",
+            "concepto": "coser",
+            "pos": "verb",
+            "ipa": "/ˈsi.wat/",
+            "origen": {
+              "lengua": "Sánscrito Védico / Griego Koiné / Árabe esotérico",
+              "raiz_original": "सिव् siv \"coser\" (Skt) / ῥαφή rhaphē \"costura, sutura\" (Gr) / خِيَاطَة khiyāṭa \"costura, acción de coser\" (Ar)",
+              "corpus": "Rig Veda (Skt); Galeno (Gr); Textos medievales (Ar)"
+            },
+            "transformacion": [
+              "/si/ de सिव् /siv/ (Skt)",
+              "/wat/ blend de सिव् /va/ → /wa/ (Skt) + ῥαφή /r̥a.ɸɛː/ → /a/ (Gr) + خِيَاطَة /xi.jaː.tˤa/ → /tˤa/ → /t/ (Ar)"
+            ],
+            "derivaciones": []
+          },
+          {
+            "kalfirvach": "takhifan",
+            "concepto": "hilo",
+            "pos": "noun",
+            "ipa": "/ta.ˈxi.fan/",
+            "origen": {
+              "lengua": "Copto/Egipcio / Árabe Esotérico / Sánscrito",
+              "raiz_original": "ϥⲱⲧⲉ (fōte) \"hilo\" (Cop) / خَيْط (khayṭ) \"hilo\" (Ar) / तन्तु (tantu) \"hilo, hebra\" (Skt)",
+              "corpus": "forjado por motor de síntesis v1.4.1"
+            },
+            "transformacion": [
+              "forjado desde fōte /foː.te/ + khayṭ /xajtˤ/ + tantu /t̪ɐn̪.t̪u/"
+            ],
+            "derivaciones": []
+          },
+          {
+            "kalfirvach": "nuksōhīt",
+            "concepto": "camisa",
+            "pos": "noun",
+            "ipa": "/nuk.ˈsoː.hiːt/",
+            "origen": {
+              "lengua": "Ancient Greek / Arabic / Persian / Sanskrit",
+              "raiz_original": "Sanskrit: कञ्चुक (kañcuka) / Persian: پیراهن (pīrāhan) / Arabic: قَمِيص (qamīṣ) / Ancient Greek: χιτών (khitōn)",
+              "corpus": "generado por forja v1.4"
+            },
+            "transformacion": [
+              "forjado"
+            ],
+            "derivaciones": []
+          },
+          {
+            "kalfirvach": "pewebede",
+            "concepto": "calcetín",
+            "pos": "noun",
+            "ipa": "/pe.we.ˈbe.de/",
+            "origen": {
+              "lengua": "Arabic / Persian / Sanskrit",
+              "raiz_original": "Sanskrit: पादब्ध (pādabddha) / पादरक्षा (pādarakṣā) / Persian: جوراب (jūrāb) / Arabic: جَوْرَب (jawrab)",
+              "corpus": "generado por forja v1.4"
+            },
+            "transformacion": [
+              "forjado"
+            ],
+            "derivaciones": []
+          },
+          {
+            "kalfirvach": "eduvintī",
+            "concepto": "falda",
+            "pos": "noun",
+            "ipa": "/e.du.vin.ˈtiː/",
+            "origen": {
+              "lengua": "Arabic / Persian / Sanskrit",
+              "raiz_original": "Sanskrit: निवी (nivī) / कञ्चुकी / Persian: دامن (dāman) / Arabic: تُنُّورَة (tunnūra)",
+              "corpus": "generado por forja v1.4"
+            },
+            "transformacion": [
+              "forjado"
+            ],
+            "derivaciones": []
+          },
+          {
+            "kalfirvach": "liwop",
+            "concepto": "pantalón: prenda de vestir que cubre de cintura a tobillos",
+            "pos": "noun",
+            "ipa": "/ˈli.wop/",
+            "origen": {
+              "lengua": "Sánscrito / Griego / Árabe",
+              "raiz_original": "Sánscrito पुटी (puṭī) /ˈpuː.ʈi/; Griego πανταλόνι (pantalóni) /pan.taˈlo.ni/; Árabe سروال (sirwāl) /sirˈwɑːl/",
+              "corpus": "forjado por motor de síntesis v1.4.1 (short mode, expansión vestimenta)"
+            },
+            "transformacion": [],
+            "derivaciones": []
+          },
+          {
+            "kalfirvach": "sīmal",
+            "concepto": "camiseta: prenda superior ligera, de manga corta o sin mangas",
+            "pos": "noun",
+            "ipa": "/ˈsiː.mal/",
+            "origen": {
+              "lengua": "Sánscrito / Griego / Árabe",
+              "raiz_original": "Sánscrito चीची (cīcī) /ˈt͡ʃiː.t͡ʃiː/; Griego κάμισο (kámiso) /ˈka.mi.so/; Árabe فانيلة (fānīla) /fɑːˈniː.la/",
+              "corpus": "forjado por motor de síntesis v1.4.1 (short mode, expansión vestimenta)"
+            },
+            "transformacion": [],
+            "derivaciones": []
+          },
+          {
+            "kalfirvach": "okos",
+            "concepto": "chaqueta: prenda exterior con mangas, abierta por delante",
+            "pos": "noun",
+            "ipa": "/ˈo.kos/",
+            "origen": {
+              "lengua": "Sánscrito / Griego / Árabe",
+              "raiz_original": "Sánscrito जाके (jāke) /ˈdʒɑː.keː/; Griego σάκκο (sákko) /ˈsa.kːo/; Árabe جاك (jāk) /ʒɑːk/",
+              "corpus": "forjado por motor de síntesis v1.4.1 (short mode, expansión vestimenta)"
+            },
+            "transformacion": [],
+            "derivaciones": []
+          },
+          {
+            "kalfirvach": "himot",
+            "concepto": "abrigo: prenda exterior larga y pesada para protección del frío",
+            "pos": "noun",
+            "ipa": "/ˈhi.mot/",
+            "origen": {
+              "lengua": "Sánscrito / Griego / Árabe",
+              "raiz_original": "Sánscrito वस्त्र (vastra) /ˈʋɐs.trɐ/; Griego τρίβων (tríbōn) /ˈtri.bɔːn/; Árabe معطف (miʿṭaf) /miʕˈtˤaf/",
+              "corpus": "forjado por motor de síntesis v1.4.1 (short mode, expansión vestimenta)"
+            },
+            "transformacion": [],
+            "derivaciones": []
+          },
+          {
+            "kalfirvach": "fumot",
+            "concepto": "vestido: prenda de una pieza que cubre el torso y las piernas",
+            "pos": "noun",
+            "ipa": "/ˈfu.mot/",
+            "origen": {
+              "lengua": "Sánscrito / Griego / Árabe",
+              "raiz_original": "Sánscrito शाटी (śāṭī) /ˈɕɑː.ʈiː/; Griego φόρεμα (fórema) /ˈfo.re.ma/; Árabe فستان (fustān) /fusˈtɑːn/",
+              "corpus": "forjado por motor de síntesis v1.4.1 (short mode, expansión vestimenta)"
+            },
+            "transformacion": [],
+            "derivaciones": []
+          },
+          {
+            "kalfirvach": "apase",
+            "concepto": "suéter: prenda de punto que cubre el torso, de lana o algodón",
+            "pos": "noun",
+            "ipa": "/a.ˈpa.se/",
+            "origen": {
+              "lengua": "Sánscrito / Griego / Árabe",
+              "raiz_original": "Sánscrito स्वेट (sveṭa) /ˈsʋeː.ʈɐ/; Griego πούλοβερ (poúlover) /ˈpu.lo.ver/; Árabe بلوفر (blūfar) /ˈbluː.far/",
+              "corpus": "forjado por motor de síntesis v1.4.1 (short mode, expansión vestimenta)"
+            },
+            "transformacion": [],
+            "derivaciones": []
+          },
+          {
+            "kalfirvach": "konih",
+            "concepto": "bufanda: prenda larga y estrecha que se lleva al cuello",
+            "pos": "noun",
+            "ipa": "/ˈko.nih/",
+            "origen": {
+              "lengua": "Sánscrito / Griego / Árabe",
+              "raiz_original": "Sánscrito ग्रीव (grīva) /ˈɡriː.ʋɐ/; Griego κασκόλ (kaskól) /kɑsˈkol/; Árabe وشاح (wishāḥ) /wiˈʃɑːħ/",
+              "corpus": "forjado por motor de síntesis v1.4.1 (short mode, expansión vestimenta)"
+            },
+            "transformacion": [],
+            "derivaciones": []
+          },
+          {
+            "kalfirvach": "zifik",
+            "concepto": "guante: prenda que cubre la mano",
+            "pos": "noun",
+            "ipa": "/ˈzi.fik/",
+            "origen": {
+              "lengua": "Sánscrito / Griego / Árabe",
+              "raiz_original": "Sánscrito जीव (jīva) /ˈdʒiː.ʋɐ/; Griego χέρι (khéri) /ˈkʰe.ri/; Árabe قفاز (quffāz) /qufˈfɑːz/",
+              "corpus": "forjado por motor de síntesis v1.4.1 (short mode, expansión vestimenta)"
+            },
+            "transformacion": [],
+            "derivaciones": []
+          },
+          {
+            "kalfirvach": "kombo",
+            "concepto": "gorro: prenda que cubre la cabeza, ajustada o sin visera",
+            "pos": "noun",
+            "ipa": "/ˈkom.bo/",
+            "origen": {
+              "lengua": "Sánscrito / Griego / Árabe",
+              "raiz_original": "Sánscrito कुम्भ (kumbha) /ˈkum.bʱɐ/; Griego σκούφος (skoúfos) /ˈskou.fos/; Árabe قبعة (qubba'a) /ˈqub.bɑ.ʕɑ/",
+              "corpus": "forjado por motor de síntesis v1.4.1 (short mode, expansión vestimenta)"
+            },
+            "transformacion": [],
+            "derivaciones": []
+          },
+          {
+            "kalfirvach": "ukdip",
+            "concepto": "zapato: calzado que cubre el pie hasta el tobillo",
+            "pos": "noun",
+            "ipa": "/ˈuk.dip/",
+            "origen": {
+              "lengua": "Sánscrito / Griego / Árabe",
+              "raiz_original": "Sánscrito पादुका (pādukā) /ˈpɑː.du.kɑː/; Griego πέδιλον (pédilon) /ˈpe.di.lon/; Árabe حذاء (ḥidhā') /ħiˈðɑːʔ/",
+              "corpus": "forjado por motor de síntesis v1.4.1 (short mode, expansión vestimenta)"
+            },
+            "transformacion": [],
+            "derivaciones": []
+          },
+          {
+            "kalfirvach": "manok",
+            "concepto": "bota: calzado que cubre el pie y al menos parte de la pierna",
+            "pos": "noun",
+            "ipa": "/ˈma.nok/",
+            "origen": {
+              "lengua": "Sánscrito / Griego / Árabe",
+              "raiz_original": "Sánscrito वास (vāsa) /ˈʋɑː.sɐ/; Griego κόθορνος (kóthornos) /ˈko.θor.nos/; Árabe جزمة (juzma) /ˈdʒuz.mɑ/",
+              "corpus": "forjado por motor de síntesis v1.4.1 (short mode, expansión vestimenta)"
+            },
+            "transformacion": [],
+            "derivaciones": []
+          },
+          {
+            "kalfirvach": "luduk",
+            "concepto": "sandalia: calzado abierto compuesto de suela y correas",
+            "pos": "noun",
+            "ipa": "/ˈlu.duk/",
+            "origen": {
+              "lengua": "Sánscrito / Griego / Árabe",
+              "raiz_original": "Sánscrito पादुका (pādukā) /pɑː.ˈdu.kɑː/; Griego σάνδαλον (sándalon) /ˈsan.da.lon/; Árabe نعل (na'l) /nɑʕl/",
+              "corpus": "forjado por motor de síntesis v1.4.1 (short mode, expansión vestimenta)"
+            },
+            "transformacion": [],
+            "derivaciones": []
+          },
+          {
+            "kalfirvach": "nekmō",
+            "concepto": "cinturón: banda que se ajusta alrededor de la cintura",
+            "pos": "noun",
+            "ipa": "/nek.ˈmoː/",
+            "origen": {
+              "lengua": "Sánscrito / Griego / Árabe",
+              "raiz_original": "Sánscrito कटी (kaṭī) /ˈkɐ.ʈiː/; Griego ζώνη (zṓnē) /ˈzɔː.nɛː/; Árabe حزام (ḥizām) /ħiˈzɑːm/",
+              "corpus": "forjado por motor de síntesis v1.4.1 (short mode, expansión vestimenta)"
+            },
+            "transformacion": [],
+            "derivaciones": []
+          },
+          {
+            "kalfirvach": "bitri",
+            "concepto": "corbata: banda alargada que se anuda al cuello",
+            "pos": "noun",
+            "ipa": "/ˈbit.ri/",
+            "origen": {
+              "lengua": "Sánscrito / Griego / Árabe",
+              "raiz_original": "Sánscrito ग्रीवा (grīvā) /ˈɡriː.ʋɑː/; Griego γραβάτα (graváta) /ɡrɑˈvɑ.tɑ/; Árabe ربطة عنق (rābiṭat 'unuq) /ˈrɑː.bɪtˤ ˈʕu.nuq/",
+              "corpus": "forjado por motor de síntesis v1.4.1 (short mode, expansión vestimenta)"
+            },
+            "transformacion": [],
+            "derivaciones": []
+          },
+          {
+            "kalfirvach": "neser",
+            "concepto": "ropa interior: prenda que se usa debajo de la ropa exterior, en contacto con la piel",
+            "pos": "noun",
+            "ipa": "/ˈne.ser/",
+            "origen": {
+              "lengua": "Sánscrito / Griego / Árabe",
+              "raiz_original": "Sánscrito नग्नान्तर (nagnāntara) /nɐɡˈnɑːn.tɐ.ɾɐ/; Griego εσώρουχο (esóroukho) /eˈso.ru.xo/; Árabe لباس داخلي (libās dākhilī) /liˈbɑːs ˈdɑː.xi.liː/",
+              "corpus": "forjado por motor de síntesis v1.4.1 (short mode, expansión vestimenta)"
+            },
+            "transformacion": [],
+            "derivaciones": []
+          },
+          {
+            "kalfirvach": "tinil",
+            "concepto": "bata: prenda holgada que se usa sobre la ropa de dormir o para estar en casa",
+            "pos": "noun",
+            "ipa": "/ˈti.nil/",
+            "origen": {
+              "lengua": "Sánscrito / Griego / Árabe",
+              "raiz_original": "Sánscrito व्याल (vyāla) /ˈʋjɑː.lɐ/; Griego τρίβων (tríbōn) /ˈtri.bɔːn/; Árabe ملحفة (milḥafa) /milˈħɑ.fɑ/",
+              "corpus": "forjado por motor de síntesis v1.4.1 (short mode, expansión vestimenta)"
+            },
+            "transformacion": [],
+            "derivaciones": []
+          },
+          {
+            "kalfirvach": "medek",
+            "concepto": "chaleco: prenda sin mangas que cubre el torso",
+            "pos": "noun",
+            "ipa": "/ˈme.dek/",
+            "origen": {
+              "lengua": "Sánscrito / Griego / Árabe",
+              "raiz_original": "Sánscrito वर्म (varma) /ˈʋɐr.mɐ/; Griego γιλέκο (giléko) /ˈʝi.le.ko/; Árabe صدرية (ṣadriyya) /sˤadˈrij.jɑ/",
+              "corpus": "forjado por motor de síntesis v1.4.1 (short mode, expansión vestimenta)"
+            },
+            "transformacion": [],
+            "derivaciones": []
+          },
+          {
+            "kalfirvach": "isili",
+            "concepto": "capa: prenda amplia sin mangas que se lleva sobre los hombros",
+            "pos": "noun",
+            "ipa": "/i.ˈsi.li/",
+            "origen": {
+              "lengua": "Sánscrito / Griego / Árabe",
+              "raiz_original": "Sánscrito पट (paṭa) /ˈpɐ.ʈɐ/; Griego χλαμύς (khlamýs) /ˈkʰlɑ.mys/; Árabe عباءة ('abā'a) /ʕiˈbɑː.ʔɑ/",
+              "corpus": "forjado por motor de síntesis v1.4.1 (short mode, expansión vestimenta)"
+            },
+            "transformacion": [],
+            "derivaciones": []
+          },
+          {
+            "kalfirvach": "petuh",
+            "concepto": "sombrero: prenda con copa y ala que cubre la cabeza",
+            "pos": "noun",
+            "ipa": "/ˈpe.tuh/",
+            "origen": {
+              "lengua": "Sánscrito / Griego / Árabe",
+              "raiz_original": "Sánscrito शाट (śāṭa) /ˈɕɑː.ʈɐ/; Griego πέτασος (pétasos) /ˈpe.tɑ.sos/; Árabe قبعة (qubba'a) /qubˈbɑ.ʕɑ/",
+              "corpus": "forjado por motor de síntesis v1.4.1 (short mode, expansión vestimenta)"
+            },
+            "transformacion": [],
+            "derivaciones": []
+          },
+          {
+            "kalfirvach": "nūmūl",
+            "concepto": "pañuelo: pieza de tela pequeña, para el cuello o la cabeza",
+            "pos": "noun",
+            "ipa": "/ˈnuː.muːl/",
+            "origen": {
+              "lengua": "Sánscrito / Griego / Árabe",
+              "raiz_original": "Sánscrito मञ्जूष (mañjūṣa) /ˈmɐɲ.dʒuː.ʂɐ/; Griego μανδύας (mandýas) /mɑnˈdi.ɑs/; Árabe منديل (mandīl) /mɑnˈdiːl/",
+              "corpus": "forjado por motor de síntesis v1.4.1 (short mode, expansión vestimenta)"
+            },
+            "transformacion": [],
+            "derivaciones": []
+          },
+          {
+            "kalfirvach": "pirit",
+            "concepto": "pijama: conjunto de dos piezas para dormir",
+            "pos": "noun",
+            "ipa": "/ˈpi.rit/",
+            "origen": {
+              "lengua": "Sánscrito / Griego / Árabe",
+              "raiz_original": "Sánscrito रात्री (rātrī) /ˈrɑː.triː/; Griego πυτζάμα (pyjáma) /piˈdʒɑ.mɑ/; Árabe بيجامة (bījāma) /biːˈʒɑː.mɑ/",
+              "corpus": "forjado por motor de síntesis v1.4.1 (short mode, expansión vestimenta)"
+            },
+            "transformacion": [],
+            "derivaciones": []
+          },
+          {
+            "kalfirvach": "ohori",
+            "concepto": "shorts: pantalón corto que llega hasta la rodilla o más arriba",
+            "pos": "noun",
+            "ipa": "/o.ˈho.ri/",
+            "origen": {
+              "lengua": "Sánscrito / Griego / Árabe",
+              "raiz_original": "Sánscrito ह्रस्व (hrasva) /ˈɦrɐs.ʋɐ/; Griego βραχύ (brakhý) /brɑˈkʰy/; Árabe شورت (shōrt) /ʃoːrt/",
+              "corpus": "forjado por motor de síntesis v1.4.1 (short mode, expansión vestimenta)"
+            },
+            "transformacion": [],
+            "derivaciones": []
+          },
+          {
+            "kalfirvach": "ibile",
+            "concepto": "bolsillo: compartimento pequeño cosido en una prenda",
+            "pos": "noun",
+            "ipa": "/i.ˈbi.le/",
+            "origen": {
+              "lengua": "Sánscrito / Griego / Árabe",
+              "raiz_original": "Sánscrito पक्ष (pakṣa) /ˈpɐk.ʂɐ/; Griego θύλακος (thýlakos) /ˈθy.lɑ.kos/; Árabe جيب (jayb) /dʒejb/",
+              "corpus": "forjado por motor de síntesis v1.4.1 (short mode, expansión vestimenta)"
+            },
+            "transformacion": [],
+            "derivaciones": []
+          },
+          {
+            "kalfirvach": "zikos",
+            "concepto": "botón: pequeña pieza que se engancha en un ojal para abrochar",
+            "pos": "noun",
+            "ipa": "/ˈzi.kos/",
+            "origen": {
+              "lengua": "Sánscrito / Griego / Árabe",
+              "raiz_original": "Sánscrito भग (bhaga) /ˈbʱɐ.ɡɐ/; Griego κόμβος (kómbos) /ˈkom.bos/; Árabe زر (zirr) /zirː/",
+              "corpus": "forjado por motor de síntesis v1.4.1 (short mode, expansión vestimenta)"
+            },
+            "transformacion": [],
+            "derivaciones": []
+          },
+          {
+            "kalfirvach": "hembe",
+            "concepto": "cremallera: sistema de dientes que abre y cierra una prenda",
+            "pos": "noun",
+            "ipa": "/ˈhem.be/",
+            "origen": {
+              "lengua": "Sánscrito / Griego / Árabe",
+              "raiz_original": "Sánscrito संधि (sandhi) /ˈsɐn.dʱi/; Griego φερμουάρ (fermouár) /fer.muˈɑr/; Árabe سحاب (saḥḥāb) /sɑħˈħɑːb/",
+              "corpus": "forjado por motor de síntesis v1.4.1 (short mode, expansión vestimenta)"
+            },
+            "transformacion": [],
+            "derivaciones": []
+          },
+          {
+            "kalfirvach": "kibin",
+            "concepto": "manga: parte de la prenda que cubre el brazo",
+            "pos": "noun",
+            "ipa": "/ˈki.bin/",
+            "origen": {
+              "lengua": "Sánscrito / Griego / Árabe",
+              "raiz_original": "Sánscrito भुज (bhuja) /ˈbʱu.dʒɐ/; Griego μανίκι (maníki) /mɑˈni.ci/; Árabe كم (kumm) /kumm/",
+              "corpus": "forjado por motor de síntesis v1.4.1 (short mode, expansión vestimenta)"
+            },
+            "transformacion": [],
+            "derivaciones": []
+          },
+          {
+            "kalfirvach": "rosol",
+            "concepto": "cuello: parte de la prenda que rodea el cuello",
+            "pos": "noun",
+            "ipa": "/ˈro.sol/",
+            "origen": {
+              "lengua": "Sánscrito / Griego / Árabe",
+              "raiz_original": "Sánscrito ग्रीव (grīva) /ˈɡriː.ʋɐ/; Griego κολλάρο (kolláro) /koˈlːɑ.ro/; Árabe ياقة (yāqa) /ˈjɑː.qɑ/",
+              "corpus": "forjado por motor de síntesis v1.4.1 (short mode, expansión vestimenta)"
+            },
+            "transformacion": [],
+            "derivaciones": []
+          },
+          {
+            "kalfirvach": "finre",
+            "concepto": "costura: línea donde se unen dos piezas de tela cosidas",
+            "pos": "noun",
+            "ipa": "/ˈfin.re/",
+            "origen": {
+              "lengua": "Sánscrito / Griego / Árabe",
+              "raiz_original": "Sánscrito सीवन (sīvana) /ˈsiː.ʋɐ.nɐ/; Griego ραφή (rafí) /rɑˈfi/; Árabe خياطة (khiyāṭa) /xiˈjɑː.tˤɑ/",
+              "corpus": "forjado por motor de síntesis v1.4.1 (short mode, expansión vestimenta)"
+            },
+            "transformacion": [],
+            "derivaciones": []
+          },
+          {
+            "kalfirvach": "kisdi",
+            "concepto": "dobladillo: borde doblado y cosido de una prenda",
+            "pos": "noun",
+            "ipa": "/ˈkis.di/",
+            "origen": {
+              "lengua": "Sánscrito / Griego / Árabe",
+              "raiz_original": "Sánscrito दात्र (dātra) /ˈdɑː.trɐ/; Griego κρήσπη (kríspi) /ˈkri.spi/; Árabe حَذَفَ (ḥaḏafa) /ˈħɑ.ðɑ.fɑ/",
+              "corpus": "forjado por motor de síntesis v1.4.1 (short mode, expansión vestimenta)"
+            },
+            "transformacion": [],
+            "derivaciones": []
+          },
+          {
+            "kalfirvach": "kībīh",
+            "concepto": "bolso: accesorio para llevar objetos personales",
+            "pos": "noun",
+            "ipa": "/ˈkiː.biːh/",
+            "origen": {
+              "lengua": "Sánscrito / Griego / Árabe",
+              "raiz_original": "Sánscrito पिटक (piṭaka) /ˈpi.ʈɐ.kɐ/; Griego σάκκος (sákkos) /ˈsɑ.kːos/; Árabe حقيبة (ḥaqība) /ħɑˈqiː.bɑ/",
+              "corpus": "forjado por motor de síntesis v1.4.1 (short mode, expansión vestimenta)"
+            },
+            "transformacion": [],
+            "derivaciones": []
+          },
+          {
+            "kalfirvach": "hormo",
+            "concepto": "mochila: bolsa con correas que se lleva a la espalda",
+            "pos": "noun",
+            "ipa": "/ˈhor.mo/",
+            "origen": {
+              "lengua": "Sánscrito / Griego / Árabe",
+              "raiz_original": "Sánscrito पृष्ठ (pṛṣṭha) /ˈpr̩.ʂʈʰɐ/; Griego σάκκος (sákkos) /ˈsɑ.kːos/; Árabe زَمْهَر (zamhar) /ˈzɑm.hɑr/",
+              "corpus": "forjado por motor de síntesis v1.4.1 (short mode, expansión vestimenta)"
+            },
+            "transformacion": [],
+            "derivaciones": []
+          },
+          {
+            "kalfirvach": "kimip",
+            "concepto": "cartera: estuche pequeño para dinero y tarjetas",
+            "pos": "noun",
+            "ipa": "/ˈki.mip/",
+            "origen": {
+              "lengua": "Sánscrito / Griego / Árabe",
+              "raiz_original": "Sánscrito वित (vita) /ˈʋi.tɐ/; Griego φυλακή (phylakí) /fy.lɑˈci/; Árabe مَحْفَظَة (maḥfaẓa) /mɑħˈfɑ.zˤɑ/",
+              "corpus": "forjado por motor de síntesis v1.4.1 (short mode, expansión vestimenta)"
+            },
+            "transformacion": [],
+            "derivaciones": []
+          },
+          {
+            "kalfirvach": "iroli",
+            "concepto": "collar: adorno que se lleva alrededor del cuello",
+            "pos": "noun",
+            "ipa": "/i.ˈro.li/",
+            "origen": {
+              "lengua": "Sánscrito / Griego / Árabe",
+              "raiz_original": "Sánscrito कण्ठ (kaṇṭha) /ˈkɐɳ.ʈʰɐ/; Griego λόριον (lórion) /ˈlo.ri.on/; Árabe عقد (ʿiqd) /ʕiqd/",
+              "corpus": "forjado por motor de síntesis v1.4.1 (short mode, expansión vestimenta)"
+            },
+            "transformacion": [],
+            "derivaciones": []
+          },
+          {
+            "kalfirvach": "keres",
+            "concepto": "pulsera: adorno que se lleva en la muñeca",
+            "pos": "noun",
+            "ipa": "/ˈke.res/",
+            "origen": {
+              "lengua": "Sánscrito / Griego / Árabe",
+              "raiz_original": "Sánscrito कङ्कण (kaṅkaṇa) /ˈkɐŋ.kɐ.ɳɐ/; Griego ψέλιον (psélion) /ˈpse.li.on/; Árabe سوار (siwār) /siˈwɑːr/",
+              "corpus": "forjado por motor de síntesis v1.4.1 (short mode, expansión vestimenta)"
+            },
+            "transformacion": [],
+            "derivaciones": []
+          },
+          {
+            "kalfirvach": "koton",
+            "concepto": "pendiente: adorno que se lleva en la oreja",
+            "pos": "noun",
+            "ipa": "/ˈko.ton/",
+            "origen": {
+              "lengua": "Sánscrito / Griego / Árabe",
+              "raiz_original": "Sánscrito कर्ण (karṇa) /ˈkɐr.ɳɐ/; Griego ενώτιον (enṓtion) /eˈnɔ.ti.on/; Árabe قرط (qurṭ) /qurtˤ/",
+              "corpus": "forjado por motor de síntesis v1.4.1 (short mode, expansión vestimenta)"
+            },
+            "transformacion": [],
+            "derivaciones": []
+          },
+          {
+            "kalfirvach": "utuku",
+            "concepto": "gafas: montura con lentes para corrección visual o protección",
+            "pos": "noun",
+            "ipa": "/u.ˈtu.ku/",
+            "origen": {
+              "lengua": "Sánscrito / Griego / Árabe",
+              "raiz_original": "Sánscrito चक्षुष् (cakṣuṣ) /ˈt͡ʃɐk.ʂuʂ/; Griego γυαλιά (gyaliá) /ʝɑˈʎɑ/; Árabe نظارات (naẓẓārāt) /nɑðˤːɑːˈrɑːt/",
+              "corpus": "forjado por motor de síntesis v1.4.1 (short mode, expansión vestimenta)"
+            },
+            "transformacion": [],
+            "derivaciones": []
+          },
+          {
+            "kalfirvach": "sohil",
+            "concepto": "reloj: instrumento para medir el tiempo, llevado en la muñeca",
+            "pos": "noun",
+            "ipa": "/ˈso.hil/",
+            "origen": {
+              "lengua": "Sánscrito / Griego / Árabe",
+              "raiz_original": "Sánscrito घटिका (ghaṭikā) /ˈɡʱɐ.ʈi.kɑː/; Griego ρολόι (rolói) /roˈlo.i/; Árabe ساعة (sā'a) /ˈsɑː.ʕɑ/",
+              "corpus": "forjado por motor de síntesis v1.4.1 (short mode, expansión vestimenta)"
+            },
+            "transformacion": [],
+            "derivaciones": []
+          },
+          {
+            "kalfirvach": "mosko",
+            "concepto": "tela: material textil tejido",
+            "pos": "noun",
+            "ipa": "/ˈmos.ko/",
+            "origen": {
+              "lengua": "Sánscrito / Griego / Árabe",
+              "raiz_original": "Sánscrito वस्त्र (vastra) /ˈʋɐs.trɐ/; Griego πάνος (pános) /ˈpɑ.nos/; Árabe قماش (qumāsh) /quˈmɑːʃ/",
+              "corpus": "forjado por motor de síntesis v1.4.1 (short mode, expansión vestimenta)"
+            },
+            "transformacion": [],
+            "derivaciones": []
+          },
+          {
+            "kalfirvach": "rensi",
+            "concepto": "lana: fibra textil de origen ovino",
+            "pos": "noun",
+            "ipa": "/ˈren.si/",
+            "origen": {
+              "lengua": "Sánscrito / Griego / Árabe",
+              "raiz_original": "Sánscrito ऊर्णा (ūrṇā) /ˈuːr.ɳɑː/; Griego έριον (érion) /ˈe.ri.on/; Árabe صوف (ṣūf) /sˤuːf/",
+              "corpus": "forjado por motor de síntesis v1.4.1 (short mode, expansión vestimenta)"
+            },
+            "transformacion": [],
+            "derivaciones": []
+          },
+          {
+            "kalfirvach": "rihik",
+            "concepto": "seda: fibra textil fina producida por el gusano de seda",
+            "pos": "noun",
+            "ipa": "/ˈri.hik/",
+            "origen": {
+              "lengua": "Sánscrito / Griego / Árabe",
+              "raiz_original": "Sánscrito कौशेय (kauśeya) /ˈkɑu.ɕe.jɐ/; Griego σηρικόν (sērikón) /sɛː.riˈkon/; Árabe حرير (ḥarīr) /ħɑˈriːr/",
+              "corpus": "forjado por motor de síntesis v1.4.1 (short mode, expansión vestimenta)"
+            },
+            "transformacion": [],
+            "derivaciones": []
+          },
+          {
+            "kalfirvach": "vitem",
+            "concepto": "terciopelo: tela de superficie suave y tupida",
+            "pos": "noun",
+            "ipa": "/ˈvi.tem/",
+            "origen": {
+              "lengua": "Sánscrito / Griego / Árabe",
+              "raiz_original": "Sánscrito शान (śāṇa) /ˈʃɑː.ɳɐ/; Griego βελούτο (veloúto) /veˈlu.to/; Árabe مخمل (mukhmal) /ˈmux.mɑl/",
+              "corpus": "forjado por motor de síntesis v1.4.1 (short mode, expansión vestimenta)"
+            },
+            "transformacion": [],
+            "derivaciones": []
+          },
+          {
+            "kalfirvach": "timin",
+            "concepto": "mezclilla: tela resistente de algodón, azul índigo, para pantalones vaqueros",
+            "pos": "noun",
+            "ipa": "/ˈti.min/",
+            "origen": {
+              "lengua": "Sánscrito / Griego / Árabe",
+              "raiz_original": "Sánscrito नील (nīla) /ˈniː.lɐ/; Griego τζίνα (tzína) /ˈdzi.nɑ/; Árabe دنيم (dīnīm) /diːˈniːm/",
+              "corpus": "forjado por motor de síntesis v1.4.1 (short mode, expansión vestimenta)"
+            },
+            "transformacion": [],
+            "derivaciones": []
+          },
+          {
+            "kalfirvach": "esobi",
+            "concepto": "vestir: ponerse ropa, cubrir el cuerpo con prendas",
+            "pos": "verb",
+            "ipa": "/e.ˈso.bi/",
+            "origen": {
+              "lengua": "Sánscrito / Griego / Árabe",
+              "raiz_original": "Sánscrito वस् (vas) /ʋɐs/; Griego ενδύω (endýo) /enˈdy.o/; Árabe لبس (labisa) /ˈlɑ.bɪ.sɑ/",
+              "corpus": "forjado por motor de síntesis v1.4.1 (short mode, expansión vestimenta)"
+            },
+            "transformacion": [],
+            "derivaciones": []
+          },
+          {
+            "kalfirvach": "likse",
+            "concepto": "desvestir: quitarse la ropa",
+            "pos": "verb",
+            "ipa": "/ˈlik.se/",
+            "origen": {
+              "lengua": "Sánscrito / Griego / Árabe",
+              "raiz_original": "Sánscrito निर्वस् (nirvas) /nirˈʋɐs/; Griego εκδύω (ekdýo) /ekˈdy.o/; Árabe خلع (khala'a) /xɑˈlɑʕ/",
+              "corpus": "forjado por motor de síntesis v1.4.1 (short mode, expansión vestimenta)"
+            },
+            "transformacion": [],
+            "derivaciones": []
+          },
+          {
+            "kalfirvach": "nerek",
+            "concepto": "bordar: decorar tela con dibujos de hilo",
+            "pos": "verb",
+            "ipa": "/ˈne.rek/",
+            "origen": {
+              "lengua": "Sánscrito / Griego / Árabe",
+              "raiz_original": "Sánscrito चित्र (citra) /ˈt͡ʃi.trɐ/; Griego κεντώ (kentó) /kenˈto/; Árabe طرز (ṭarraz) /tˤɑrˈrɑz/",
+              "corpus": "forjado por motor de síntesis v1.4.1 (short mode, expansión vestimenta)"
+            },
+            "transformacion": [],
+            "derivaciones": []
+          },
+          {
+            "kalfirvach": "monik",
+            "concepto": "remendar: reparar la ropa cosiendo un agujero o desgarro",
+            "pos": "verb",
+            "ipa": "/ˈmo.nik/",
+            "origen": {
+              "lengua": "Sánscrito / Griego / Árabe",
+              "raiz_original": "Sánscrito पिनष्टि (pinaṣṭi) /piˈnɐ.ʂʈi/; Griego μπαλώνω (balóno) /bɑˈlo.no/; Árabe رقع (raqqa'a) /rɑqˈqɑʕ/",
+              "corpus": "forjado por motor de síntesis v1.4.1 (short mode, expansión vestimenta)"
+            },
+            "transformacion": [],
+            "derivaciones": []
+          },
+          {
+            "kalfirvach": "senir",
+            "concepto": "planchar: alisar la ropa con plancha caliente",
+            "pos": "verb",
+            "ipa": "/ˈse.nir/",
+            "origen": {
+              "lengua": "Sánscrito / Griego / Árabe",
+              "raiz_original": "Sánscrito मार्ज् (mārj) /mɑːrdʒ/; Griego σιδερώνω (sideróno) /si.ðeˈro.no/; Árabe كوى (kawā) /kɑˈwɑː/",
+              "corpus": "forjado por motor de síntesis v1.4.1 (short mode, expansión vestimenta)"
+            },
+            "transformacion": [],
+            "derivaciones": []
+          }
+        ]
+      },
+      "herramientas_utensilios": {
+        "nombre": "Herramientas, Utensilios y Objetos",
+        "descripcion": "Herramientas manuales, utensilios del hogar, muebles y objetos cotidianos",
+        "entradas": [
+          {
+            "kalfirvach": "sekbepetel",
+            "concepto": "hacha",
+            "pos": "noun",
+            "ipa": "/sek.be.ˈpe.tel/",
+            "origen": {
+              "lengua": "Ancient Greek / Arabic / Persian / Sanskrit",
+              "raiz_original": "Sanskrit: परशु (paraśu) / Persian: تبر (tabar) / Arabic: بَلْط (balṭ) / فَأْس (faʾs) / Ancient Greek: πέλεκυς (pelekys)",
+              "corpus": "generado por forja v1.4"
+            },
+            "transformacion": [
+              "forjado"
+            ],
+            "derivaciones": []
+          },
+          {
+            "kalfirvach": "digh",
+            "concepto": "olla, caldero, pote, marmita",
+            "pos": "noun",
+            "ipa": "/ˈdix/",
+            "origen": {
+              "lengua": "Persa Avéstico / Árabe esotérico",
+              "raiz_original": "دیک (dīg) 'olla, caldero' / قدر (qidr) 'olla'",
+              "corpus": "Poesía persa (dīg como símbolo de hogar) / Textos de gastronomía árabes"
+            },
+            "transformacion": [
+              "dīg → dig → digh (oclusiva sonora aspirada por énfasis KFA)",
+              "qidr → qidr → qid → digh (convergencia, sonorización q→g)"
+            ],
+            "derivaciones": []
+          },
+          {
+            "kalfirvach": "milak",
+            "concepto": "cuchara (utensilio cóncavo para líquidos)",
+            "pos": "noun",
+            "ipa": "/ˈmi.lak/",
+            "origen": {
+              "lengua": "Griego Koiné / Árabe esotérico",
+              "raiz_original": "κουτάλι (koutáli) 'cuchara' (Gr) / milʿaka 'cuchara' (Ar)",
+              "corpus": ""
+            },
+            "transformacion": [
+              "/ʿ/→O, /ou/→/i/"
+            ],
+            "derivaciones": []
+          },
+          {
+            "kalfirvach": "patarnā",
+            "concepto": "plato, vasija, recipiente, cuenco",
+            "pos": "noun",
+            "ipa": "/paˈtar.naː/",
+            "origen": {
+              "lengua": "Sánscrito Védico / Griego Koiné / Árabe esotérico",
+              "raiz_original": "पात्र pātra \"vasija, recipiente\" (Skt) / ποτήρ potēr \"copa, vaso para beber\" (Gr) / إنَاء ināʾ \"vasija, recipiente\" (Ar)",
+              "corpus": "Rig Veda (Skt); Simposio de Platón (Gr); Cuentos de Las Mil y Una Noches (Ar)"
+            },
+            "transformacion": [
+              "/patar/ de पात्र /paː.tra/ → /pa.tar/ (Skt) + ποτήρ /po.tɛːr/ → /pa.ter/ (Gr)",
+              "/nā/ de إنَاء /ʔi.naːʔ/ → /naː/ (Ar)"
+            ],
+            "derivaciones": []
+          },
+          {
+            "kalfirvach": "shauka",
+            "concepto": "tenedor (utensilio con púas para comer sólidos)",
+            "pos": "noun",
+            "ipa": "/ˈʃa.u.ka/",
+            "origen": {
+              "lengua": "Griego Koiné / Árabe esotérico",
+              "raiz_original": "πιρούνι (pirouni) 'tenedor' (Gr) / shauka 'pincho, tenedor' (Ar)",
+              "corpus": ""
+            },
+            "transformacion": [
+              "/p/→/ʃ/ (síncopa y palatalización)"
+            ],
+            "derivaciones": []
+          },
+          {
+            "kalfirvach": "tanur",
+            "concepto": "horno, fogón, lugar de cocción",
+            "pos": "noun",
+            "ipa": "/ˈta.nur/",
+            "origen": {
+              "lengua": "Árabe esotérico / Persa Avéstico",
+              "raiz_original": "تنور (tannūr) 'horno' / تنور (tanūr) 'horno' — raíz acadia común",
+              "corpus": "Corpus coránico (tannūr del diluvio) / Poesía persa"
+            },
+            "transformacion": [
+              "tannūr → tanur (geminación simplificada nn→n, ū→u)",
+              "idéntico en ambas — forma panoriental antigua"
+            ],
+            "derivaciones": []
+          },
+          {
+            "kalfirvach": "chur",
+            "concepto": "cuchillo, hoja cortante, cuchilla",
+            "pos": "noun",
+            "ipa": "/ˈtʃur/",
+            "origen": {
+              "lengua": "Sánscrito Védico / Persa Avéstico / Griego Koiné",
+              "raiz_original": "छुरिका churikā \"cuchillo\" (Skt) / چاقو čāqū \"cuchillo\" (Pers) / μάχαιρα máchaira \"cuchillo, cuchilla\" (Gr)",
+              "corpus": "Suśruta Saṃhitā (Skt); Cocina persa (Pers); Homero (Gr)"
+            },
+            "transformacion": [
+              "/chu/ convergencia de छुरिका /tʃʰu.ri.kaː/ (Skt) + چاقو /tʃɒ.quː/ (Pers) + μάχαιρα /ma.kʰai.ra/ → /ma/→/m/→/tʃ/ + /kʰai/→/tʃai/→/tʃu/ (Gr)",
+              "/r/ convergencia de छुरिका /ri/ (Skt) + μάχαιρα /ra/ (Gr)"
+            ],
+            "derivaciones": []
+          },
+          {
+            "kalfirvach": "kalit",
+            "concepto": "llave (instrumento para abrir cerradura)",
+            "pos": "noun",
+            "ipa": "/ˈka.lit/",
+            "origen": {
+              "lengua": "Sánscrito Védico / Griego Koiné / Árabe esotérico",
+              "raiz_original": "tālaka- 'llave' (Skt) / κλειδί (kleidí) 'llave' (Gr) / miftaḥ 'llave' (Ar)",
+              "corpus": ""
+            },
+            "transformacion": [
+              "/tā/→/k/ (síncopa), /eid/→/lid/"
+            ],
+            "derivaciones": []
+          },
+          {
+            "kalfirvach": "rimfu",
+            "concepto": "martillo: herramienta de percusión para clavar o golpear",
+            "pos": "noun",
+            "ipa": "/ˈrim.fu/",
+            "origen": {
+              "lengua": "Sánscrito / Griego / Árabe",
+              "raiz_original": "Sánscrito मुद्गर (mudgara) /ˈmu.dɡɐ.ɾɐ/; Griego σφυρί (sfyrí) /sfyˈri/; Árabe مطرقة (mitraqa) /miˈtˤrɑ.qɑ/",
+              "corpus": "forjado por motor de síntesis v1.4.1 (short mode, expansión herramientas)"
+            },
+            "transformacion": [],
+            "derivaciones": []
+          },
+          {
+            "kalfirvach": "mikni",
+            "concepto": "sierra: herramienta de corte con dientes",
+            "pos": "noun",
+            "ipa": "/ˈmik.ni/",
+            "origen": {
+              "lengua": "Sánscrito / Griego / Árabe",
+              "raiz_original": "Sánscrito काकर्ति (kākarti) /ˈkɑː.kr̩.ti/; Griego πριόνι (prióni) /priˈo.ni/; Árabe منشار (minshār) /minˈʃɑːr/",
+              "corpus": "forjado por motor de síntesis v1.4.1 (short mode, expansión herramientas)"
+            },
+            "transformacion": [],
+            "derivaciones": []
+          },
+          {
+            "kalfirvach": "ribik",
+            "concepto": "destornillador: herramienta para ajustar tornillos",
+            "pos": "noun",
+            "ipa": "/ˈri.bik/",
+            "origen": {
+              "lengua": "Sánscrito / Griego / Árabe",
+              "raiz_original": "Sánscrito भ्राम (bhrāma) /ˈbʱrɑː.mɐ/; Griego κατσαβίδι (katsavídi) /kɑ.tsɑˈvi.ði/; Árabe مفك (mifakk) /miˈfækː/",
+              "corpus": "forjado por motor de síntesis v1.4.1 (short mode, expansión herramientas)"
+            },
+            "transformacion": [],
+            "derivaciones": []
+          },
+          {
+            "kalfirvach": "hilik",
+            "concepto": "llave inglesa: herramienta ajustable para tuercas",
+            "pos": "noun",
+            "ipa": "/ˈhi.lik/",
+            "origen": {
+              "lengua": "Sánscrito / Griego / Árabe",
+              "raiz_original": "Sánscrito पाण्यान (pāṇyāna) /pɑːɳˈjɑː.nɐ/; Griego κλειδί (kleidí) /kliˈði/; Árabe مفتاح (miftāḥ) /mifˈtɑːħ/",
+              "corpus": "forjado por motor de síntesis v1.4.1 (short mode, expansión herramientas)"
+            },
+            "transformacion": [],
+            "derivaciones": []
+          },
+          {
+            "kalfirvach": "zirip",
+            "concepto": "tenaza: herramienta de dos brazos para sujetar",
+            "pos": "noun",
+            "ipa": "/ˈzi.rip/",
+            "origen": {
+              "lengua": "Sánscrito / Griego / Árabe",
+              "raiz_original": "Sánscrito सन्दंश (sandaṃśa) /sɐnˈdɐn.ʃɐ/; Griego πυράγρα (pyrágra) /piˈrɑ.ɣrɑ/; Árabe زردية (zardiyya) /zɑr.dijˈjɑ/",
+              "corpus": "forjado por motor de síntesis v1.4.1 (short mode, expansión herramientas)"
+            },
+            "transformacion": [],
+            "derivaciones": []
+          },
+          {
+            "kalfirvach": "lozēp",
+            "concepto": "cincel: herramienta de corte para tallar",
+            "pos": "noun",
+            "ipa": "/lo.ˈzeːp/",
+            "origen": {
+              "lengua": "Sánscrito / Griego / Árabe",
+              "raiz_original": "Sánscrito छेद (cheda) /ˈtʃʰeː.dɐ/; Griego σκοπείον (skopeíon) /skoˈpi.on/; Árabe إزميل (izmīl) /ʔizˈmiːl/",
+              "corpus": "forjado por motor de síntesis v1.4.1 (short mode, expansión herramientas)"
+            },
+            "transformacion": [],
+            "derivaciones": []
+          },
+          {
+            "kalfirvach": "birin",
+            "concepto": "lima: herramienta abrasiva para desbastar",
+            "pos": "noun",
+            "ipa": "/ˈbi.rin/",
+            "origen": {
+              "lengua": "Sánscrito / Griego / Árabe",
+              "raiz_original": "Sánscrito रक्ष (rakṣa) /ˈrɐk.ʂɐ/; Griego ρίνα (rína) /ˈri.nɑ/; Árabe مبرد (mibrad) /ˈmi.brɑd/",
+              "corpus": "forjado por motor de síntesis v1.4.1 (short mode, expansión herramientas)"
+            },
+            "transformacion": [],
+            "derivaciones": []
+          },
+          {
+            "kalfirvach": "rimti",
+            "concepto": "pala: herramienta para cavar y mover tierra",
+            "pos": "noun",
+            "ipa": "/ˈrim.ti/",
+            "origen": {
+              "lengua": "Sánscrito / Griego / Árabe",
+              "raiz_original": "Sánscrito खनित्र (khanitra) /ˈkʰɐ.nɪ.tɾɐ/; Griego φτυάρι (ftyári) /ˈftjɑ.ri/; Árabe مجرفة (mijrafa) /midʒˈrɑ.fɑ/",
+              "corpus": "forjado por motor de síntesis v1.4.1 (short mode, expansión herramientas)"
+            },
+            "transformacion": [],
+            "derivaciones": []
+          },
+          {
+            "kalfirvach": "tifik",
+            "concepto": "azada: herramienta agrícola para cavar la tierra",
+            "pos": "noun",
+            "ipa": "/ˈti.fik/",
+            "origen": {
+              "lengua": "Sánscrito / Griego / Árabe",
+              "raiz_original": "Sánscrito खनित्र (khanitra) /kʰɐˈnɪ.tɾɐ/; Griego σκαφή (skafí) /skɑˈfi/; Árabe معول (miʿwal) /miʕˈwɑl/",
+              "corpus": "forjado por motor de síntesis v1.4.1 (short mode, expansión herramientas)"
+            },
+            "transformacion": [],
+            "derivaciones": []
+          },
+          {
+            "kalfirvach": "sirin",
+            "concepto": "escoba: utensilio para barrer el suelo",
+            "pos": "noun",
+            "ipa": "/ˈsi.rin/",
+            "origen": {
+              "lengua": "Sánscrito / Griego / Árabe",
+              "raiz_original": "Sánscrito मार्जनी (mārjanī) /ˈmɑːr.dʒɐ.niː/; Griego σκούπα (skoúpa) /ˈsku.pɑ/; Árabe مكنسة (miknasa) /mikˈnɑ.sɑ/",
+              "corpus": "forjado por motor de síntesis v1.4.1 (short mode, expansión herramientas)"
+            },
+            "transformacion": [],
+            "derivaciones": []
+          },
+          {
+            "kalfirvach": "ispik",
+            "concepto": "tijeras: herramienta de corte con dos hojas",
+            "pos": "noun",
+            "ipa": "/ˈis.pik/",
+            "origen": {
+              "lengua": "Sánscrito / Griego / Árabe",
+              "raiz_original": "Sánscrito कर्तरी (kartarī) /ˈkɐr.tɐ.riː/; Griego ψαλίδα (psalída) /psɑˈli.ðɑ/; Árabe مقص (miqaṣṣ) /ˈmi.qɑsˤː/",
+              "corpus": "forjado por motor de síntesis v1.4.1 (short mode, expansión herramientas)"
+            },
+            "transformacion": [],
+            "derivaciones": []
+          },
+          {
+            "kalfirvach": "usbur",
+            "concepto": "soga: cuerda gruesa y resistente",
+            "pos": "noun",
+            "ipa": "/ˈus.bur/",
+            "origen": {
+              "lengua": "Sánscrito / Griego / Árabe",
+              "raiz_original": "Sánscrito रज्जु (rajju) /ˈrɐd.dʒu/; Griego σχοίνος (skhoínos) /ˈsxi.nos/; Árabe حبل (ḥabl) /ħɑbl/",
+              "corpus": "forjado por motor de síntesis v1.4.1 (short mode, expansión herramientas)"
+            },
+            "transformacion": [],
+            "derivaciones": []
+          },
+          {
+            "kalfirvach": "fērēm",
+            "concepto": "clavo: pieza metálica puntiaguda para fijar",
+            "pos": "noun",
+            "ipa": "/ˈfeː.reːm/",
+            "origen": {
+              "lengua": "Sánscrito / Griego / Árabe",
+              "raiz_original": "Sánscrito कील (kīla) /ˈkiː.lɐ/; Griego καρφί (karpí) /kɑrˈfi/; Árabe مسمار (mismār) /misˈmɑːr/",
+              "corpus": "forjado por motor de síntesis v1.4.1 (short mode, expansión herramientas)"
+            },
+            "transformacion": [],
+            "derivaciones": []
+          },
+          {
+            "kalfirvach": "wēdēl",
+            "concepto": "tornillo: pieza cilíndrica con rosca",
+            "pos": "noun",
+            "ipa": "/ˈweː.deːl/",
+            "origen": {
+              "lengua": "Sánscrito / Griego / Árabe",
+              "raiz_original": "Sánscrito वेध (vedha) /ˈʋeː.dʱɐ/; Griego βίδα (vída) /ˈvi.ðɑ/; Árabe لولب (lawlab) /ˈlɑw.lɑb/",
+              "corpus": "forjado por motor de síntesis v1.4.1 (short mode, expansión herramientas)"
+            },
+            "transformacion": [],
+            "derivaciones": []
+          },
+          {
+            "kalfirvach": "fimir",
+            "concepto": "cepillo: herramienta con cerdas para limpiar o cepillar",
+            "pos": "noun",
+            "ipa": "/ˈfi.mir/",
+            "origen": {
+              "lengua": "Sánscrito / Griego / Árabe",
+              "raiz_original": "Sánscrito मार्जरी (mārjarī) /ˈmɑːr.dʒɐ.riː/; Griego βούρτσα (voúrtsa) /ˈvur.tsɑ/; Árabe فرشاة (furshā) /furˈʃɑː/",
+              "corpus": "forjado por motor de síntesis v1.4.1 (short mode, expansión herramientas)"
+            },
+            "transformacion": [],
+            "derivaciones": []
+          },
+          {
+            "kalfirvach": "metle",
+            "concepto": "sartén: utensilio de cocina para freír",
+            "pos": "noun",
+            "ipa": "/ˈmet.le/",
+            "origen": {
+              "lengua": "Sánscrito / Griego / Árabe",
+              "raiz_original": "Sánscrito स्थाली (sthālī) /ˈstʰɑː.liː/; Griego τηγάνι (tigáni) /tiˈɣɑ.ni/; Árabe مقلاة (miqlāh) /miqˈlɑː/",
+              "corpus": "forjado por motor de síntesis v1.4.1 (short mode, expansión herramientas)"
+            },
+            "transformacion": [],
+            "derivaciones": []
+          },
+          {
+            "kalfirvach": "litis",
+            "concepto": "cacerola: olla baja con mango para cocinar",
+            "pos": "noun",
+            "ipa": "/ˈli.tis/",
+            "origen": {
+              "lengua": "Sánscrito / Griego / Árabe",
+              "raiz_original": "Sánscrito स्थाली (sthālī) /ˈstʰɑː.liː/; Griego κατσαρόλα (katsaróla) /kɑ.tsɑˈro.lɑ/; Árabe قدر (qidr) /qidr/",
+              "corpus": "forjado por motor de síntesis v1.4.1 (short mode, expansión herramientas)"
+            },
+            "transformacion": [],
+            "derivaciones": []
+          },
+          {
+            "kalfirvach": "kinil",
+            "concepto": "taza: recipiente pequeño para bebidas calientes",
+            "pos": "noun",
+            "ipa": "/ˈki.nil/",
+            "origen": {
+              "lengua": "Sánscrito / Griego / Árabe",
+              "raiz_original": "Sánscrito चषक (caṣaka) /ˈt͡ʃɐ.ʂɐ.kɐ/; Griego φλιτζάνι (flitzáni) /fliˈdzɑ.ni/; Árabe فنجان (finjān) /finˈdʒɑːn/",
+              "corpus": "forjado por motor de síntesis v1.4.1 (short mode, expansión herramientas)"
+            },
+            "transformacion": [],
+            "derivaciones": []
+          },
+          {
+            "kalfirvach": "korte",
+            "concepto": "vaso: recipiente cilíndrico para beber",
+            "pos": "noun",
+            "ipa": "/ˈkor.te/",
+            "origen": {
+              "lengua": "Sánscrito / Griego / Árabe",
+              "raiz_original": "Sánscrito पात्र (pātra) /ˈpɑː.tɾɐ/; Griego ποτήρι (potíri) /poˈti.ri/; Árabe كأس (kaʾs) /kæs/",
+              "corpus": "forjado por motor de síntesis v1.4.1 (short mode, expansión herramientas)"
+            },
+            "transformacion": [],
+            "derivaciones": []
+          },
+          {
+            "kalfirvach": "dibun",
+            "concepto": "botella: recipiente alargado para líquidos",
+            "pos": "noun",
+            "ipa": "/ˈdi.bun/",
+            "origen": {
+              "lengua": "Sánscrito / Griego / Árabe",
+              "raiz_original": "Sánscrito कन्ध (kandha) /ˈkɐn.dʱɐ/; Griego μπουκάλι (boukáli) /buˈkɑ.li/; Árabe زجاجة (zujāja) /zuˈdʒɑː.dʒɑ/",
+              "corpus": "forjado por motor de síntesis v1.4.1 (short mode, expansión herramientas)"
+            },
+            "transformacion": [],
+            "derivaciones": []
+          },
+          {
+            "kalfirvach": "rikim",
+            "concepto": "jarra: recipiente con asa para servir líquidos",
+            "pos": "noun",
+            "ipa": "/ˈri.kim/",
+            "origen": {
+              "lengua": "Sánscrito / Griego / Árabe",
+              "raiz_original": "Sánscrito कर्करी (karkarī) /ˈkɐr.kɐ.riː/; Griego στάμνα (stámna) /ˈstɑ.mnɑ/; Árabe إبريق (ibrīq) /ʔibˈriːq/",
+              "corpus": "forjado por motor de síntesis v1.4.1 (short mode, expansión herramientas)"
+            },
+            "transformacion": [],
+            "derivaciones": []
+          },
+          {
+            "kalfirvach": "milsi",
+            "concepto": "colador: utensilio para filtrar líquidos",
+            "pos": "noun",
+            "ipa": "/ˈmil.si/",
+            "origen": {
+              "lengua": "Sánscrito / Griego / Árabe",
+              "raiz_original": "Sánscrito चालनī (cālanī) /ˈtʃɑː.lɐ.niː/; Griego σουρωτήρι (sourotíri) /su.roˈti.ri/; Árabe مصفى (muṣaffā) /muˈsˤɑf.fɑː/",
+              "corpus": "forjado por motor de síntesis v1.4.1 (short mode, expansión herramientas)"
+            },
+            "transformacion": [],
+            "derivaciones": []
+          },
+          {
+            "kalfirvach": "misti",
+            "concepto": "rallador: utensilio para desmenuzar alimentos",
+            "pos": "noun",
+            "ipa": "/ˈmis.ti/",
+            "origen": {
+              "lengua": "Sánscrito / Griego / Árabe",
+              "raiz_original": "Sánscrito कर्ष (karṣa) /ˈkɐr.ʂɐ/; Griego τρίφτης (tríftis) /ˈtri.ftis/; Árabe مبشرة (mibshara) /mibˈʃɑ.rɑ/",
+              "corpus": "forjado por motor de síntesis v1.4.1 (short mode, expansión herramientas)"
+            },
+            "transformacion": [],
+            "derivaciones": []
+          },
+          {
+            "kalfirvach": "ukiri",
+            "concepto": "cucharón: cuchara grande para servir",
+            "pos": "noun",
+            "ipa": "/u.ˈki.ri/",
+            "origen": {
+              "lengua": "Sánscrito / Griego / Árabe",
+              "raiz_original": "Sánscrito धार्वी (dhārvī) /ˈdʱɑːr.ʋiː/; Griego κουτάλα (koutála) /kuˈtɑ.lɑ/; Árabe مغرفة (mighrafa) /miɣˈrɑ.fɑ/",
+              "corpus": "forjado por motor de síntesis v1.4.1 (short mode, expansión herramientas)"
+            },
+            "transformacion": [],
+            "derivaciones": []
+          },
+          {
+            "kalfirvach": "rimup",
+            "concepto": "espátula: utensilio para dar vuelta alimentos",
+            "pos": "noun",
+            "ipa": "/ˈri.mup/",
+            "origen": {
+              "lengua": "Sánscrito / Griego / Árabe",
+              "raiz_original": "Sánscrito स्फुट (sphuṭa) /ˈspʰu.ʈɐ/; Griego σπάτουλα (spátoula) /ˈspɑ.tu.lɑ/; Árabe ملعقة (milʿaqa) /milˈʕɑ.qɑ/",
+              "corpus": "forjado por motor de síntesis v1.4.1 (short mode, expansión herramientas)"
+            },
+            "transformacion": [],
+            "derivaciones": []
+          },
+          {
+            "kalfirvach": "unhul",
+            "concepto": "mortero: recipiente cóncavo para machacar",
+            "pos": "noun",
+            "ipa": "/ˈun.hul/",
+            "origen": {
+              "lengua": "Sánscrito / Griego / Árabe",
+              "raiz_original": "Sánscrito उखल (ukhal) /ˈu.kʰɐl/; Griego γουδί (goudí) /ɣuˈði/; Árabe هاون (hāwun) /ˈhɑː.wun/",
+              "corpus": "forjado por motor de síntesis v1.4.1 (short mode, expansión herramientas)"
+            },
+            "transformacion": [],
+            "derivaciones": []
+          },
+          {
+            "kalfirvach": "wilki",
+            "concepto": "tabla de cortar: superficie plana para picar alimentos",
+            "pos": "noun",
+            "ipa": "/ˈwil.ki/",
+            "origen": {
+              "lengua": "Sánscrito / Griego / Árabe",
+              "raiz_original": "Sánscrito काठ (kāṭha) /ˈkɑː.ʈʰɐ/; Griego σανίδα (sanída) /sɑˈni.ðɑ/; Árabe لوح (lawḥ) /lɑwħ/",
+              "corpus": "forjado por motor de síntesis v1.4.1 (short mode, expansión herramientas)"
+            },
+            "transformacion": [],
+            "derivaciones": []
+          },
+          {
+            "kalfirvach": "kinit",
+            "concepto": "batidora: utensilio para mezclar y batir",
+            "pos": "noun",
+            "ipa": "/ˈki.nit/",
+            "origen": {
+              "lengua": "Sánscrito / Griego / Árabe",
+              "raiz_original": "Sánscrito मन्थ (mantha) /ˈmɐn.tʰɐ/; Griego δέρη (déri) /ˈðe.ri/; Árabe خفاقة (khafāqa) /xɑˈfɑː.qɑ/",
+              "corpus": "forjado por motor de síntesis v1.4.1 (short mode, expansión herramientas)"
+            },
+            "transformacion": [],
+            "derivaciones": []
+          },
+          {
+            "kalfirvach": "efeme",
+            "concepto": "toalla: paño para secarse",
+            "pos": "noun",
+            "ipa": "/e.ˈfe.me/",
+            "origen": {
+              "lengua": "Sánscrito / Griego / Árabe",
+              "raiz_original": "Sánscrito वस्त्र (vastra) /ˈʋɐs.tɾɐ/; Griego πετσέτα (petséta) /peˈtse.tɑ/; Árabe منشفة (minshafa) /minˈʃɑ.fɑ/",
+              "corpus": "forjado por motor de síntesis v1.4.1 (short mode, expansión herramientas)"
+            },
+            "transformacion": [],
+            "derivaciones": []
+          },
+          {
+            "kalfirvach": "bunus",
+            "concepto": "jabón: sustancia para lavar y limpiar",
+            "pos": "noun",
+            "ipa": "/ˈbu.nus/",
+            "origen": {
+              "lengua": "Sánscrito / Griego / Árabe",
+              "raiz_original": "Sánscrito फेन (phena) /ˈpʰeː.nɐ/; Griego σαπούνι (sapoúni) /sɑˈpu.ni/; Árabe صابون (ṣābūn) /sˤɑːˈbuːn/",
+              "corpus": "forjado por motor de síntesis v1.4.1 (short mode, expansión herramientas)"
+            },
+            "transformacion": [],
+            "derivaciones": []
+          },
+          {
+            "kalfirvach": "mektē",
+            "concepto": "peine: utensilio para desenredar el cabello",
+            "pos": "noun",
+            "ipa": "/mek.ˈteː/",
+            "origen": {
+              "lengua": "Sánscrito / Griego / Árabe",
+              "raiz_original": "Sánscrito केश (keśa) /ˈkeː.ɕɐ/; Griego χτένα (chténa) /ˈxte.nɑ/; Árabe مشط (musht) /muʃt/",
+              "corpus": "forjado por motor de síntesis v1.4.1 (short mode, expansión herramientas)"
+            },
+            "transformacion": [],
+            "derivaciones": []
+          },
+          {
+            "kalfirvach": "ikris",
+            "concepto": "almohada: cojín para apoyar la cabeza al dormir",
+            "pos": "noun",
+            "ipa": "/ˈik.ris/",
+            "origen": {
+              "lengua": "Sánscrito / Griego / Árabe",
+              "raiz_original": "Sánscrito उपधान (upadhāna) /uˈpɐ.dʱɑː.nɐ/; Griego μαξιλάρι (maxilári) /mɑ.ksiˈlɑ.ri/; Árabe وسادة (wisāda) /wiˈsɑː.dɑ/",
+              "corpus": "forjado por motor de síntesis v1.4.1 (short mode, expansión herramientas)"
+            },
+            "transformacion": [],
+            "derivaciones": []
+          },
+          {
+            "kalfirvach": "rekeh",
+            "concepto": "manta: pieza gruesa de tela para abrigarse",
+            "pos": "noun",
+            "ipa": "/ˈre.keh/",
+            "origen": {
+              "lengua": "Sánscrito / Griego / Árabe",
+              "raiz_original": "Sánscrito कम्बल (kambala) /ˈkɐm.bɐ.lɐ/; Griego κουβέρτα (kouvérta) /kuˈver.tɑ/; Árabe غطاء (ghiṭā') /ɣɪˈtˤɑːʔ/",
+              "corpus": "forjado por motor de síntesis v1.4.1 (short mode, expansión herramientas)"
+            },
+            "transformacion": [],
+            "derivaciones": []
+          },
+          {
+            "kalfirvach": "sirni",
+            "concepto": "sábana: pieza de tela que cubre el colchón",
+            "pos": "noun",
+            "ipa": "/ˈsir.ni/",
+            "origen": {
+              "lengua": "Sánscrito / Griego / Árabe",
+              "raiz_original": "Sánscrito शयना (śayanā) /ˈʃɐ.jɐ.nɑː/; Griego σεντόνι (sentóni) /senˈdo.ni/; Árabe شرشف (shirshāf) /ʃirˈʃɑːf/",
+              "corpus": "forjado por motor de síntesis v1.4.1 (short mode, expansión herramientas)"
+            },
+            "transformacion": [],
+            "derivaciones": []
+          },
+          {
+            "kalfirvach": "kutsu",
+            "concepto": "balde: recipiente para transportar líquidos",
+            "pos": "noun",
+            "ipa": "/ˈkut.su/",
+            "origen": {
+              "lengua": "Sánscrito / Griego / Árabe",
+              "raiz_original": "Sánscrito कलश (kalaśa) /ˈkɐ.lɐ.ɕɐ/; Griego κουβάς (kouvás) /kuˈvɑs/; Árabe سطل (saṭl) /sɑtˤl/",
+              "corpus": "forjado por motor de síntesis v1.4.1 (short mode, expansión herramientas)"
+            },
+            "transformacion": [],
+            "derivaciones": []
+          },
+          {
+            "kalfirvach": "dirni",
+            "concepto": "linterna: fuente de luz portátil",
+            "pos": "noun",
+            "ipa": "/ˈdir.ni/",
+            "origen": {
+              "lengua": "Sánscrito / Griego / Árabe",
+              "raiz_original": "Sánscrito प्रदीप (pradīpa) /prɐˈdiː.pɐ/; Griego φανάρι (fanári) /fɑˈnɑ.ri/; Árabe مصباح (miṣbāḥ) /misˤˈbɑːħ/",
+              "corpus": "forjado por motor de síntesis v1.4.1 (short mode, expansión herramientas)"
+            },
+            "transformacion": [],
+            "derivaciones": []
+          },
+          {
+            "kalfirvach": "sehme",
+            "concepto": "vela: cilindro de cera con mecha para iluminar",
+            "pos": "noun",
+            "ipa": "/ˈseh.me/",
+            "origen": {
+              "lengua": "Sánscrito / Griego / Árabe",
+              "raiz_original": "Sánscrito मस्त (masta) /ˈmɐs.tɐ/; Griego κερί (kerí) /keˈri/; Árabe شمعة (sham'a) /ˈʃɑm.ʕɑ/",
+              "corpus": "forjado por motor de síntesis v1.4.1 (short mode, expansión herramientas)"
+            },
+            "transformacion": [],
+            "derivaciones": []
+          },
+          {
+            "kalfirvach": "menep",
+            "concepto": "espejo: superficie reflectante para ver el reflejo",
+            "pos": "noun",
+            "ipa": "/ˈme.nep/",
+            "origen": {
+              "lengua": "Sánscrito / Griego / Árabe",
+              "raiz_original": "Sánscrito दर्पण (darpaṇa) /ˈdɐr.pɐ.ɳɐ/; Griego καθρέφτης (kathréftis) /kɑˈθre.ftis/; Árabe مرآة (mir'āh) /mirˈʔɑː/",
+              "corpus": "forjado por motor de síntesis v1.4.1 (short mode, expansión herramientas)"
+            },
+            "transformacion": [],
+            "derivaciones": []
+          }
+        ]
       }
     }
   }
 };
+
+// v1.5
