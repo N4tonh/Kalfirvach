@@ -3,7 +3,7 @@ const LEXICON_DATA =
   "kalfirvach_lexicon_v1.5": {
     "metadata": {
       "version": "1.5",
-      "total_entries": 1943,
+      "total_entries": 1981,
       "date_generated": "2026-06-20",
       "languages": [
         "Griego",
@@ -19,9 +19,9 @@ const LEXICON_DATA =
       "date_updated": "2026-06-21",
       "ipa_coverage": "100%",
       "schema_version": "v1.1",
-      "total_categorias": 24,
+      "total_categorias": 41,
       "normalized": true,
-      "total_entradas": 1943
+      "total_entradas": 1981
     },
     "categorias": {
       "pronombres_y_deicticos": {
@@ -14917,6 +14917,357 @@ const LEXICON_DATA =
               "Fusión fonotáctica: mithl + čun + ltar + mmēin → milrich"
             ],
             "derivaciones": []
+          },
+          {
+            "kalfirvach": "kar",
+            "concepto": "porque (causal)",
+            "pos": "conjunction",
+            "ipa": "/kar/",
+            "origen": {
+              "lengua": "Griego Koiné / Sánscrito Védico",
+              "raiz_original": "khárin 'por causa de' / kāraṇa 'causa, razón'",
+              "corpus": ""
+            },
+            "transformacion": [],
+            "derivaciones": []
+          },
+          {
+            "kalfirvach": "ti",
+            "concepto": "que (complementizante)",
+            "pos": "conjunction",
+            "ipa": "/ti/",
+            "origen": {
+              "lengua": "Sánscrito Védico / Griego Koiné",
+              "raiz_original": "iti 'así' (marca de cita) / hóti 'que' → reducción -ti",
+              "corpus": ""
+            },
+            "transformacion": [],
+            "derivaciones": []
+          },
+          {
+            "kalfirvach": "tu",
+            "concepto": "pero (contraste)",
+            "pos": "conjunction",
+            "ipa": "/tu/",
+            "origen": {
+              "lengua": "Sánscrito Védico / Árabe esotérico",
+              "raiz_original": "tu 'pero, ciertamente' / thumma 'luego, además (contraste)'",
+              "corpus": ""
+            },
+            "transformacion": [],
+            "derivaciones": []
+          },
+          {
+            "kalfirvach": "omos",
+            "concepto": "sin embargo (contraste fuerte)",
+            "pos": "conjunction",
+            "ipa": "/ˈo.mos/",
+            "origen": {
+              "lengua": "Griego Koiné / Persa Avéstico",
+              "raiz_original": "ómos 'sin embargo, no obstante' / ammā 'pero, sin embargo'",
+              "corpus": ""
+            },
+            "transformacion": [],
+            "derivaciones": []
+          },
+          {
+            "kalfirvach": "dosvot",
+            "concepto": "no obstante (concesivo)",
+            "pos": "conjunction",
+            "ipa": "/ˈdos.vot/",
+            "origen": {
+              "lengua": "Griego Koiné / Persa Avéstico",
+              "raiz_original": "ostóso 'no obstante' / bâ vojude 'a pesar de'",
+              "corpus": ""
+            },
+            "transformacion": [],
+            "derivaciones": []
+          },
+          {
+            "kalfirvach": "káf",
+            "concepto": "bastante, suficiente (adverbio de grado)",
+            "pos": "adverb",
+            "ipa": "/kaf/",
+            "origen": {
+              "lengua": "Árabe esotérico / Persa Avéstico",
+              "raiz_original": "kāf 'suficiente' / kāfī 'suficiente, bastante'",
+              "corpus": ""
+            },
+            "transformacion": [],
+            "derivaciones": []
+          },
+          {
+            "kalfirvach": "washam",
+            "concepto": "ojalá (desiderativo)",
+            "pos": "adverb",
+            "ipa": "/ˈwa.ʃam/",
+            "origen": {
+              "lengua": "Copto / Tibetano Clásico",
+              "raiz_original": "ouōshe 'desear' / smon 'plegaria, anhelo'",
+              "corpus": ""
+            },
+            "transformacion": [],
+            "derivaciones": []
+          },
+          {
+            "kalfirvach": "pēntah",
+            "concepto": "seguramente (certeza atenuada)",
+            "pos": "adverb",
+            "ipa": "/ˈpeːn.tah/",
+            "origen": {
+              "lengua": "Copto / Tibetano Clásico",
+              "raiz_original": "hēte 'ciertamente' / nges par 'ciertamente, seguramente'",
+              "corpus": ""
+            },
+            "transformacion": [],
+            "derivaciones": []
+          },
+          {
+            "kalfirvach": "shémkis",
+            "concepto": "probablemente (probabilidad)",
+            "pos": "adverb",
+            "ipa": "/ˈʃem.kis/",
+            "origen": {
+              "lengua": "Copto / Tibetano Clásico",
+              "raiz_original": "mešak 'quizás' / srid 'posible, quizás'",
+              "corpus": ""
+            },
+            "transformacion": [],
+            "derivaciones": []
+          },
+          {
+            "kalfirvach": "mēti",
+            "concepto": "acaso (dubitativo interrogativo)",
+            "pos": "adverb",
+            "ipa": "/ˈmeː.ti/",
+            "origen": {
+              "lengua": "Copto / Tibetano Clásico",
+              "raiz_original": "mē '¿acaso?' / ci shes 'quizás, acaso'",
+              "corpus": ""
+            },
+            "transformacion": [],
+            "derivaciones": []
+          },
+          {
+            "kalfirvach": "nēkap",
+            "concepto": "necesariamente (necesidad epistémica)",
+            "pos": "adverb",
+            "ipa": "/ˈneː.kap/",
+            "origen": {
+              "lengua": "Copto / Tibetano Clásico",
+              "raiz_original": "anankē 'necesidad' / dgos 'deber, necesidad'",
+              "corpus": ""
+            },
+            "transformacion": [],
+            "derivaciones": []
+          },
+          {
+            "kalfirvach": "fanitma",
+            "concepto": "solo, únicamente (restrictivo)",
+            "pos": "particle",
+            "ipa": "/faˈnit.ma/",
+            "origen": {
+              "lengua": "Griego Koiné / Copto",
+              "raiz_original": "phaínō 'mostrar' + Copto tm 'no, sin'",
+              "corpus": ""
+            },
+            "transformacion": [],
+            "derivaciones": []
+          },
+          {
+            "kalfirvach": "foghotim",
+            "concepto": "sobre todo (preferencial)",
+            "pos": "particle",
+            "ipa": "/foˈɣo.tim/",
+            "origen": {
+              "lengua": "Griego Koiné / Copto",
+              "raiz_original": "phōgē 'énfasis' + Copto tēr 'todo'",
+              "corpus": ""
+            },
+            "transformacion": [],
+            "derivaciones": []
+          },
+          {
+            "kalfirvach": "nitfipi",
+            "concepto": "ni siquiera (negativo escalar)",
+            "pos": "particle",
+            "ipa": "/nitˈfi.pi/",
+            "origen": {
+              "lengua": "Griego Koiné / Copto",
+              "raiz_original": "oudé 'ni siquiera' + Copto pi 'el'",
+              "corpus": ""
+            },
+            "transformacion": [],
+            "derivaciones": []
+          },
+          {
+            "kalfirvach": "pamanto",
+            "concepto": "también (aditivo)",
+            "pos": "particle",
+            "ipa": "/paˈman.to/",
+            "origen": {
+              "lengua": "Griego Koiné / Sánscrito Védico",
+              "raiz_original": "pān 'todo' + anta 'junto, fin'",
+              "corpus": ""
+            },
+            "transformacion": [],
+            "derivaciones": []
+          },
+          {
+            "kalfirvach": "patanom",
+            "concepto": "al menos (mínimo)",
+            "pos": "particle",
+            "ipa": "/paˈta.nom/",
+            "origen": {
+              "lengua": "Griego Koiné / Sánscrito Védico",
+              "raiz_original": "pantōs 'al menos, de todos modos' + nāma 'ciertamente'",
+              "corpus": ""
+            },
+            "transformacion": [],
+            "derivaciones": []
+          },
+          {
+            "kalfirvach": "pinafit",
+            "concepto": "incluso (escalar)",
+            "pos": "particle",
+            "ipa": "/piˈna.fit/",
+            "origen": {
+              "lengua": "Griego Koiné / Copto",
+              "raiz_original": "pín 'mucho, fuerte' + Copto afit 'elevar'",
+              "corpus": ""
+            },
+            "transformacion": [],
+            "derivaciones": []
+          },
+          {
+            "kalfirvach": "hamnis",
+            "concepto": "ambos (both)",
+            "pos": "particle",
+            "ipa": "/ˈham.nis/",
+            "origen": {
+              "lengua": "Egipcio / Copto",
+              "raiz_original": "Egipcio tm 'todo' + Copto snau 'dos'",
+              "corpus": ""
+            },
+            "transformacion": [],
+            "derivaciones": []
+          },
+          {
+            "kalfirvach": "namsah",
+            "concepto": "muchos (many)",
+            "pos": "particle",
+            "ipa": "/ˈnam.sah/",
+            "origen": {
+              "lengua": "Copto / Egipcio",
+              "raiz_original": "Copto nim 'cada' + Egipcio aša 'muchos'",
+              "corpus": ""
+            },
+            "transformacion": [],
+            "derivaciones": []
+          },
+          {
+            "kalfirvach": "samwih",
+            "concepto": "varios (several)",
+            "pos": "particle",
+            "ipa": "/ˈsam.wih/",
+            "origen": {
+              "lengua": "Egipcio / Copto",
+              "raiz_original": "Egipcio tm 'todo' + Copto ouēr '¿cuántos?'",
+              "corpus": ""
+            },
+            "transformacion": [],
+            "derivaciones": []
+          },
+          {
+            "kalfirvach": "santah",
+            "concepto": "pocos (few)",
+            "pos": "particle",
+            "ipa": "/ˈsan.tah/",
+            "origen": {
+              "lengua": "Copto / Egipcio",
+              "raiz_original": "Copto snau 'dos' + Egipcio hah 'muchos' (aprox)",
+              "corpus": ""
+            },
+            "transformacion": [],
+            "derivaciones": []
+          },
+          {
+            "kalfirvach": "shansami",
+            "concepto": "cada (each, every)",
+            "pos": "particle",
+            "ipa": "/ʃanˈsa.mi/",
+            "origen": {
+              "lengua": "Egipcio / Copto",
+              "raiz_original": "Egipcio aša 'muchos' + Copto nim 'cada'",
+              "corpus": ""
+            },
+            "transformacion": [],
+            "derivaciones": []
+          },
+          {
+            "kalfirvach": "tamsah",
+            "concepto": "suficiente (enough)",
+            "pos": "particle",
+            "ipa": "/ˈtam.sah/",
+            "origen": {
+              "lengua": "Egipcio / Copto",
+              "raiz_original": "Egipcio tm 'completo' + Copto sō 'bastante'",
+              "corpus": ""
+            },
+            "transformacion": [],
+            "derivaciones": []
+          },
+          {
+            "kalfirvach": "wamsat",
+            "concepto": "demasiado (too many/much)",
+            "pos": "particle",
+            "ipa": "/ˈwam.sat/",
+            "origen": {
+              "lengua": "Egipcio / Copto",
+              "raiz_original": "Egipcio tm 'todo' + Copto sō 'bastante' (exceso)",
+              "corpus": ""
+            },
+            "transformacion": [],
+            "derivaciones": []
+          },
+          {
+            "kalfirvach": "kham",
+            "concepto": "mutuamente, entre sí (recíproco colectivo)",
+            "pos": "adverb",
+            "ipa": "/kham/",
+            "origen": {
+              "lengua": "Sánscrito Védico / Persa Avéstico",
+              "raiz_original": "saha 'junto, con' / ham 'junto, mutuamente'",
+              "corpus": ""
+            },
+            "transformacion": [],
+            "derivaciones": []
+          },
+          {
+            "kalfirvach": "any-anya",
+            "concepto": "uno a otro (recíproco distributivo)",
+            "pos": "adverb",
+            "ipa": "/ˈa.ɲa ˈa.ɲa/",
+            "origen": {
+              "lengua": "Sánscrito Védico / Persa Avéstico",
+              "raiz_original": "anya 'otro' + anya 'otro' (redup) / ānyā 'otro'",
+              "corpus": ""
+            },
+            "transformacion": [],
+            "derivaciones": []
+          },
+          {
+            "kalfirvach": "ho",
+            "concepto": "marcador de tópico o sujeto",
+            "pos": "particle",
+            "ipa": "/ho/",
+            "origen": {
+              "lengua": "Griego Koiné / Árabe esotérico",
+              "raiz_original": "ho 'el' (art. def., marca de sujeto) / huwa 'él' (pronombre tópico)",
+              "corpus": ""
+            },
+            "transformacion": [],
+            "derivaciones": []
           }
         ]
       },
@@ -15610,3208 +15961,6 @@ const LEXICON_DATA =
             },
             "transformacion": [
               "/zir/→/zir/ directo"
-            ],
-            "derivaciones": []
-          }
-        ]
-      },
-      "magia_y_mitologia": {
-        "descripcion": "Terminos esotericos, magicos y mitologicos originales",
-        "entradas": [
-          {
-            "kalfirvach": "ainōr",
-            "concepto": "Espejo del Mundo",
-            "pos": "noun",
-            "ipa": "/ajˈnoːr/",
-            "origen": {
-              "lengua": "Árabe esotérico / Griego Koiné / Copto",
-              "raiz_original": "عَيْن (ʿayn) \"ojo, espejo\" (Ar) / κάτοπτρον (katoptron) \"espejo\" (Gr) / ⲉⲓⲁⲗ (eial) \"espejo\" (Cop)",
-              "corpus": "Ilm al-Huruf (Ar); PGM (Gr); Coptic Dictionary Online, KELLIA (Cop)"
-            },
-            "transformacion": [
-              "/aj/ del Ar عَيْن, /nōr/ del Gr κάτοπτρον (elisión /kat/ + /opt/ → /ō/) + Cop ⲉⲓⲁⲗ (coda /r/ del blend)"
-            ],
-            "derivaciones": []
-          },
-          {
-            "kalfirvach": "aitēf",
-            "concepto": "plano etérico / energía vital",
-            "pos": "noun",
-            "ipa": "/ajˈtef/",
-            "origen": {
-              "lengua": "Griego Koiné / Copto / Egipcio Demótico",
-              "raiz_original": "αἰθήρ (aithēr) \"éter, soplo divino\" (Gr) / ⲧⲏⲩ (tēu) \"viento, espíritu\" (Cop) / ḫpš (khepesh) \"fuerza vital\" (Dem)",
-              "corpus": "PGM (Gr); Coptic Dictionary Online, KELLIA (Cop); Textos mágicos demóticos (Dem)"
-            },
-            "transformacion": [
-              "/aj/ del Gr αἰθήρ, /tē/ del Cop ⲧⲏⲩ /tew/, /f/ del Dem ḫpš (coda /f/ por adaptación de /pš/)"
-            ],
-            "derivaciones": []
-          },
-          {
-            "kalfirvach": "bomnat",
-            "concepto": "altar (mesa o piedra de ofrenda)",
-            "pos": "noun",
-            "ipa": "/ˈbom.nat/",
-            "origen": {
-              "lengua": "Griego Koiné / Egipcio Demótico",
-              "raiz_original": "βωμός bōmós \"altar, plataforma\" (Gr) / ḥw.t-nṯr \"mesa-de-dios, altar\" (Eg)",
-              "corpus": "Homero (Gr); Textos funerarios egipcios (Eg)"
-            },
-            "transformacion": [
-              "/bom/ de βωμός /boː.mos/ → /bom/ (Gr)",
-              "/nat/ blend de βωμός /mos/ → /m/ (Gr) + ḥw.t-nṯr → /nɛtʃɛr/ → /nat/ (Eg)"
-            ],
-            "derivaciones": [
-              "altara-ka (altar-este)",
-              "altara-shá (altar-santuario)"
-            ],
-            "notas": "F5 v1.2. Centro espacial del rito."
-          },
-          {
-            "kalfirvach": "anrak",
-            "concepto": "desterrar (verbo ritual)",
-            "pos": "verb",
-            "ipa": "/ˈan.rak/",
-            "origen": {
-              "lengua": "Sánscrito Védico / Griego Koiné / Egipcio Demótico",
-              "raiz_original": "अप apa 'alejarse, partir' (Skt) / ἀνά ana 'arriba, lejos' (Gr) / nṯr-ḫꜥ 'dios-retroceder' (Eg)",
-              "corpus": "Atharva Veda; PGM VII; Texto de los Sarcófagos spell 163"
-            },
-            "transformacion": [
-              "/p/→/n/ (asimilación en contacto con nasal siguiente)"
-            ],
-            "derivaciones": [
-              "an-rak-a (desterrado)",
-              "an-rak-ka (destierro-este)"
-            ],
-            "notas": "F5 v1.2. Expulsar entidad; uso con actitudinal `-rak` (F3) es la forma completa."
-          },
-          {
-            "kalfirvach": "apnof",
-            "concepto": "inconsciente",
-            "pos": "noun",
-            "ipa": "/apˈnof/",
-            "origen": {
-              "lengua": "Griego Koiné / Persa Avéstico / Copto Sahídico",
-              "raiz_original": "ὕπνος hypnos \"sueño, dormir\" (Gr) / 𐬓𐬀𐬟𐬥𐬀 xᵛafna \"sueño, ensueño\" (Av) / ϩⲱⲃⲥ hōbs \"cubrir, ocultar, olvido\" (Cop)",
-              "corpus": "Homero, Il. XIV (Gr); Gathas Yasna 30 (Av); Coptic Dictionary Online KELLIA (Cop)"
-            },
-            "transformacion": [
-              "/ap/ de ὕπνος hypnos (apertura vocálica /y/→/a/)",
-              "/n/ de xᵛafna /xʷafna/ → /na/ (raíz escandida)",
-              "/of/ de ϩⲱⲃⲥ hōbs (devoicing /b/→/f/, elisión /s/)"
-            ],
-            "derivaciones": [
-              "apnof-ta (inconsciencia)",
-              "apnof-ka (inconsciente, adj.)"
-            ]
-          },
-          {
-            "kalfirvach": "astasi",
-            "concepto": "plano astral / emociones",
-            "pos": "noun",
-            "ipa": "/ˈas.ta.si/",
-            "origen": {
-              "lengua": "Griego Koiné / Persa Avéstico / Copto",
-              "raiz_original": "ἄστρον (astron) \"astro, estrella\" (Gr) / ستاره (setāre) \"estrella\" (Av) / ⲥⲓⲟⲩ (siou) \"estrella\" (Cop)",
-              "corpus": "Ptolomeo (Gr); Poesía persa (Av); Coptic Dictionary Online, KELLIA (Cop)"
-            },
-            "transformacion": [
-              "/as/ del Gr ἄστρον, /ta/ del Av ستاره, /si/ del Cop ⲥⲓⲟⲩ (elisión /ou/)"
-            ],
-            "derivaciones": []
-          },
-          {
-            "kalfirvach": "atma",
-            "concepto": "plano espiritual / átmico",
-            "pos": "noun",
-            "ipa": "/ˈat.ma/",
-            "origen": {
-              "lengua": "Sánscrito Védico / Griego Koiné",
-              "raiz_original": "Sánscrito आत्मन् (ātman) \"sí mismo, espíritu, alma, esencia\" + Griego ἀτμός (atmós) \"vapor, aliento, espíritu\" (de la misma raíz IE *h₂eh₁tmó- \"aliento, alma\") + Egipcio bꜣ (ba) \"alma, espíritu manifestado\" → atma. 3 lenguas. El plano de la unidad, el espíritu puro, lo incondicionado. El Śiva que todo lo contiene.",
-              "corpus": ""
-            },
-            "transformacion": [
-              "/ātman/->/atma/ (pérdida de /ā/ y /n/ final)",
-              "/atmós/->/atma/ (convergencia IE)",
-              "/bꜣ/->/a/ (vocálica inicial ve reforzada)"
-            ],
-            "derivaciones": [
-              "atma-ka = espiritual, átmico",
-              "atma-ta = espiritualidad, esencia divina"
-            ]
-          },
-          {
-            "kalfirvach": "atyar",
-            "concepto": "Templo Interior",
-            "pos": "noun",
-            "ipa": "/ˈat.jar/",
-            "origen": {
-              "lengua": "Griego Koiné / Sánscrito Védico / Copto",
-              "raiz_original": "ἄδυτον (adyton) \"santuario interior\" (Gr) / अन्तरिन् (antarin) \"interior\" (Skt) / ϩⲓⲉⲣⲟⲛ (hieron) \"templo, santuario\" (Cop)",
-              "corpus": "Pausanias, PGM (Gr); Upaniṣad (Skt); Coptic Dictionary Online, KELLIA (Cop)"
-            },
-            "transformacion": [
-              "/at/ del Gr ἄδυτον, /yar/ del Skt अन्तरिन् + Cop ϩⲓⲉⲣⲟⲛ (fusión /antarin/ + /hieron/ → /jar/)"
-            ],
-            "derivaciones": []
-          },
-          {
-            "kalfirvach": "athama",
-            "concepto": "athame, daga ritual",
-            "pos": "noun",
-            "ipa": "/ˈa.θa.ma/",
-            "origen": {
-              "lengua": "Griego Koiné / Egipcio Demótico",
-              "raiz_original": "ἄθαμος áthamos 'inmortal' (Gr) / חרב herev 'espada, daga' (Heb) / pꜣ-ḏꜣ 'daga' (Eg)",
-              "corpus": "PGM IV 1234; Mandaean Scrolls; Texto demótico mágico BM 10554"
-            },
-            "transformacion": [
-              "/θ/ adaptada de /t/ griega (esp. koiné tardía)"
-            ],
-            "derivaciones": [
-              "athama-tár (portador-de-daga)"
-            ],
-            "notas": "F5 v1.2. Daga de doble filo; NO es arma, usada en consagración y destierro."
-          },
-          {
-            "kalfirvach": "ashrem",
-            "concepto": "verdad/orden cósmico",
-            "pos": "noun",
-            "ipa": "/aʃˈrem/",
-            "origen": {
-              "lengua": "Avéstico / Sánscrito Védico / Copto Sahídico",
-              "raiz_original": "aṣ̌a \"verdad, orden cósmico\" (Av) / ऋत ṛta \"orden cósmico, verdad\" (Skt) / ⲙⲉ me \"verdad\" (Cop)",
-              "corpus": "Gathas (Av); Ṛg Veda (Skt); Coptic Dictionary Online KELLIA (Cop)"
-            },
-            "transformacion": [
-              "/aʃ/ de aṣ̌a preservado",
-              "/rem/ blend de ṛta /rta/ → /rem/ + ⲙⲉ /me/ como coda labial"
-            ],
-            "derivaciones": [
-              "ashrem-ta (orden)",
-              "ashrem-ka (verdadero)"
-            ]
-          },
-          {
-            "kalfirvach": "aynōn",
-            "concepto": "espejo",
-            "pos": "noun",
-            "ipa": "/ajˈnoːn/",
-            "origen": {
-              "lengua": "Árabe esotérico / Copto / Griego Koiné",
-              "raiz_original": "عَيْن (ʕayn) \"ojo, espejo\" (Ar) / ⲉⲓⲁⲗ (eial) \"espejo\" (Cop) / κάτοπτρον (katoptron) \"espejo\" (Gr)",
-              "corpus": "Ilm al-Huruf (Ar); Coptic Dictionary Online, KELLIA (Cop); PGM (Gr)"
-            },
-            "transformacion": [
-              "/aj/ del Ar عَيْن, /n/ del Cop ⲉⲓⲁⲗ /eial/ → /n/ coda del blend, /ōn/ del Gr κάτοπτρον (elisión /opt/ → /ōn/)"
-            ],
-            "derivaciones": []
-          },
-          {
-            "kalfirvach": "bafsī",
-            "concepto": "espiento/aliado",
-            "pos": "noun",
-            "ipa": "/bafˈsiː/",
-            "origen": {
-              "lengua": "Egipcio Demótico / Avéstico / Griego Koiné",
-              "raiz_original": "bꜣ \"espíritu, manifestación\" (Dem) / 𐬟𐬭𐬀𐬎𐬎𐬀𐬴𐬌 fravaṣ̌i \"espíritu guardián\" (Av) / ψυχή psychē \"alma\" (Gr)",
-              "corpus": "Textos de sarcófagos (Dem); Avesta, Gathas (Av); Platón, PGM (Gr)"
-            },
-            "transformacion": [
-              "/baf/ blend de bꜣ /ba/ + /f/ de fravaṣ̌i",
-              "/sī/ de ψυχή psychē → /siː/ preservando cantidad vocálica"
-            ],
-            "derivaciones": [
-              "bafsī-ta (aspecto móvil del ba)",
-              "bafsī-wan (portador de ba)"
-            ]
-          },
-          {
-            "kalfirvach": "barsōsh",
-            "concepto": "barrera/istmo",
-            "pos": "noun",
-            "ipa": "/barˈsoːʃ/",
-            "origen": {
-              "lengua": "Árabe esotérico / Copto / Griego Koiné",
-              "raiz_original": "بَرْزَخ (barzakh) \"barrera, istmo\" (Ar) / ϣⲓ (ši) \"límite, área\" (Cop) / μεθόριον (methorion) \"frontera\" (Gr)",
-              "corpus": "Ibn Arabi (Ar); Coptic Dictionary Online, KELLIA (Cop); Polibio, Estrabón (Gr)"
-            },
-            "transformacion": [
-              "/bar/ del Ar بَرْزَخ, /sō/ del Gr μεθόριον (vocalización /o/ + alargamiento), /sh/ del Cop ϣⲓ (coda /ʃ/ del blend)"
-            ],
-            "derivaciones": []
-          },
-          {
-            "kalfirvach": "bewīs",
-            "concepto": "sellar (cerrar portal) - verbo ritual v1.2",
-            "pos": "verb",
-            "ipa": "/ˈbe.wiːs/",
-            "origen": {
-              "lengua": "Tibetano Clásico / Sánscrito Védico / Persa Avéstico",
-              "raiz_original": "དཀྱིལ་ (dkyil) / हु (hu) / yasna adorar",
-              "corpus": ""
-            },
-            "transformacion": [
-              "Fusión ritual Tibetano Clásico + Sánscrito Védico + Persa Avéstico"
-            ],
-            "derivaciones": []
-          },
-          {
-            "kalfirvach": "binwī",
-            "concepto": "proteger (poner resguardo) - verbo ritual v1.2",
-            "pos": "verb",
-            "ipa": "/ˈbi.nwiː/",
-            "origen": {
-              "lengua": "Tibetano Clásico / Griego Koiné / Árabe esotérico",
-              "raiz_original": "སྔགས་ (sngags) / τελε- (tele-) / رقى (rqy)",
-              "corpus": ""
-            },
-            "transformacion": [
-              "Fusión ritual Tibetano Clásico + Griego Koiné + Árabe Esotérico"
-            ],
-            "derivaciones": []
-          },
-          {
-            "kalfirvach": "tarper",
-            "concepto": "punto central/esencia",
-            "pos": "noun",
-            "ipa": "/tarˈper/",
-            "origen": {
-              "lengua": "Copto Sahídico / Griego Koiné",
-              "raiz_original": "ⲧⲁⲣ tar \"punta, punto, rama\" (Cop) / σπέρμα sperma \"semilla, esencia germinal\" (Gr)",
-              "corpus": "Coptic Dictionary Online KELLIA (Cop); Aristóteles, Gen. An. (Gr)"
-            },
-            "transformacion": [
-              "/tar/ de ⲧⲁⲣ preservado",
-              "/per/ de σπέρμα sperma → /sperma/ → /per/ (elisión de /s/ y /ma/)"
-            ],
-            "derivaciones": []
-          },
-          {
-            "kalfirvach": "bomkaš",
-            "concepto": "Altar primordial",
-            "pos": "noun",
-            "ipa": "/bomˈkaʃ/",
-            "origen": {
-              "lengua": "Griego Koiné / Árabe esotérico / Copto",
-              "raiz_original": "βωμός (bōmos) \"altar\" (Gr) / قربان (qurbān) \"ofrenda, altar\" (Ar) / ϣⲏⲩⲉ (šēue) \"altar\" (Cop)",
-              "corpus": "Homero (Gr); Corán, sufismo (Ar); Coptic Dictionary Online, KELLIA (Cop)"
-            },
-            "transformacion": [
-              "/bom/ del Gr βωμός, /ka/ del Ar قربان (q→k, elisión /rban/), /š/ del Cop ϣⲏⲩⲉ (coda /ʃ/ del blend)"
-            ],
-            "derivaciones": []
-          },
-          {
-            "kalfirvach": "bunous",
-            "concepto": "plano mental superior / búdico",
-            "pos": "noun",
-            "ipa": "/buˈnows/",
-            "origen": {
-              "lengua": "Sánscrito Védico / Griego Koiné / Tibetano Clásico",
-              "raiz_original": "बुद्धि (buddhi) \"intuición, sabiduría directa\" (Skt) / νοῦς (nous) \"mente, intelecto\" (Gr) / སངས་རྒྱས (sangs.rgyas) \"Buda, iluminado\" (Tib)",
-              "corpus": "Yoga Sūtra, Buddhacarita (Skt); PGM, Corpus Hermeticum (Gr); Kunjed Gyalpo (Tib)"
-            },
-            "transformacion": [
-              "/bu/ del Skt बुद्धि, /nous/ del Gr νοῦς (diptongo /ou/ + coda /s/), con refuerzo semántico del Tib སངས་རྒྱས"
-            ],
-            "derivaciones": []
-          },
-          {
-            "kalfirvach": "darmut",
-            "concepto": "Puerta Sellada",
-            "pos": "noun",
-            "ipa": "/ˈdar.mut/",
-            "origen": {
-              "lengua": "Persa Avéstico / Árabe esotérico",
-              "raiz_original": "Persa در (dar) \"puerta, entrada\" + Árabe ختم (khatm) \"sello, sellar, cierre\" + Egipcio ḏd (dyed) \"permanencia, estabilidad\" → darmud (fusión: dar + khatm -> dar-mud, con /kh/->/m/ por asimilación, cierre sellado). 3 lenguas. El acceso restringido a conocimiento iniciático; la puerta que solo se abre cuando el buscador está listo.",
-              "corpus": ""
-            },
-            "transformacion": [
-              "/dar/->/dar/ (persa preservado)",
-              "/khatm/->/mud/ (consonantismo preservado: /kh/->/m/)",
-              "/ḏd/->/mud/ (refuerzo semántico de permanencia)"
-            ],
-            "derivaciones": []
-          },
-          {
-            "kalfirvach": "darpo",
-            "concepto": "umbral/portal",
-            "pos": "noun",
-            "ipa": "/ˈdar.po/",
-            "origen": {
-              "lengua": "Persa Avéstico / Griego Koiné / Copto Sahídico",
-              "raiz_original": "dar \"puerta, portal\" (Av) / πύλη pylē \"puerta, portal\" (Gr) / ⲣⲟ ro \"puerta, entrada\" (Cop)",
-              "corpus": "Avesta (Av); PGM (Gr); Coptic Dictionary Online KELLIA (Cop)"
-            },
-            "transformacion": [
-              "/dar/ de dar preservado",
-              "/po/ blend de πύλη /pylē/ → /p/ + ⲣⲟ /ro/ → /po/"
-            ],
-            "derivaciones": [
-              "darpo-shá (umbral sagrado)",
-              "darpo-ník (llave/abridor)"
-            ]
-          },
-          {
-            "kalfirvach": "dayanso",
-            "concepto": "conciencia interior",
-            "pos": "noun",
-            "ipa": "/daˈjan.so/",
-            "origen": {
-              "lengua": "Persa Avéstico / Sánscrito Védico / Copto Sahídico",
-              "raiz_original": "daēnā \"conciencia interior, visión espiritual\" (Av) / ध्यान dhyāna \"meditación, insight\" (Skt) / ⲥⲟⲟⲩⲛ sooun \"conocimiento, sabiduría\" (Cop)",
-              "corpus": "Gathas (Av); Upaniṣads (Skt); Coptic Dictionary Online KELLIA (Cop)"
-            },
-            "transformacion": [
-              "/da/ de daēnā preservado",
-              "/jan/ de ध्यान dhyāna (onset /dʰj/ → /j/)",
-              "/so/ de ⲥⲟⲟⲩⲛ sooun → sufijo de sabiduría"
-            ],
-            "derivaciones": [
-              "dayanso-ta (conciencia moral)",
-              "dayanso-shá (santuario interior)"
-            ]
-          },
-          {
-            "kalfirvach": "dikmit",
-            "concepto": "iniciación",
-            "pos": "noun",
-            "ipa": "/dikˈmit/",
-            "origen": {
-              "lengua": "Sánscrito Védico / Griego Koiné / Árabe esotérico",
-              "raiz_original": "दीक्षा dīkṣā \"iniciación, consagración\" (Skt) / μύησις myēsis \"iniciación, rito de paso\" (Gr) / تلقي talqīn \"iniciación, enseñanza esotérica\" (Ar)",
-              "corpus": "Śatapatha Brāhmaṇa (Skt); PGM IV (Gr); Sufismo, Ibn Arabi (Ar)"
-            },
-            "transformacion": [
-              "/dik/ de दीक्षा dīkṣā (onset preservado)",
-              "/mit/ blend de μύησις /myːsis/ → /mi/ + تلقي talqīn → /t/ (coda dental por devoicing)"
-            ],
-            "derivaciones": []
-          },
-          {
-            "kalfirvach": "druma",
-            "concepto": "Árbol del Mundo",
-            "pos": "noun",
-            "ipa": "/ˈdru.ma/",
-            "origen": {
-              "lengua": "Griego Koiné / Egipcio Demótico",
-              "raiz_original": "Griego δρῦς (drŷs) \"árbol, roble, madera\" (IE *deru-) + Sánscrito द्रुम (druma) \"árbol, árbol grande\" + Egipcio imꜣ (ima) \"árbol, sicomoro sagrado\" → druma (convergencia indoeuropea + egipcia). 3 lenguas. El árbol cósmico que conecta los 7 planos: raíces en la tierra, copa en el cielo.",
-              "corpus": ""
-            },
-            "transformacion": [
-              "/drŷs/->/dru-/ (raíz IE)",
-              "/druma/->/druma/ (sánscrito preservado)",
-              "/imꜣ/->/ma/ (sufijo)"
-            ],
-            "derivaciones": [
-              "druma-ta = cosmología del Árbol"
-            ]
-          },
-          {
-            "kalfirvach": "dze",
-            "concepto": "purificar ritual (limpiar energético) - verbo ritual v1.2",
-            "pos": "verb",
-            "ipa": "/ˈʣe/",
-            "origen": {
-              "lengua": "Árabe esotérico / Griego Koiné / Egipcio Demótico",
-              "raiz_original": "عزيمة (Ꜥzymh) / μαν- (man-) / sḫm invocar",
-              "corpus": ""
-            },
-            "transformacion": [
-              "Fusión ritual Árabe Esotérico + Griego Koiné + Egipcio Demótico"
-            ],
-            "derivaciones": []
-          },
-          {
-            "kalfirvach": "firsano",
-            "concepto": "fuego intelectual",
-            "pos": "noun",
-            "ipa": "/ˈfir.sa.no/",
-            "origen": {
-              "lengua": "Persa Avéstico / Copto Sahídico / Griego Clásico",
-              "raiz_original": "ātaxsh \"fuego\" → fír (Av, con reducción /xsh/→/r/) / ⲥⲁⲧⲉ sate \"fuego\" (Cop) / νοῦς nous \"mente, intelecto\" (Gr)",
-              "corpus": "Yasht 8 (Av); Coptic Dictionary Online KELLIA (Cop); Aristóteles, De Anima (Gr)"
-            },
-            "transformacion": [
-              "/fir/ de ātaxsh (fuego intelectual)",
-              "/sa/ de ⲥⲁⲧⲉ sate",
-              "/no/ de νοῦς nous → sufijo intelectivo"
-            ],
-            "derivaciones": [
-              "firsano-ka (ígneo)",
-              "firsano-ník (instrumento ígneo)",
-              "su-firsano (fuego excelso)"
-            ]
-          },
-          {
-            "kalfirvach": "garbēb",
-            "concepto": "Cueva del Renacimiento",
-            "pos": "noun",
-            "ipa": "/ɡarˈbeːb/",
-            "origen": {
-              "lengua": "Sánscrito Védico / Griego Koiné / Copto",
-              "raiz_original": "गर्भ (garbha) \"vientre, matriz, caverna\" (Skt) / σπήλαιον (spēlaion) \"cueva, caverna\" (Gr) / ⲃⲏⲃ (bēb) \"cueva\" (Cop)",
-              "corpus": "Upaniṣad, Garbha Upaniṣad (Skt); PGM (Gr); Coptic Dictionary Online, KELLIA (Cop)"
-            },
-            "transformacion": [
-              "/gar/ del Skt गर्भ, /bēb/ del Cop ⲃⲏⲃ (vocal larga /eː/ preservada), con refuerzo del Gr σπήλαιον (sp→f→b)"
-            ],
-            "derivaciones": []
-          },
-          {
-            "kalfirvach": "gesira",
-            "concepto": "Puente de los Planos",
-            "pos": "noun",
-            "ipa": "/ˈge.si.ra/",
-            "origen": {
-              "lengua": "Árabe esotérico / Persa Avéstico",
-              "raiz_original": "Árabe جسر (jisr) \"puente\" + Persa پل (pol) \"puente\" + Griego γέφυρα (géphyra) \"puente\" → gesira (fusión: jisr + géphyra -> gesira, con /j/->/g/ y /phy/->/s/). 3 lenguas. La conexión consciente que el mago tiende entre el mundo físico y los planos superiores.",
-              "corpus": ""
-            },
-            "transformacion": [
-              "/jisr/->/ge-/ (inicial, /j/->/g/)",
-              "/géphyra/->/sira/ (reducción)"
-            ],
-            "derivaciones": []
-          },
-          {
-            "kalfirvach": "getisō",
-            "concepto": "material/físico",
-            "pos": "noun",
-            "ipa": "/ˈge.ti.soː/",
-            "origen": {
-              "lengua": "Persa Avéstico / Griego Koiné / Copto Sahídico",
-              "raiz_original": "gētig \"material, físico, mundano\" (Av) / φύσις physis \"naturaleza, físico\" (Gr) / ⲥⲱⲙⲁ sōma \"cuerpo, materia\" (Cop)",
-              "corpus": "Bundahishn (Av); Aristóteles, Física (Gr); Coptic Dictionary Online KELLIA (Cop)"
-            },
-            "transformacion": [
-              "/ge/ de gētig preservado",
-              "/ti/ de φύσις physis (onset /f/→/t/ por adaptación)",
-              "/sō/ de ⲥⲱⲙⲁ sōma → sufijo corporal"
-            ],
-            "derivaciones": [
-              "getisō-ta (materialidad)",
-              "getisō-ka (físico)"
-            ]
-          },
-          {
-            "kalfirvach": "gnosūn",
-            "concepto": "gnosis/conocimiento directo",
-            "pos": "noun",
-            "ipa": "/gnoˈsuːn/",
-            "origen": {
-              "lengua": "Griego Koiné / Copto Sahídico",
-              "raiz_original": "γνῶσις gnōsis \"conocimiento, gnosis\" (Gr) / ⲥⲟⲟⲩⲛ sooun \"conocimiento, saber\" (Cop)",
-              "corpus": "PGM IV; Corpus Hermeticum (Gr); Coptic Dictionary Online KELLIA (Cop)"
-            },
-            "transformacion": [
-              "/gno/ de γνῶσις gnōsis (onset preservado)",
-              "/sūn/ de ⲥⲟⲟⲩⲛ sooun → /soːwn/ → /suːn/ (vocal larga preservada)"
-            ],
-            "derivaciones": []
-          },
-          {
-            "kalfirvach": "guršah",
-            "concepto": "maestro/guía",
-            "pos": "noun",
-            "ipa": "/gurˈʃah/",
-            "origen": {
-              "lengua": "Sánscrito Védico / Árabe esotérico / Copto Sahídico",
-              "raiz_original": "गुरु guru \"maestro, guía espiritual\" (Skt) / مرشد murshid \"guía, maestro espiritual\" (Ar) / ⲥⲁϩ sah \"maestro, escriba, sabio\" (Cop)",
-              "corpus": "Upaniṣads (Skt); Sufismo, Ibn Arabi (Ar); Coptic Dictionary Online KELLIA (Cop)"
-            },
-            "transformacion": [
-              "/gur/ de गुरु guru (coda /r/ preservada)",
-              "/šah/ blend de مرشد /mur.ʃid/ → /ʃ/ + ⲥⲁϩ /sah/ → /ah/ → /ʃah/"
-            ],
-            "derivaciones": []
-          },
-          {
-            "kalfirvach": "ghul",
-            "concepto": "sellar (cerrar ritual)",
-            "pos": "verb",
-            "ipa": "/ˈɣul/",
-            "origen": {
-              "lengua": "Tibetano Clásico / Persa Avéstico / Árabe esotérico",
-              "raiz_original": "(raíz Tibetano) / (raíz Persa) / (raíz Árabe)",
-              "corpus": ""
-            },
-            "transformacion": [
-              "fusión fonética multiscriptural"
-            ],
-            "derivaciones": []
-          },
-          {
-            "kalfirvach": "ghēl",
-            "concepto": "exorcizar (expulsar entidad) - verbo ritual v1.2",
-            "pos": "verb",
-            "ipa": "/ˈɣeːl/",
-            "origen": {
-              "lengua": "Egipcio Demótico / Sánscrito Védico / Griego Koiné",
-              "raiz_original": "wꜢḥ ofrendar / हु (hu) / τελε- (tele-)",
-              "corpus": ""
-            },
-            "transformacion": [
-              "Fusión ritual Egipcio Demótico + Sánscrito Védico + Griego Koiné"
-            ],
-            "derivaciones": []
-          },
-          {
-            "kalfirvach": "heka",
-            "concepto": "magia, heka, poder mágico primordial",
-            "pos": "noun",
-            "ipa": "/ˈhe.ka/",
-            "origen": {
-              "lengua": "Egipcio Demótico / Copto / Griego Koiné",
-              "raiz_original": "ḥkꜢ heka 'magia, poder de la palabra' (Eg) / ϩⲏⲕⲁ hēka (Copto) / μαγεία mageia 'magia' (Gr, préstamo cultural)",
-              "corpus": "Textos pirámide §261; Papiro Mágico Demótico Leiden I.384; PGM IV"
-            },
-            "transformacion": [],
-            "derivaciones": []
-          },
-          {
-            "kalfirvach": "hisopa",
-            "concepto": "hisopo (aspergillum)",
-            "pos": "noun",
-            "ipa": "/ˈhi.so.pa/",
-            "origen": {
-              "lengua": "Griego Koiné / Egipcio Demótico",
-              "raiz_original": "ὕσσωπος hýssōpos 'hisopo' (Gr) / אזוב ezov 'hisopo' (Heb) / sꜣ-ḥtp 'ramita-de-ofrenda' (Eg)",
-              "corpus": "PGM IV; Levítico 14:4-6; Texto demótico mágico BM 10554"
-            },
-            "transformacion": [
-              "forma hibridada Gr+Heb"
-            ],
-            "derivaciones": [
-              "hisopa-ka (hisopo-este)"
-            ],
-            "notas": "F5 v1.2. Ramita para aspersión de agua bendita."
-          },
-          {
-            "kalfirvach": "hikmasōf",
-            "concepto": "sabiduría",
-            "pos": "noun",
-            "ipa": "/ˈhik.ma.soːf/",
-            "origen": {
-              "lengua": "Árabe esotérico / Griego Koiné / Sánscrito Védico",
-              "raiz_original": "حِكْمَة (ḥikma) \"sabiduría\" (Ar) / σοφία (sophia) \"sabiduría\" (Gr) / प्रज्ञा (prajñā) \"sabiduría superior\" (Skt)",
-              "corpus": "Corán, hadiz (Ar); Platón, Symp. (Gr); Prajñāpāramitā (Skt)"
-            },
-            "transformacion": [
-              "/hik/ de حِكْمَة (onset preservado)",
-              "/ma/ de σοφία + प्रज्ञा → coalescencia",
-              "/sōf/ blend de σοφία + प्रज्ञा /pradʒɲaː/ → /soːf/ con coda /f/"
-            ],
-            "derivaciones": []
-          },
-          {
-            "kalfirvach": "homsop",
-            "concepto": "ofrenda",
-            "pos": "noun",
-            "ipa": "/homˈsop/",
-            "origen": {
-              "lengua": "Sánscrito Védico / Griego Koiné / Copto Sahídico",
-              "raiz_original": "होम homa \"ofrenda, oblación\" (Skt) / θυσία thysia \"sacrificio, ofrenda\" (Gr) / ϣⲣⲡ šorp \"primicia, ofrenda inicial\" (Cop)",
-              "corpus": "Śrauta Sūtras (Skt); PGM (Gr); Coptic Dictionary Online KELLIA (Cop)"
-            },
-            "transformacion": [
-              "/hom/ de होम homa preservado",
-              "/sop/ blend de θυσία /θy.sia/ → /θy/→/si/→/s/ + ϣⲣⲡ /ʃorp/ → /op/"
-            ],
-            "derivaciones": []
-          },
-          {
-            "kalfirvach": "ilū",
-            "concepto": "purificar (limpiar ritual)",
-            "pos": "verb",
-            "ipa": "/ˈi.luː/",
-            "origen": {
-              "lengua": "Sánscrito Védico / Árabe esotérico / Griego Koiné",
-              "raiz_original": "(raíz Sánscrito) / (raíz Árabe) / (raíz Griego)",
-              "corpus": ""
-            },
-            "transformacion": [
-              "fusión fonética multiscriptural"
-            ],
-            "derivaciones": []
-          },
-          {
-            "kalfirvach": "senthym",
-            "concepto": "incensario (recipiente para quemar incienso)",
-            "pos": "noun",
-            "ipa": "/ˈsen.tʰim/",
-            "origen": {
-              "lengua": "Griego Koiné / Egipcio Demótico",
-              "raiz_original": "θυμιάω thymiaō \"quemar incienso\" (Gr) / snṯr \"incienso\" (Eg)",
-              "corpus": "Heródoto (Gr); Ritual egipcio (Eg)"
-            },
-            "transformacion": [
-              "/sen/ de snṯr /sɛ.nɛtʃɛr/ → /sɛn/ → /sen/ (Eg)",
-              "/thym/ de θυμιάω /tʰy.mi.a.oː/ → /tʰym/ (Gr)"
-            ],
-            "derivaciones": [
-              "incensa-ka (incensario-este)"
-            ],
-            "notas": "F5 v1.2. Recipiente para quemar incienso; uso en apertura ritual."
-          },
-          {
-            "kalfirvach": "ichfo",
-            "concepto": "consagrar (dedicar a divinidad) - verbo ritual v1.2",
-            "pos": "verb",
-            "ipa": "/ˈitʃ.fo/",
-            "origen": {
-              "lengua": "Sánscrito Védico / Griego Koiné / Persa Avéstico",
-              "raiz_original": "हु (hu) / θεσ- (thes-) / maga don",
-              "corpus": ""
-            },
-            "transformacion": [
-              "Fusión ritual Sánscrito Védico + Griego Koiné + Persa Avéstico"
-            ],
-            "derivaciones": []
-          },
-          {
-            "kalfirvach": "kalika",
-            "concepto": "cáliz (recipiente ritual)",
-            "pos": "noun",
-            "ipa": "/ˈka.li.ka/",
-            "origen": {
-              "lengua": "Griego Koiné / Egipcio Demótico",
-              "raiz_original": "καλύξ kalyx \"cáliz, envoltura floral\" (Gr) / qꜣ-ḥ \"recipiente\" (Eg)",
-              "corpus": "Apuleyo, Met. XI; PGM IV; Textos pirámide §262"
-            },
-            "transformacion": [
-              "/x/→/k/ (regular KFA)"
-            ],
-            "derivaciones": [
-              "kalika-ka (cáliz-este: copa-ofrecida)"
-            ],
-            "notas": "F5 v1.2. Copa ritual para libaciones; asociada al elemento agua."
-          },
-          {
-            "kalfirvach": "karan",
-            "concepto": "cargar (objeto con energía ritual)",
-            "pos": "verb",
-            "ipa": "/ˈka.ran/",
-            "origen": {
-              "lengua": "Sánscrito Védico / Griego Koiné / Egipcio Demótico",
-              "raiz_original": "करण karaṇa 'instrumento, medio' (Skt) / κραίνω krainō 'cumplir, realizar' (Gr) / iri-nṯr 'hacer-dios' (Eg)",
-              "corpus": "Tantras Trika; PGM VII; Texto de la Duat spell 125"
-            },
-            "transformacion": [
-              "/k/ mantenido de Skt/Gr; apócope del sufijo -a para evitar colisión con `karana` (plano causal, v1.0 existente)"
-            ],
-            "derivaciones": [
-              "karan-a (cargado-con-energía)"
-            ],
-            "notas": "F5 v1.2. Imbuir un objeto con fuerza ritual; op. de qadesh. Forma `karan` (sin -a final) distingue del `karana` existente (plano causal/alma superior, v1.0 noun); misma raíz Skt karaṇa pero adaptada a KFA sin la vocal final para evitar homonimia cross-categorial."
-          },
-          {
-            "kalfirvach": "karasi",
-            "concepto": "plano causal / alma superior",
-            "pos": "noun",
-            "ipa": "/ˈka.ra.si/",
-            "origen": {
-              "lengua": "Sánscrito Védico / Árabe esotérico / Griego Koiné",
-              "raiz_original": "कारण (kāraṇa) \"causa, principio causal\" (Skt) / سَبَب (sabab) \"causa, motivo\" (Ar) / αἰτία (aitia) \"causa, razón\" (Gr)",
-              "corpus": "Sāṅkhya Kārikā (Skt); Filosofía islámica (Ar); Aristóteles, PGM (Gr)"
-            },
-            "transformacion": [
-              "/ka/ del Skt कारण, /ra/ del Ar سَبَب, /si/ del Gr αἰτία (inflexión /ti/ → /si/)"
-            ],
-            "derivaciones": []
-          },
-          {
-            "kalfirvach": "kavhīpar",
-            "concepto": "protección/escudo",
-            "pos": "noun",
-            "ipa": "/kavˈhiː.par/",
-            "origen": {
-              "lengua": "Sánscrito Védico / Árabe esotérico / Persa",
-              "raiz_original": "कवच kavaca \"armadura, protección, escudo\" (Skt) / حماية himāya \"protección, amparo\" (Ar) / سپر separ \"escudo, protección\" (Pers)",
-              "corpus": "Atharva Veda (Skt); Corán, hadiz (Ar); Shāh-Nāmeh (Pers)"
-            },
-            "transformacion": [
-              "/kav/ de कवच kavaca (raíz escandida)",
-              "/hī/ de حماية himāya → /hi.maː.ja/ → /hiː/ (vocal larga preservada)",
-              "/par/ de سپر separ (coda /r/ preservada)"
-            ],
-            "derivaciones": []
-          },
-          {
-            "kalfirvach": "kavōn",
-            "concepto": "alma/centro vital",
-            "pos": "noun",
-            "ipa": "/kaˈvoːn/",
-            "origen": {
-              "lengua": "Egipcio Demótico / Avéstico / Copto Sahídico",
-              "raiz_original": "kꜣ \"fuerza vital, ka\" (Dem) / 𐬎𐬭𐬎𐬬𐬀𐬥 urvan \"alma\" (Av) / ⲱⲛϧ ōnx \"vida\" (Cop)",
-              "corpus": "Textos funerarios, PGM (Dem); Avesta, Gathas (Av); Coptic Dictionary Online KELLIA (Cop)"
-            },
-            "transformacion": [
-              "/ka/ de kꜣ preservado",
-              "/vōn/ blend de urvan /urvan/ → /v/ + ōnx /oːnx/ → /ōn/ ōnx (ōnx)"
-            ],
-            "derivaciones": [
-              "kavōn-ta (vitalidad)",
-              "kavōn-shā (cámara vital del ka)"
-            ]
-          },
-          {
-            "kalfirvach": "kashmana",
-            "concepto": "templo/centro",
-            "pos": "noun",
-            "ipa": "/ˈkaʃ.ma.na/",
-            "origen": {
-              "lengua": "Persa Avéstico / Sánscrito Védico / Griego Clásico",
-              "raiz_original": "kashān/kāshāna \"templo, centro sagrado\" (Av) / मन्दिर mandira \"templo, morada\" (Skt) / ναός naos \"templo, santuario\" (Gr)",
-              "corpus": "Poesía sufí/esotérica (Av); Mahābhārata (Skt); Pausanias (Gr)"
-            },
-            "transformacion": [
-              "/kaʃ/ de kāshāna preservado",
-              "/ma/ de मन्दिर mandira (onset escandido)",
-              "/na/ de ναός naos → sufijo de templo"
-            ],
-            "derivaciones": [
-              "kashmana-shá (templo mayor)",
-              "kashmana-ník (arquitecto sagrado)"
-            ]
-          },
-          {
-            "kalfirvach": "kikluv",
-            "concepto": "Círculo de Unidad",
-            "pos": "noun",
-            "ipa": "/kiˈkluv/",
-            "origen": {
-              "lengua": "Griego Koiné / Sánscrito Védico / Copto",
-              "raiz_original": "κύκλος (kyklos) \"círculo\" (Gr) / एकत्व (ekatva) \"unidad\" (Skt) / ⲟⲩⲁ (oua) \"uno, unidad\" (Cop)",
-              "corpus": "PGM, Platón (Gr); Upaniṣad (Skt); Coptic Dictionary Online, KELLIA (Cop)"
-            },
-            "transformacion": [
-              "/ki/ del Gr κύκλος, /klu/ del Skt एकत्व (inflexión /tva/), /v/ del Cop ⲟⲩⲁ /wa/ (coda /v/)"
-            ],
-            "derivaciones": []
-          },
-          {
-            "kalfirvach": "khi",
-            "concepto": "romper hechizo (desencantar)",
-            "pos": "verb",
-            "ipa": "/ˈxi/",
-            "origen": {
-              "lengua": "Egipcio Demótico / Griego Koiné / Persa Avéstico",
-              "raiz_original": "(raíz Egipcio) / (raíz Griego) / (raíz Persa)",
-              "corpus": ""
-            },
-            "transformacion": [
-              "fusión fonética multiscriptural"
-            ],
-            "derivaciones": []
-          },
-          {
-            "kalfirvach": "khwadoxen",
-            "concepto": "gloria/luz divina",
-            "pos": "noun",
-            "ipa": "/xwaˈdok.sen/",
-            "origen": {
-              "lengua": "Persa Avéstico / Griego Clásico / Copto Sahídico",
-              "raiz_original": "xᵛarənah \"gloria, luz divina, fortuna\" (Av) / δόξα doxa \"gloria, reputación\" (Gr) / ⲟⲩⲟⲉⲓⲛ ouoein \"luz\" (Cop)",
-              "corpus": "Yashts, Gathas (Av); Septuaginta (Gr); Coptic Dictionary Online KELLIA (Cop)"
-            },
-            "transformacion": [
-              "/xwa/ de xᵛarənah preservado",
-              "/dok/ de δόξα doxa (onset preservado)",
-              "/sen/ de ⲟⲩⲟⲉⲓⲛ ouoein → /oein/→/en/ + s- epentético"
-            ],
-            "derivaciones": [
-              "khwadoxen-ta (gloria)",
-              "khwadoxen-ka (luminoso)"
-            ]
-          },
-          {
-            "kalfirvach": "lampa",
-            "concepto": "lamparilla, vela ritual",
-            "pos": "noun",
-            "ipa": "/ˈlam.pa/",
-            "origen": {
-              "lengua": "Griego Koiné / Egipcio Demótico",
-              "raiz_original": "λαμπάς lampas \"antorcha\" (Gr) / ḏꜣ-ḫꜣ \"llama-brillante\" (Eg)",
-              "corpus": "PGM IV; Apuleyo, Met. XI; Textos pirámide §262"
-            },
-            "transformacion": [
-              "adaptación directa CVCCV"
-            ],
-            "derivaciones": [
-              "lampa-ka (lamparilla-esta)",
-              "lampa-ník (lamparilla-instrumento: soporte ritual)"
-            ],
-            "notas": "F5 v1.2. Llama votiva mantenida durante el rito; no se apaga hasta el cierre."
-          },
-          {
-            "kalfirvach": "lapyara",
-            "concepto": "Laberinto / Espiral iniciática",
-            "pos": "noun",
-            "ipa": "/ˈla.pja.ra/",
-            "origen": {
-              "lengua": "Griego Koiné / Egipcio Demótico",
-              "raiz_original": "Griego λαβύρινθος (labýrinthos) \"laberinto, pasadizo sinuoso\" + Egipcio ḥry-ib (hery-ib) \"el que está en el medio, centro\" → labyra (fusión: labýrinthos -> labyr- + -a, con pérdida de /inthos/ y refuerzo semántico del centro egipcio). 2 lenguas. El camino sinuoso hacia el centro de uno mismo; la espiral iniciática.",
-              "corpus": ""
-            },
-            "transformacion": [
-              "/labýrinthos/->/labyr/ (raíz)",
-              "/ḥry-ib/->/a/ (final, concepto del centro)",
-              "§10.3 fix: labyra→lapyara (b→p, /pj/ onset §3.2)"
-            ],
-            "derivaciones": [
-              "labyra-ta = arte del laberinto, camino iniciático"
-            ]
-          },
-          {
-            "kalfirvach": "limu",
-            "concepto": "encantar (hechizar)",
-            "pos": "verb",
-            "ipa": "/ˈli.mu/",
-            "origen": {
-              "lengua": "Tibetano Clásico / Griego Koiné / Sánscrito Védico",
-              "raiz_original": "(raíz Tibetano) / (raíz Griego) / (raíz Sánscrito)",
-              "corpus": ""
-            },
-            "transformacion": [
-              "fusión fonética multiscriptural"
-            ],
-            "derivaciones": []
-          },
-          {
-            "kalfirvach": "manēv",
-            "concepto": "plano mental / pensamiento discursivo",
-            "pos": "noun",
-            "ipa": "/maˈneːv/",
-            "origen": {
-              "lengua": "Sánscrito Védico / Griego Koiné / Copto",
-              "raiz_original": "मनस् (manas) \"mente, intelecto\" (Skt) / νόος (noos) \"mente, pensamiento discursivo\" (Gr) / ⲙⲉⲉⲩⲉ (meeye) \"pensamiento, mente\" (Cop)",
-              "corpus": "Ṛgveda, Manusmṛti (Skt); PGM, Platón (Gr); Coptic Dictionary Online, KELLIA (Cop)"
-            },
-            "transformacion": [
-              "/ma/ del Skt मनस्, /nē/ del Cop ⲙⲉⲉⲩⲉ /meːwe/ (elisión /m/ + /we/ → /v/), /v/ del Gr νόος (coda /v/)"
-            ],
-            "derivaciones": []
-          },
-          {
-            "kalfirvach": "mayfam",
-            "concepto": "ilusión, apariencia, manifestación fenoménica",
-            "pos": "noun",
-            "ipa": "/majˈfam/",
-            "origen": {
-              "lengua": "Sánscrito Védico / Griego Koiné / Árabe esotérico",
-              "raiz_original": "माया māyā \"ilusión, apariencia, realidad fenoménica\" (Skt) / φάντασμα phantasma \"aparición, ilusión, fantasma\" (Gr) / وهم wahm \"ilusión, imaginación, fantasía\" (Ar)",
-              "corpus": "Ṛg Veda (Skt); Platón, Teeteto (Gr); Al-Ghazālī (Ar)"
-            },
-            "transformacion": [
-              "/maj/ de माया māyā (diptongo preservado)",
-              "/fam/ blend de φάντασμα /pʰantas.ma/ → /fa/ + وهم /wahm/ → /m/ → /fam/"
-            ],
-            "derivaciones": []
-          },
-          {
-            "kalfirvach": "mandiks",
-            "concepto": "palabra-poder",
-            "pos": "noun",
-            "ipa": "/manˈdiks/",
-            "origen": {
-              "lengua": "Sánscrito Védico / Árabe esotérico / Persa",
-              "raiz_original": "मन्त्र mantra \"palabra de poder, fórmula sagrada\" (Skt) / ذكر dhikr \"rememoración, recitación devocional\" (Ar) / سرود sorūd \"himno, canto sagrado\" (Pers)",
-              "corpus": "Ṛg Veda (Skt); Sufismo, Rūmī (Ar); Shāh-Nāmeh (Pers)"
-            },
-            "transformacion": [
-              "/man/ de मन्त्र mantra preservado",
-              "/diks/ blend de ذكر dhikr /ðikr/ → /dik/ + سرود sorūd /so.ruːd/ → /s/ (coda /ks/ fusionada)"
-            ],
-            "derivaciones": []
-          },
-          {
-            "kalfirvach": "mandārk",
-            "concepto": "círculo/mandala",
-            "pos": "noun",
-            "ipa": "/manˈdaːrk/",
-            "origen": {
-              "lengua": "Sánscrito Védico / Árabe esotérico / Griego Koiné",
-              "raiz_original": "मण्डल maṇḍala \"círculo, mandala, esfera\" (Skt) / دائرة dā'ira \"círculo, órbita\" (Ar) / κύκλος kyklos \"círculo, ciclo\" (Gr)",
-              "corpus": "Ṛg Veda (Skt); Ikhwān al-Ṣafā' (Ar); Platón, Timeo (Gr)"
-            },
-            "transformacion": [
-              "/man/ de मण्डल maṇḍala (raíz escandida)",
-              "/dārk/ blend de دائرة /daː.ʔi.ra/ → /daː/ + κύκλος /ky.klos/ → /rk/ (coda /rk/ permitida)"
-            ],
-            "derivaciones": []
-          },
-          {
-            "kalfirvach": "minmēn",
-            "concepto": "espíritu/mente sutil",
-            "pos": "noun",
-            "ipa": "/minˈmeːn/",
-            "origen": {
-              "lengua": "Persa Avéstico / Copto Sahídico / Sánscrito Védico",
-              "raiz_original": "mēnōg \"espíritu, mente sutil\" (Av) / ⲙⲉⲉⲩⲉ meeue \"pensar, pensamiento\" (Cop) / मनस् manas \"mente, intelecto\" (Skt)",
-              "corpus": "Bundahishn (Av); Coptic Dictionary Online KELLIA (Cop); Ṛg Veda (Skt)"
-            },
-            "transformacion": [
-              "/min/ de mēnōg (raíz escandida)",
-              "/mēn/ blend de ⲙⲉⲉⲩⲉ /meːwe/ → /meː/ + मनस् manas → /n/ coda"
-            ],
-            "derivaciones": [
-              "minmēn-ta (espiritualidad)",
-              "minmēn-ka (sutil)"
-            ]
-          },
-          {
-            "kalfirvach": "nemau",
-            "concepto": "memoria/registro",
-            "pos": "noun",
-            "ipa": "/neˈmaw/",
-            "origen": {
-              "lengua": "Griego Koiné / Copto Sahídico",
-              "raiz_original": "μνήμη mnēmē \"memoria, recuerdo, registro\" (Gr) / ⲙⲉⲉⲩⲉ meeue \"pensar, pensamiento, mente\" (Cop)",
-              "corpus": "Platón, Fedro (Gr); Coptic Dictionary Online KELLIA (Cop)"
-            },
-            "transformacion": [
-              "/ne/ de μνήμη mnēmē → /mne/→/ne/ (elisión de /m/ prenuclear)",
-              "/mau/ de ⲙⲉⲉⲩⲉ meeue /meːwe/ → /maw/ (diptongo /aw/)"
-            ],
-            "derivaciones": []
-          },
-          {
-            "kalfirvach": "mukfī",
-            "concepto": "desencantar (romper hechizo) - verbo ritual v1.2",
-            "pos": "verb",
-            "ipa": "/ˈmuk.fiː/",
-            "origen": {
-              "lengua": "Egipcio Demótico / Persa Avéstico / Árabe esotérico",
-              "raiz_original": "ḥkꜢ heka / zaotar invocar / سحر (sḥr)",
-              "corpus": ""
-            },
-            "transformacion": [
-              "Fusión ritual Egipcio Demótico + Persa Avéstico + Árabe Esotérico"
-            ],
-            "derivaciones": []
-          },
-          {
-            "kalfirvach": "tišpor",
-            "concepto": "arquetipo",
-            "pos": "noun",
-            "ipa": "/tiʃˈpor/",
-            "origen": {
-              "lengua": "Griego Koiné / Copto / Persa Avéstico",
-              "raiz_original": "τῦπος (typos) \"tipo, modelo\" (Gr) / ϣⲟⲣⲡ (šorp) \"primero, principio\" (Cop) / 𐬟𐬭𐬀𐬱𐬆 (fraša) \"ideal, prototipo\" (Av)",
-              "corpus": "Platón, PGM (Gr); Coptic Dictionary Online, KELLIA (Cop); Avesta, Gathas (Av)"
-            },
-            "transformacion": [
-              "/ti/ del Gr τῦπος, /š/ del Cop ϣⲟⲣⲡ (coda del blend), /por/ del Av 𐬟𐬭𐬀𐬱𐬆 /fraʃa/ (elisión /fra/ → /por/)"
-            ],
-            "derivaciones": []
-          },
-          {
-            "kalfirvach": "mutbem",
-            "concepto": "sello/marca",
-            "pos": "noun",
-            "ipa": "/mutˈbem/",
-            "origen": {
-              "lengua": "Sánscrito Védico / Copto Sahídico / Árabe esotérico",
-              "raiz_original": "मुद्रा mudrā \"sello, gesto ritual, marca\" (Skt) / ⲁⲓⲃⲉ aibe \"sello, estigma, marca\" (Cop) / ختم khatm \"sello, estampado, cierre\" (Ar)",
-              "corpus": "Tantras (Skt); Coptic Dictionary Online KELLIA (Cop); Alquimia árabe (Ar)"
-            },
-            "transformacion": [
-              "/mut/ de मुद्रा mudrā (devoicing /d/→/t/ en coda)",
-              "/bem/ blend de ⲁⲓⲃⲉ /ajbe/ → /be/ + ختم /xatm/ → /m/ (coda labial)"
-            ],
-            "derivaciones": []
-          },
-          {
-            "kalfirvach": "nafso",
-            "concepto": "sonido primordial",
-            "pos": "noun",
-            "ipa": "/ˈnaf.so/",
-            "origen": {
-              "lengua": "Sánscrito Védico / Griego Koiné / Copto Sahídico",
-              "raiz_original": "नाद nāda \"sonido primordial, vibración, tono\" (Skt) / φωνή phōnē \"voz, sonido, llamado\" (Gr) / ⲥⲙⲏ smē \"sonido, voz, rumor\" (Cop)",
-              "corpus": "Nāda Bindu Upaniṣad (Skt); Pitágoras, música de las esferas (Gr); Coptic Dictionary Online KELLIA (Cop)"
-            },
-            "transformacion": [
-              "/na/ de नाद nāda preservado",
-              "/f/ de φωνή phōnē /pʰoː.nɛː/ → /f/ (devoicing aspirado)",
-              "/so/ de ⲥⲙⲏ smē → /smeː/ → /so/ (apertura vocálica)"
-            ],
-            "derivaciones": []
-          },
-          {
-            "kalfirvach": "nuī",
-            "concepto": "exorcizar (expulsar demonio)",
-            "pos": "verb",
-            "ipa": "/ˈnu.iː/",
-            "origen": {
-              "lengua": "Sánscrito Védico / Tibetano Clásico / Persa Avéstico",
-              "raiz_original": "(raíz Sánscrito) / (raíz Tibetano) / (raíz Persa)",
-              "corpus": ""
-            },
-            "transformacion": [
-              "fusión fonética multiscriptural"
-            ],
-            "derivaciones": []
-          },
-          {
-            "kalfirvach": "onram",
-            "concepto": "nombre verdadero",
-            "pos": "noun",
-            "ipa": "/onˈram/",
-            "origen": {
-              "lengua": "Griego Koiné / Copto Sahídico / Árabe esotérico",
-              "raiz_original": "ὄνομα onoma \"nombre, denominación\" (Gr) / ⲣⲁⲛ ran \"nombre, apelativo\" (Cop) / اسم ism \"nombre, designación\" (Ar)",
-              "corpus": "Platón, Crátilo (Gr); Coptic Dictionary Online KELLIA (Cop); Corán (Ar)"
-            },
-            "transformacion": [
-              "/on/ de ὄνομα onoma (raíz escandida)",
-              "/ram/ blend de ⲣⲁⲛ /ran/ → /r/ + اسم /ism/ → /am/ → /ram/"
-            ],
-            "derivaciones": []
-          },
-          {
-            "kalfirvach": "opsnau",
-            "concepto": "visión/claridad",
-            "pos": "noun",
-            "ipa": "/opsˈnaw/",
-            "origen": {
-              "lengua": "Griego Koiné / Copto Sahídico",
-              "raiz_original": "ὄψις opsis \"visión, vista, apariencia\" (Gr) / ⲛⲁⲩ nau \"ver, visión, ojo\" (Cop)",
-              "corpus": "Platón, Teeteto (Gr); Coptic Dictionary Online KELLIA (Cop)"
-            },
-            "transformacion": [
-              "/ops/ de ὄψις opsis (coda /ps/ permitida)",
-              "/naw/ de ⲛⲁⲩ nau (diptongo /aw/ preservado)"
-            ],
-            "derivaciones": []
-          },
-          {
-            "kalfirvach": "pagana",
-            "concepto": "Fuente de la Memoria",
-            "pos": "noun",
-            "ipa": "/ˈpa.ga.na/",
-            "origen": {
-              "lengua": "Griego Koiné / Egipcio Demótico",
-              "raiz_original": "Griego πηγή (pēgḗ) \"fuente, manantial, surtidor\" + Egipcio mnw (menu) \"memoria, permanencia, monumento\" + Griego γνῶσις (gnôsis) \"conocimiento\" → pagana (fusión: pēgḗ + gnôsis -> pagana, con /ē/->/a/ y /gn/->/g/). 3 lenguas. El acceso a los registros akáshicos, la memoria del cosmos.",
-              "corpus": ""
-            },
-            "transformacion": [
-              "/pēgḗ/->/pa/ (raíz)",
-              "/gnôsis/->/ga/ (segunda)",
-              "/mnw/->/na/ (tercera)"
-            ],
-            "derivaciones": []
-          },
-          {
-            "kalfirvach": "paradesh",
-            "concepto": "Jardín de Contemplación",
-            "pos": "noun",
-            "ipa": "/ˈpa.ra.deʃ/",
-            "origen": {
-              "lengua": "Griego Koiné / Persa Avéstico",
-              "raiz_original": "Griego παράδεισος (parádeisos) \"jardín, paraíso, parque cerrado\" + Persa پردیس (pardis) \"jardín, paraíso\" + Árabe فكر (fikr) \"contemplación, meditación\" → paradesh (fusión: parádeisos + pardis -> paradesh, con /s/->/ʃ/ por influencia del árabe fikr). 3 lenguas. El espacio de paz mental, reflexión, integración.",
-              "corpus": ""
-            },
-            "transformacion": [
-              "/parádeisos/->/parades/ (raíz)",
-              "/pardis/->/parades/ (convergencia)"
-            ],
-            "derivaciones": []
-          },
-          {
-            "kalfirvach": "paraka",
-            "concepto": "purificar (verbo ritual)",
-            "pos": "verb",
-            "ipa": "/ˈpa.ra.ka/",
-            "origen": {
-              "lengua": "Griego Koiné / Egipcio Demótico",
-              "raiz_original": "καθαίρω kathairō \"purificar\" (Gr) / wꜥb \"puro, limpio\" (Eg)",
-              "corpus": "PGM IV; Liturgia cristiana primitiva; Textos pirámide §262"
-            },
-            "transformacion": [
-              "/ka/ inicial reconstruido por síncopa"
-            ],
-            "derivaciones": [
-              "paraka-a (purificado)"
-            ],
-            "notas": "F5 v1.2. Limpieza ritual (física y espiritual)."
-          },
-          {
-            "kalfirvach": "parbōs",
-            "concepto": "proyección",
-            "pos": "noun",
-            "ipa": "/parˈboːs/",
-            "origen": {
-              "lengua": "Sánscrito Védico / Griego Koiné / Árabe esotérico",
-              "raiz_original": "परिश्रम pariśrama \"proyección, esfuerzo, emanación\" (Skt) / προβολή probolē \"proyección, lanzamiento\" (Gr) / إسقاط isqāṭ \"proyección, caída\" (Ar)",
-              "corpus": "Yoga Sūtras (Skt); Plotino, Enn. (Gr); Alquimia árabe (Ar)"
-            },
-            "transformacion": [
-              "/par/ de परिश्रम pariśrama (raíz escandida)",
-              "/bōs/ blend de προβολή /pro.bo.lɛː/ → /bo/ + إسقاط /is.qaːtˁ/ → /s/ → /bōs/"
-            ],
-            "derivaciones": []
-          },
-          {
-            "kalfirvach": "pejlōn",
-            "concepto": "Velo / Umbral",
-            "pos": "noun",
-            "ipa": "/peʒˈloːn/",
-            "origen": {
-              "lengua": "Griego Koiné / Árabe esotérico / Copto",
-              "raiz_original": "πέπλος (péplos) \"velo, manto\" (Gr) / حِجَاب (ḥijāb) \"velo, barrera\" (Ar) / ⲟⲩⲏⲗⲟⲛ (ouēlon) \"velo, cortina\" (Cop)",
-              "corpus": "PGM (Gr); Sufismo, hurufismo (Ar); Coptic Dictionary Online, KELLIA (Cop)"
-            },
-            "transformacion": [
-              "/pe/ del Gr πέπλος, /ʒ/ del Ar حِجَاب /ḥijāb/ (coda del blend), /lōn/ del Cop ⲟⲩⲏⲗⲟⲛ /weːlon/ (elisión /we/)"
-            ],
-            "derivaciones": []
-          },
-          {
-            "kalfirvach": "pentaka",
-            "concepto": "pentáculo (disco de cinco puntas)",
-            "pos": "noun",
-            "ipa": "/ˈpen.ta.ka/",
-            "origen": {
-              "lengua": "Griego Koiné / Hebreo / Árabe esotérico",
-              "raiz_original": "πεντάγραμμον pentagrammon \"cinco líneas, pentagrama\" (Gr) / חוֹתָם jotam \"sello\" (Heb) / خُمَاسِيّ khumāsī \"pentagonal, de cinco\" (Ar /x/→/k/)",
-              "corpus": "Heródoto (Gr); Cábala (Heb); Ciencia islámica (Ar)"
-            },
-            "transformacion": [
-              "/pen/ de πεντάγραμμον /pen.ta.ɡram.mon/ → /pen/ (Gr)",
-              "/ta/ de πεντάγραμμον /ta/ (Gr)",
-              "/ka/ blend de πεντάγραμμον /ɡram.mon/ → /ɡ/ (Gr) + חוֹתָם /ħo.tam/ → /ħ/ (Heb) + خُمَاسِيّ /xu.maː.siː/ → /x/→/k/ (Ar)"
-            ],
-            "derivaciones": [
-              "pentaka-shá (pentáculo-locativo: altar-pentacular)"
-            ],
-            "notas": "F5 v1.2. Signo de la tierra + los cuatro elementos + éter."
-          },
-          {
-            "kalfirvach": "purmōl",
-            "concepto": "Torre de Vigilancia",
-            "pos": "noun",
-            "ipa": "/purˈmoːl/",
-            "origen": {
-              "lengua": "Griego Koiné / Copto / Árabe esotérico",
-              "raiz_original": "πύργος (pýrgos) \"torre\" (Gr) / ⲙⲉϭⲧⲱⲗ (mechtōl) \"torre, fortificación\" (Cop) / مَرْقَب (marqab) \"torre de vigilancia, atalaya\" (Ar)",
-              "corpus": "PGM (Gr); Coptic Dictionary Online, KELLIA (Cop); Textos geográficos árabes (Ar)"
-            },
-            "transformacion": [
-              "/pur/ del Gr πύργος, /mōl/ del Cop ⲙⲉϭⲧⲱⲗ /mekˈtoːl/ (elisión /mek/ + /toːl/ → /moːl/), con refuerzo del Ar مَرْقَب"
-            ],
-            "derivaciones": []
-          },
-          {
-            "kalfirvach": "rignōn",
-            "concepto": "conciencia",
-            "pos": "noun",
-            "ipa": "/rigˈnoːn/",
-            "origen": {
-              "lengua": "Tibetano Clásico / Griego Koiné / Sánscrito Védico",
-              "raiz_original": "rig pa \"conciencia, saber\" (Tib) / νοῦς (nous) \"mente, conciencia\" (Gr) / विज्ञान (vijñāna) \"conciencia discriminativa\" (Skt)",
-              "corpus": "Dzogchen (Tib); Plotino, Enn. (Gr); Yogācāra (Skt)"
-            },
-            "transformacion": [
-              "/rig/ de rig pa preservado",
-              "/nōn/ blend de νοῦς /nous/ → /noː/ + विज्ञान /vijɲaːna/ → /n/ coda"
-            ],
-            "derivaciones": []
-          },
-          {
-            "kalfirvach": "rupnej",
-            "concepto": "plano físico / mundo material",
-            "pos": "noun",
-            "ipa": "/rupˈnej/",
-            "origen": {
-              "lengua": "Sánscrito Védico / Copto / Griego Koiné",
-              "raiz_original": "रूप (rūpa) \"forma, apariencia\" (Skt) / ⲉⲓⲛⲉ (eine) \"forma, imagen\" (Cop) / εἶδος (eidos) \"forma, aspecto visible\" (Gr)",
-              "corpus": "Yoga Sūtra, Bṛhadāraṇyaka (Skt); Coptic Dictionary Online, KELLIA (Cop); Platón, PGM (Gr)"
-            },
-            "transformacion": [
-              "/rup/ del Skt रूप, /nej/ del Cop ⲉⲓⲛⲉ /ejne/ (fusión /ej/ + /ne/) y Gr εἶδος (/ej/ refuerza el diptongo)"
-            ],
-            "derivaciones": []
-          },
-          {
-            "kalfirvach": "samwak",
-            "concepto": "sincronicidad",
-            "pos": "noun",
-            "ipa": "/samˈwak/",
-            "origen": {
-              "lengua": "Sánscrito Védico / Árabe esotérico / Griego Koiné",
-              "raiz_original": "सम (sama) \"igual, semejante\" (Skt) / وَقْت (waqt) \"tiempo, momento\" (Ar) / λέξις (lexis) \"palabra, significado\" (Gr)",
-              "corpus": "Tantras (sāmya) (Skt); Filosofía islámica (Ar); PGM, estoicismo (Gr)"
-            },
-            "transformacion": [
-              "/sam/ del Skt सम /sama/, /wak/ del Ar وَقْت (q→k, pérdida de /t/), con refuerzo del Gr λέξις /lek/ → /k/"
-            ],
-            "derivaciones": []
-          },
-          {
-            "kalfirvach": "samnus",
-            "concepto": "Océano de Conciencia",
-            "pos": "noun",
-            "ipa": "/samˈnus/",
-            "origen": {
-              "lengua": "Sánscrito Védico / Árabe esotérico / Griego Koiné",
-              "raiz_original": "समुद्र samudra \"océano\" (Skt) / وجدان wijdān \"conciencia, éxtasis contemplativo\" (Ar) / νοῦς nous \"mente, intelecto\" (Gr)",
-              "corpus": "Ṛg Veda (Skt); Sufismo, Ibn Arabi (Ar); Platón, Plotino (Gr)"
-            },
-            "transformacion": [
-              "/sam/ de samudra (raíz preservada)",
-              "/n/ de wijdān (coda asimilada)",
-              "/us/ de νοῦς nous /nus/ → vocal temática + nasal coda"
-            ],
-            "derivaciones": []
-          },
-          {
-            "kalfirvach": "satpraš",
-            "concepto": "práctica espiritual, realización, sadhana",
-            "pos": "noun",
-            "ipa": "/satˈpraʃ/",
-            "origen": {
-              "lengua": "Sánscrito Védico / Griego Clásico / Avéstico",
-              "raiz_original": "साधन sādhana \"realización, práctica\" (Skt) / πρᾶξις praxis \"práctica, acción\" (Gr) / 𐬟𐬭𐬀𐬱𐬆 fraša \"ideal, prototipo\" (Av)",
-              "corpus": "Tantras Trika (Skt); Aristóteles, Estoicos (Gr); Avesta, Gathas (Av)"
-            },
-            "transformacion": [
-              "/sat/ de sādhana (raíz escandida)",
-              "/pra/ de πρᾶξις praxis (onset preservado)",
-              "/š/ de fraša /fraʃa/ → coda palatal"
-            ],
-            "derivaciones": []
-          },
-          {
-            "kalfirvach": "sapkād",
-            "concepto": "eco/resonancia",
-            "pos": "noun",
-            "ipa": "/sapˈkaːd/",
-            "origen": {
-              "lengua": "Sánscrito Védico / Griego Koiné / Árabe esotérico",
-              "raiz_original": "शब्द śabda \"sonido, palabra, eco\" (Skt) / ἠχώ ēkhō \"eco, sonido reflejado\" (Gr) / صدى ṣadā \"eco, resonancia\" (Ar)",
-              "corpus": "Nāda Bindu Upaniṣad (Skt); Hesíodo, Teogonía (Gr); Poesía mística árabe (Ar)"
-            },
-            "transformacion": [
-              "/sap/ de शब्द śabda (devoicing /b/→/p/ en coda)",
-              "/kād/ blend de ἠχώ /ɛː.xoː/ → /k/ (devoicing /x/) + صدى /sˤa.daː/ → /aːd/"
-            ],
-            "derivaciones": []
-          },
-          {
-            "kalfirvach": "sirmytun",
-            "concepto": "secreto/misterio",
-            "pos": "noun",
-            "ipa": "/ˈsir.my.tun/",
-            "origen": {
-              "lengua": "Árabe esotérico / Griego Koiné / Sánscrito Védico",
-              "raiz_original": "سِرّ (sirr) \"secreto\" (Ar) / μυστήριον (mystērion) \"misterio\" (Gr) / रहस्य (rahasyá) \"secreto, misterio\" (Skt)",
-              "corpus": "Sufismo (Ar); PGM (Gr); Upaniṣads (Skt)"
-            },
-            "transformacion": [
-              "/sir/ de سِرّ preservado",
-              "/my/ de μυστήριον (mystērion) preservado",
-              "/θun/ de μυστήριον /θerion/? → /θ/ + रहस्य /rahasya/ → /un/"
-            ],
-            "derivaciones": []
-          },
-          {
-            "kalfirvach": "liōd",
-            "concepto": "disolver (operación alquímica)",
-            "pos": "verb",
-            "ipa": "/ˈli.oːd/",
-            "origen": {
-              "lengua": "Griego Koiné / Egipcio Demótico",
-              "raiz_original": "λύω lyō \"desatar, disolver\" (Gr) / ḏd-mdw \"cortar-palabra, disolver\" (Eg)",
-              "corpus": "Alquimia alejandrina (Gr); Textos de Edfu (Eg)"
-            },
-            "transformacion": [
-              "/li/ de λύω /ly.oː/ → /ly/ → /li/ (Gr) + ḏd-mdw → /dʒɛd/ → /dʒ/→/tʃ/ → /li/ (Eg)",
-              "/ōd/ blend de λύω /oː/ (Gr) + ḏd-mdw → /mɛdu/ → /d/ (Eg)"
-            ],
-            "derivaciones": [
-              "solve-a (disuelto)"
-            ],
-            "notas": "F5 v1.2. Alquimia: separar componentes; op. de coagula."
-          },
-          {
-            "kalfirvach": "šakdom",
-            "concepto": "poder, fuerza, energía dinámica",
-            "pos": "noun",
-            "ipa": "/ʃakˈdom/",
-            "origen": {
-              "lengua": "Sánscrito Védico / Griego Koiné / Copto Sahídico",
-              "raiz_original": "शक्ति śakti \"poder, energía, fuerza\" (Skt) / δύναμις dynamis \"poder, fuerza, capacidad\" (Gr) / ϫⲟⲙ čom \"poder, fuerza, autoridad\" (Cop)",
-              "corpus": "Śvetāśvatara Upaniṣad (Skt); Aristóteles, Met. (Gr); Coptic Dictionary Online KELLIA (Cop)"
-            },
-            "transformacion": [
-              "/šak/ de शक्ति śakti (raíz escandida)",
-              "/dom/ blend de δύναμις /dy.namis/ → /dy/→/do/ + ϫⲟⲙ /tʃom/ → /m/ coda"
-            ],
-            "derivaciones": []
-          },
-          {
-            "kalfirvach": "shamkhak",
-            "concepto": "sombra/lo oculto",
-            "pos": "noun",
-            "ipa": "/ʃamˈxak/",
-            "origen": {
-              "lengua": "Griego Koiné / Copto Sahídico",
-              "raiz_original": "σκότος skotos \"oscuridad, tinieblas, sombra\" (Gr) / ⲭⲁⲕⲉ khake \"tinieblas, oscuridad, sombra\" (Cop)",
-              "corpus": "PGM (Gr); Coptic Dictionary Online KELLIA (Cop)"
-            },
-            "transformacion": [
-              "/ʃam/ de σκότος skotos → /skotos/ → /ʃam/ (palatalización de /sk/)",
-              "/khak/ de ⲭⲁⲕⲉ khake → /xa.ke/ → /xak/ (elisión de /e/ final)"
-            ],
-            "derivaciones": []
-          },
-          {
-            "kalfirvach": "shābol",
-            "concepto": "símbolo/signo",
-            "pos": "noun",
-            "ipa": "/ʃaːˈbol/",
-            "origen": {
-              "lengua": "Árabe esotérico / Griego Koiné / Copto",
-              "raiz_original": "شِعَار (shiʿār) \"emblema, símbolo\" (Ar) / σύμβολον (symbolon) \"símbolo\" (Gr) / ⲥⲩⲙⲃⲟⲗⲏ (symbole) \"símbolo\" (Cop)",
-              "corpus": "Hurufi texts (Ar); PGM (Gr); Coptic Dictionary Online, KELLIA (Cop)"
-            },
-            "transformacion": [
-              "/shā/ del Ar شِعَار (alargamiento vocálico compensatorio), /bol/ del Gr σύμβολον + Cop ⲥⲩⲙⲃⲟⲗⲏ (fusión /bol/)"
-            ],
-            "derivaciones": []
-          },
-          {
-            "kalfirvach": "shunaf",
-            "concepto": "vacío/potencial",
-            "pos": "noun",
-            "ipa": "/ʃuˈnaf/",
-            "origen": {
-              "lengua": "Sánscrito Védico / Griego Koiné / Árabe esotérico",
-              "raiz_original": "शून्य śūnya \"vacío, cero, potencial\" (Skt) / κενόν kenon \"vacío, vacuo\" (Gr) / فراغ farāgh \"vacío, espacio libre\" (Ar)",
-              "corpus": "Śūnyatā, Nāgārjuna (Skt); Demócrito, Leucipo (Gr); Sufismo, Al-Ghazālī (Ar)"
-            },
-            "transformacion": [
-              "/ʃu/ de शून्य śūnya (onset preservado)",
-              "/naf/ blend de κενόν /ke.non/ → /n/ + فراغ /fa.raːɣ/ → /af/ con fusión vocálica"
-            ],
-            "derivaciones": []
-          },
-          {
-            "kalfirvach": "tigbes",
-            "concepto": "gota/esencia",
-            "pos": "noun",
-            "ipa": "/tigˈbes/",
-            "origen": {
-              "lengua": "Tibetano Clásico / Sánscrito Védico / Griego Koiné",
-              "raiz_original": "thig le \"gota, esencia\" (Tib) / बिन्दु (bindu) \"gota, semilla, punto\" (Skt) / σπέρμα (sperma) \"semilla, esencia germinal\" (Gr)",
-              "corpus": "Tantras (Tib); Śiva Sūtras (Skt); Proclo (Gr)"
-            },
-            "transformacion": [
-              "/tig/ de thig le preservado",
-              "/besp/ blend de बिन्दु /bindu/ → /b/ + σπέρμα /sperma/ → /esp/ (con /s/ + /p/ como sílabas separadas)"
-            ],
-            "derivaciones": []
-          },
-          {
-            "kalfirvach": "kīton",
-            "concepto": "túnica ritual",
-            "pos": "noun",
-            "ipa": "/ˈkiː.ton/",
-            "origen": {
-              "lengua": "Griego Koiné / Egipcio Demótico",
-              "raiz_original": "χιτών khitōn \"vestidura, túnica\" (Gr) / mšꜥ \"vestido, tela\" (Eg)",
-              "corpus": "Heródoto (Gr); Vestimenta egipcia (Eg)"
-            },
-            "transformacion": [
-              "/kī/ de χιτών /kʰi.tɔːn/ → /kʰi/ → /kiː/ (Gr) + mšꜥ → /m/ (Eg)",
-              "/ton/ de χιτών /tɔːn/ (Gr)"
-            ],
-            "derivaciones": [
-              "tunika-shá (túnica-santuario: lugar-de-amamantamiento-ritual)"
-            ],
-            "notas": "F5 v1.2. Vestidura ceremonial; cubre el cuerpo durante el rito."
-          },
-          {
-            "kalfirvach": "turmer",
-            "concepto": "Montaña Cósmica / Eje del Mundo",
-            "pos": "noun",
-            "ipa": "/turˈmer/",
-            "origen": {
-              "lengua": "Persa Avéstico / Griego Koiné / Sánscrito Védico",
-              "raiz_original": "کوه kuh \"montaña\" + ستی seti \"alta, erguida\" (Pers) / κόσμος kosmos \"cosmos, orden\" (Gr) / मेरु meru \"montaña cósmica\" (Skt)",
-              "corpus": "Bundahišn (Pers); Platón, Timeo (Gr); Purāṇas (Skt)"
-            },
-            "transformacion": [
-              "/tur/ de kuh+seti+kosmos (fusión persa-griega preservada)",
-              "/mer/ de मेरु meru (raíz completa, montaña cósmica védica)"
-            ],
-            "derivaciones": []
-          },
-          {
-            "kalfirvach": "tēbe",
-            "concepto": "sacrificar (ofrendar a deidad) - verbo ritual v1.2",
-            "pos": "verb",
-            "ipa": "/ˈteː.be/",
-            "origen": {
-              "lengua": "Griego Koiné / Persa Avéstico / Egipcio Demótico",
-              "raiz_original": "μαγ- (mag-) / hauma sacrificio / ẖnm unir",
-              "corpus": ""
-            },
-            "transformacion": [
-              "Fusión ritual Griego Koiné + Persa Avéstico + Egipcio Demótico"
-            ],
-            "derivaciones": []
-          },
-          {
-            "kalfirvach": "thak",
-            "concepto": "encantar (aplicar hechizo) - verbo ritual v1.2",
-            "pos": "verb",
-            "ipa": "/ˈθak/",
-            "origen": {
-              "lengua": "Persa Avéstico / Tibetano Clásico / Egipcio Demótico",
-              "raiz_original": "ātarš fuego / བཟླས་ (bzlas) / ẖnm unir",
-              "corpus": ""
-            },
-            "transformacion": [
-              "Fusión ritual Persa Avéstico + Tibetano Clásico + Egipcio Demótico"
-            ],
-            "derivaciones": []
-          },
-          {
-            "kalfirvach": "theteš",
-            "concepto": "ritual",
-            "pos": "noun",
-            "ipa": "/θeˈteʃ/",
-            "origen": {
-              "lengua": "Egipcio Demótico / Griego Koiné / Copto Sahídico",
-              "raiz_original": "ḥtp \"ofrenda, ritual\" (Dem) / τελετή teletē \"rito iniciático\" (Gr) / ϣⲣⲡ šorp \"ofrenda, primicia\" (Cop)",
-              "corpus": "Textos de las Pirámides (Dem); PGM (Gr); Coptic Dictionary Online KELLIA (Cop)"
-            },
-            "transformacion": [
-              "/θe/ blend de ḥtp → /θen/ escandido + /te/ de τελετή",
-              "/teʃ/ = /te/ de τελετή + /š/ de ϣⲣⲡ como coda palatal"
-            ],
-            "derivaciones": [
-              "theteš-tár (ritualista)",
-              "theteš-shá (espacio ritual)"
-            ]
-          },
-          {
-            "kalfirvach": "rabdos",
-            "concepto": "varita (instrumento ritual)",
-            "pos": "noun",
-            "ipa": "/ˈrab.dos/",
-            "origen": {
-              "lengua": "Griego Koiné / Egipcio Demótico",
-              "raiz_original": "ῥάβδος rhabdos \"vara, bastón\" (Gr) / mꜣꜥ-ḫꜣ \"vara mágica\" (Eg)",
-              "corpus": "Homero (Gr); Textos mágicos egipcios (Eg)"
-            },
-            "transformacion": [
-              "/rab/ de ῥάβδος /r̥ab.dos/ → /rab/ (Gr) + mꜣꜥ-ḫꜣ → /m/ → /r/ (Eg)",
-              "/dos/ de ῥάβδος /dos/ (Gr)"
-            ],
-            "derivaciones": [
-              "virga-tár (portador-de-varita: mago operativo)"
-            ],
-            "notas": "F5 v1.2. Instrumento de proyección y trazado de círculos."
-          },
-          {
-            "kalfirvach": "višfam",
-            "concepto": "veneno/sabiduría",
-            "pos": "noun",
-            "ipa": "/wiʃˈfam/",
-            "origen": {
-              "lengua": "Sánscrito Védico / Griego Koiné / Árabe esotérico",
-              "raiz_original": "विष viṣa \"veneno\" (Skt) / φάρμακον pharmakon \"veneno, droga, remedio\" (Gr) / سمّ samm \"veneno, tósigo\" (Ar)",
-              "corpus": "Atharva Veda (Skt); Platón, Fedro (Gr); Alquimia árabe, Jabir (Ar)"
-            },
-            "transformacion": [
-              "/wiʃ/ de विष viṣa (preservado)",
-              "/f/ de φάρμακον pharmakon /pʰarmakon/ → /f/ (devoicing aspirado)",
-              "/am/ de سمّ samm → /samm/ → /am/ (elisión de /s/)"
-            ],
-            "derivaciones": []
-          },
-          {
-            "kalfirvach": "wīli",
-            "concepto": "sacrificar (ofrendar)",
-            "pos": "verb",
-            "ipa": "/ˈwiː.li/",
-            "origen": {
-              "lengua": "Griego Koiné / Egipcio Demótico / Tibetano Clásico",
-              "raiz_original": "(raíz Griego) / (raíz Egipcio) / (raíz Tibetano)",
-              "corpus": ""
-            },
-            "transformacion": [
-              "fusión fonética multiscriptural"
-            ],
-            "derivaciones": []
-          },
-          {
-            "kalfirvach": "yozev",
-            "concepto": "unión, integración, yoga",
-            "pos": "noun",
-            "ipa": "/joˈzev/",
-            "origen": {
-              "lengua": "Sánscrito Védico / Griego Koiné / Persa",
-              "raiz_original": "योग yoga \"unión, integración, yoga\" (Skt) / ζεῦξις zeuxis \"unión, conexión, yugo\" (Gr) / پیوست peyvast \"unión, conexión, enlace\" (Pers)",
-              "corpus": "Yoga Sūtras (Skt); Platón, Fedro (Gr); Rūmī, Masnavī (Pers)"
-            },
-            "transformacion": [
-              "/jo/ de योग yoga preservado",
-              "/zev/ blend de ζεῦξις /dzeu.ksis/ → /ze/ (deafricación /dz/→/z/) + پیوست /pey.vast/ → /v/ en coda"
-            ],
-            "derivaciones": []
-          },
-          {
-            "kalfirvach": "yohet",
-            "concepto": "integración",
-            "pos": "noun",
-            "ipa": "/joˈhet/",
-            "origen": {
-              "lengua": "Sánscrito Védico / Griego Koiné / Árabe esotérico",
-              "raiz_original": "योग yoga \"integración, unión\" (Skt) / ἕνωσις henōsis \"unificación, unidad mística\" (Gr) / اتحاد ittihād \"unión, unidad, fusión\" (Ar)",
-              "corpus": "Bhagavad Gītā (Skt); Plotino, Enn. (Gr); Ibn Arabī (Ar)"
-            },
-            "transformacion": [
-              "/jo/ de योग yoga preservado",
-              "/het/ blend de ἕνωσις /he.noː.sis/ → /he/ + اتحاد /it.ti.haːd/ → /t/ (coda dental)"
-            ],
-            "derivaciones": []
-          },
-          {
-            "kalfirvach": "zīdhū",
-            "concepto": "invocar (llamar entidad) - verbo ritual v1.2",
-            "pos": "verb",
-            "ipa": "/ˈziː.ðuː/",
-            "origen": {
-              "lengua": "Griego Koiné / Egipcio Demótico / Persa Avéstico",
-              "raiz_original": "δαιμον- (daimon-) / ḥkꜢ heka / ātarš fuego",
-              "corpus": ""
-            },
-            "transformacion": [
-              "Fusión ritual Griego Koiné + Egipcio Demótico + Persa Avéstico"
-            ],
-            "derivaciones": []
-          },
-          {
-            "kalfirvach": "qadesh",
-            "concepto": "consagrar (verbo ritual)",
-            "pos": "verb",
-            "ipa": "/ˈka.deʃ/",
-            "origen": {
-              "lengua": "Árabe esotérico / Hebreo",
-              "raiz_original": "קָדַשׁ qādash \"santificar, consagrar\" (Heb) / قَدَسَ qadasa \"santificar, consagrar\" (Ar)",
-              "corpus": "Sefer Yetzirah 4.3; Corán 2.30; tradición litúrgica cristiana"
-            },
-            "transformacion": [
-              "/q/→/q/ (oclusiva uvular KFA)"
-            ],
-            "derivaciones": [
-              "qadesh-ka (consagrar-este-objeto)",
-              "qadesh-a (consagrado)"
-            ],
-            "notas": "F5 v1.2. Hacer sagrado; ritual de dedicación de objeto o espacio."
-          },
-          {
-            "kalfirvach": "thélōš",
-            "concepto": "voluntad",
-            "pos": "noun",
-            "ipa": "/θeˈloːʃ/",
-            "origen": {
-              "lengua": "Griego Koiné / Copto Sahídico",
-              "raiz_original": "θέλημα thélēma \"voluntad, deseo, intención\" (Gr) / ⲟⲩⲱϣ ouōš \"desear, querer, voluntad\" (Cop)",
-              "corpus": "PGM (Gr); Coptic Dictionary Online KELLIA (Cop)"
-            },
-            "transformacion": [
-              "/θe/ de θέλημα thélēma (onset preservado)",
-              "/lōš/ blend de θέλημα /ˈtʰe.lɛː.ma/ → /lɛː/ + ⲟⲩⲱϣ /woːʃ/ → /oːʃ/ → /lōš/"
-            ],
-            "derivaciones": [],
-            "notas": "Núcleo central del sistema. Compatible con partículas performativas."
-          },
-          {
-            "kalfirvach": "chā",
-            "concepto": "proteger (amparar)",
-            "pos": "verb",
-            "ipa": "/ˈtʃaː/",
-            "origen": {
-              "lengua": "Egipcio Demótico / Persa Avéstico / Árabe esotérico",
-              "raiz_original": "(raíz Egipcio) / (raíz Persa) / (raíz Árabe)",
-              "corpus": ""
-            },
-            "transformacion": [
-              "fusión fonética multiscriptural"
-            ],
-            "derivaciones": []
-          },
-          {
-            "kalfirvach": "āmo",
-            "concepto": "adivinar (predecir futuro) - verbo ritual v1.2",
-            "pos": "verb",
-            "ipa": "/ˈaː.mo/",
-            "origen": {
-              "lengua": "Sánscrito Védico / Egipcio Demótico / Tibetano Clásico",
-              "raiz_original": "मन्त्र् (mantr) / ḥkꜢ heka / དཀྱིལ་ (dkyil)",
-              "corpus": ""
-            },
-            "transformacion": [
-              "Fusión ritual Sánscrito Védico + Egipcio Demótico + Tibetano Clásico"
-            ],
-            "derivaciones": []
-          },
-          {
-            "kalfirvach": "pēgnim",
-            "concepto": "coagular (operación alquímica)",
-            "pos": "verb",
-            "ipa": "/ˈpeːɡ.nim/",
-            "origen": {
-              "lengua": "Griego Koiné / Egipcio Demótico",
-              "raiz_original": "πήγνυμι pēgnymi \"fijar, cuajar\" (Gr) / smn \"fijar, establecer\" (Eg)",
-              "corpus": "Aristóteles (Gr); Papiros egipcios (Eg)"
-            },
-            "transformacion": [
-              "/pēg/ de πήγνυμι /pɛːɡ.ny.mi/ → /pɛːɡ/ (Gr) + smn → /s/ → /p/ (Eg)",
-              "/nim/ blend de πήγνυμι /ny.mi/ → /nim/ (Gr) + smn → /mɛn/ → /m/ (Eg)"
-            ],
-            "derivaciones": [
-              "coagula-a (coagulado)"
-            ],
-            "notas": "F5 v1.2. Alquimia: unir componentes; cierre del opus."
-          },
-          {
-            "kalfirvach": "chásdruying",
-            "concepto": "portal dimensional, grieta en el éter que funciona como puerta entre planos",
-            "pos": "noun",
-            "ipa": "/ˈtʃas.dru.jiŋ/",
-            "origen": {
-              "lengua": "Griego Koiné / Persa Avéstico / Tibetano Clásico",
-              "raiz_original": "Griego χάσμα (chásma) 'grieta, abismo' + Avestan 𐬛𐬭𐬎𐬎𐬀𐬰𐬀 (druuaza) 'puerta, portal' + Tibetano clásico དབྱིངས (dbyings) 'espacio primordial, ākāśa, éter' → chásdruying (fusión: chásma + druuaza + dbyings, con pérdida de -ma, -uaza y db-). 3 lenguas, 3 familias. El portal dimensional que rasga el éter como una puerta entre mundos.",
-              "corpus": "PGM IV; Gathas; Dzogchen tantras"
-            },
-            "transformacion": [
-              "compatible"
-            ],
-            "derivaciones": []
-          },
-          {
-            "kalfirvach": "séshkatip",
-            "concepto": "escriba, copista de textos sagrados y rituales",
-            "pos": "noun",
-            "ipa": "/ˈseʃ.ka.tip/",
-            "origen": {
-              "lengua": "Egipcio Demótico / Árabe esotérico",
-              "raiz_original": "Egipcio sš (sesh) 'escriba, escritura' + Árabe كاتب (kātib) 'escriba, notario' → séshkatip (fusión: sš + kātib, con /sš/→/seʃ/ y /ātib/→/katip/, ensordecimiento codicial /b/→/p/). 2 lenguas. El que registra el conocimiento sagrado por escrito.",
-              "corpus": "Textos de las Pirámides; Manuscritos de los Hermanos de la Pureza"
-            },
-            "transformacion": [
-              "compatible"
-            ],
-            "derivaciones": []
-          },
-          {
-            "kalfirvach": "damqírtas",
-            "concepto": "papiro, rollo de escritura, manuscrito sagrado",
-            "pos": "noun",
-            "ipa": "/damˈkir.tas/",
-            "origen": {
-              "lengua": "Egipcio Demótico / Árabe esotérico",
-              "raiz_original": "Egipcio demótico ḏmˁ (dema) 'rollo de papiro' + Árabe قرطاس (qirtās) 'papel, papiro, hoja' → damqírtas (fusión: ḏmˁ + qirtās, con ḏ→d, mˁ→ma, qirtās íntegro). 2 lenguas. El soporte físico del conocimiento transmitido.",
-              "corpus": "Papiro demótico mágico BM 10554; Rasā'il Ikhwān al-Ṣafā'"
-            },
-            "transformacion": [
-              "compatible"
-            ],
-            "derivaciones": []
-          },
-          {
-            "kalfirvach": "malkel",
-            "concepto": "ángel, mensajero divino (puede ser persona o espíritu)",
-            "pos": "noun",
-            "ipa": "/malˈkel/",
-            "origen": {
-              "lengua": "Árabe esotérico / Persa Avéstico / Griego Koiné",
-              "raiz_original": "ملك malak \"ángel, mensajero\" (Ar) / 𐬀𐬢𐬭𐬀 aṇgra \"espíritu celestial\" (Av) / ἄγγελος angelos \"mensajero\" (Gr)",
-              "corpus": "Corán 2:98 (Ar); Gathas Yasna 28 (Av); LXX, NT (Gr)"
-            },
-            "transformacion": [
-              "/mal/ de ملك malak preservado",
-              "/k/ de aṇgra /gra/ → elisión de /ra/, /g/→/k/ por devoicing",
-              "/el/ de ἄγγελος angelos (raíz escandida)"
-            ],
-            "derivaciones": []
-          },
-          {
-            "kalfirvach": "árchamaqal",
-            "concepto": "arcángel, parte de Dios que crea en el plano mental",
-            "pos": "noun",
-            "ipa": "/ˈar.tʃa.ma.kal/",
-            "origen": {
-              "lengua": "Griego Koiné / Árabe esotérico / Persa Avéstico",
-              "raiz_original": "Griego ἀρχή (archē) 'principio, origen, regente' + Avestan 𐬨𐬀𐬥𐬀𐬢𐬵𐬀 (manaŋha) 'poder mental' + Árabe esotérico عقل (ʿaql) 'intelecto divino, nous plotiniano' → árchamaqal (fusión: archē + manaŋha + ʿaql, con pérdida de -ē, -naŋha → -ma, y ʿaql epentético -aqal). 3 lenguas. El aspecto creador de la divinidad que opera en el plano del intelecto puro (nous).",
-              "corpus": "Corpus Hermeticum; Teología Aristotélica (versión árabe); Gathas"
-            },
-            "transformacion": [
-              "/tʃ/ por χ y /a/ epentética en ʿaql → -aqal"
-            ],
-            "derivaciones": []
-          },
-          {
-            "kalfirvach": "dajmol",
-            "concepto": "demonio, genio espiritual (puede ser benéfico o maléfico)",
-            "pos": "noun",
-            "ipa": "/dajˈmol/",
-            "origen": {
-              "lengua": "Griego Koiné / Árabe esotérico / Copto Sahídico",
-              "raiz_original": "δαίμων daimōn \"espíritu, ser divino neutral\" (Gr) / جني jinnī \"genio, ser de fuego sutil\" (Ar) / ⲃⲱⲱⲗ bōl \"espíritu maligno\" (Cop)",
-              "corpus": "PGM IV 1234 (Gr); Mil y Una Noches (Ar); Coptic Dictionary Online KELLIA (Cop)"
-            },
-            "transformacion": [
-              "/daj/ de δαίμων daimōn (onset preservado)",
-              "/mo/ de جني jinnī (coalescencia preservada)",
-              "/l/ de ⲃⲱⲱⲗ bōl → coda lateral"
-            ],
-            "derivaciones": []
-          },
-          {
-            "kalfirvach": "seypamu",
-            "concepto": "sirena, espíritu elemental del agua",
-            "pos": "noun",
-            "ipa": "/ˈsej.pa.mu/",
-            "origen": {
-              "lengua": "Griego Koiné / Persa Avéstico / Copto Sahídico",
-              "raiz_original": "Σειρήν seirēn \"sirena, seductora acuática\" (Gr) / پری parī \"hada/peri, espíritu elemental femenino\" (Av) / ⲙⲟⲩ mou \"agua\" (Cop)",
-              "corpus": "Odisea XII (Gr); Avestan Frawardīn Yašt (Av); Coptic Dictionary Online KELLIA (Cop)"
-            },
-            "transformacion": [
-              "/sej/ de Σειρήν seirēn (diptongo preservado)",
-              "/pa/ de پری parī",
-              "/mu/ de ⲙⲟⲩ mou \"agua\" → sufijo acuático"
-            ],
-            "derivaciones": []
-          },
-          {
-            "kalfirvach": "vayrūt",
-            "concepto": "silfo, espíritu elemental del aire",
-            "pos": "noun",
-            "ipa": "/wajˈruːt/",
-            "origen": {
-              "lengua": "Persa Avéstico / Árabe esotérico / Copto Sahídico",
-              "raiz_original": "𐬬𐬀𐬌𐬌𐬎 vaiiu \"viento, aire, divinidad Vayu\" (Av) / روح rūḥ \"espíritu, soplo divino\" (Ar) / ⲧⲏⲩ tēu \"viento\" (Cop)",
-              "corpus": "Gathas Yasna 44 (Av); Futūḥāt al-Makkiyya (Ar); Coptic Dictionary Online KELLIA (Cop)"
-            },
-            "transformacion": [
-              "/waj/ de 𐬬𐬀𐬌𐬌𐬎 vaiiu preservado",
-              "/rū/ de روح rūḥ (vocal larga preservada)",
-              "/t/ de ⲧⲏⲩ tēu → coda dental por devoicing de /w/"
-            ],
-            "derivaciones": []
-          },
-          {
-            "kalfirvach": "gazámsa",
-            "concepto": "duende, gnomo, espíritu elemental de la tierra",
-            "pos": "noun",
-            "ipa": "/gaˈzam.sa/",
-            "origen": {
-              "lengua": "Griego Koiné / Persa Avéstico / Tibetano Clásico",
-              "raiz_original": "Griego γαῖα (gaia) 'tierra' + Avestan 𐬰𐬆𐬨 (zəm) 'tierra' + Tibetano clásico ས (sa) 'tierra, suelo' → gazámsa (fusión: gāia + zəm + sa, con /āi/→/a/, /zəm/→/zam/, /sa/ conservado). 3 lenguas, 2 familias. El elemental que cuida las raíces del mundo subterráneo.",
-              "corpus": "Theogony; Gathas; Bön tantras"
-            },
-            "transformacion": [
-              "compatible"
-            ],
-            "derivaciones": []
-          },
-          {
-            "kalfirvach": "médhya",
-            "concepto": "meditar, contemplación profunda",
-            "pos": "verb",
-            "ipa": "/ˈme.dja/",
-            "origen": {
-              "lengua": "Copto / Tibetano Clásico / Persa Avéstico",
-              "raiz_original": "Copto ⲙⲉⲧ (met) 'verbo, pensamiento, acción de' + Tibetano clásico བསམ (bsam) 'pensar, meditar' + Persa medio اندیشه (andīše) 'pensamiento, meditación' → médhya (fusión: met + bsam + andīše, con met→mé, bsam→dhya por debuccalización, -šīšeh perdido). 3 lenguas. El acto de aquietar la mente y penetrar en la contemplación del vacío.",
-              "corpus": "Evangelio de Tomás (versión copta); Bardo Thodol; Shāh-Nāmeh"
-            },
-            "transformacion": [
-              "/d/ + /j/ → /d(j)/ por yodización",
-              "compatible"
-            ],
-            "derivaciones": []
-          },
-          {
-            "kalfirvach": "akhásmara",
-            "concepto": "parásito astral, entidad que drena energía en el plano sutil",
-            "pos": "noun",
-            "ipa": "/ˈa.xas.ma.ra/",
-            "origen": {
-              "lengua": "Egipcio Demótico / Árabe esotérico / Persa Avéstico",
-              "raiz_original": "Egipcio ꜥḫ (akh) 'espíritu transfigurado, entidad del más allá' + Árabe esotérico خسارة (khasāra) 'pérdida, drenaje, daño' + Persa medio مار (mār) 'serpiente, parásito' → akhásmara (fusión: ꜥḫ + khasāra + mār, con ꜥḫ→ /ax/, khasāra conservado como -khas-, mār como -mara). 3 lenguas. La entidad astral que se alimenta de la energía vital del practicante.",
-              "corpus": "Textos de los Sarcófagos; al-Būnī, Shams al-Ma'ārif; Bundahišn"
-            },
-            "transformacion": [
-              "compatible"
-            ],
-            "derivaciones": []
-          },
-          {
-            "kalfirvach": "dámiuqara",
-            "concepto": "demiurgo, artífice divino del mundo material",
-            "pos": "noun",
-            "ipa": "/ˈda.mi.u.ka.ra/",
-            "origen": {
-              "lengua": "Griego Koiné / Árabe esotérico / Persa Avéstico",
-              "raiz_original": "Griego δημιουργός (dēmiourgos) 'artesano, hacedor, creador del mundo' + Árabe esotérico قارة (qāra) 'materia prima/molde creador' + Avestan 𐬐𐬀𐬭𐬀𐬥 (karan) 'hacer, crear, fabricar' → dámiuqara (fusión: dēmiourgós + qāra + karan, con /dēmi/→/dami/, /ourgos/→/u/, /qāra/→/qara/ con epéntesis /q/→/k/). 3 lenguas. El arquitecto del cosmos material, que modela la realidad a partir de la materia primordial.",
-              "corpus": "Timeo de Platón; Rasā'il Ikhwān al-Ṣafā'; Bundahišn"
-            },
-            "transformacion": [
-              "compatible"
-            ],
-            "derivaciones": []
-          },
-          {
-            "kalfirvach": "hūrsūf",
-            "concepto": "espíritu planetario del Sol, espíritu solar, regente del fuego astral y la vitalidad",
-            "pos": "noun",
-            "ipa": "/ˈhuːr.suːf/",
-            "origen": {
-              "lengua": "Persa Avéstico / Árabe esotérico",
-              "raiz_original": "Persa medio hūr (خور) 'sol, luz solar' + Árabe esotérico صوف (ṣūf) 'espíritu, sabiduría mística, esencia sutil' → hūrsūf (fusión directa: hūr + ṣūf). 2 lenguas. El regente espiritual que anima el principio solar.",
-              "corpus": "Bundahišn; al-Būnī, Shams al-Ma'ārif"
-            },
-            "transformacion": [
-              "compatible"
-            ],
-            "derivaciones": []
-          },
-          {
-            "kalfirvach": "tīrsūf",
-            "concepto": "espíritu planetario de Mercurio, regente de la comunicación y el ingenio",
-            "pos": "noun",
-            "ipa": "/ˈtiːr.suːf/",
-            "origen": {
-              "lengua": "Persa Avéstico / Persa Avéstico / Árabe esotérico",
-              "raiz_original": "Avestan 𐬙𐬌𐬭𐬌 (tīri) 'Mercurio, Sirio, estrella-guía' + Persa تیر (tīr) 'flecha, Mercurio' + Árabe esotérico صوف (ṣūf) 'espíritu' → tīrsūf (fusión: tīr + ṣūf). 3 lenguas. El genio de la comunicación veloz entre planos.",
-              "corpus": "Tīr Yašt (Avesta); Picatrix"
-            },
-            "transformacion": [
-              "compatible"
-            ],
-            "derivaciones": []
-          },
-          {
-            "kalfirvach": "anāhīsūf",
-            "concepto": "espíritu planetario de Venus, regente del amor, la belleza y la atracción",
-            "pos": "noun",
-            "ipa": "/aˈnaː.hiː.suːf/",
-            "origen": {
-              "lengua": "Persa Avéstico / Persa Avéstico / Árabe esotérico",
-              "raiz_original": "Avestan 𐬀𐬥𐬁𐬵𐬌𐬙𐬀 (Anāhita) 'divinidad de las aguas, Venus, fertilidad' + Persa ناهید (Nāhīd) 'planeta Venus' + Árabe esotérico صوف (ṣūf) 'espíritu' → anāhīsūf (fusión: Anāhīt + ṣūf, con pérdida de /t/). 3 lenguas. La esencia espiritual que rige la atracción y la armonía.",
-              "corpus": "Ābān Yašt; Picatrix; Dīwān-e Hāfez"
-            },
-            "transformacion": [
-              "compatible"
-            ],
-            "derivaciones": []
-          },
-          {
-            "kalfirvach": "bahrāmsūf",
-            "concepto": "espíritu planetario de Marte, regente de la fuerza, la guerra y la voluntad",
-            "pos": "noun",
-            "ipa": "/bahˈraːm.suːf/",
-            "origen": {
-              "lengua": "Persa Avéstico / Árabe esotérico",
-              "raiz_original": "Persa بهرام (Bahrām) 'Marte, dios de la victoria' (del Avestan 𐬬𐬆𐬭𐬆𐬚𐬭𐬀𐬖𐬥𐬀 vərəθraɣna) + Árabe esotérico صوف (ṣūf) 'espíritu' → bahrāmsūf (fusión: Bahrām + ṣūf). 2 lenguas. El ímpetu guerrero del cosmos personificado.",
-              "corpus": "Bahrām Yašt; Shāh-Nāmeh"
-            },
-            "transformacion": [
-              "compatible"
-            ],
-            "derivaciones": []
-          },
-          {
-            "kalfirvach": "hormsūf",
-            "concepto": "espíritu planetario de Júpiter, regente de la sabiduría, la expansión y la realeza",
-            "pos": "noun",
-            "ipa": "/ˈhorm.suːf/",
-            "origen": {
-              "lengua": "Persa Avéstico / Árabe esotérico",
-              "raiz_original": "Persa هرمز (Hormoz) 'Júpiter' (del Avestan 𐬀𐬵𐬎𐬭𐬀 𐬨𐬀𐬰𐬛𐬁 Ahura Mazdā, Señor Sabiduría) + Árabe esotérico صوف (ṣūf) 'espíritu' → hormsūf (fusión: Hormoz + ṣūf, con pérdida de /oz/). 2 lenguas. La realeza espiritual del cosmos ampliando los límites.",
-              "corpus": "Bundahišn; Rasā'il Ikhwān al-Ṣafā'"
-            },
-            "transformacion": [
-              "compatible"
-            ],
-            "derivaciones": []
-          },
-          {
-            "kalfirvach": "kaywānsūf",
-            "concepto": "espíritu planetario de Saturno, regente del tiempo, la estructura y el karma",
-            "pos": "noun",
-            "ipa": "/kajˈwaːn.suːf/",
-            "origen": {
-              "lengua": "Persa Avéstico / Árabe esotérico / Árabe esotérico",
-              "raiz_original": "Persa medio کیوان (Kaywān) + Árabe كيوان (Kaywān) 'Saturno, el benéfico severo' + Árabe esotérico صوف (ṣūf) 'espíritu' → kaywānsūf (fusión: Kaywān + ṣūf). 3 lenguas. El guardián del tiempo cósmico y las estructuras del destino.",
-              "corpus": "Picatrix; Ghāyat al-Ḥakīm; al-Būnī"
-            },
-            "transformacion": [
-              "compatible"
-            ],
-            "derivaciones": []
-          },
-          {
-            "kalfirvach": "urānūf",
-            "concepto": "espíritu planetario de Urano, regente de lo repentino, lo original y lo disruptivo",
-            "pos": "noun",
-            "ipa": "/uˈraː.nuːf/",
-            "origen": {
-              "lengua": "Griego Koiné / Sánscrito Védico / Árabe esotérico",
-              "raiz_original": "Οὐρανός Ouranos \"cielo primordial, Urano\" (Gr) / वरुण Varuṇa \"dios del océano cósmico\" (Skt) / صوف ṣūf \"espíritu, esencia sutil\" (Ar)",
-              "corpus": "Teogonía de Hesíodo (Gr); Ṛg Veda (Skt); Picatrix (Ar)"
-            },
-            "transformacion": [
-              "/u/ de Οὐρανός (prótesis)",
-              "/rā/ de Ouranos + Varuṇa → /raː/ coalescencia",
-              "/nūf/ blend de Varuṇa /nu/ + صوف /sˤuːf/ → /f/ coda"
-            ],
-            "derivaciones": []
-          },
-          {
-            "kalfirvach": "posīdsūn",
-            "concepto": "espíritu planetario de Neptuno, regente de los abismos, los sueños y lo trascendente",
-            "pos": "noun",
-            "ipa": "/poˈsiːd.suːn/",
-            "origen": {
-              "lengua": "Griego Koiné / Sánscrito Védico / Árabe esotérico",
-              "raiz_original": "Ποσειδῶν Poseidōn \"dios del mar, Neptuno\" (Gr) / वरुण Varuṇa \"señor del océano cósmico\" (Skt) / صوف ṣūf \"espíritu, esencia sutil\" (Ar)",
-              "corpus": "Odisea (Gr); Ṛg Veda (Skt); Rasā'il Ikhwān al-Ṣafā' (Ar)"
-            },
-            "transformacion": [
-              "/posīd/ de Ποσειδῶν preservado",
-              "/sūn/ blend de صوف /sˤuːf/ → /suː/ + वरुण Varuṇa → /n/ coda"
-            ],
-            "derivaciones": []
-          },
-          {
-            "kalfirvach": "būmsūf",
-            "concepto": "espíritu planetario de la Tierra, regente de lo material, lo denso y lo fértil",
-            "pos": "noun",
-            "ipa": "/ˈbuːm.suːf/",
-            "origen": {
-              "lengua": "Persa Avéstico / Árabe esotérico",
-              "raiz_original": "Persa بوم (būm) 'tierra, suelo, territorio' + Árabe esotérico صوف (ṣūf) 'espíritu' → būmsūf (fusión: būm + ṣūf). 2 lenguas. El espíritu telúrico que sustenta toda vida material.",
-              "corpus": "Bundahišn; Shāh-Nāmeh; Futūḥāt al-Makkiyya"
-            },
-            "transformacion": [
-              "compatible"
-            ],
-            "derivaciones": []
-          },
-          {
-            "kalfirvach": "vijulta",
-            "concepto": "universo, totalidad de la existencia",
-            "pos": "noun",
-            "ipa": "/vi.ˈjul.ta/",
-            "origen": {
-              "lengua": "Sánscrito Védico / Árabe esotérico / Griego Koiné / Persa Avéstico",
-              "raiz_original": "viśva 'universo' (Skt) / al-wujūd 'existencia' (Ar) / tó hólon 'el todo' (Gr) / gaēθā- 'mundo' (Av)",
-              "corpus": ""
-            },
-            "transformacion": [
-              "viśva (Skt) + wujūd (Ar) + hólon (Gr) + gaēθā (Av) → vi- + -jul- + -ta",
-              "/ś/→/dʒ/ por palatalización, /h/→/l/ asimilada",
-              "/dʒ/ onset permitido §3.2, penúltima — acento en -jul-"
-            ],
-            "derivaciones": []
-          },
-          {
-            "kalfirvach": "raskal",
-            "concepto": "cosmos, orden universal, armonía cósmica",
-            "pos": "noun",
-            "ipa": "/ˈras.kal/",
-            "origen": {
-              "lengua": "Sánscrito Védico / Árabe esotérico / Persa Avéstico / Griego Koiné",
-              "raiz_original": "ṛta 'orden cósmico' (Skt) / al-falak 'esfera celeste' (Ar) / aṣ̌a- 'verdad, orden' (Av) / kósmos 'cosmos' (Gr)",
-              "corpus": ""
-            },
-            "transformacion": [
-              "ṛta (Skt) + falak (Ar) + aṣ̌a (Av) + kósmos (Gr) → ras- + -kal",
-              "/ṣ̌/→/s/, /f/→/k/ por convergencia",
-              "CC coda /sk/ permitida §10.3, /l/ coda permitido §3.3"
-            ],
-            "derivaciones": []
-          },
-          {
-            "kalfirvach": "altara",
-            "concepto": "altar (mesa o piedra de ofrenda)",
-            "pos": "noun",
-            "ipa": "/ˈal.ta.ra/",
-            "origen": {
-              "lengua": "Griego Koiné / Egipcio Demótico / Sánscrito Védico",
-              "raiz_original": "altare 'altar' (Lat) / βωμός bōmós 'altar, plataforma' (Gr) / ḥw.t-nṯr 'mesa-de-dios' (Eg)",
-              "corpus": "Apuleyo, Met. XI; PGM IV; Textos pirámide §262"
-            },
-            "transformacion": [
-              "forma estándar CVCVCV"
-            ],
-            "derivaciones": []
-          },
-          {
-            "kalfirvach": "coagula",
-            "concepto": "coagular (operación alquímica)",
-            "pos": "verb",
-            "ipa": "/ˈco.a.gu.la/",
-            "origen": {
-              "lengua": "Griego Koiné / Egipcio Demótico / Sánscrito Védico",
-              "raiz_original": "coagula 'coagular' (Lat, imperativo) / πήγνυμι pḗgnymi 'fijar, cuajar' (Gr) / smn 'fijar, establecer' (Eg)",
-              "corpus": "Tabula Smaragdina; PGM V; Texto de la Duat spell 125"
-            },
-            "transformacion": [
-              "adaptación directa CVCVCV"
-            ],
-            "derivaciones": []
-          },
-          {
-            "kalfirvach": "incensa",
-            "concepto": "incensario (recipiente para quemar incienso)",
-            "pos": "noun",
-            "ipa": "/ˈin.cen.sa/",
-            "origen": {
-              "lengua": "Griego Koiné / Egipcio Demótico / Sánscrito Védico",
-              "raiz_original": "incensum 'incienso, lo quemado' (Lat) / θυμιατήριον thymiatḗrion 'incensario' (Gr) / snṯr 'incienso' (Eg)",
-              "corpus": "Apuleyo, Met. XI; PGM IV; Textos pirámide §262"
-            },
-            "transformacion": [
-              "/s/→/θ/ en posición inicial (regular KFA)"
-            ],
-            "derivaciones": []
-          },
-          {
-            "kalfirvach": "solve",
-            "concepto": "disolver (operación alquímica)",
-            "pos": "verb",
-            "ipa": "/ˈsol.we/",
-            "origen": {
-              "lengua": "Griego Koiné / Egipcio Demótico / Sánscrito Védico",
-              "raiz_original": "solve 'desatar, disolver' (Lat) / λύω lýō 'desatar' (Gr) / ḏd-mdw 'cortar-palabra' (Eg)",
-              "corpus": "Tabula Smaragdina; PGM V; Textos pirámide §262"
-            },
-            "transformacion": [
-              "adaptación directa CVCVC"
-            ],
-            "derivaciones": []
-          },
-          {
-            "kalfirvach": "tunika",
-            "concepto": "túnica ritual",
-            "pos": "noun",
-            "ipa": "/ˈtu.ni.ka/",
-            "origen": {
-              "lengua": "Griego Koiné / Egipcio Demótico / Sánscrito Védico",
-              "raiz_original": "tunica 'túnica, camisa' (Lat) / χιτών khitṓn 'vestidura' (Gr) / mšꜥ 'vestido' (Eg)",
-              "corpus": "Apuleyo, Met. XI; PGM IV; Texto de los Sarcófagos spell 162"
-            },
-            "transformacion": [
-              "forma estándar CVCVCV"
-            ],
-            "derivaciones": []
-          },
-          {
-            "kalfirvach": "virga",
-            "concepto": "varita (instrumento ritual)",
-            "pos": "noun",
-            "ipa": "/ˈwir.ga/",
-            "origen": {
-              "lengua": "Griego Koiné / Egipcio Demótico / Sánscrito Védico",
-              "raiz_original": "virga 'vara, rama' (Lat) / ῥάβδος rhábdos 'vara, bastón' (Gr) / mꜣꜥ-ḫꜣ 'vara mágica' (Eg)",
-              "corpus": "PGM VII 540; Apuleyo, Met. III; Texto de los Sarcófagos spell 163"
-            },
-            "transformacion": [
-              "/g/→/ɡ/ (fricativización opcional en coda)"
-            ],
-            "derivaciones": []
-          },
-          {
-            "kalfirvach": "kair",
-            "concepto": "momento ritual, coyuntura mágica, sincronía, instante oportuno",
-            "pos": "noun",
-            "ipa": "/ˈka.ir/",
-            "origen": {
-              "lengua": "Griego Koiné / Árabe esotérico / Egipcio Demótico",
-              "raiz_original": "καιρός kairós \"momento oportuno, tiempo cualitativo\" (Gr) / وقت waqt \"tiempo, momento\" + قدر qadr \"destino, medida\" (Ar) / tr \"tiempo, momento\" (Eg)",
-              "corpus": "Nuevo Testamento (Gr); Ibn Arabi, Futūḥāt (Ar); Textos Sarcófago (Eg)"
-            },
-            "transformacion": [
-              "/kai/ de καιρός (Gr) preservado",
-              "/r/ coda de tr (Eg) + qadr (Ar)"
-            ],
-            "derivaciones": [],
-            "notas": "Concepto de tiempo cualitativo versus cronológico; usado en construcciones rituales kair-kár-"
-          },
-          {
-            "kalfirvach": "shaktí",
-            "concepto": "poder, fuerza, energía (término general, no necesariamente mágica)",
-            "pos": "noun",
-            "ipa": "/ˈʃak.tiː/",
-            "origen": {
-              "lengua": "Sánscrito Védico / Tibetano Clásico / Persa Avéstico",
-              "raiz_original": "शक्ति śakti \"poder, energía, capacidad\" (Skt) / ཤུགས shugs \"fuerza, poder, energía\" (Tib) / 𐬱𐬀𐬐𐬀 šaka- \"fuerza, poder\" (Av)",
-              "corpus": "Śvetāśvatara Upaniṣad (Skt); Dzogchen (Tib); Yasna (Av)"
-            },
-            "transformacion": [
-              "/šak/ de शक्ति śakti (Skt) + ཤུགས shugs /ɕuk/→/ʃak/ (Tib) + 𐬱𐬀𐬐𐬀 šaka (Av)",
-              "/tí/ de शक्ति (Skt) + 𐬱𐬀𐬐𐬀 /ti/ (Av)"
-            ],
-            "derivaciones": [],
-            "notas": "Término general; no reemplaza šakdom 'poder dinámico/mágico' (ver magia_y_mitologia)"
-          },
-          {
-            "kalfirvach": "nús",
-            "concepto": "conciencia, mente, intelecto, principio consciente",
-            "pos": "noun",
-            "ipa": "/ˈnuːs/",
-            "origen": {
-              "lengua": "Griego Koiné / Sánscrito Védico / Tibetano Clásico",
-              "raiz_original": "νοῦς nous \"mente, intelecto, conciencia\" (Gr) / विज्ञान vijñāna \"discernimiento, conciencia\" (Skt) / རིག་པ rig pa \"conciencia, awareness\" (Tib)",
-              "corpus": "Plotino, Enn. IV (Gr); Yogācāra (Skt); Dzogchen (Tib)"
-            },
-            "transformacion": [
-              "/nū/ de νοῦς /nous/ → /nuː/ (Gr, contracción)",
-              "/s/ coda de विज्ञान vi-jñā-na /n/ → /s/ (Skt, debilitamiento) + rig pa (Tib)"
-            ],
-            "derivaciones": [],
-            "notas": "No reemplaza dayanso 'conciencia interior' ni rignōn 'conciencia discriminativa'; nús es el término general"
-          },
-          {
-            "kalfirvach": "máya",
-            "concepto": "ilusión, apariencia, velo de la realidad fenoménica",
-            "pos": "noun",
-            "ipa": "/ˈmaː.ja/",
-            "origen": {
-              "lengua": "Sánscrito Védico / Tibetano Clásico / Persa Avéstico",
-              "raiz_original": "माया māyā \"ilusión, poder de manifestación\" (Skt) / སྒྱུ་མ sgyu ma \"ilusión, magia\" (Tib) / 𐬨𐬀𐬌𐬌𐬁 māiiā \"poder de transformación\" (Av)",
-              "corpus": "Rig Veda VI.47 (Skt); Mūlamadhyamakakārikā (Tib); Gathas (Av)"
-            },
-            "transformacion": [
-              "/mā/ de माया māyā (Skt) + 𐬨𐬀𐬌𐬌𐬁 māiiā (Av)",
-              "/ya/ de माया (Skt) + སྒྱུ་མ sgyu ma /ɡju/→/ja/ (Tib)"
-            ],
-            "derivaciones": [],
-            "notas": "Término filosófico; compatible con el uso en ejemplos gramaticales como 'velo de realidad'"
-          },
-          {
-            "kalfirvach": "pāhatā",
-            "concepto": "fantasma (espíritu de un fallecido)",
-            "pos": "noun",
-            "ipa": "/paː.haˈtaː/",
-            "origen": {
-              "lengua": "Copto / Egipcio Demótico / Árabe Esotérico / Sánscrito",
-              "raiz_original": "ⲡⲓⲁⲕⲉ piake \"oscuridad, tinieblas\" (Cop) / ꜣḫ \"espíritu, aj\" (Dem) / رُوح rūḥ \"espíritu, alma\" (Ar) / प्रेत preta \"fantasma, muerto\" (Skt)",
-              "corpus": ""
-            },
-            "transformacion": [
-              "/pā/ del Cop ⲡⲓⲁⲕⲉ /pi.aˈkeː/ → /paː/ (elisión + alargamiento)",
-              "/ha/ del Dem ꜣḫ /ˈaːχ/ → /ha/ (aspiración preservada)",
-              "/tā/ blend del Ar رُوح /ruːħ/ + Skt प्रेत /pɾeː.t̪ɐ/ → /taː/ (coda del Skt + alargamiento)"
-            ],
-            "derivaciones": []
-          },
-          {
-            "kalfirvach": "natūrē",
-            "concepto": "Dios, deidad (ser divino supremo o deidad)",
-            "pos": "noun",
-            "ipa": "/na.tuːˈɾeː/",
-            "origen": {
-              "lengua": "Copto / Egipcio Demótico / Sánscrito",
-              "raiz_original": "ⲛⲟⲩϯ noute \"Dios\" (Cop) / nṯr \"dios, deidad\" (Dem) / देव deva \"deidad, dios\" (Skt)",
-              "corpus": ""
-            },
-            "transformacion": [
-              "/na/ del Cop ⲛⲟⲩϯ /ˈnuː.ti/ → /na/ (apertura vocálica)",
-              "/tū/ del Dem nṯr /ˈnaː.t͡ʃar/ → /tuː/ (núcleo silábico)",
-              "/rē/ del Skt देव /ˈd̪eː.ʋɐ/ → /reː/ (rotacismo + alargamiento)"
-            ],
-            "derivaciones": []
-          },
-          {
-            "kalfirvach": "onofotma",
-            "concepto": "adivinar (adivinación esotérica, presagiar)",
-            "pos": "verb",
-            "ipa": "/o.noˈfot.ma/",
-            "origen": {
-              "lengua": "Persa Moderno / Griego Koiné / Tibetano",
-              "raiz_original": "فال گرفتن fāl gereftan \"echar las cartas, adivinar\" (Pers) / μαντεύομαι manteuomai \"profetizar, adivinar\" (Gr) / མོ mo \"adivinación, augurio\" (Tib)",
-              "corpus": ""
-            },
-            "transformacion": [
-              "/ono/ del Pers فال /fɒːl/ → /fal/ → /on/ + /o/ epentética",
-              "/fot/ del Gr μαντεύομαι /manˈteu̯.o.mai̯/ → /fot/ (síncopa + consonante inicial)",
-              "/ma/ del Tib མོ /mo˩˧/ → /ma/ (apertura vocálica)"
-            ],
-            "derivaciones": []
-          },
-          {
-            "kalfirvach": "vīwetzimil",
-            "concepto": "talismán",
-            "pos": "noun",
-            "ipa": "/ˈviː.wet.zi.mil/",
-            "origen": {
-              "lengua": "Persian / Sanskrit",
-              "raiz_original": "मङ्गल (Sanskrit) / طلسم (Persian) / تعویذ (Persian)",
-              "corpus": "generado por forja v1.4"
-            },
-            "transformacion": [
-              "forjado"
-            ],
-            "derivaciones": []
-          },
-          {
-            "kalfirvach": "isokimni",
-            "concepto": "alquimia",
-            "pos": "noun",
-            "ipa": "/i.so.ˈkim.ni/",
-            "origen": {
-              "lengua": "Arabic / Persian / Sanskrit",
-              "raiz_original": "Sanskrit: रसयानम् (rasayānam) / धातुवादः (dhātuvādaḥ) / Persian: کیمیا (kīmīyā) / Arabic: كِيمِيَاء (kīmiyāʾ)",
-              "corpus": "generado por forja v1.4"
-            },
-            "transformacion": [
-              "forjado"
-            ],
-            "derivaciones": []
-          },
-          {
-            "kalfirvach": "īpmīfikīs",
-            "concepto": "espada",
-            "pos": "noun",
-            "ipa": "/ˈiːp.miː.fi.kiːs/",
-            "origen": {
-              "lengua": "Ancient Greek / Arabic / Persian / Sanskrit",
-              "raiz_original": "Sanskrit: खड्ग (khaḍga) / Persian: شمشیر (šamšīr) / Arabic: سَيْف (sayf) / Ancient Greek: ξίφος (xiphos)",
-              "corpus": "generado por forja v1.4"
-            },
-            "transformacion": [
-              "forjado"
-            ],
-            "derivaciones": []
-          },
-          {
-            "kalfirvach": "mihontokdo",
-            "concepto": "armadura",
-            "pos": "noun",
-            "ipa": "/mi.hon.ˈtok.do/",
-            "origen": {
-              "lengua": "Ancient Greek / Arabic / Persian / Sanskrit",
-              "raiz_original": "Sanskrit: कवच (kavaca) / Persian: زره (zereh) / Arabic: دِرْع (dirʿ) / Ancient Greek: ἅμαντoς (hamantos) / θώραξ",
-              "corpus": "generado por forja v1.4"
-            },
-            "transformacion": [
-              "forjado"
-            ],
-            "derivaciones": []
-          },
-          {
-            "kalfirvach": "bohotmoso",
-            "concepto": "flecha",
-            "pos": "noun",
-            "ipa": "/bo.hot.ˈmo.so/",
-            "origen": {
-              "lengua": "Ancient Greek / Arabic / Persian / Sanskrit",
-              "raiz_original": "Sanskrit: बाण (bāṇa) / शर (śara) / Persian: تیر (tīr) / Arabic: سَهْم (sahm) / Ancient Greek: τόξευμα (tóxeuma) / ἰός",
-              "corpus": "generado por forja v1.4"
-            },
-            "transformacion": [
-              "forjado"
-            ],
-            "derivaciones": []
-          },
-          {
-            "kalfirvach": "dēnsāmē",
-            "concepto": "resonancia",
-            "pos": "noun",
-            "ipa": "/ˈdeːn.saː.meː/",
-            "origen": {
-              "lengua": "Copto/Egipcio / Árabe Esotérico / Sánscrito",
-              "raiz_original": "ⲥⲙⲏ (smē) \"sonido\" (Cop) / صَدَى (ṣadā) \"eco\" (Ar) / नाद (nāda) \"sonido, tono\" (Skt)",
-              "corpus": "forjado por motor de síntesis v1.4.1"
-            },
-            "transformacion": [
-              "forjado desde smē /smeː/ + ṣadā /sˤa.daː/ + nāda /nɑː.dɐ/"
-            ],
-            "derivaciones": []
-          },
-          {
-            "kalfirvach": "pimdinas",
-            "concepto": "vibración",
-            "pos": "noun",
-            "ipa": "/pim.ˈdi.nas/",
-            "origen": {
-              "lengua": "Copto/Egipcio / Árabe Esotérico / Sánscrito",
-              "raiz_original": "ⲕⲓⲙ (kim) \"moverse\" (Cop) / ذَبْذَبَة (dhabdhaba) \"vibración\" (Ar) / स्पन्द (spanda) \"pulso, vibración\" (Skt)",
-              "corpus": "forjado por motor de síntesis v1.4.1"
-            },
-            "transformacion": [
-              "forjado desde kim /kim/ + dhabdhaba /ðab.ða.ba/ + spanda /spɐn̪.dɐ/"
-            ],
-            "derivaciones": []
-          },
-          {
-            "kalfirvach": "wistōpik",
-            "concepto": "sintonización",
-            "pos": "noun",
-            "ipa": "/wis.ˈtoː.pik/",
-            "origen": {
-              "lengua": "Copto/Egipcio / Árabe Esotérico / Sánscrito",
-              "raiz_original": "ⲥⲱⲧⲡ (sōtp) \"enderezar\" (Cop) / وِفَاق (wifāq) \"armonía\" (Ar) / योजन (yojana) \"unión, ajuste\" (Skt)",
-              "corpus": "forjado por motor de síntesis v1.4.1"
-            },
-            "transformacion": [
-              "forjado desde sōtp /soːtp/ + wifāq /wi.faːq/ + yojana /joː.dʒɐ.nɐ/"
-            ],
-            "derivaciones": []
-          },
-          {
-            "kalfirvach": "wāsnitmā",
-            "concepto": "alineación",
-            "pos": "noun",
-            "ipa": "/ˈwaːs.nit.maː/",
-            "origen": {
-              "lengua": "Copto/Egipcio / Árabe Esotérico / Sánscrito",
-              "raiz_original": "ⲥⲟⲟⲩⲧⲛ̅ (sooutn) \"alinear\" (Cop) / قِوَام (qiwām) \"rectitud\" (Ar) / ऋजु (ṛju) \"recto\" (Skt)",
-              "corpus": "forjado por motor de síntesis v1.4.1"
-            },
-            "transformacion": [
-              "forjado desde sooutn /soːw.tən/ + qiwām /qi.waːm/ + ṛju /r̩.dʒu/"
-            ],
-            "derivaciones": []
-          },
-          {
-            "kalfirvach": "ridiswōm",
-            "concepto": "corriente",
-            "pos": "noun",
-            "ipa": "/ri.dis.ˈwoːm/",
-            "origen": {
-              "lengua": "Copto/Egipcio / Árabe Esotérico / Sánscrito",
-              "raiz_original": "ⲙⲟⲟⲩ (moou) \"agua, flujo\" (Cop) / سَيْل (sayl) \"corriente\" (Ar) / धारा (dhārā) \"corriente, flujo\" (Skt)",
-              "corpus": "forjado por motor de síntesis v1.4.1"
-            },
-            "transformacion": [
-              "forjado desde moou /moːw/ + sayl /sajl/ + dhārā /d̪ʱɑː.rɑː/"
-            ],
-            "derivaciones": []
-          },
-          {
-            "kalfirvach": "bokwadam",
-            "concepto": "vórtice",
-            "pos": "noun",
-            "ipa": "/bok.ˈwa.dam/",
-            "origen": {
-              "lengua": "Copto/Egipcio / Árabe Esotérico / Sánscrito",
-              "raiz_original": "ⲕⲣⲟϥ (krof) \"torbellino\" (Cop) / دَوَّامَة (dawwāma) \"vórtice\" (Ar) / भ्रम (bhrama) \"rotación\" (Skt)",
-              "corpus": "forjado por motor de síntesis v1.4.1"
-            },
-            "transformacion": [
-              "forjado desde krof /krof/ + dawwāma /daw.waː.ma/ + bhrama /bʱrɐ.mɐ/"
-            ],
-            "derivaciones": []
-          },
-          {
-            "kalfirvach": "tērmasin",
-            "concepto": "campo morfogenético",
-            "pos": "noun",
-            "ipa": "/ˈteːr.ma.sin/",
-            "origen": {
-              "lengua": "Copto/Egipcio / Árabe Esotérico / Sánscrito",
-              "raiz_original": "ⲥⲭⲏⲙⲁ (skhēma) \"forma\" (Cop) / نَمَط (namaṭ) \"patrón\" (Ar) / प्रतिमान (pratimāna) \"patrón, medida\" (Skt)",
-              "corpus": "forjado por motor de síntesis v1.4.1"
-            },
-            "transformacion": [
-              "forjado desde skhēma /sxeː.ma/ + namaṭ /na.matˤ/ + pratimāna /prɐ.t̪i.mɑː.nɐ/"
-            ],
-            "derivaciones": []
-          },
-          {
-            "kalfirvach": "wirtabal",
-            "concepto": "espiral",
-            "pos": "noun",
-            "ipa": "/wir.ˈta.bal/",
-            "origen": {
-              "lengua": "Copto/Egipcio / Árabe Esotérico / Sánscrito",
-              "raiz_original": "ⲕⲱϯ (kōti) \"rodear\" (Cop) / لَوْلَب (lawlab) \"espiral\" (Ar) / वक्र (vakra) \"curvo\" (Skt)",
-              "corpus": "forjado por motor de síntesis v1.4.1"
-            },
-            "transformacion": [
-              "forjado desde kōti /koː.ti/ + lawlab /law.lab/ + vakra /ʋɐ.krɐ/"
-            ],
-            "derivaciones": []
-          },
-          {
-            "kalfirvach": "kēswitōr",
-            "concepto": "radiancia",
-            "pos": "noun",
-            "ipa": "/ˈkeːs.wi.toːr/",
-            "origen": {
-              "lengua": "Copto/Egipcio / Árabe Esotérico / Sánscrito",
-              "raiz_original": "ⲟⲩⲟⲉⲓⲛ (ouoein) \"luz\" (Cop) / إِشْرَاق (ishrāq) \"resplandor\" (Ar) / तेजस् (tejas) \"radiancia, brillo\" (Skt)",
-              "corpus": "forjado por motor de síntesis v1.4.1"
-            },
-            "transformacion": [
-              "forjado desde ouoein /woː.in/ + ishrāq /ʔiʃ.raːq/ + tejas /t̪eː.dʒɐs/"
-            ],
-            "derivaciones": []
-          },
-          {
-            "kalfirvach": "chamohno",
-            "concepto": "carga (energética)",
-            "pos": "noun",
-            "ipa": "/tʃa.ˈmoh.no/",
-            "origen": {
-              "lengua": "Copto/Egipcio / Árabe Esotérico / Sánscrito",
-              "raiz_original": "ϫⲟⲙ (čom) \"fuerza\" (Cop) / شَحْن (shaḥn) \"carga\" (Ar) / आवेश (āveśa) \"carga, posesión\" (Skt)",
-              "corpus": "forjado por motor de síntesis v1.4.1"
-            },
-            "transformacion": [
-              "forjado desde čom /tʃom/ + shaḥn /ʃaħn/ + āveśa /ɑː.ʋeː.ɕɐ/"
-            ],
-            "derivaciones": []
-          },
-          {
-            "kalfirvach": "bisfīrīt",
-            "concepto": "descarga",
-            "pos": "noun",
-            "ipa": "/bis.ˈfiː.riːt/",
-            "origen": {
-              "lengua": "Copto/Egipcio / Árabe Esotérico / Sánscrito",
-              "raiz_original": "ⲃⲟⲗ (bol) \"soltar\" (Cop) / تَفْرِيغ (tafrīgh) \"vaciado\" (Ar) / विसर्ग (visarga) \"liberación\" (Skt)",
-              "corpus": "forjado por motor de síntesis v1.4.1"
-            },
-            "transformacion": [
-              "forjado desde bol /bol/ + tafrīgh /taf.riːɣ/ + visarga /ʋi.sɐr.ɡɐ/"
-            ],
-            "derivaciones": []
-          },
-          {
-            "kalfirvach": "bōnhātrā",
-            "concepto": "vínculo",
-            "pos": "noun",
-            "ipa": "/ˈboːn.haːt.raː/",
-            "origen": {
-              "lengua": "Copto/Egipcio / Árabe Esotérico / Sánscrito",
-              "raiz_original": "ⲥⲱⲛϩ̅ (sōnh) \"atar\" (Cop) / رِبَاط (ribāṭ) \"atadura\" (Ar) / बन्ध (bandha) \"atadura\" (Skt)",
-              "corpus": "forjado por motor de síntesis v1.4.1"
-            },
-            "transformacion": [
-              "forjado desde sōnh /soːnh/ + ribāṭ /ri.baːtˤ/ + bandha /bɐn̪.d̪ʱɐ/"
-            ],
-            "derivaciones": []
-          },
-          {
-            "kalfirvach": "kihēpres",
-            "concepto": "escudo",
-            "pos": "noun",
-            "ipa": "/ki.ˈheːp.res/",
-            "origen": {
-              "lengua": "Copto/Egipcio / Árabe Esotérico / Sánscrito",
-              "raiz_original": "ⲥⲕⲉⲡⲏ (skepē) \"cobertura\" (Cop) / دِرْع (dir') \"escudo\" (Ar) / कवच (kavaca) \"armadura\" (Skt)",
-              "corpus": "forjado por motor de síntesis v1.4.1"
-            },
-            "transformacion": [
-              "forjado desde skepē /ske.peː/ + dir' /dirʕ/ + kavaca /kɐ.ʋɐ.t͡ʃɐ/"
-            ],
-            "derivaciones": []
-          },
-          {
-            "kalfirvach": "benīlre",
-            "concepto": "filtro, criba",
-            "pos": "noun",
-            "ipa": "/be.ˈniːl.re/",
-            "origen": {
-              "lengua": "Copto/Egipcio / Árabe Esotérico / Sánscrito",
-              "raiz_original": "ⲛⲉϩϥⲉ (nehfe) \"criba\" (Cop) / غِرْبَال (ghirbāl) \"criba\" (Ar) / चालनी (cālanī) \"tamiz\" (Skt)",
-              "corpus": "forjado por motor de síntesis v1.4.1"
-            },
-            "transformacion": [
-              "forjado desde nehfe /neh.fe/ + ghirbāl /ɣir.baːl/ + cālanī /t͡ʃɑː.lɐ.niː/"
-            ],
-            "derivaciones": []
-          },
-          {
-            "kalfirvach": "murīk",
-            "concepto": "lamen, placa con sigilos",
-            "pos": "noun",
-            "ipa": "/mu.ˈriːk/",
-            "origen": {
-              "lengua": "Copto/Egipcio / Árabe Esotérico / Sánscrito",
-              "raiz_original": "ⲧⲱⲙ (tōm) \"sello\" (Cop) / رَقِيم (raqīm) \"tableta inscrita\" (Ar) / मुद्रा (mudrā) \"sello, sigilo\" (Skt)",
-              "corpus": "forjado por motor de síntesis v1.4.1 (short mode)"
-            },
-            "transformacion": [
-              "forjado desde tōm /toːm/ + raqīm /ra.qiːm/ + mudrā /mu.drɑː/"
-            ],
-            "derivaciones": []
-          },
-          {
-            "kalfirvach": "dōrba",
-            "concepto": "cuerda ritual",
-            "pos": "noun",
-            "ipa": "/ˈdoːr.ba/",
-            "origen": {
-              "lengua": "Copto/Egipcio / Árabe Esotérico / Sánscrito",
-              "raiz_original": "ⲙⲟⲩⲣ (mour) \"atar, ligar\" (Cop) / حَبْل (ḥabl) \"cuerda\" (Ar) / रज्जु (rajju) \"soga\" (Skt)",
-              "corpus": "forjado por motor de síntesis v1.4.1 (short mode)"
-            },
-            "transformacion": [
-              "forjado desde mour /moːr/ + ḥabl /ħabl/ + rajju /rɐd.dʒu/"
-            ],
-            "derivaciones": []
-          },
-          {
-            "kalfirvach": "amhak",
-            "concepto": "flagelo ritual, látigo de purificación",
-            "pos": "noun",
-            "ipa": "/ˈam.hak/",
-            "origen": {
-              "lengua": "Copto/Egipcio / Árabe Esotérico / Sánscrito",
-              "raiz_original": "ⲙⲁϩ (mah) \"látigo, flagelo\" (Cop) / سَوْط (sawṭ) \"látigo\" (Ar) / कशा (kaśā) \"flagelo\" (Skt)",
-              "corpus": "forjado por motor de síntesis v1.4.1 (short mode)"
-            },
-            "transformacion": [
-              "forjado desde mah /mah/ + sawṭ /sawtˤ/ + kaśā /kɐ.ɕɑː/"
-            ],
-            "derivaciones": []
-          },
-          {
-            "kalfirvach": "fakar",
-            "concepto": "espejo de visión, scrying mirror",
-            "pos": "noun",
-            "ipa": "/ˈfa.kar/",
-            "origen": {
-              "lengua": "Copto/Egipcio / Árabe Esotérico / Sánscrito",
-              "raiz_original": "ⲉⲓⲁⲗ (eial) \"espejo\" (Cop) / تَكَشُّف (takaššuf) \"revelación, scrying\" (Ar) / दर्पण (darpaṇa) \"espejo\" (Skt)",
-              "corpus": "forjado por motor de síntesis v1.4.1 (short mode)"
-            },
-            "transformacion": [
-              "forjado desde eial /e.jal/ + takaššuf /ta.kaʃ.ʃuf/ + darpaṇa /d̪ɐr.pɐ.ɳɐ/"
-            ],
-            "derivaciones": []
-          },
-          {
-            "kalfirvach": "likōt",
-            "concepto": "anillo de conjuro",
-            "pos": "noun",
-            "ipa": "/li.ˈkoːt/",
-            "origen": {
-              "lengua": "Copto/Egipcio / Árabe Esotérico / Sánscrito",
-              "raiz_original": "ⲕⲱϯ (kōti) \"rodear\" (Cop) / خَاتَم (khātam) \"anillo\" (Ar) / वलय (valaya) \"anillo, brazalete\" (Skt)",
-              "corpus": "forjado por motor de síntesis v1.4.1 (short mode)"
-            },
-            "transformacion": [
-              "forjado desde kōti /koː.ti/ + khātam /xaː.tam/ + valaya /ʋɐ.lɐ.jɐ/"
-            ],
-            "derivaciones": []
-          },
-          {
-            "kalfirvach": "felak",
-            "concepto": "rueda talismánica",
-            "pos": "noun",
-            "ipa": "/ˈfe.lak/",
-            "origen": {
-              "lengua": "Copto/Egipcio / Árabe Esotérico / Sánscrito",
-              "raiz_original": "ⲕⲁⲕⲗⲉ (kakle) \"rueda\" (Cop) / فَلَك (falak) \"rueda, orbe\" (Ar) / चक्र (cakra) \"rueda, disco\" (Skt)",
-              "corpus": "forjado por motor de síntesis v1.4.1 (short mode)"
-            },
-            "transformacion": [
-              "forjado desde kakle /ka.kle/ + falak /fa.lak/ + cakra /t͡ʃɐ.krɐ/"
-            ],
-            "derivaciones": []
-          },
-          {
-            "kalfirvach": "sahta",
-            "concepto": "férula, bastón ritual con núcleo conductor",
-            "pos": "noun",
-            "ipa": "/ˈsah.ta/",
-            "origen": {
-              "lengua": "Copto/Egipcio / Árabe Esotérico / Sánscrito",
-              "raiz_original": "ⲙⲁⲧⲟⲩ (matou) \"vara, bastón\" (Cop) / عَصًا (ʿaṣan) \"bastón\" (Ar) / दण्ड (daṇḍa) \"vara, bastón\" (Skt)",
-              "corpus": "forjado por motor de síntesis v1.4.1 (short mode)"
-            },
-            "transformacion": [
-              "forjado desde matou /ma.tuː/ + ʿaṣan /ʕa.sˤan/ + daṇḍa /d̪ɐɳ.ɖɐ/"
-            ],
-            "derivaciones": []
-          },
-          {
-            "kalfirvach": "hīnā",
-            "concepto": "ankh, cruz de la vida, llave dimensional",
-            "pos": "noun",
-            "ipa": "/ˈhiː.naː/",
-            "origen": {
-              "lengua": "Copto/Egipcio / Árabe Esotérico / Sánscrito",
-              "raiz_original": "ⲱⲛϧ (ōnh) \"vida\" (Cop) / حَيَاة (ḥayāh) \"vida\" (Ar) / जीव (jīva) \"vida, viviente\" (Skt)",
-              "corpus": "forjado por motor de síntesis v1.4.1 (short mode)"
-            },
-            "transformacion": [
-              "forjado desde ōnh /oːnx/ + ḥayāh /ħa.jaːh/ + jīva /dʒiː.ʋɐ/"
-            ],
-            "derivaciones": []
-          },
-          {
-            "kalfirvach": "tareh",
-            "concepto": "ojo (ícono mágico)",
-            "pos": "noun",
-            "ipa": "/ˈta.reh/",
-            "origen": {
-              "lengua": "Copto/Egipcio / Árabe Esotérico / Sánscrito",
-              "raiz_original": "ⲉⲓⲁⲧ (eiat) \"ojo\" (Cop) / عَيْن (ʿayn) \"ojo (esotérico)\" (Ar) / नेत्र (netra) \"ojo, vista\" (Skt)",
-              "corpus": "forjado por motor de síntesis v1.4.1 (short mode)"
-            },
-            "transformacion": [
-              "forjado desde eiat /e.jat/ + ʿayn /ʕajn/ + netra /neː.t̪rɐ/"
-            ],
-            "derivaciones": []
-          },
-          {
-            "kalfirvach": "īwīka",
-            "concepto": "doble etérico, cuerpo energético",
-            "pos": "noun",
-            "ipa": "/ˈiː.wiː.ka/",
-            "origen": {
-              "lengua": "Copto/Egipcio / Árabe Esotérico / Sánscrito",
-              "raiz_original": "ⲧⲏⲩ (tēu) \"espíritu\" (Cop) / أَثِير (athīr) \"éter\" (Ar) / आकाश (ākāśa) \"éter, espacio\" (Skt)",
-              "corpus": "forjado por motor de síntesis v1.4.1 (short mode)"
-            },
-            "transformacion": [
-              "forjado desde tēu /teːw/ + athīr /ʔa.θiːr/ + ākāśa /ɑː.kɑː.ɕɐ/"
-            ],
-            "derivaciones": []
-          },
-          {
-            "kalfirvach": "witan",
-            "concepto": "cuerpo astral, vehículo emocional",
-            "pos": "noun",
-            "ipa": "/ˈwi.tan/",
-            "origen": {
-              "lengua": "Copto/Egipcio / Árabe Esotérico / Sánscrito",
-              "raiz_original": "ⲥⲓⲟⲩ (siou) \"estrella\" (Cop) / نَجْمِيّ (najmiyy) \"astral\" (Ar) / तारक (tāraka) \"estrella\" (Skt)",
-              "corpus": "forjado por motor de síntesis v1.4.1 (short mode)"
-            },
-            "transformacion": [
-              "forjado desde siou /siw/ + najmiyy /nadʒ.mi/ + tāraka /t̪ɑː.rɐ.kɐ/"
-            ],
-            "derivaciones": []
-          },
-          {
-            "kalfirvach": "wēsni",
-            "concepto": "cuerpo mental, vehículo del pensamiento",
-            "pos": "noun",
-            "ipa": "/ˈweːs.ni/",
-            "origen": {
-              "lengua": "Copto/Egipcio / Árabe Esotérico / Sánscrito",
-              "raiz_original": "ⲙⲉⲉⲩⲉ (meeuē) \"mente\" (Cop) / ذِهْن (dhihn) \"mente\" (Ar) / मनस् (manas) \"mente\" (Skt)",
-              "corpus": "forjado por motor de síntesis v1.4.1 (short mode)"
-            },
-            "transformacion": [
-              "forjado desde meeuē /meː.we/ + dhihn /ðihn/ + manas /mɐ.nɐs/"
-            ],
-            "derivaciones": []
-          },
-          {
-            "kalfirvach": "porka",
-            "concepto": "cuerpo causal, vehículo del karma",
-            "pos": "noun",
-            "ipa": "/ˈpor.ka/",
-            "origen": {
-              "lengua": "Copto/Egipcio / Árabe Esotérico / Sánscrito",
-              "raiz_original": "ϣⲟⲣⲡ̅ (šorp) \"causa primera\" (Cop) / سَبَب (sabab) \"causa\" (Ar) / कारण (kāraṇa) \"causa\" (Skt)",
-              "corpus": "forjado por motor de síntesis v1.4.1 (short mode)"
-            },
-            "transformacion": [
-              "forjado desde šorp /ʃorp/ + sabab /sa.bab/ + kāraṇa /kɑː.rɐ.ɳɐ/"
-            ],
-            "derivaciones": []
-          },
-          {
-            "kalfirvach": "kitō",
-            "concepto": "kosha, envoltura de conciencia",
-            "pos": "noun",
-            "ipa": "/ki.ˈtoː/",
-            "origen": {
-              "lengua": "Copto/Egipcio / Árabe Esotérico / Sánscrito",
-              "raiz_original": "ⲕⲱⲧⲉ (kōte) \"rodear, envolver\" (Cop) / غِشَاء (ghishā') \"cubierta\" (Ar) / कोश (kośa) \"vaina, kosha\" (Skt)",
-              "corpus": "forjado por motor de síntesis v1.4.1 (short mode)"
-            },
-            "transformacion": [
-              "forjado desde kōte /koː.te/ + ghishā' /ɣi.ʃaːʔ/ + kośa /koː.ɕɐ/"
-            ],
-            "derivaciones": []
-          },
-          {
-            "kalfirvach": "hānta",
-            "concepto": "nadi, canal sutil",
-            "pos": "noun",
-            "ipa": "/ˈhaːn.ta/",
-            "origen": {
-              "lengua": "Copto/Egipcio / Árabe Esotérico / Sánscrito",
-              "raiz_original": "ⲙⲟⲩⲧ (mout) \"vena, sinew\" (Cop) / قَنَاة (qanāh) \"canal\" (Ar) / नाडी (nāḍī) \"nadi, canal\" (Skt)",
-              "corpus": "forjado por motor de síntesis v1.4.1 (short mode)"
-            },
-            "transformacion": [
-              "forjado desde mout /moːt/ + qanāh /qa.naːh/ + nāḍī /nɑː.ɖiː/"
-            ],
-            "derivaciones": []
-          },
-          {
-            "kalfirvach": "marwā",
-            "concepto": "chakra, centro energético",
-            "pos": "noun",
-            "ipa": "/mar.ˈwaː/",
-            "origen": {
-              "lengua": "Copto/Egipcio / Árabe Esotérico / Sánscrito",
-              "raiz_original": "ⲥⲟⲣⲡ̅ (sorp) \"girar\" (Cop) / دُوَام (dawām) \"vórtico\" (Ar) / चक्र (cakra) \"rueda, chakra\" (Skt)",
-              "corpus": "forjado por motor de síntesis v1.4.1 (short mode)"
-            },
-            "transformacion": [
-              "forjado desde sorp /sorp/ + dawām /da.waːm/ + cakra /t͡ʃɐ.krɐ/"
-            ],
-            "derivaciones": []
-          },
-          {
-            "kalfirvach": "repfī",
-            "concepto": "respiración sutil, prāṇa",
-            "pos": "noun",
-            "ipa": "/rep.ˈfiː/",
-            "origen": {
-              "lengua": "Copto/Egipcio / Árabe Esotérico / Sánscrito",
-              "raiz_original": "ⲛⲓϥⲉ (nife) \"aliento\" (Cop) / نَسِيم (nasīm) \"brisa sutil\" (Ar) / प्राण (prāṇa) \"aliento vital\" (Skt)",
-              "corpus": "forjado por motor de síntesis v1.4.1 (short mode)"
-            },
-            "transformacion": [
-              "forjado desde nife /ni.fe/ + nasīm /na.siːm/ + prāṇa /prɑː.ɳɐ/"
-            ],
-            "derivaciones": []
-          },
-          {
-            "kalfirvach": "salbē",
-            "concepto": "pulso, latido energético",
-            "pos": "noun",
-            "ipa": "/sal.ˈbeː/",
-            "origen": {
-              "lengua": "Copto/Egipcio / Árabe Esotérico / Sánscrito",
-              "raiz_original": "ⲥⲏ (sē) \"golpe, pulso\" (Cop) / نَبْض (nabḍ) \"pulso\" (Ar) / ताल (tāla) \"ritmo, pulso\" (Skt)",
-              "corpus": "forjado por motor de síntesis v1.4.1 (short mode)"
-            },
-            "transformacion": [
-              "forjado desde sē /seː/ + nabḍ /nabdˤ/ + tāla /t̪ɑː.lɐ/"
-            ],
-            "derivaciones": []
-          },
-          {
-            "kalfirvach": "līsdī",
-            "concepto": "diksha, transmisión directa de maestro a estudiante",
-            "pos": "noun",
-            "ipa": "/ˈliːs.diː/",
-            "origen": {
-              "lengua": "Copto/Egipcio / Árabe Esotérico / Sánscrito",
-              "raiz_original": "ⲥⲃⲱ (sbō) \"enseñanza\" (Cop) / تَلْقِين (talqīn) \"impartación\" (Ar) / दीक्षा (dīkṣā) \"diksha\" (Skt)",
-              "corpus": "forjado por motor de síntesis v1.4.1 (short mode)"
-            },
-            "transformacion": [
-              "forjado desde sbō /sboː/ + talqīn /tal.qiːn/ + dīkṣā /d̪iːk.ʂɑː/"
-            ],
-            "derivaciones": []
-          },
-          {
-            "kalfirvach": "pokot",
-            "concepto": "juramento ritual",
-            "pos": "noun",
-            "ipa": "/ˈpo.kot/",
-            "origen": {
-              "lengua": "Copto/Egipcio / Árabe Esotérico / Sánscrito",
-              "raiz_original": "ⲱⲣⲕ (ork) \"juramento\" (Cop) / قَسَم (qasam) \"juramento\" (Ar) / शपथ (śapatha) \"juramento, voto\" (Skt)",
-              "corpus": "forjado por motor de síntesis v1.4.1 (short mode)"
-            },
-            "transformacion": [
-              "forjado desde ork /ork/ + qasam /qa.sam/ + śapatha /ɕɐ.pɐ.t̪ʰɐ/"
-            ],
-            "derivaciones": []
-          },
-          {
-            "kalfirvach": "ātsīk",
-            "concepto": "pacto (entre fuerzas)",
-            "pos": "noun",
-            "ipa": "/ˈaːt.siːk/",
-            "origen": {
-              "lengua": "Copto/Egipcio / Árabe Esotérico / Sánscrito",
-              "raiz_original": "ⲥⲱⲟⲩ (sōou) \"reunir\" (Cop) / مِيثَاق (mīthāq) \"pacto\" (Ar) / व्रत (vrata) \"pacto religioso\" (Skt)",
-              "corpus": "forjado por motor de síntesis v1.4.1 (short mode)"
-            },
-            "transformacion": [
-              "forjado desde sōou /soːw/ + mīthāq /miː.θaːq/ + vrata /ʋrɐ.t̪ɐ/"
-            ],
-            "derivaciones": []
-          },
-          {
-            "kalfirvach": "tisri",
-            "concepto": "forja ritual, crafting de artefactos mágicos",
-            "pos": "noun",
-            "ipa": "/ˈtis.ri/",
-            "origen": {
-              "lengua": "Copto/Egipcio / Árabe Esotérico / Sánscrito",
-              "raiz_original": "ⲧⲁⲙⲓⲟ (tamio) \"crear, manufacturar\" (Cop) / صَنْعَة (ṣanʿah) \"artesanía\" (Ar) / निर्माण (nirmāṇa) \"creación\" (Skt)",
-              "corpus": "forjado por motor de síntesis v1.4.1 (short mode)"
-            },
-            "transformacion": [
-              "forjado desde tamio /ta.mi.o/ + ṣanʿah /sˤan.ʕah/ + nirmāṇa /nir.mɑː.ɳɐ/"
-            ],
-            "derivaciones": []
-          },
-          {
-            "kalfirvach": "lamki",
-            "concepto": "trazado mágico (en aire/arena)",
-            "pos": "noun",
-            "ipa": "/ˈlam.ki/",
-            "origen": {
-              "lengua": "Copto/Egipcio / Árabe Esotérico / Sánscrito",
-              "raiz_original": "ⲥϩⲁⲓ (shai) \"escribir, dibujar\" (Cop) / رَسْم (rasm) \"dibujo, trazo\" (Ar) / लेख (lekha) \"trazo, línea\" (Skt)",
-              "corpus": "forjado por motor de síntesis v1.4.1 (short mode)"
-            },
-            "transformacion": [
-              "forjado desde shai /ʃaj/ + rasm /rasm/ + lekha /leː.kʰɐ/"
-            ],
-            "derivaciones": []
-          },
-          {
-            "kalfirvach": "wōnas",
-            "concepto": "proyección de aliento, exhalar intención",
-            "pos": "noun",
-            "ipa": "/ˈwoː.nas/",
-            "origen": {
-              "lengua": "Copto/Egipcio / Árabe Esotérico / Sánscrito",
-              "raiz_original": "ⲥⲧⲱⲟⲩ (stōou) \"soplar\" (Cop) / نَفْث (nafth) \"soplido mágico\" (Ar) / उच्छ्वास (ucchvāsa) \"exhalación\" (Skt)",
-              "corpus": "forjado por motor de síntesis v1.4.1 (short mode)"
-            },
-            "transformacion": [
-              "forjado desde stōou /stoːw/ + nafth /nafθ/ + ucchvāsa /ut.t͡ʃʰʋɑː.sɐ/"
-            ],
-            "derivaciones": []
-          },
-          {
-            "kalfirvach": "konūm",
-            "concepto": "quietud, inmovilidad contemplativa",
-            "pos": "noun",
-            "ipa": "/ko.ˈnuːm/",
-            "origen": {
-              "lengua": "Copto/Egipcio / Árabe Esotérico / Sánscrito",
-              "raiz_original": "ⲙⲧⲟⲛ (mton) \"reposo\" (Cop) / سُكُون (sukūn) \"quietud\" (Ar) / शान्त (śānta) \"calma, quietud\" (Skt)",
-              "corpus": "forjado por motor de síntesis v1.4.1 (short mode)"
-            },
-            "transformacion": [
-              "forjado desde mton /mton/ + sukūn /su.kuːn/ + śānta /ɕɑːn̪.t̪ɐ/"
-            ],
-            "derivaciones": []
-          },
-          {
-            "kalfirvach": "mahit",
-            "concepto": "trance, estado alterado de conciencia",
-            "pos": "noun",
-            "ipa": "/ˈma.hit/",
-            "origen": {
-              "lengua": "Copto/Egipcio / Árabe Esotérico / Sánscrito",
-              "raiz_original": "ⲛⲕⲟⲧⲕ (nkotk) \"dormir\" (Cop) / غَيْبُوبَة (ghaybūbah) \"trance\" (Ar) / समाधि (samādhi) \"trance, absorción\" (Skt)",
-              "corpus": "forjado por motor de síntesis v1.4.1 (short mode)"
-            },
-            "transformacion": [
-              "forjado desde nkotk /nkotk/ + ghaybūbah /ɣaj.buː.bah/ + samādhi /sɐ.mɑː.d̪ʱi/"
-            ],
-            "derivaciones": []
-          },
-          {
-            "kalfirvach": "harsu",
-            "concepto": "sueño lúcido, ensueño consciente",
-            "pos": "noun",
-            "ipa": "/ˈhar.su/",
-            "origen": {
-              "lengua": "Copto/Egipcio / Árabe Esotérico / Sánscrito",
-              "raiz_original": "ⲣⲁⲥⲟⲩ (rasou) \"sueño\" (Cop) / حُلْم (ḥulm) \"sueño\" (Ar) / स्वप्न (svapna) \"sueño\" (Skt)",
-              "corpus": "forjado por motor de síntesis v1.4.1 (short mode)"
-            },
-            "transformacion": [
-              "forjado desde rasou /ra.suː/ + ḥulm /ħulm/ + svapna /sʋɐp.nɐ/"
-            ],
-            "derivaciones": []
-          },
-          {
-            "kalfirvach": "niwir",
-            "concepto": "theoria, visión directa de realidades sutiles",
-            "pos": "noun",
-            "ipa": "/ˈni.wir/",
-            "origen": {
-              "lengua": "Copto/Egipcio / Árabe Esotérico / Sánscrito",
-              "raiz_original": "ⲛⲁⲩ (nau) \"ver\" (Cop) / رُؤْيَا (ru'ya) \"visión\" (Ar) / दर्शन (darśana) \"visión, darśan\" (Skt)",
-              "corpus": "forjado por motor de síntesis v1.4.1 (short mode)"
-            },
-            "transformacion": [
-              "forjado desde nau /naw/ + ru'ya /ruʔ.jaː/ + darśana /d̪ɐr.ɕɐ.nɐ/"
-            ],
-            "derivaciones": []
-          },
-          {
-            "kalfirvach": "dinwa",
-            "concepto": "claridad perceptual, nitidez de percepción",
-            "pos": "noun",
-            "ipa": "/ˈdin.wa/",
-            "origen": {
-              "lengua": "Copto/Egipcio / Árabe Esotérico / Sánscrito",
-              "raiz_original": "ⲟⲩⲟⲉⲓⲛ (ouoein) \"luz\" (Cop) / صَفَاء (ṣafā') \"claridad\" (Ar) / विशद (viśada) \"claro, puro\" (Skt)",
-              "corpus": "forjado por motor de síntesis v1.4.1 (short mode)"
-            },
-            "transformacion": [
-              "forjado desde ouoein /woː.in/ + ṣafā' /sˤa.faːʔ/ + viśada /ʋi.ɕɐ.d̪ɐ/"
-            ],
-            "derivaciones": []
-          },
-          {
-            "kalfirvach": "makah",
-            "concepto": "silencio sagrado",
-            "pos": "noun",
-            "ipa": "/ˈma.kah/",
-            "origen": {
-              "lengua": "Copto/Egipcio / Árabe Esotérico / Sánscrito",
-              "raiz_original": "ⲕⲁⲣⲱⲟⲩ (karōou) \"callar\" (Cop) / سَكِينَة (sakīnah) \"quietud sagrada\" (Ar) / मौन (mauna) \"silencio sagrado\" (Skt)",
-              "corpus": "forjado por motor de síntesis v1.4.1 (short mode)"
-            },
-            "transformacion": [
-              "forjado desde karōou /ka.roːw/ + sakīnah /sa.kiː.nah/ + mauna /maw.nɐ/"
-            ],
-            "derivaciones": []
-          },
-          {
-            "kalfirvach": "puhso",
-            "concepto": "presencia, estar aquí y ahora",
-            "pos": "noun",
-            "ipa": "/ˈpuh.so/",
-            "origen": {
-              "lengua": "Copto/Egipcio / Árabe Esotérico / Sánscrito",
-              "raiz_original": "ϣⲟⲡ (šop) \"estar presente\" (Cop) / حُضُور (ḥuḍūr) \"presencia\" (Ar) / स्थिति (sthiti) \"estar, presencia\" (Skt)",
-              "corpus": "forjado por motor de síntesis v1.4.1 (short mode)"
-            },
-            "transformacion": [
-              "forjado desde šop /ʃop/ + ḥuḍūr /ħu.dˤuːr/ + sthiti /st̪ʰi.t̪i/"
-            ],
-            "derivaciones": []
-          },
-          {
-            "kalfirvach": "wahis",
-            "concepto": "conciencia testigo, awareness",
-            "pos": "noun",
-            "ipa": "/ˈwa.his/",
-            "origen": {
-              "lengua": "Copto/Egipcio / Árabe Esotérico / Sánscrito",
-              "raiz_original": "ⲥⲟⲩⲛ (soun) \"saber, percibir\" (Cop) / وَعْي (wa'y) \"conciencia\" (Ar) / साक्षिन् (sākṣin) \"testigo\" (Skt)",
-              "corpus": "forjado por motor de síntesis v1.4.1 (short mode)"
-            },
-            "transformacion": [
-              "forjado desde soun /soːn/ + wa'y /waʕj/ + sākṣin /sɑːk.ʂin/"
-            ],
-            "derivaciones": []
-          },
-          {
-            "kalfirvach": "bōtkā",
-            "concepto": "atención, dirección de la conciencia",
-            "pos": "noun",
-            "ipa": "/ˈboːt.kaː/",
-            "origen": {
-              "lengua": "Copto/Egipcio / Árabe Esotérico / Sánscrito",
-              "raiz_original": "ⲥⲱⲧⲙ (sōtm) \"atender\" (Cop) / اِنْتِبَاه (intibāh) \"atención\" (Ar) / एकाग्र (ekāgra) \"atención unipuntual\" (Skt)",
-              "corpus": "forjado por motor de síntesis v1.4.1 (short mode)"
-            },
-            "transformacion": [
-              "forjado desde sōtm /soːtm/ + intibāh /in.ti.baːh/ + ekāgra /eː.kɑː.ɡrɐ/"
-            ],
-            "derivaciones": []
-          },
-          {
-            "kalfirvach": "eraha",
-            "concepto": "esfinge, ser liminal guardián de umbrales",
-            "pos": "noun",
-            "ipa": "/e.ˈra.ha/",
-            "origen": {
-              "lengua": "Copto/Egipcio / Árabe Esotérico / Sánscrito",
-              "raiz_original": "ⲁⲣⲉϩ (areh) \"guardar\" (Cop) / حَارِس (ḥāris) \"guardián\" (Ar) / द्वारपाल (dvārapāla) \"guardián de puerta\" (Skt)",
-              "corpus": "forjado por motor de síntesis v1.4.1 (short mode)"
-            },
-            "transformacion": [
-              "forjado desde areh /a.reh/ + ḥāris /ħaː.ris/ + dvārapāla /d̪ʋɑː.rɐ.pɑː.lɐ/"
-            ],
-            "derivaciones": []
-          },
-          {
-            "kalfirvach": "nihār",
-            "concepto": "fénix, ciclo de combustión y renovación",
-            "pos": "noun",
-            "ipa": "/ni.ˈhaːr/",
-            "origen": {
-              "lengua": "Copto/Egipcio / Árabe Esotérico / Sánscrito",
-              "raiz_original": "ⲃⲉⲛⲛⲟⲩ (bennou) \"fénix\" (Cop) / عَنْقَاء (ʿanqā') \"fénix\" (Ar) / चिरायु (cirāyu) \"inmortal\" (Skt)",
-              "corpus": "forjado por motor de síntesis v1.4.1 (short mode)"
-            },
-            "transformacion": [
-              "forjado desde bennou /ben.nuː/ + ʿanqā' /ʕan.qaːʔ/ + cirāyu /t͡ʃi.rɑː.ju/"
-            ],
-            "derivaciones": []
-          },
-          {
-            "kalfirvach": "inti",
-            "concepto": "drake, dragón telúrico, memoria de la tierra",
-            "pos": "noun",
-            "ipa": "/ˈin.ti/",
-            "origen": {
-              "lengua": "Copto/Egipcio / Árabe Esotérico / Sánscrito",
-              "raiz_original": "ⲛⲟⲩⲛ (noun) \"abismo\" (Cop) / تِنِّين (tinnīn) \"dragón\" (Ar) / नाग (nāga) \"nāga\" (Skt)",
-              "corpus": "forjado por motor de síntesis v1.4.1 (short mode)"
-            },
-            "transformacion": [
-              "forjado desde noun /nuːn/ + tinnīn /tin.niːn/ + nāga /nɑː.ɡɐ/"
-            ],
-            "derivaciones": []
-          },
-          {
-            "kalfirvach": "adiri",
-            "concepto": "basilisco, entidad de mirada paralizante",
-            "pos": "noun",
-            "ipa": "/a.ˈdi.ri/",
-            "origen": {
-              "lengua": "Copto/Egipcio / Árabe Esotérico / Sánscrito",
-              "raiz_original": "ⲉⲓⲁⲧ (eiat) \"ojo\" (Cop) / بَصَر (baṣar) \"mirada\" (Ar) / दृष्टि (dṛṣṭi) \"mirada\" (Skt)",
-              "corpus": "forjado por motor de síntesis v1.4.1 (short mode)"
-            },
-            "transformacion": [
-              "forjado desde eiat /e.jat/ + baṣar /ba.sˤar/ + dṛṣṭi /d̪r̩ʂ.ʈi/"
-            ],
-            "derivaciones": []
-          },
-          {
-            "kalfirvach": "minsū",
-            "concepto": "grifo, guardián de tesoros",
-            "pos": "noun",
-            "ipa": "/min.ˈsuː/",
-            "origen": {
-              "lengua": "Copto/Egipcio / Árabe Esotérico / Sánscrito",
-              "raiz_original": "ⲙⲟⲩⲓ (moui) \"león\" (Cop) / نَسْر (nasr) \"águila\" (Ar) / गरुड (garuḍa) \"garuḍa\" (Skt)",
-              "corpus": "forjado por motor de síntesis v1.4.1 (short mode)"
-            },
-            "transformacion": [
-              "forjado desde moui /muːj/ + nasr /nasr/ + garuḍa /ɡɐ.ru.ɖɐ/"
-            ],
-            "derivaciones": []
-          },
-          {
-            "kalfirvach": "hīnīk",
-            "concepto": "golém, forma animada por palabra y barro",
-            "pos": "noun",
-            "ipa": "/ˈhiː.niːk/",
-            "origen": {
-              "lengua": "Copto/Egipcio / Árabe Esotérico / Sánscrito",
-              "raiz_original": "ⲕⲁϩ (kah) \"barro\" (Cop) / طِين (ṭīn) \"arcilla\" (Ar) / पिण्ड (piṇḍa) \"masa, bola de arcilla\" (Skt)",
-              "corpus": "forjado por motor de síntesis v1.4.1 (short mode)"
-            },
-            "transformacion": [
-              "forjado desde kah /kah/ + ṭīn /tˤiːn/ + piṇḍa /pɪɳ.ɖɐ/"
-            ],
-            "derivaciones": []
-          },
-          {
-            "kalfirvach": "rimak",
-            "concepto": "homúnculo, ser artificial en matriz",
-            "pos": "noun",
-            "ipa": "/ˈri.mak/",
-            "origen": {
-              "lengua": "Copto/Egipcio / Árabe Esotérico / Sánscrito",
-              "raiz_original": "ϣⲏⲣⲉ (šēre) \"pequeño\" (Cop) / جَنِين (janīn) \"embrión\" (Ar) / कृत्रिम (kṛtrima) \"artificial\" (Skt)",
-              "corpus": "forjado por motor de síntesis v1.4.1 (short mode)"
-            },
-            "transformacion": [
-              "forjado desde šēre /ʃeː.re/ + janīn /dʒa.niːn/ + kṛtrima /kr̩t̪.ri.mɐ/"
-            ],
-            "derivaciones": []
-          },
-          {
-            "kalfirvach": "tarwa",
-            "concepto": "sátiro, fauno, conciencia silvestre extática",
-            "pos": "noun",
-            "ipa": "/ˈtar.wa/",
-            "origen": {
-              "lengua": "Copto/Egipcio / Árabe Esotérico / Sánscrito",
-              "raiz_original": "ⲧⲱⲟⲩ (tōou) \"monte, lugar salvaje\" (Cop) / طَرَب (ṭarab) \"éxtasis musical\" (Ar) / गन्धर्व (gandharva) \"espíritu musical celeste\" (Skt)",
-              "corpus": "forjado por motor de síntesis v1.4.1 (short mode)"
-            },
-            "transformacion": [
-              "forjado desde tōou /toːw/ + ṭarab /tˤa.rab/ + gandharva /ɡɐn.d̪ʱɐr.ʋɐ/"
-            ],
-            "derivaciones": []
-          },
-          {
-            "kalfirvach": "fapit",
-            "concepto": "ancestro, espíritu del linaje",
-            "pos": "noun",
-            "ipa": "/ˈfa.pit/",
-            "origen": {
-              "lengua": "Copto/Egipcio / Árabe Esotérico / Sánscrito",
-              "raiz_original": "ⲉⲓⲟⲧⲉ (eiote) \"padres, ancestros\" (Cop) / سَلَف (salaf) \"antepasado\" (Ar) / पितृ (pitṛ) \"padre, ancestro\" (Skt)",
-              "corpus": "forjado por motor de síntesis v1.4.1 (short mode)"
-            },
-            "transformacion": [
-              "forjado desde eiote /ej.jo.te/ + salaf /sa.laf/ + pitṛ /pi.tr̩/"
-            ],
-            "derivaciones": []
-          },
-          {
-            "kalfirvach": "kepli",
-            "concepto": "espíritu tutelar, guardián de lugar o linaje",
-            "pos": "noun",
-            "ipa": "/ˈkep.li/",
-            "origen": {
-              "lengua": "Copto/Egipcio / Árabe Esotérico / Sánscrito",
-              "raiz_original": "ⲁⲣⲉϩ (areh) \"proteger\" (Cop) / وَلِيّ (waliyy) \"protector\" (Ar) / पालक (pālaka) \"guardián\" (Skt)",
-              "corpus": "forjado por motor de síntesis v1.4.1 (short mode)"
-            },
-            "transformacion": [
-              "forjado desde areh /a.reh/ + waliyy /wa.lijj/ + pālaka /pɑː.lɐ.kɐ/"
-            ],
-            "derivaciones": []
-          },
-          {
-            "kalfirvach": "ōmahō",
-            "concepto": "egregoro, entidad mental colectiva",
-            "pos": "noun",
-            "ipa": "/ˈoː.ma.hoː/",
-            "origen": {
-              "lengua": "Copto/Egipcio / Árabe Esotérico / Sánscrito",
-              "raiz_original": "ⲥⲱⲟⲩϩⲥ (sōouhs) \"asamblea\" (Cop) / عَقْل جَمْع (ʿaql jam') \"mente colectiva\" (Ar) / समूह (samūha) \"colectivo\" (Skt)",
-              "corpus": "forjado por motor de síntesis v1.4.1 (short mode)"
-            },
-            "transformacion": [
-              "forjado desde sōouhs /soːwhs/ + ʿaql jam' /ʕaql dʒamʕ/ + samūha /sɐ.muː.ɦɐ/"
-            ],
-            "derivaciones": []
-          },
-          {
-            "kalfirvach": "nirsa",
-            "concepto": "daimon, intermediario entre humano y divino",
-            "pos": "noun",
-            "ipa": "/ˈnir.sa/",
-            "origen": {
-              "lengua": "Copto/Egipcio / Árabe Esotérico / Sánscrito",
-              "raiz_original": "ⲥⲱⲛ (sōn) \"compañero\" (Cop) / قَرِين (qarīn) \"compañero espiritual\" (Ar) / दैव (daiva) \"ser divino, espíritu\" (Skt)",
-              "corpus": "forjado por motor de síntesis v1.4.1 (short mode)"
-            },
-            "transformacion": [
-              "forjado desde sōn /soːn/ + qarīn /qa.riːn/ + daiva /d̪aj.ʋɐ/"
             ],
             "derivaciones": []
           }
@@ -27598,739 +24747,6 @@ const LEXICON_DATA =
           }
         ]
       },
-      "gobierno_politica_derecho": {
-        "descripcion": "Gobierno, política, derecho, justicia y organización social",
-        "entradas": [
-          {
-            "kalfirvach": "hapdāta",
-            "concepto": "ley, estatuto, norma jurídica",
-            "pos": "noun",
-            "ipa": "/hapˈdaː.ta/",
-            "origen": {
-              "lengua": "Egipcio Demótico / Persa Avéstico",
-              "raiz_original": "Egipcio ḥp (hp) 'ley, justicia' + Avestan 𐬛𐬁𐬙𐬀 (dāta) 'ley, decreto, estatuto' → hapdāta (fusión: ḥap + dāta, con elisión de la faringal egipcia). 2 lenguas. La norma fundamental que rige la comunidad.",
-              "corpus": ""
-            },
-            "transformacion": [
-              "compatible"
-            ],
-            "derivaciones": []
-          },
-          {
-            "kalfirvach": "mēimat",
-            "concepto": "derecho, justicia, lo que corresponde por ley y orden cósmico",
-            "pos": "noun",
-            "ipa": "/mejˈmat/",
-            "origen": {
-              "lengua": "Copto / Egipcio Demótico",
-              "raiz_original": "Copto ⲙⲏⲓ (mēi) 'verdad, justicia, testimonio verdadero' + Egipcio mꜣꜥt (ma'at) 'orden cósmico, verdad, justicia, equidad' → mēimat (fusión: mēi + ma'at, con contracción vocálica). 2 lenguas. El principio de rectitud que equilibra la existencia.",
-              "corpus": ""
-            },
-            "transformacion": [
-              "compatible"
-            ],
-            "derivaciones": []
-          },
-          {
-            "kalfirvach": "haprat",
-            "concepto": "juez, magistrado, quien dictamina según la ley",
-            "pos": "noun",
-            "ipa": "/hapˈrat/",
-            "origen": {
-              "lengua": "Copto / Persa Avéstico",
-              "raiz_original": "Copto ϩⲁⲡ (hap) 'juicio, ley, veredicto' + Avestan 𐬭𐬀𐬙𐬎 (ratu) 'juez, señor, maestro, autoridad que juzga' → haprat (fusión: hap + ratu, contracción de -atu). 2 lenguas. La autoridad que interpreta y aplica la ley.",
-              "corpus": ""
-            },
-            "transformacion": [
-              "compatible"
-            ],
-            "derivaciones": []
-          },
-          {
-            "kalfirvach": "romālik",
-            "concepto": "rey, monarca, soberano de un reino",
-            "pos": "noun",
-            "ipa": "/roˈmaː.lik/",
-            "origen": {
-              "lengua": "Copto / Árabe esotérico",
-              "raiz_original": "Copto ⲣⲣⲟ (rro) 'rey, gobernante' + Árabe ملك (malik) 'rey, soberano, poseedor' → romālik (fusión: rro + malik, simplificación de /rr/ y /m/ inicial). 2 lenguas. El gobernante supremo de la nación.",
-              "corpus": ""
-            },
-            "transformacion": [
-              "compatible"
-            ],
-            "derivaciones": []
-          },
-          {
-            "kalfirvach": "māliknīt",
-            "concepto": "reina, soberana, monarca",
-            "pos": "noun",
-            "ipa": "/maːˈlik.niːt/",
-            "origen": {
-              "lengua": "Árabe esotérico / Egipcio Demótico",
-              "raiz_original": "Árabe ملكة (malika) 'reina' + Egipcio nb.t (neb-t, nībt) 'señora, dueña, ama' → māliknīt (fusión: mālika + nībt, con simplificación de /bt/ → /t/). 2 lenguas. La gobernante femenina del reino.",
-              "corpus": ""
-            },
-            "transformacion": [
-              "compatible"
-            ],
-            "derivaciones": []
-          },
-          {
-            "kalfirvach": "kahyul",
-            "concepto": "reino, territorio, dominio soberano",
-            "pos": "noun",
-            "ipa": "/kahˈjul/",
-            "origen": {
-              "lengua": "Copto / Tibetano Clásico",
-              "raiz_original": "Copto ⲕⲁϩ (kah) 'tierra, suelo, territorio' + Tibetano clásico ཡུལ (yul) 'país, reino, región, tierra natal' → kahyul (fusión: kah + yul). 2 lenguas. El territorio bajo un dominio soberano.",
-              "corpus": ""
-            },
-            "transformacion": [
-              "compatible"
-            ],
-            "derivaciones": []
-          },
-          {
-            "kalfirvach": "dawlakōt",
-            "concepto": "gobierno, estado, administración del poder público",
-            "pos": "noun",
-            "ipa": "/ˈdaw.la.koːt/",
-            "origen": {
-              "lengua": "Árabe esotérico / Copto",
-              "raiz_original": "Árabe دولة (dawla) 'estado, dinastía, turno de gobierno' + Copto ⲕⲱⲧ (kōt) 'construir, edificar, establecer' → dawlakōt (fusión: dawla + kōt). 2 lenguas. La estructura que edifica y sostiene el orden público.",
-              "corpus": ""
-            },
-            "transformacion": [
-              "compatible"
-            ],
-            "derivaciones": []
-          },
-          {
-            "kalfirvach": "wālrat",
-            "concepto": "gobernante, autoridad, quien ejerce el poder",
-            "pos": "noun",
-            "ipa": "/waːlˈrat/",
-            "origen": {
-              "lengua": "Árabe esotérico / Persa Avéstico",
-              "raiz_original": "Árabe وال (wālī) 'gobernante, protector, autoridad' + Avestan 𐬭𐬀𐬙𐬎 (ratu) 'señor, juez, maestro' → wālrat (fusión: wāl + ratu, contracción de -ī y -u). 2 lenguas. Quien detenta la autoridad legítima sobre un territorio.",
-              "corpus": ""
-            },
-            "transformacion": [
-              "compatible"
-            ],
-            "derivaciones": []
-          },
-          {
-            "kalfirvach": "nīwtagrong",
-            "concepto": "ciudad, urbe, asentamiento urbano amurallado",
-            "pos": "noun",
-            "ipa": "/ˈniːw.ta.groŋ/",
-            "origen": {
-              "lengua": "Egipcio Demótico / Tibetano Clásico",
-              "raiz_original": "Egipcio njwt (niw-t) 'ciudad, asentamiento' + Tibetano clásico གྲོང (grong) 'pueblo, villa, asentamiento' → nīwtagrong (fusión: nīwt + grong con epéntesis /a/ para evitar /t.g/). 2 lenguas. El centro urbano de la vida política y social.",
-              "corpus": ""
-            },
-            "transformacion": [
-              "compatible"
-            ],
-            "derivaciones": []
-          },
-          {
-            "kalfirvach": "ahadāt",
-            "concepto": "tratado, pacto, acuerdo vinculante entre partes",
-            "pos": "noun",
-            "ipa": "/a.haˈdaːt/",
-            "origen": {
-              "lengua": "Árabe esotérico / Persa Avéstico",
-              "raiz_original": "Árabe عهد (ʿahd) 'tratado, pacto, compromiso' + Avestan 𐬛𐬁𐬙𐬀 (dāta) 'ley, decreto, estatuto' → ahadāt (epéntesis /a/ para disolver /hd/ coda ilegal; /h.d/ como núcleo silábico). 2 lenguas. El acuerdo solemne sellado por la ley.",
-              "corpus": ""
-            },
-            "transformacion": [
-              "compatible"
-            ],
-            "derivaciones": []
-          },
-          {
-            "kalfirvach": "hilifārta",
-            "concepto": "alianza, coalición, unión estratégica entre pueblos",
-            "pos": "noun",
-            "ipa": "/hi.liˈfaːr.ta/",
-            "origen": {
-              "lengua": "Árabe esotérico / Persa Avéstico",
-              "raiz_original": "Árabe حلف (ḥilf) 'alianza, pacto, juramento mutuo' + Avestan 𐬀𐬭𐬙𐬀 (arta) 'orden cósmico, verdad, justicia' → hilifārta (epéntesis /a/ para disolver /lf/ coda = líquida+fricativa no oclusiva, ilegal). 2 lenguas. La unión sagrada de dos fuerzas bajo un mismo orden.",
-              "corpus": ""
-            },
-            "transformacion": [
-              "compatible"
-            ],
-            "derivaciones": []
-          },
-          {
-            "kalfirvach": "magaharb",
-            "concepto": "guerra, conflicto armado, contienda entre fuerzas",
-            "pos": "noun",
-            "ipa": "/ma.ˈɡa.harp/",
-            "origen": {
-              "lengua": "Árabe esotérico / Tibetano Clásico",
-              "raiz_original": "Tibetano clásico དམག (dmag) 'guerra, ejército, hueste' + Árabe حرب (ḥarb) 'guerra, conflicto, batalla' → magaharb (epéntesis /a/ entre mag y harb para separar morfemas). /b/ → /p/ en coda por §3.3. 2 lenguas. El enfrentamiento organizado entre comunidades.",
-              "corpus": "Textos tibetanos clásicos / Árabe clásico"
-            },
-            "transformacion": [
-              "b→p en forma_final por §3.3",
-              "/ɡ/ se mantiene por ser onset de sílaba -ga-"
-            ],
-            "derivaciones": []
-          },
-          {
-            "kalfirvach": "silmarta",
-            "concepto": "paz, armonía, ausencia de conflicto",
-            "pos": "noun",
-            "ipa": "/silˈmar.ta/",
-            "origen": {
-              "lengua": "Árabe esotérico / Persa Avéstico",
-              "raiz_original": "Árabe سلم (silm) 'paz, concordia, sumisión voluntaria a la armonía' + Avestan 𐬀𐬭𐬙𐬀 (arta) 'orden cósmico, verdad' → silmarta (fusión: silm + arta). /lm/ coda = líquida+nasal permitida por §10.3 (raro). 2 lenguas. La paz como manifestación del orden cósmico.",
-              "corpus": ""
-            },
-            "transformacion": [
-              "compatible"
-            ],
-            "derivaciones": []
-          },
-          {
-            "kalfirvach": "rabāji",
-            "concepto": "impuesto, tributo, contribución al estado",
-            "pos": "noun",
-            "ipa": "/raˈbaː.dʒi/",
-            "origen": {
-              "lengua": "Copto / Persa Avéstico",
-              "raiz_original": "Copto ⲣⲁⲃ (rab) 'tributo, impuesto, tasa' + Avestan 𐬠𐬁𐬘𐬌 (bāji) 'tributo, ofrenda, impuesto' → rabāji (fusión: rab + bāji, geminación /bb/ simplificada a /b/). 2 lenguas. La contribución que sostiene la administración.",
-              "corpus": ""
-            },
-            "transformacion": [
-              "compatible"
-            ],
-            "derivaciones": []
-          },
-          {
-            "kalfirvach": "amarwit",
-            "concepto": "decreto, edicto, mandato oficial de la autoridad",
-            "pos": "noun",
-            "ipa": "/aˈmar.wit/",
-            "origen": {
-              "lengua": "Árabe esotérico / Egipcio Demótico",
-              "raiz_original": "Árabe أمر (amr) 'orden, mandato, comando' + Egipcio wḏ (wedj) 'decreto, mandato divino, palabra de autoridad' → amarwit (epéntesis /a/ en amr → amar por /mr/ coda ilegal; /d/ → /t/ en coda por §3.3). 2 lenguas. La palabra del gobernante que se convierte en ley.",
-              "corpus": ""
-            },
-            "transformacion": [
-              "d→t en forma_final por §3.3"
-            ],
-            "derivaciones": []
-          },
-          {
-            "kalfirvach": "majlisgros",
-            "concepto": "asamblea, consejo, reunión deliberativa",
-            "pos": "noun",
-            "ipa": "/madʒˈlis.gros/",
-            "origen": {
-              "lengua": "Árabe esotérico / Tibetano Clásico",
-              "raiz_original": "Árabe مجلس (majlis) 'asamblea, consejo, lugar de reunión' + Tibetano clásico གྲོས (gros) 'deliberación, consejo, discusión' → majlisgros (fusión directa: majlis + gros). 2 lenguas. El cuerpo colegiado que delibera y decide.",
-              "corpus": "Textos tibetanos clásicos / Árabe clásico"
-            },
-            "transformacion": [
-              "compatible"
-            ],
-            "derivaciones": []
-          },
-          {
-            "kalfirvach": "jurmbōn",
-            "concepto": "crimen, delito, transgresión grave de la ley",
-            "pos": "noun",
-            "ipa": "/dʒurmˈboːn/",
-            "origen": {
-              "lengua": "Árabe esotérico / Copto",
-              "raiz_original": "Árabe جرم (jurm) 'crimen, delito, falta grave' + Copto ⲃⲟⲟⲛⲉ (boone) 'mal, maldad, cosa mala' → jurmbōn (fusión: jurm + boone, contracción de la terminación copta). /rm/ coda = líquida+nasal permitida por §10.3. 2 lenguas. La acción que quebranta el orden legal.",
-              "corpus": ""
-            },
-            "transformacion": [
-              "compatible"
-            ],
-            "derivaciones": []
-          },
-          {
-            "kalfirvach": "ikāpchad",
-            "concepto": "castigo, pena, sanción por transgresión de la ley",
-            "pos": "noun",
-            "ipa": "/iˈkaːp.tʃad/",
-            "origen": {
-              "lengua": "Árabe esotérico / Tibetano Clásico",
-              "raiz_original": "Árabe عقاب (ʿiqāb) 'castigo, pena, retribución' + Tibetano clásico ཆད (chad) 'castigo, pena, sanción, corte' → ikāpchad (fusión: iqāb + chad, q→k, /b/→/p/ en coda por §3.3). 2 lenguas. La consecuencia jurídica de la transgresión.",
-              "corpus": "Textos tibetanos clásicos / Árabe clásico"
-            },
-            "transformacion": [
-              "q→k, b→p en forma_final por §3.3"
-            ],
-            "derivaciones": []
-          },
-          {
-            "kalfirvach": "tāshhad",
-            "concepto": "frontera, límite, línea divisoria entre territorios",
-            "pos": "noun",
-            "ipa": "/taːʃˈhad/",
-            "origen": {
-              "lengua": "Egipcio Demótico / Árabe esotérico",
-              "raiz_original": "Egipcio tꜣš (tjas) 'frontera, límite, borde' + Árabe حد (ḥadd) 'límite, frontera, confín' → tāshhad (fusión: tāš + ḥadd). /ʃ/ coda + /h/ onset a través del límite silábico. 2 lenguas. El confín que separa y define los territorios.",
-              "corpus": ""
-            },
-            "transformacion": [
-              "compatible"
-            ],
-            "derivaciones": []
-          },
-          {
-            "kalfirvach": "naltewur",
-            "concepto": "gobierno",
-            "pos": "sustantivo",
-            "ipa": "[nal.ˈte.wur]",
-            "origen": {
-              "lengua": "forjado desde persa moderno, griego koiné, tibetano",
-              "raiz_original": "forjado desde persa moderno, griego koiné, tibetano",
-              "corpus": "Forja léxica KFA (kalfirvach)"
-            },
-            "transformacion": "score 44.5 — silabeo: nal.té.wur",
-            "derivaciones": []
-          },
-          {
-            "kalfirvach": "kōnhatro",
-            "concepto": "gobernar",
-            "pos": "verbo",
-            "ipa": "[ˈkoːn.hat.ro]",
-            "origen": {
-              "lengua": "forjado desde persa moderno, griego koiné, tibetano",
-              "raiz_original": "forjado desde persa moderno, griego koiné, tibetano",
-              "corpus": "Forja léxica KFA (kalfirvach)"
-            },
-            "transformacion": "score 44.8 — silabeo: kṓn.hat.ro",
-            "derivaciones": []
-          },
-          {
-            "kalfirvach": "tipvilke",
-            "concepto": "estado / nación",
-            "pos": "sustantivo",
-            "ipa": "[tip.ˈvil.ke]",
-            "origen": {
-              "lengua": "forjado desde persa moderno, griego koiné, tibetano",
-              "raiz_original": "forjado desde persa moderno, griego koiné, tibetano",
-              "corpus": "Forja léxica KFA (kalfirvach)"
-            },
-            "transformacion": "score 43.8 — silabeo: tip.víl.ke",
-            "derivaciones": []
-          },
-          {
-            "kalfirvach": "wetsadūk",
-            "concepto": "autoridad",
-            "pos": "sustantivo",
-            "ipa": "[wet.sa.ˈduːk]",
-            "origen": {
-              "lengua": "forjado desde persa moderno, griego koiné, tibetano",
-              "raiz_original": "forjado desde persa moderno, griego koiné, tibetano",
-              "corpus": "Forja léxica KFA (kalfirvach)"
-            },
-            "transformacion": "score 43.6 — silabeo: wet.sa.dū́k",
-            "derivaciones": []
-          },
-          {
-            "kalfirvach": "hēmbēnō",
-            "concepto": "líder",
-            "pos": "sustantivo",
-            "ipa": "[ˈheːm.beː.noː]",
-            "origen": {
-              "lengua": "forjado desde persa moderno, griego koiné, tibetano",
-              "raiz_original": "forjado desde persa moderno, griego koiné, tibetano",
-              "corpus": "Forja léxica KFA (kalfirvach)"
-            },
-            "transformacion": "score 41.7 — silabeo: hḗm.bē.nō",
-            "derivaciones": []
-          },
-          {
-            "kalfirvach": "behepsol",
-            "concepto": "rey / soberano",
-            "pos": "sustantivo",
-            "ipa": "[be.ˈhep.sol]",
-            "origen": {
-              "lengua": "forjado desde persa moderno, griego koiné, tibetano",
-              "raiz_original": "forjado desde persa moderno, griego koiné, tibetano",
-              "corpus": "Forja léxica KFA (kalfirvach)"
-            },
-            "transformacion": "score 45.0 — silabeo: be.hép.sol",
-            "derivaciones": []
-          },
-          {
-            "kalfirvach": "kolavosh",
-            "concepto": "consejo",
-            "pos": "sustantivo",
-            "ipa": "[ko.ˈla.voʃ]",
-            "origen": {
-              "lengua": "forjado desde persa moderno, griego koiné, tibetano",
-              "raiz_original": "forjado desde persa moderno, griego koiné, tibetano",
-              "corpus": "Forja léxica KFA (kalfirvach)"
-            },
-            "transformacion": "score 40.0 — silabeo: ko.lá.vosh",
-            "derivaciones": []
-          },
-          {
-            "kalfirvach": "ratsōni",
-            "concepto": "jefe / cabeza",
-            "pos": "sustantivo",
-            "ipa": "[rat.ˈsoː.ni]",
-            "origen": {
-              "lengua": "forjado desde persa moderno, griego koiné, tibetano",
-              "raiz_original": "forjado desde persa moderno, griego koiné, tibetano",
-              "corpus": "Forja léxica KFA (kalfirvach)"
-            },
-            "transformacion": "score 42.0 — silabeo: rat.sṓ.ni",
-            "derivaciones": []
-          },
-          {
-            "kalfirvach": "ēltiskip",
-            "concepto": "política",
-            "pos": "sustantivo",
-            "ipa": "[ˈeːl.tis.kip]",
-            "origen": {
-              "lengua": "forjado desde persa moderno, griego koiné, tibetano",
-              "raiz_original": "forjado desde persa moderno, griego koiné, tibetano",
-              "corpus": "Forja léxica KFA (kalfirvach)"
-            },
-            "transformacion": "score 44.8 — silabeo: ḗl.tis.kip",
-            "derivaciones": []
-          },
-          {
-            "kalfirvach": "tinmikos",
-            "concepto": "comunidad",
-            "pos": "sustantivo",
-            "ipa": "[tin.ˈmi.kos]",
-            "origen": {
-              "lengua": "forjado desde persa moderno, griego koiné, tibetano",
-              "raiz_original": "forjado desde persa moderno, griego koiné, tibetano",
-              "corpus": "Forja léxica KFA (kalfirvach)"
-            },
-            "transformacion": "score 45.0 — silabeo: tin.mí.kos",
-            "derivaciones": []
-          },
-          {
-            "kalfirvach": "simnēde",
-            "concepto": "pueblo / gente",
-            "pos": "sustantivo",
-            "ipa": "[sim.ˈneː.de]",
-            "origen": {
-              "lengua": "forjado desde persa moderno, griego koiné, tibetano",
-              "raiz_original": "forjado desde persa moderno, griego koiné, tibetano",
-              "corpus": "Forja léxica KFA (kalfirvach)"
-            },
-            "transformacion": "score 41.9 — silabeo: sim.nḗ.de",
-            "derivaciones": []
-          },
-          {
-            "kalfirvach": "vēplekim",
-            "concepto": "ciudadano",
-            "pos": "sustantivo",
-            "ipa": "[ˈveːp.le.kim]",
-            "origen": {
-              "lengua": "forjado desde persa moderno, griego koiné, tibetano",
-              "raiz_original": "forjado desde persa moderno, griego koiné, tibetano",
-              "corpus": "Forja léxica KFA (kalfirvach)"
-            },
-            "transformacion": "score 44.7 — silabeo: vḗp.le.kim",
-            "derivaciones": []
-          },
-          {
-            "kalfirvach": "kenhipot",
-            "concepto": "derecho (civil)",
-            "pos": "sustantivo",
-            "ipa": "[ken.ˈhi.pot]",
-            "origen": {
-              "lengua": "forjado desde persa moderno, griego koiné, tibetano",
-              "raiz_original": "forjado desde persa moderno, griego koiné, tibetano",
-              "corpus": "Forja léxica KFA (kalfirvach)"
-            },
-            "transformacion": "score 44.6 — silabeo: ken.hí.pot",
-            "derivaciones": []
-          },
-          {
-            "kalfirvach": "fīlvizet",
-            "concepto": "deber / obligación",
-            "pos": "sustantivo",
-            "ipa": "[ˈfiːl.vi.zet]",
-            "origen": {
-              "lengua": "forjado desde persa moderno, griego koiné, tibetano",
-              "raiz_original": "forjado desde persa moderno, griego koiné, tibetano",
-              "corpus": "Forja léxica KFA (kalfirvach)"
-            },
-            "transformacion": "score 44.4 — silabeo: fī́l.vi.zet",
-            "derivaciones": []
-          },
-          {
-            "kalfirvach": "ralwazan",
-            "concepto": "libertad",
-            "pos": "sustantivo",
-            "ipa": "[ral.ˈwa.zan]",
-            "origen": {
-              "lengua": "forjado desde persa moderno, griego koiné, tibetano",
-              "raiz_original": "forjado desde persa moderno, griego koiné, tibetano",
-              "corpus": "Forja léxica KFA (kalfirvach)"
-            },
-            "transformacion": "score 45.0 — silabeo: ral.wá.zan",
-            "derivaciones": []
-          },
-          {
-            "kalfirvach": "timreksa",
-            "concepto": "decisión",
-            "pos": "sustantivo",
-            "ipa": "[tim.ˈrek.sa]",
-            "origen": {
-              "lengua": "forjado desde persa moderno, griego koiné, tibetano",
-              "raiz_original": "forjado desde persa moderno, griego koiné, tibetano",
-              "corpus": "Forja léxica KFA (kalfirvach)"
-            },
-            "transformacion": "score 44.5 — silabeo: tim.rék.sa",
-            "derivaciones": []
-          },
-          {
-            "kalfirvach": "osmono",
-            "concepto": "ley",
-            "pos": "sustantivo",
-            "ipa": "[os.ˈmo.no]",
-            "origen": {
-              "lengua": "forjado desde persa moderno, griego koiné, tibetano",
-              "raiz_original": "forjado desde persa moderno, griego koiné, tibetano",
-              "corpus": "Forja léxica KFA (kalfirvach)"
-            },
-            "transformacion": "score 36.9 — silabeo: os.mó.no",
-            "derivaciones": []
-          },
-          {
-            "kalfirvach": "tilinsok",
-            "concepto": "justicia",
-            "pos": "sustantivo",
-            "ipa": "[ti.ˈlin.sok]",
-            "origen": {
-              "lengua": "forjado desde persa moderno, griego koiné, tibetano",
-              "raiz_original": "forjado desde persa moderno, griego koiné, tibetano",
-              "corpus": "Forja léxica KFA (kalfirvach)"
-            },
-            "transformacion": "score 45.0 — silabeo: ti.lín.sok",
-            "derivaciones": []
-          },
-          {
-            "kalfirvach": "mipzosīt",
-            "concepto": "juez",
-            "pos": "sustantivo",
-            "ipa": "[mip.zo.ˈsiːt]",
-            "origen": {
-              "lengua": "forjado desde persa moderno, griego koiné, tibetano",
-              "raiz_original": "forjado desde persa moderno, griego koiné, tibetano",
-              "corpus": "Forja léxica KFA (kalfirvach)"
-            },
-            "transformacion": "score 44.9 — silabeo: mip.zo.sī́t",
-            "derivaciones": []
-          },
-          {
-            "kalfirvach": "zinmitvō",
-            "concepto": "juzgar",
-            "pos": "verbo",
-            "ipa": "[zin.mit.ˈvoː]",
-            "origen": {
-              "lengua": "forjado desde persa moderno, griego koiné, tibetano",
-              "raiz_original": "forjado desde persa moderno, griego koiné, tibetano",
-              "corpus": "Forja léxica KFA (kalfirvach)"
-            },
-            "transformacion": "score 44.9 — silabeo: zin.mit.vṓ",
-            "derivaciones": []
-          },
-          {
-            "kalfirvach": "kotahan",
-            "concepto": "culpa",
-            "pos": "sustantivo",
-            "ipa": "[ko.ˈta.han]",
-            "origen": {
-              "lengua": "forjado desde persa moderno, griego koiné, tibetano",
-              "raiz_original": "forjado desde persa moderno, griego koiné, tibetano",
-              "corpus": "Forja léxica KFA (kalfirvach)"
-            },
-            "transformacion": "score 41.7 — silabeo: ko.tá.han",
-            "derivaciones": []
-          },
-          {
-            "kalfirvach": "kimotsip",
-            "concepto": "sentencia / veredicto",
-            "pos": "sustantivo",
-            "ipa": "[ki.ˈmot.sip]",
-            "origen": {
-              "lengua": "forjado desde persa moderno, griego koiné, tibetano",
-              "raiz_original": "forjado desde persa moderno, griego koiné, tibetano",
-              "corpus": "Forja léxica KFA (kalfirvach)"
-            },
-            "transformacion": "score 45.0 — silabeo: ki.mót.sip",
-            "derivaciones": []
-          },
-          {
-            "kalfirvach": "zemnirot",
-            "concepto": "castigo",
-            "pos": "sustantivo",
-            "ipa": "[zem.ˈni.rot]",
-            "origen": {
-              "lengua": "forjado desde persa moderno, griego koiné, tibetano",
-              "raiz_original": "forjado desde persa moderno, griego koiné, tibetano",
-              "corpus": "Forja léxica KFA (kalfirvach)"
-            },
-            "transformacion": "score 45.0 — silabeo: zem.ní.rot",
-            "derivaciones": []
-          },
-          {
-            "kalfirvach": "kolnamē",
-            "concepto": "crimen / delito",
-            "pos": "sustantivo",
-            "ipa": "[kol.na.ˈmeː]",
-            "origen": {
-              "lengua": "forjado desde persa moderno, griego koiné, tibetano",
-              "raiz_original": "forjado desde persa moderno, griego koiné, tibetano",
-              "corpus": "Forja léxica KFA (kalfirvach)"
-            },
-            "transformacion": "score 42.0 — silabeo: kol.na.mḗ",
-            "derivaciones": []
-          },
-          {
-            "kalfirvach": "patmize",
-            "concepto": "multa",
-            "pos": "sustantivo",
-            "ipa": "[pat.ˈmi.ze]",
-            "origen": {
-              "lengua": "forjado desde persa moderno, griego koiné, tibetano",
-              "raiz_original": "forjado desde persa moderno, griego koiné, tibetano",
-              "corpus": "Forja léxica KFA (kalfirvach)"
-            },
-            "transformacion": "score 42.0 — silabeo: pat.mí.ze",
-            "derivaciones": []
-          },
-          {
-            "kalfirvach": "norpidak",
-            "concepto": "prueba / evidencia",
-            "pos": "sustantivo",
-            "ipa": "[nor.ˈpi.dak]",
-            "origen": {
-              "lengua": "forjado desde persa moderno, griego koiné, tibetano",
-              "raiz_original": "forjado desde persa moderno, griego koiné, tibetano",
-              "corpus": "Forja léxica KFA (kalfirvach)"
-            },
-            "transformacion": "score 45.0 — silabeo: nor.pí.dak",
-            "derivaciones": []
-          },
-          {
-            "kalfirvach": "mahdopos",
-            "concepto": "testigo",
-            "pos": "sustantivo",
-            "ipa": "[mah.ˈdo.pos]",
-            "origen": {
-              "lengua": "forjado desde persa moderno, griego koiné, tibetano",
-              "raiz_original": "forjado desde persa moderno, griego koiné, tibetano",
-              "corpus": "Forja léxica KFA (kalfirvach)"
-            },
-            "transformacion": "score 45.0 — silabeo: mah.dó.pos",
-            "derivaciones": []
-          },
-          {
-            "kalfirvach": "distezip",
-            "concepto": "votar",
-            "pos": "verbo",
-            "ipa": "[dis.ˈte.zip]",
-            "origen": {
-              "lengua": "forjado desde persa moderno, griego koiné, tibetano",
-              "raiz_original": "forjado desde persa moderno, griego koiné, tibetano",
-              "corpus": "Forja léxica KFA (kalfirvach)"
-            },
-            "transformacion": "score 44.9 — silabeo: dis.té.zip",
-            "derivaciones": []
-          },
-          {
-            "kalfirvach": "tomōkzīs",
-            "concepto": "aprobar",
-            "pos": "verbo",
-            "ipa": "[to.ˈmoːk.ziːs]",
-            "origen": {
-              "lengua": "forjado desde persa moderno, griego koiné, tibetano",
-              "raiz_original": "forjado desde persa moderno, griego koiné, tibetano",
-              "corpus": "Forja léxica KFA (kalfirvach)"
-            },
-            "transformacion": "score 44.8 — silabeo: to.mṓk.zīs",
-            "derivaciones": []
-          },
-          {
-            "kalfirvach": "ōntaskel",
-            "concepto": "prohibir",
-            "pos": "verbo",
-            "ipa": "[ˈoːn.tas.kel]",
-            "origen": {
-              "lengua": "forjado desde persa moderno, griego koiné, tibetano",
-              "raiz_original": "forjado desde persa moderno, griego koiné, tibetano",
-              "corpus": "Forja léxica KFA (kalfirvach)"
-            },
-            "transformacion": "score 44.9 — silabeo: ṓn.tas.kel",
-            "derivaciones": []
-          },
-          {
-            "kalfirvach": "perzitok",
-            "concepto": "permitir",
-            "pos": "verbo",
-            "ipa": "[per.ˈzi.tok]",
-            "origen": {
-              "lengua": "forjado desde persa moderno, griego koiné, tibetano",
-              "raiz_original": "forjado desde persa moderno, griego koiné, tibetano",
-              "corpus": "Forja léxica KFA (kalfirvach)"
-            },
-            "transformacion": "score 44.8 — silabeo: per.zí.tok",
-            "derivaciones": []
-          },
-          {
-            "kalfirvach": "mōtesroh",
-            "concepto": "acusar",
-            "pos": "verbo",
-            "ipa": "[ˈmoː.tes.roh]",
-            "origen": {
-              "lengua": "forjado desde persa moderno, griego koiné, tibetano",
-              "raiz_original": "forjado desde persa moderno, griego koiné, tibetano",
-              "corpus": "Forja léxica KFA (kalfirvach)"
-            },
-            "transformacion": "score 44.9 — silabeo: mṓ.tes.roh",
-            "derivaciones": []
-          },
-          {
-            "kalfirvach": "pesnomdo",
-            "concepto": "defender / abogar",
-            "pos": "verbo",
-            "ipa": "[pes.ˈnom.do]",
-            "origen": {
-              "lengua": "forjado desde persa moderno, griego koiné, tibetano",
-              "raiz_original": "forjado desde persa moderno, griego koiné, tibetano",
-              "corpus": "Forja léxica KFA (kalfirvach)"
-            },
-            "transformacion": "score 44.9 — silabeo: pes.nóm.do",
-            "derivaciones": []
-          },
-          {
-            "kalfirvach": "vitpasfa",
-            "concepto": "acuerdo / pacto",
-            "pos": "sustantivo",
-            "ipa": "[vit.ˈpas.fa]",
-            "origen": {
-              "lengua": "forjado desde persa moderno, griego koiné, tibetano",
-              "raiz_original": "forjado desde persa moderno, griego koiné, tibetano",
-              "corpus": "Forja léxica KFA (kalfirvach)"
-            },
-            "transformacion": "score 44.9 — silabeo: vit.pás.fa",
-            "derivaciones": []
-          }
-        ]
-      },
       "postposiciones_y_casos": {
         "nombre": "Postposicion",
         "descripcion": "Afijos gramaticales: postposicion",
@@ -28411,6 +24827,149 @@ const LEXICON_DATA =
               "lengua": "Griego / Sánscrito",
               "raiz_original": "Griego ὦ (ô) 'oh' (vocativo); Sánscrito o (interjección vocativa)",
               "corpus": "gramática v1.5 §1.7"
+            },
+            "transformacion": [],
+            "derivaciones": []
+          },
+          {
+            "kalfirvach": "dúr",
+            "concepto": "lejos (far) — postposición locativa",
+            "pos": "particle",
+            "ipa": "/dur/",
+            "origen": {
+              "lengua": "Persa Avéstico / Griego Koiné",
+              "raiz_original": "dūr 'lejos' / tēle 'lejos, a lo lejos'",
+              "corpus": ""
+            },
+            "transformacion": [],
+            "derivaciones": []
+          },
+          {
+            "kalfirvach": "néshta",
+            "concepto": "cerca (near) — postposición locativa",
+            "pos": "particle",
+            "ipa": "/ˈneʃ.ta/",
+            "origen": {
+              "lengua": "Sánscrito Védico / Persa Avéstico",
+              "raiz_original": "nediṣṭha 'más cercano' / nazd 'cerca'",
+              "corpus": ""
+            },
+            "transformacion": [],
+            "derivaciones": []
+          },
+          {
+            "kalfirvach": "pár",
+            "concepto": "a través (through, across) — postposición locativa",
+            "pos": "particle",
+            "ipa": "/par/",
+            "origen": {
+              "lengua": "Persa Avéstico / Árabe esotérico",
+              "raiz_original": "par 'a través, sobre' / 'abra 'a través de'",
+              "corpus": ""
+            },
+            "transformacion": [],
+            "derivaciones": []
+          },
+          {
+            "kalfirvach": "pichas",
+            "concepto": "detrás (behind) — postposición locativa",
+            "pos": "particle",
+            "ipa": "/ˈpi.tʃas/",
+            "origen": {
+              "lengua": "Sánscrito Védico / Persa Avéstico",
+              "raiz_original": "paścāt 'detrás' / pas 'detrás'",
+              "corpus": ""
+            },
+            "transformacion": [],
+            "derivaciones": []
+          },
+          {
+            "kalfirvach": "píram",
+            "concepto": "alrededor (around) — postposición locativa",
+            "pos": "particle",
+            "ipa": "/ˈpi.ram/",
+            "origen": {
+              "lengua": "Persa Avéstico / Griego Koiné",
+              "raiz_original": "pīrāmūn 'alrededor' / peri 'alrededor'",
+              "corpus": ""
+            },
+            "transformacion": [],
+            "derivaciones": []
+          },
+          {
+            "kalfirvach": "présh",
+            "concepto": "delante, frente a — postposición locativa",
+            "pos": "particle",
+            "ipa": "/preʃ/",
+            "origen": {
+              "lengua": "Sánscrito Védico / Persa Avéstico",
+              "raiz_original": "prati 'hacia, frente a' / pēš 'delante, frente'",
+              "corpus": ""
+            },
+            "transformacion": [],
+            "derivaciones": []
+          },
+          {
+            "kalfirvach": "upári",
+            "concepto": "encima, sobre — postposición locativa",
+            "pos": "particle",
+            "ipa": "/uˈpa.ri/",
+            "origen": {
+              "lengua": "Sánscrito Védico / Griego Koiné",
+              "raiz_original": "upari 'encima, sobre' / hypér 'sobre, encima de'",
+              "corpus": ""
+            },
+            "transformacion": [],
+            "derivaciones": []
+          },
+          {
+            "kalfirvach": "wásat",
+            "concepto": "entre (between, among) — postposición locativa",
+            "pos": "particle",
+            "ipa": "/ˈwa.sat/",
+            "origen": {
+              "lengua": "Árabe esotérico / Persa Avéstico",
+              "raiz_original": "wasat 'medio, centro' / miyān 'entre, medio'",
+              "corpus": ""
+            },
+            "transformacion": [],
+            "derivaciones": []
+          },
+          {
+            "kalfirvach": "zírat",
+            "concepto": "debajo, bajo — postposición locativa",
+            "pos": "particle",
+            "ipa": "/ˈzi.rat/",
+            "origen": {
+              "lengua": "Persa Avéstico / Árabe esotérico",
+              "raiz_original": "zīr 'abajo, debajo' / taḥt 'debajo'",
+              "corpus": ""
+            },
+            "transformacion": [],
+            "derivaciones": []
+          },
+          {
+            "kalfirvach": "amrah",
+            "concepto": "junto con (comitativo) — postposición relacional",
+            "pos": "particle",
+            "ipa": "/amˈrah/",
+            "origen": {
+              "lengua": "Griego Koiné / Persa Avéstico",
+              "raiz_original": "háma 'junto con' / hamrāh 'junto con'",
+              "corpus": ""
+            },
+            "transformacion": [],
+            "derivaciones": []
+          },
+          {
+            "kalfirvach": "bīkhos",
+            "concepto": "sin (privativo) — postposición relacional",
+            "pos": "particle",
+            "ipa": "/ˈbiː.xos/",
+            "origen": {
+              "lengua": "Persa Avéstico / Griego Koiné",
+              "raiz_original": "bī 'sin, -less' / chōrís 'sin, separado de'",
+              "corpus": ""
             },
             "transformacion": [],
             "derivaciones": []
@@ -30502,6 +27061,3955 @@ const LEXICON_DATA =
               "corpus": "forjado por motor de síntesis v1.4.1 (short mode, expansión herramientas)"
             },
             "transformacion": [],
+            "derivaciones": []
+          }
+        ]
+      },
+      "magia_y_esoterismo": {
+        "nombre": "Magia y Esoterismo",
+        "descripcion": "Términos mágicos, esotéricos y de práctica ritual: herramientas, planos sutiles, energía, alquimia y técnicas de conciencia",
+        "entradas": [
+          {
+            "kalfirvach": "ainōr",
+            "concepto": "Espejo del Mundo",
+            "pos": "noun",
+            "ipa": "/ajˈnoːr/",
+            "origen": {
+              "lengua": "Árabe esotérico / Griego Koiné / Copto",
+              "raiz_original": "عَيْن (ʿayn) \"ojo, espejo\" (Ar) / κάτοπτρον (katoptron) \"espejo\" (Gr) / ⲉⲓⲁⲗ (eial) \"espejo\" (Cop)",
+              "corpus": "Ilm al-Huruf (Ar); PGM (Gr); Coptic Dictionary Online, KELLIA (Cop)"
+            },
+            "transformacion": [
+              "/aj/ del Ar عَيْن, /nōr/ del Gr κάτοπτρον (elisión /kat/ + /opt/ → /ō/) + Cop ⲉⲓⲁⲗ (coda /r/ del blend)"
+            ],
+            "derivaciones": []
+          },
+          {
+            "kalfirvach": "aitēf",
+            "concepto": "plano etérico / energía vital",
+            "pos": "noun",
+            "ipa": "/ajˈtef/",
+            "origen": {
+              "lengua": "Griego Koiné / Copto / Egipcio Demótico",
+              "raiz_original": "αἰθήρ (aithēr) \"éter, soplo divino\" (Gr) / ⲧⲏⲩ (tēu) \"viento, espíritu\" (Cop) / ḫpš (khepesh) \"fuerza vital\" (Dem)",
+              "corpus": "PGM (Gr); Coptic Dictionary Online, KELLIA (Cop); Textos mágicos demóticos (Dem)"
+            },
+            "transformacion": [
+              "/aj/ del Gr αἰθήρ, /tē/ del Cop ⲧⲏⲩ /tew/, /f/ del Dem ḫpš (coda /f/ por adaptación de /pš/)"
+            ],
+            "derivaciones": []
+          },
+          {
+            "kalfirvach": "bomnat",
+            "concepto": "altar (mesa o piedra de ofrenda)",
+            "pos": "noun",
+            "ipa": "/ˈbom.nat/",
+            "origen": {
+              "lengua": "Griego Koiné / Egipcio Demótico",
+              "raiz_original": "βωμός bōmós \"altar, plataforma\" (Gr) / ḥw.t-nṯr \"mesa-de-dios, altar\" (Eg)",
+              "corpus": "Homero (Gr); Textos funerarios egipcios (Eg)"
+            },
+            "transformacion": [
+              "/bom/ de βωμός /boː.mos/ → /bom/ (Gr)",
+              "/nat/ blend de βωμός /mos/ → /m/ (Gr) + ḥw.t-nṯr → /nɛtʃɛr/ → /nat/ (Eg)"
+            ],
+            "derivaciones": [
+              "altara-ka (altar-este)",
+              "altara-shá (altar-santuario)"
+            ],
+            "notas": "F5 v1.2. Centro espacial del rito."
+          },
+          {
+            "kalfirvach": "anrak",
+            "concepto": "desterrar (verbo ritual)",
+            "pos": "verb",
+            "ipa": "/ˈan.rak/",
+            "origen": {
+              "lengua": "Sánscrito Védico / Griego Koiné / Egipcio Demótico",
+              "raiz_original": "अप apa 'alejarse, partir' (Skt) / ἀνά ana 'arriba, lejos' (Gr) / nṯr-ḫꜥ 'dios-retroceder' (Eg)",
+              "corpus": "Atharva Veda; PGM VII; Texto de los Sarcófagos spell 163"
+            },
+            "transformacion": [
+              "/p/→/n/ (asimilación en contacto con nasal siguiente)"
+            ],
+            "derivaciones": [
+              "an-rak-a (desterrado)",
+              "an-rak-ka (destierro-este)"
+            ],
+            "notas": "F5 v1.2. Expulsar entidad; uso con actitudinal `-rak` (F3) es la forma completa."
+          },
+          {
+            "kalfirvach": "apnof",
+            "concepto": "inconsciente",
+            "pos": "noun",
+            "ipa": "/apˈnof/",
+            "origen": {
+              "lengua": "Griego Koiné / Persa Avéstico / Copto Sahídico",
+              "raiz_original": "ὕπνος hypnos \"sueño, dormir\" (Gr) / 𐬓𐬀𐬟𐬥𐬀 xᵛafna \"sueño, ensueño\" (Av) / ϩⲱⲃⲥ hōbs \"cubrir, ocultar, olvido\" (Cop)",
+              "corpus": "Homero, Il. XIV (Gr); Gathas Yasna 30 (Av); Coptic Dictionary Online KELLIA (Cop)"
+            },
+            "transformacion": [
+              "/ap/ de ὕπνος hypnos (apertura vocálica /y/→/a/)",
+              "/n/ de xᵛafna /xʷafna/ → /na/ (raíz escandida)",
+              "/of/ de ϩⲱⲃⲥ hōbs (devoicing /b/→/f/, elisión /s/)"
+            ],
+            "derivaciones": [
+              "apnof-ta (inconsciencia)",
+              "apnof-ka (inconsciente, adj.)"
+            ]
+          },
+          {
+            "kalfirvach": "astasi",
+            "concepto": "plano astral / emociones",
+            "pos": "noun",
+            "ipa": "/ˈas.ta.si/",
+            "origen": {
+              "lengua": "Griego Koiné / Persa Avéstico / Copto",
+              "raiz_original": "ἄστρον (astron) \"astro, estrella\" (Gr) / ستاره (setāre) \"estrella\" (Av) / ⲥⲓⲟⲩ (siou) \"estrella\" (Cop)",
+              "corpus": "Ptolomeo (Gr); Poesía persa (Av); Coptic Dictionary Online, KELLIA (Cop)"
+            },
+            "transformacion": [
+              "/as/ del Gr ἄστρον, /ta/ del Av ستاره, /si/ del Cop ⲥⲓⲟⲩ (elisión /ou/)"
+            ],
+            "derivaciones": []
+          },
+          {
+            "kalfirvach": "atma",
+            "concepto": "plano espiritual / átmico",
+            "pos": "noun",
+            "ipa": "/ˈat.ma/",
+            "origen": {
+              "lengua": "Sánscrito Védico / Griego Koiné",
+              "raiz_original": "Sánscrito आत्मन् (ātman) \"sí mismo, espíritu, alma, esencia\" + Griego ἀτμός (atmós) \"vapor, aliento, espíritu\" (de la misma raíz IE *h₂eh₁tmó- \"aliento, alma\") + Egipcio bꜣ (ba) \"alma, espíritu manifestado\" → atma. 3 lenguas. El plano de la unidad, el espíritu puro, lo incondicionado. El Śiva que todo lo contiene.",
+              "corpus": ""
+            },
+            "transformacion": [
+              "/ātman/->/atma/ (pérdida de /ā/ y /n/ final)",
+              "/atmós/->/atma/ (convergencia IE)",
+              "/bꜣ/->/a/ (vocálica inicial ve reforzada)"
+            ],
+            "derivaciones": [
+              "atma-ka = espiritual, átmico",
+              "atma-ta = espiritualidad, esencia divina"
+            ]
+          },
+          {
+            "kalfirvach": "atyar",
+            "concepto": "Templo Interior",
+            "pos": "noun",
+            "ipa": "/ˈat.jar/",
+            "origen": {
+              "lengua": "Griego Koiné / Sánscrito Védico / Copto",
+              "raiz_original": "ἄδυτον (adyton) \"santuario interior\" (Gr) / अन्तरिन् (antarin) \"interior\" (Skt) / ϩⲓⲉⲣⲟⲛ (hieron) \"templo, santuario\" (Cop)",
+              "corpus": "Pausanias, PGM (Gr); Upaniṣad (Skt); Coptic Dictionary Online, KELLIA (Cop)"
+            },
+            "transformacion": [
+              "/at/ del Gr ἄδυτον, /yar/ del Skt अन्तरिन् + Cop ϩⲓⲉⲣⲟⲛ (fusión /antarin/ + /hieron/ → /jar/)"
+            ],
+            "derivaciones": []
+          },
+          {
+            "kalfirvach": "athama",
+            "concepto": "athame, daga ritual",
+            "pos": "noun",
+            "ipa": "/ˈa.θa.ma/",
+            "origen": {
+              "lengua": "Griego Koiné / Egipcio Demótico",
+              "raiz_original": "ἄθαμος áthamos 'inmortal' (Gr) / חרב herev 'espada, daga' (Heb) / pꜣ-ḏꜣ 'daga' (Eg)",
+              "corpus": "PGM IV 1234; Mandaean Scrolls; Texto demótico mágico BM 10554"
+            },
+            "transformacion": [
+              "/θ/ adaptada de /t/ griega (esp. koiné tardía)"
+            ],
+            "derivaciones": [
+              "athama-tár (portador-de-daga)"
+            ],
+            "notas": "F5 v1.2. Daga de doble filo; NO es arma, usada en consagración y destierro."
+          },
+          {
+            "kalfirvach": "ashrem",
+            "concepto": "verdad/orden cósmico",
+            "pos": "noun",
+            "ipa": "/aʃˈrem/",
+            "origen": {
+              "lengua": "Avéstico / Sánscrito Védico / Copto Sahídico",
+              "raiz_original": "aṣ̌a \"verdad, orden cósmico\" (Av) / ऋत ṛta \"orden cósmico, verdad\" (Skt) / ⲙⲉ me \"verdad\" (Cop)",
+              "corpus": "Gathas (Av); Ṛg Veda (Skt); Coptic Dictionary Online KELLIA (Cop)"
+            },
+            "transformacion": [
+              "/aʃ/ de aṣ̌a preservado",
+              "/rem/ blend de ṛta /rta/ → /rem/ + ⲙⲉ /me/ como coda labial"
+            ],
+            "derivaciones": [
+              "ashrem-ta (orden)",
+              "ashrem-ka (verdadero)"
+            ]
+          },
+          {
+            "kalfirvach": "aynōn",
+            "concepto": "espejo",
+            "pos": "noun",
+            "ipa": "/ajˈnoːn/",
+            "origen": {
+              "lengua": "Árabe esotérico / Copto / Griego Koiné",
+              "raiz_original": "عَيْن (ʕayn) \"ojo, espejo\" (Ar) / ⲉⲓⲁⲗ (eial) \"espejo\" (Cop) / κάτοπτρον (katoptron) \"espejo\" (Gr)",
+              "corpus": "Ilm al-Huruf (Ar); Coptic Dictionary Online, KELLIA (Cop); PGM (Gr)"
+            },
+            "transformacion": [
+              "/aj/ del Ar عَيْن, /n/ del Cop ⲉⲓⲁⲗ /eial/ → /n/ coda del blend, /ōn/ del Gr κάτοπτρον (elisión /opt/ → /ōn/)"
+            ],
+            "derivaciones": []
+          },
+          {
+            "kalfirvach": "bafsī",
+            "concepto": "espiento/aliado",
+            "pos": "noun",
+            "ipa": "/bafˈsiː/",
+            "origen": {
+              "lengua": "Egipcio Demótico / Avéstico / Griego Koiné",
+              "raiz_original": "bꜣ \"espíritu, manifestación\" (Dem) / 𐬟𐬭𐬀𐬎𐬎𐬀𐬴𐬌 fravaṣ̌i \"espíritu guardián\" (Av) / ψυχή psychē \"alma\" (Gr)",
+              "corpus": "Textos de sarcófagos (Dem); Avesta, Gathas (Av); Platón, PGM (Gr)"
+            },
+            "transformacion": [
+              "/baf/ blend de bꜣ /ba/ + /f/ de fravaṣ̌i",
+              "/sī/ de ψυχή psychē → /siː/ preservando cantidad vocálica"
+            ],
+            "derivaciones": [
+              "bafsī-ta (aspecto móvil del ba)",
+              "bafsī-wan (portador de ba)"
+            ]
+          },
+          {
+            "kalfirvach": "barsōsh",
+            "concepto": "barrera/istmo",
+            "pos": "noun",
+            "ipa": "/barˈsoːʃ/",
+            "origen": {
+              "lengua": "Árabe esotérico / Copto / Griego Koiné",
+              "raiz_original": "بَرْزَخ (barzakh) \"barrera, istmo\" (Ar) / ϣⲓ (ši) \"límite, área\" (Cop) / μεθόριον (methorion) \"frontera\" (Gr)",
+              "corpus": "Ibn Arabi (Ar); Coptic Dictionary Online, KELLIA (Cop); Polibio, Estrabón (Gr)"
+            },
+            "transformacion": [
+              "/bar/ del Ar بَرْزَخ, /sō/ del Gr μεθόριον (vocalización /o/ + alargamiento), /sh/ del Cop ϣⲓ (coda /ʃ/ del blend)"
+            ],
+            "derivaciones": []
+          },
+          {
+            "kalfirvach": "bewīs",
+            "concepto": "sellar (cerrar portal) - verbo ritual v1.2",
+            "pos": "verb",
+            "ipa": "/ˈbe.wiːs/",
+            "origen": {
+              "lengua": "Tibetano Clásico / Sánscrito Védico / Persa Avéstico",
+              "raiz_original": "དཀྱིལ་ (dkyil) / हु (hu) / yasna adorar",
+              "corpus": ""
+            },
+            "transformacion": [
+              "Fusión ritual Tibetano Clásico + Sánscrito Védico + Persa Avéstico"
+            ],
+            "derivaciones": []
+          },
+          {
+            "kalfirvach": "binwī",
+            "concepto": "proteger (poner resguardo) - verbo ritual v1.2",
+            "pos": "verb",
+            "ipa": "/ˈbi.nwiː/",
+            "origen": {
+              "lengua": "Tibetano Clásico / Griego Koiné / Árabe esotérico",
+              "raiz_original": "སྔགས་ (sngags) / τελε- (tele-) / رقى (rqy)",
+              "corpus": ""
+            },
+            "transformacion": [
+              "Fusión ritual Tibetano Clásico + Griego Koiné + Árabe Esotérico"
+            ],
+            "derivaciones": []
+          },
+          {
+            "kalfirvach": "tarper",
+            "concepto": "punto central/esencia",
+            "pos": "noun",
+            "ipa": "/tarˈper/",
+            "origen": {
+              "lengua": "Copto Sahídico / Griego Koiné",
+              "raiz_original": "ⲧⲁⲣ tar \"punta, punto, rama\" (Cop) / σπέρμα sperma \"semilla, esencia germinal\" (Gr)",
+              "corpus": "Coptic Dictionary Online KELLIA (Cop); Aristóteles, Gen. An. (Gr)"
+            },
+            "transformacion": [
+              "/tar/ de ⲧⲁⲣ preservado",
+              "/per/ de σπέρμα sperma → /sperma/ → /per/ (elisión de /s/ y /ma/)"
+            ],
+            "derivaciones": []
+          },
+          {
+            "kalfirvach": "bomkaš",
+            "concepto": "Altar primordial",
+            "pos": "noun",
+            "ipa": "/bomˈkaʃ/",
+            "origen": {
+              "lengua": "Griego Koiné / Árabe esotérico / Copto",
+              "raiz_original": "βωμός (bōmos) \"altar\" (Gr) / قربان (qurbān) \"ofrenda, altar\" (Ar) / ϣⲏⲩⲉ (šēue) \"altar\" (Cop)",
+              "corpus": "Homero (Gr); Corán, sufismo (Ar); Coptic Dictionary Online, KELLIA (Cop)"
+            },
+            "transformacion": [
+              "/bom/ del Gr βωμός, /ka/ del Ar قربان (q→k, elisión /rban/), /š/ del Cop ϣⲏⲩⲉ (coda /ʃ/ del blend)"
+            ],
+            "derivaciones": []
+          },
+          {
+            "kalfirvach": "bunous",
+            "concepto": "plano mental superior / búdico",
+            "pos": "noun",
+            "ipa": "/buˈnows/",
+            "origen": {
+              "lengua": "Sánscrito Védico / Griego Koiné / Tibetano Clásico",
+              "raiz_original": "बुद्धि (buddhi) \"intuición, sabiduría directa\" (Skt) / νοῦς (nous) \"mente, intelecto\" (Gr) / སངས་རྒྱས (sangs.rgyas) \"Buda, iluminado\" (Tib)",
+              "corpus": "Yoga Sūtra, Buddhacarita (Skt); PGM, Corpus Hermeticum (Gr); Kunjed Gyalpo (Tib)"
+            },
+            "transformacion": [
+              "/bu/ del Skt बुद्धि, /nous/ del Gr νοῦς (diptongo /ou/ + coda /s/), con refuerzo semántico del Tib སངས་རྒྱས"
+            ],
+            "derivaciones": []
+          },
+          {
+            "kalfirvach": "darmut",
+            "concepto": "Puerta Sellada",
+            "pos": "noun",
+            "ipa": "/ˈdar.mut/",
+            "origen": {
+              "lengua": "Persa Avéstico / Árabe esotérico",
+              "raiz_original": "Persa در (dar) \"puerta, entrada\" + Árabe ختم (khatm) \"sello, sellar, cierre\" + Egipcio ḏd (dyed) \"permanencia, estabilidad\" → darmud (fusión: dar + khatm -> dar-mud, con /kh/->/m/ por asimilación, cierre sellado). 3 lenguas. El acceso restringido a conocimiento iniciático; la puerta que solo se abre cuando el buscador está listo.",
+              "corpus": ""
+            },
+            "transformacion": [
+              "/dar/->/dar/ (persa preservado)",
+              "/khatm/->/mud/ (consonantismo preservado: /kh/->/m/)",
+              "/ḏd/->/mud/ (refuerzo semántico de permanencia)"
+            ],
+            "derivaciones": []
+          },
+          {
+            "kalfirvach": "darpo",
+            "concepto": "umbral/portal",
+            "pos": "noun",
+            "ipa": "/ˈdar.po/",
+            "origen": {
+              "lengua": "Persa Avéstico / Griego Koiné / Copto Sahídico",
+              "raiz_original": "dar \"puerta, portal\" (Av) / πύλη pylē \"puerta, portal\" (Gr) / ⲣⲟ ro \"puerta, entrada\" (Cop)",
+              "corpus": "Avesta (Av); PGM (Gr); Coptic Dictionary Online KELLIA (Cop)"
+            },
+            "transformacion": [
+              "/dar/ de dar preservado",
+              "/po/ blend de πύλη /pylē/ → /p/ + ⲣⲟ /ro/ → /po/"
+            ],
+            "derivaciones": [
+              "darpo-shá (umbral sagrado)",
+              "darpo-ník (llave/abridor)"
+            ]
+          },
+          {
+            "kalfirvach": "dayanso",
+            "concepto": "conciencia interior",
+            "pos": "noun",
+            "ipa": "/daˈjan.so/",
+            "origen": {
+              "lengua": "Persa Avéstico / Sánscrito Védico / Copto Sahídico",
+              "raiz_original": "daēnā \"conciencia interior, visión espiritual\" (Av) / ध्यान dhyāna \"meditación, insight\" (Skt) / ⲥⲟⲟⲩⲛ sooun \"conocimiento, sabiduría\" (Cop)",
+              "corpus": "Gathas (Av); Upaniṣads (Skt); Coptic Dictionary Online KELLIA (Cop)"
+            },
+            "transformacion": [
+              "/da/ de daēnā preservado",
+              "/jan/ de ध्यान dhyāna (onset /dʰj/ → /j/)",
+              "/so/ de ⲥⲟⲟⲩⲛ sooun → sufijo de sabiduría"
+            ],
+            "derivaciones": [
+              "dayanso-ta (conciencia moral)",
+              "dayanso-shá (santuario interior)"
+            ]
+          },
+          {
+            "kalfirvach": "dikmit",
+            "concepto": "iniciación",
+            "pos": "noun",
+            "ipa": "/dikˈmit/",
+            "origen": {
+              "lengua": "Sánscrito Védico / Griego Koiné / Árabe esotérico",
+              "raiz_original": "दीक्षा dīkṣā \"iniciación, consagración\" (Skt) / μύησις myēsis \"iniciación, rito de paso\" (Gr) / تلقي talqīn \"iniciación, enseñanza esotérica\" (Ar)",
+              "corpus": "Śatapatha Brāhmaṇa (Skt); PGM IV (Gr); Sufismo, Ibn Arabi (Ar)"
+            },
+            "transformacion": [
+              "/dik/ de दीक्षा dīkṣā (onset preservado)",
+              "/mit/ blend de μύησις /myːsis/ → /mi/ + تلقي talqīn → /t/ (coda dental por devoicing)"
+            ],
+            "derivaciones": []
+          },
+          {
+            "kalfirvach": "druma",
+            "concepto": "Árbol del Mundo",
+            "pos": "noun",
+            "ipa": "/ˈdru.ma/",
+            "origen": {
+              "lengua": "Griego Koiné / Egipcio Demótico",
+              "raiz_original": "Griego δρῦς (drŷs) \"árbol, roble, madera\" (IE *deru-) + Sánscrito द्रुम (druma) \"árbol, árbol grande\" + Egipcio imꜣ (ima) \"árbol, sicomoro sagrado\" → druma (convergencia indoeuropea + egipcia). 3 lenguas. El árbol cósmico que conecta los 7 planos: raíces en la tierra, copa en el cielo.",
+              "corpus": ""
+            },
+            "transformacion": [
+              "/drŷs/->/dru-/ (raíz IE)",
+              "/druma/->/druma/ (sánscrito preservado)",
+              "/imꜣ/->/ma/ (sufijo)"
+            ],
+            "derivaciones": [
+              "druma-ta = cosmología del Árbol"
+            ]
+          },
+          {
+            "kalfirvach": "dze",
+            "concepto": "purificar ritual (limpiar energético) - verbo ritual v1.2",
+            "pos": "verb",
+            "ipa": "/ˈʣe/",
+            "origen": {
+              "lengua": "Árabe esotérico / Griego Koiné / Egipcio Demótico",
+              "raiz_original": "عزيمة (Ꜥzymh) / μαν- (man-) / sḫm invocar",
+              "corpus": ""
+            },
+            "transformacion": [
+              "Fusión ritual Árabe Esotérico + Griego Koiné + Egipcio Demótico"
+            ],
+            "derivaciones": []
+          },
+          {
+            "kalfirvach": "firsano",
+            "concepto": "fuego intelectual",
+            "pos": "noun",
+            "ipa": "/ˈfir.sa.no/",
+            "origen": {
+              "lengua": "Persa Avéstico / Copto Sahídico / Griego Clásico",
+              "raiz_original": "ātaxsh \"fuego\" → fír (Av, con reducción /xsh/→/r/) / ⲥⲁⲧⲉ sate \"fuego\" (Cop) / νοῦς nous \"mente, intelecto\" (Gr)",
+              "corpus": "Yasht 8 (Av); Coptic Dictionary Online KELLIA (Cop); Aristóteles, De Anima (Gr)"
+            },
+            "transformacion": [
+              "/fir/ de ātaxsh (fuego intelectual)",
+              "/sa/ de ⲥⲁⲧⲉ sate",
+              "/no/ de νοῦς nous → sufijo intelectivo"
+            ],
+            "derivaciones": [
+              "firsano-ka (ígneo)",
+              "firsano-ník (instrumento ígneo)",
+              "su-firsano (fuego excelso)"
+            ]
+          },
+          {
+            "kalfirvach": "garbēb",
+            "concepto": "Cueva del Renacimiento",
+            "pos": "noun",
+            "ipa": "/ɡarˈbeːb/",
+            "origen": {
+              "lengua": "Sánscrito Védico / Griego Koiné / Copto",
+              "raiz_original": "गर्भ (garbha) \"vientre, matriz, caverna\" (Skt) / σπήλαιον (spēlaion) \"cueva, caverna\" (Gr) / ⲃⲏⲃ (bēb) \"cueva\" (Cop)",
+              "corpus": "Upaniṣad, Garbha Upaniṣad (Skt); PGM (Gr); Coptic Dictionary Online, KELLIA (Cop)"
+            },
+            "transformacion": [
+              "/gar/ del Skt गर्भ, /bēb/ del Cop ⲃⲏⲃ (vocal larga /eː/ preservada), con refuerzo del Gr σπήλαιον (sp→f→b)"
+            ],
+            "derivaciones": []
+          },
+          {
+            "kalfirvach": "gesira",
+            "concepto": "Puente de los Planos",
+            "pos": "noun",
+            "ipa": "/ˈge.si.ra/",
+            "origen": {
+              "lengua": "Árabe esotérico / Persa Avéstico",
+              "raiz_original": "Árabe جسر (jisr) \"puente\" + Persa پل (pol) \"puente\" + Griego γέφυρα (géphyra) \"puente\" → gesira (fusión: jisr + géphyra -> gesira, con /j/->/g/ y /phy/->/s/). 3 lenguas. La conexión consciente que el mago tiende entre el mundo físico y los planos superiores.",
+              "corpus": ""
+            },
+            "transformacion": [
+              "/jisr/->/ge-/ (inicial, /j/->/g/)",
+              "/géphyra/->/sira/ (reducción)"
+            ],
+            "derivaciones": []
+          },
+          {
+            "kalfirvach": "getisō",
+            "concepto": "material/físico",
+            "pos": "noun",
+            "ipa": "/ˈge.ti.soː/",
+            "origen": {
+              "lengua": "Persa Avéstico / Griego Koiné / Copto Sahídico",
+              "raiz_original": "gētig \"material, físico, mundano\" (Av) / φύσις physis \"naturaleza, físico\" (Gr) / ⲥⲱⲙⲁ sōma \"cuerpo, materia\" (Cop)",
+              "corpus": "Bundahishn (Av); Aristóteles, Física (Gr); Coptic Dictionary Online KELLIA (Cop)"
+            },
+            "transformacion": [
+              "/ge/ de gētig preservado",
+              "/ti/ de φύσις physis (onset /f/→/t/ por adaptación)",
+              "/sō/ de ⲥⲱⲙⲁ sōma → sufijo corporal"
+            ],
+            "derivaciones": [
+              "getisō-ta (materialidad)",
+              "getisō-ka (físico)"
+            ]
+          },
+          {
+            "kalfirvach": "gnosūn",
+            "concepto": "gnosis/conocimiento directo",
+            "pos": "noun",
+            "ipa": "/gnoˈsuːn/",
+            "origen": {
+              "lengua": "Griego Koiné / Copto Sahídico",
+              "raiz_original": "γνῶσις gnōsis \"conocimiento, gnosis\" (Gr) / ⲥⲟⲟⲩⲛ sooun \"conocimiento, saber\" (Cop)",
+              "corpus": "PGM IV; Corpus Hermeticum (Gr); Coptic Dictionary Online KELLIA (Cop)"
+            },
+            "transformacion": [
+              "/gno/ de γνῶσις gnōsis (onset preservado)",
+              "/sūn/ de ⲥⲟⲟⲩⲛ sooun → /soːwn/ → /suːn/ (vocal larga preservada)"
+            ],
+            "derivaciones": []
+          },
+          {
+            "kalfirvach": "guršah",
+            "concepto": "maestro/guía",
+            "pos": "noun",
+            "ipa": "/gurˈʃah/",
+            "origen": {
+              "lengua": "Sánscrito Védico / Árabe esotérico / Copto Sahídico",
+              "raiz_original": "गुरु guru \"maestro, guía espiritual\" (Skt) / مرشد murshid \"guía, maestro espiritual\" (Ar) / ⲥⲁϩ sah \"maestro, escriba, sabio\" (Cop)",
+              "corpus": "Upaniṣads (Skt); Sufismo, Ibn Arabi (Ar); Coptic Dictionary Online KELLIA (Cop)"
+            },
+            "transformacion": [
+              "/gur/ de गुरु guru (coda /r/ preservada)",
+              "/šah/ blend de مرشد /mur.ʃid/ → /ʃ/ + ⲥⲁϩ /sah/ → /ah/ → /ʃah/"
+            ],
+            "derivaciones": []
+          },
+          {
+            "kalfirvach": "ghul",
+            "concepto": "sellar (cerrar ritual)",
+            "pos": "verb",
+            "ipa": "/ˈɣul/",
+            "origen": {
+              "lengua": "Tibetano Clásico / Persa Avéstico / Árabe esotérico",
+              "raiz_original": "(raíz Tibetano) / (raíz Persa) / (raíz Árabe)",
+              "corpus": ""
+            },
+            "transformacion": [
+              "fusión fonética multiscriptural"
+            ],
+            "derivaciones": []
+          },
+          {
+            "kalfirvach": "ghēl",
+            "concepto": "exorcizar (expulsar entidad) - verbo ritual v1.2",
+            "pos": "verb",
+            "ipa": "/ˈɣeːl/",
+            "origen": {
+              "lengua": "Egipcio Demótico / Sánscrito Védico / Griego Koiné",
+              "raiz_original": "wꜢḥ ofrendar / हु (hu) / τελε- (tele-)",
+              "corpus": ""
+            },
+            "transformacion": [
+              "Fusión ritual Egipcio Demótico + Sánscrito Védico + Griego Koiné"
+            ],
+            "derivaciones": []
+          },
+          {
+            "kalfirvach": "heka",
+            "concepto": "magia, heka, poder mágico primordial",
+            "pos": "noun",
+            "ipa": "/ˈhe.ka/",
+            "origen": {
+              "lengua": "Egipcio Demótico / Copto / Griego Koiné",
+              "raiz_original": "ḥkꜢ heka 'magia, poder de la palabra' (Eg) / ϩⲏⲕⲁ hēka (Copto) / μαγεία mageia 'magia' (Gr, préstamo cultural)",
+              "corpus": "Textos pirámide §261; Papiro Mágico Demótico Leiden I.384; PGM IV"
+            },
+            "transformacion": [],
+            "derivaciones": []
+          },
+          {
+            "kalfirvach": "hisopa",
+            "concepto": "hisopo (aspergillum)",
+            "pos": "noun",
+            "ipa": "/ˈhi.so.pa/",
+            "origen": {
+              "lengua": "Griego Koiné / Egipcio Demótico",
+              "raiz_original": "ὕσσωπος hýssōpos 'hisopo' (Gr) / אזוב ezov 'hisopo' (Heb) / sꜣ-ḥtp 'ramita-de-ofrenda' (Eg)",
+              "corpus": "PGM IV; Levítico 14:4-6; Texto demótico mágico BM 10554"
+            },
+            "transformacion": [
+              "forma hibridada Gr+Heb"
+            ],
+            "derivaciones": [
+              "hisopa-ka (hisopo-este)"
+            ],
+            "notas": "F5 v1.2. Ramita para aspersión de agua bendita."
+          },
+          {
+            "kalfirvach": "hikmasōf",
+            "concepto": "sabiduría",
+            "pos": "noun",
+            "ipa": "/ˈhik.ma.soːf/",
+            "origen": {
+              "lengua": "Árabe esotérico / Griego Koiné / Sánscrito Védico",
+              "raiz_original": "حِكْمَة (ḥikma) \"sabiduría\" (Ar) / σοφία (sophia) \"sabiduría\" (Gr) / प्रज्ञा (prajñā) \"sabiduría superior\" (Skt)",
+              "corpus": "Corán, hadiz (Ar); Platón, Symp. (Gr); Prajñāpāramitā (Skt)"
+            },
+            "transformacion": [
+              "/hik/ de حِكْمَة (onset preservado)",
+              "/ma/ de σοφία + प्रज्ञा → coalescencia",
+              "/sōf/ blend de σοφία + प्रज्ञा /pradʒɲaː/ → /soːf/ con coda /f/"
+            ],
+            "derivaciones": []
+          },
+          {
+            "kalfirvach": "homsop",
+            "concepto": "ofrenda",
+            "pos": "noun",
+            "ipa": "/homˈsop/",
+            "origen": {
+              "lengua": "Sánscrito Védico / Griego Koiné / Copto Sahídico",
+              "raiz_original": "होम homa \"ofrenda, oblación\" (Skt) / θυσία thysia \"sacrificio, ofrenda\" (Gr) / ϣⲣⲡ šorp \"primicia, ofrenda inicial\" (Cop)",
+              "corpus": "Śrauta Sūtras (Skt); PGM (Gr); Coptic Dictionary Online KELLIA (Cop)"
+            },
+            "transformacion": [
+              "/hom/ de होम homa preservado",
+              "/sop/ blend de θυσία /θy.sia/ → /θy/→/si/→/s/ + ϣⲣⲡ /ʃorp/ → /op/"
+            ],
+            "derivaciones": []
+          },
+          {
+            "kalfirvach": "ilū",
+            "concepto": "purificar (limpiar ritual)",
+            "pos": "verb",
+            "ipa": "/ˈi.luː/",
+            "origen": {
+              "lengua": "Sánscrito Védico / Árabe esotérico / Griego Koiné",
+              "raiz_original": "(raíz Sánscrito) / (raíz Árabe) / (raíz Griego)",
+              "corpus": ""
+            },
+            "transformacion": [
+              "fusión fonética multiscriptural"
+            ],
+            "derivaciones": []
+          },
+          {
+            "kalfirvach": "senthym",
+            "concepto": "incensario (recipiente para quemar incienso)",
+            "pos": "noun",
+            "ipa": "/ˈsen.tʰim/",
+            "origen": {
+              "lengua": "Griego Koiné / Egipcio Demótico",
+              "raiz_original": "θυμιάω thymiaō \"quemar incienso\" (Gr) / snṯr \"incienso\" (Eg)",
+              "corpus": "Heródoto (Gr); Ritual egipcio (Eg)"
+            },
+            "transformacion": [
+              "/sen/ de snṯr /sɛ.nɛtʃɛr/ → /sɛn/ → /sen/ (Eg)",
+              "/thym/ de θυμιάω /tʰy.mi.a.oː/ → /tʰym/ (Gr)"
+            ],
+            "derivaciones": [
+              "incensa-ka (incensario-este)"
+            ],
+            "notas": "F5 v1.2. Recipiente para quemar incienso; uso en apertura ritual."
+          },
+          {
+            "kalfirvach": "ichfo",
+            "concepto": "consagrar (dedicar a divinidad) - verbo ritual v1.2",
+            "pos": "verb",
+            "ipa": "/ˈitʃ.fo/",
+            "origen": {
+              "lengua": "Sánscrito Védico / Griego Koiné / Persa Avéstico",
+              "raiz_original": "हु (hu) / θεσ- (thes-) / maga don",
+              "corpus": ""
+            },
+            "transformacion": [
+              "Fusión ritual Sánscrito Védico + Griego Koiné + Persa Avéstico"
+            ],
+            "derivaciones": []
+          },
+          {
+            "kalfirvach": "kalika",
+            "concepto": "cáliz (recipiente ritual)",
+            "pos": "noun",
+            "ipa": "/ˈka.li.ka/",
+            "origen": {
+              "lengua": "Griego Koiné / Egipcio Demótico",
+              "raiz_original": "καλύξ kalyx \"cáliz, envoltura floral\" (Gr) / qꜣ-ḥ \"recipiente\" (Eg)",
+              "corpus": "Apuleyo, Met. XI; PGM IV; Textos pirámide §262"
+            },
+            "transformacion": [
+              "/x/→/k/ (regular KFA)"
+            ],
+            "derivaciones": [
+              "kalika-ka (cáliz-este: copa-ofrecida)"
+            ],
+            "notas": "F5 v1.2. Copa ritual para libaciones; asociada al elemento agua."
+          },
+          {
+            "kalfirvach": "karan",
+            "concepto": "cargar (objeto con energía ritual)",
+            "pos": "verb",
+            "ipa": "/ˈka.ran/",
+            "origen": {
+              "lengua": "Sánscrito Védico / Griego Koiné / Egipcio Demótico",
+              "raiz_original": "करण karaṇa 'instrumento, medio' (Skt) / κραίνω krainō 'cumplir, realizar' (Gr) / iri-nṯr 'hacer-dios' (Eg)",
+              "corpus": "Tantras Trika; PGM VII; Texto de la Duat spell 125"
+            },
+            "transformacion": [
+              "/k/ mantenido de Skt/Gr; apócope del sufijo -a para evitar colisión con `karana` (plano causal, v1.0 existente)"
+            ],
+            "derivaciones": [
+              "karan-a (cargado-con-energía)"
+            ],
+            "notas": "F5 v1.2. Imbuir un objeto con fuerza ritual; op. de qadesh. Forma `karan` (sin -a final) distingue del `karana` existente (plano causal/alma superior, v1.0 noun); misma raíz Skt karaṇa pero adaptada a KFA sin la vocal final para evitar homonimia cross-categorial."
+          },
+          {
+            "kalfirvach": "karasi",
+            "concepto": "plano causal / alma superior",
+            "pos": "noun",
+            "ipa": "/ˈka.ra.si/",
+            "origen": {
+              "lengua": "Sánscrito Védico / Árabe esotérico / Griego Koiné",
+              "raiz_original": "कारण (kāraṇa) \"causa, principio causal\" (Skt) / سَبَب (sabab) \"causa, motivo\" (Ar) / αἰτία (aitia) \"causa, razón\" (Gr)",
+              "corpus": "Sāṅkhya Kārikā (Skt); Filosofía islámica (Ar); Aristóteles, PGM (Gr)"
+            },
+            "transformacion": [
+              "/ka/ del Skt कारण, /ra/ del Ar سَبَب, /si/ del Gr αἰτία (inflexión /ti/ → /si/)"
+            ],
+            "derivaciones": []
+          },
+          {
+            "kalfirvach": "kavhīpar",
+            "concepto": "protección/escudo",
+            "pos": "noun",
+            "ipa": "/kavˈhiː.par/",
+            "origen": {
+              "lengua": "Sánscrito Védico / Árabe esotérico / Persa",
+              "raiz_original": "कवच kavaca \"armadura, protección, escudo\" (Skt) / حماية himāya \"protección, amparo\" (Ar) / سپر separ \"escudo, protección\" (Pers)",
+              "corpus": "Atharva Veda (Skt); Corán, hadiz (Ar); Shāh-Nāmeh (Pers)"
+            },
+            "transformacion": [
+              "/kav/ de कवच kavaca (raíz escandida)",
+              "/hī/ de حماية himāya → /hi.maː.ja/ → /hiː/ (vocal larga preservada)",
+              "/par/ de سپر separ (coda /r/ preservada)"
+            ],
+            "derivaciones": []
+          },
+          {
+            "kalfirvach": "kavōn",
+            "concepto": "alma/centro vital",
+            "pos": "noun",
+            "ipa": "/kaˈvoːn/",
+            "origen": {
+              "lengua": "Egipcio Demótico / Avéstico / Copto Sahídico",
+              "raiz_original": "kꜣ \"fuerza vital, ka\" (Dem) / 𐬎𐬭𐬎𐬬𐬀𐬥 urvan \"alma\" (Av) / ⲱⲛϧ ōnx \"vida\" (Cop)",
+              "corpus": "Textos funerarios, PGM (Dem); Avesta, Gathas (Av); Coptic Dictionary Online KELLIA (Cop)"
+            },
+            "transformacion": [
+              "/ka/ de kꜣ preservado",
+              "/vōn/ blend de urvan /urvan/ → /v/ + ōnx /oːnx/ → /ōn/ ōnx (ōnx)"
+            ],
+            "derivaciones": [
+              "kavōn-ta (vitalidad)",
+              "kavōn-shā (cámara vital del ka)"
+            ]
+          },
+          {
+            "kalfirvach": "kashmana",
+            "concepto": "templo/centro",
+            "pos": "noun",
+            "ipa": "/ˈkaʃ.ma.na/",
+            "origen": {
+              "lengua": "Persa Avéstico / Sánscrito Védico / Griego Clásico",
+              "raiz_original": "kashān/kāshāna \"templo, centro sagrado\" (Av) / मन्दिर mandira \"templo, morada\" (Skt) / ναός naos \"templo, santuario\" (Gr)",
+              "corpus": "Poesía sufí/esotérica (Av); Mahābhārata (Skt); Pausanias (Gr)"
+            },
+            "transformacion": [
+              "/kaʃ/ de kāshāna preservado",
+              "/ma/ de मन्दिर mandira (onset escandido)",
+              "/na/ de ναός naos → sufijo de templo"
+            ],
+            "derivaciones": [
+              "kashmana-shá (templo mayor)",
+              "kashmana-ník (arquitecto sagrado)"
+            ]
+          },
+          {
+            "kalfirvach": "kikluv",
+            "concepto": "Círculo de Unidad",
+            "pos": "noun",
+            "ipa": "/kiˈkluv/",
+            "origen": {
+              "lengua": "Griego Koiné / Sánscrito Védico / Copto",
+              "raiz_original": "κύκλος (kyklos) \"círculo\" (Gr) / एकत्व (ekatva) \"unidad\" (Skt) / ⲟⲩⲁ (oua) \"uno, unidad\" (Cop)",
+              "corpus": "PGM, Platón (Gr); Upaniṣad (Skt); Coptic Dictionary Online, KELLIA (Cop)"
+            },
+            "transformacion": [
+              "/ki/ del Gr κύκλος, /klu/ del Skt एकत्व (inflexión /tva/), /v/ del Cop ⲟⲩⲁ /wa/ (coda /v/)"
+            ],
+            "derivaciones": []
+          },
+          {
+            "kalfirvach": "khi",
+            "concepto": "romper hechizo (desencantar)",
+            "pos": "verb",
+            "ipa": "/ˈxi/",
+            "origen": {
+              "lengua": "Egipcio Demótico / Griego Koiné / Persa Avéstico",
+              "raiz_original": "(raíz Egipcio) / (raíz Griego) / (raíz Persa)",
+              "corpus": ""
+            },
+            "transformacion": [
+              "fusión fonética multiscriptural"
+            ],
+            "derivaciones": []
+          },
+          {
+            "kalfirvach": "khwadoxen",
+            "concepto": "gloria/luz divina",
+            "pos": "noun",
+            "ipa": "/xwaˈdok.sen/",
+            "origen": {
+              "lengua": "Persa Avéstico / Griego Clásico / Copto Sahídico",
+              "raiz_original": "xᵛarənah \"gloria, luz divina, fortuna\" (Av) / δόξα doxa \"gloria, reputación\" (Gr) / ⲟⲩⲟⲉⲓⲛ ouoein \"luz\" (Cop)",
+              "corpus": "Yashts, Gathas (Av); Septuaginta (Gr); Coptic Dictionary Online KELLIA (Cop)"
+            },
+            "transformacion": [
+              "/xwa/ de xᵛarənah preservado",
+              "/dok/ de δόξα doxa (onset preservado)",
+              "/sen/ de ⲟⲩⲟⲉⲓⲛ ouoein → /oein/→/en/ + s- epentético"
+            ],
+            "derivaciones": [
+              "khwadoxen-ta (gloria)",
+              "khwadoxen-ka (luminoso)"
+            ]
+          },
+          {
+            "kalfirvach": "lampa",
+            "concepto": "lamparilla, vela ritual",
+            "pos": "noun",
+            "ipa": "/ˈlam.pa/",
+            "origen": {
+              "lengua": "Griego Koiné / Egipcio Demótico",
+              "raiz_original": "λαμπάς lampas \"antorcha\" (Gr) / ḏꜣ-ḫꜣ \"llama-brillante\" (Eg)",
+              "corpus": "PGM IV; Apuleyo, Met. XI; Textos pirámide §262"
+            },
+            "transformacion": [
+              "adaptación directa CVCCV"
+            ],
+            "derivaciones": [
+              "lampa-ka (lamparilla-esta)",
+              "lampa-ník (lamparilla-instrumento: soporte ritual)"
+            ],
+            "notas": "F5 v1.2. Llama votiva mantenida durante el rito; no se apaga hasta el cierre."
+          },
+          {
+            "kalfirvach": "lapyara",
+            "concepto": "Laberinto / Espiral iniciática",
+            "pos": "noun",
+            "ipa": "/ˈla.pja.ra/",
+            "origen": {
+              "lengua": "Griego Koiné / Egipcio Demótico",
+              "raiz_original": "Griego λαβύρινθος (labýrinthos) \"laberinto, pasadizo sinuoso\" + Egipcio ḥry-ib (hery-ib) \"el que está en el medio, centro\" → labyra (fusión: labýrinthos -> labyr- + -a, con pérdida de /inthos/ y refuerzo semántico del centro egipcio). 2 lenguas. El camino sinuoso hacia el centro de uno mismo; la espiral iniciática.",
+              "corpus": ""
+            },
+            "transformacion": [
+              "/labýrinthos/->/labyr/ (raíz)",
+              "/ḥry-ib/->/a/ (final, concepto del centro)",
+              "§10.3 fix: labyra→lapyara (b→p, /pj/ onset §3.2)"
+            ],
+            "derivaciones": [
+              "labyra-ta = arte del laberinto, camino iniciático"
+            ]
+          },
+          {
+            "kalfirvach": "limu",
+            "concepto": "encantar (hechizar)",
+            "pos": "verb",
+            "ipa": "/ˈli.mu/",
+            "origen": {
+              "lengua": "Tibetano Clásico / Griego Koiné / Sánscrito Védico",
+              "raiz_original": "(raíz Tibetano) / (raíz Griego) / (raíz Sánscrito)",
+              "corpus": ""
+            },
+            "transformacion": [
+              "fusión fonética multiscriptural"
+            ],
+            "derivaciones": []
+          },
+          {
+            "kalfirvach": "manēv",
+            "concepto": "plano mental / pensamiento discursivo",
+            "pos": "noun",
+            "ipa": "/maˈneːv/",
+            "origen": {
+              "lengua": "Sánscrito Védico / Griego Koiné / Copto",
+              "raiz_original": "मनस् (manas) \"mente, intelecto\" (Skt) / νόος (noos) \"mente, pensamiento discursivo\" (Gr) / ⲙⲉⲉⲩⲉ (meeye) \"pensamiento, mente\" (Cop)",
+              "corpus": "Ṛgveda, Manusmṛti (Skt); PGM, Platón (Gr); Coptic Dictionary Online, KELLIA (Cop)"
+            },
+            "transformacion": [
+              "/ma/ del Skt मनस्, /nē/ del Cop ⲙⲉⲉⲩⲉ /meːwe/ (elisión /m/ + /we/ → /v/), /v/ del Gr νόος (coda /v/)"
+            ],
+            "derivaciones": []
+          },
+          {
+            "kalfirvach": "mayfam",
+            "concepto": "ilusión, apariencia, manifestación fenoménica",
+            "pos": "noun",
+            "ipa": "/majˈfam/",
+            "origen": {
+              "lengua": "Sánscrito Védico / Griego Koiné / Árabe esotérico",
+              "raiz_original": "माया māyā \"ilusión, apariencia, realidad fenoménica\" (Skt) / φάντασμα phantasma \"aparición, ilusión, fantasma\" (Gr) / وهم wahm \"ilusión, imaginación, fantasía\" (Ar)",
+              "corpus": "Ṛg Veda (Skt); Platón, Teeteto (Gr); Al-Ghazālī (Ar)"
+            },
+            "transformacion": [
+              "/maj/ de माया māyā (diptongo preservado)",
+              "/fam/ blend de φάντασμα /pʰantas.ma/ → /fa/ + وهم /wahm/ → /m/ → /fam/"
+            ],
+            "derivaciones": []
+          },
+          {
+            "kalfirvach": "mandiks",
+            "concepto": "palabra-poder",
+            "pos": "noun",
+            "ipa": "/manˈdiks/",
+            "origen": {
+              "lengua": "Sánscrito Védico / Árabe esotérico / Persa",
+              "raiz_original": "मन्त्र mantra \"palabra de poder, fórmula sagrada\" (Skt) / ذكر dhikr \"rememoración, recitación devocional\" (Ar) / سرود sorūd \"himno, canto sagrado\" (Pers)",
+              "corpus": "Ṛg Veda (Skt); Sufismo, Rūmī (Ar); Shāh-Nāmeh (Pers)"
+            },
+            "transformacion": [
+              "/man/ de मन्त्र mantra preservado",
+              "/diks/ blend de ذكر dhikr /ðikr/ → /dik/ + سرود sorūd /so.ruːd/ → /s/ (coda /ks/ fusionada)"
+            ],
+            "derivaciones": []
+          },
+          {
+            "kalfirvach": "mandārk",
+            "concepto": "círculo/mandala",
+            "pos": "noun",
+            "ipa": "/manˈdaːrk/",
+            "origen": {
+              "lengua": "Sánscrito Védico / Árabe esotérico / Griego Koiné",
+              "raiz_original": "मण्डल maṇḍala \"círculo, mandala, esfera\" (Skt) / دائرة dā'ira \"círculo, órbita\" (Ar) / κύκλος kyklos \"círculo, ciclo\" (Gr)",
+              "corpus": "Ṛg Veda (Skt); Ikhwān al-Ṣafā' (Ar); Platón, Timeo (Gr)"
+            },
+            "transformacion": [
+              "/man/ de मण्डल maṇḍala (raíz escandida)",
+              "/dārk/ blend de دائرة /daː.ʔi.ra/ → /daː/ + κύκλος /ky.klos/ → /rk/ (coda /rk/ permitida)"
+            ],
+            "derivaciones": []
+          },
+          {
+            "kalfirvach": "minmēn",
+            "concepto": "espíritu/mente sutil",
+            "pos": "noun",
+            "ipa": "/minˈmeːn/",
+            "origen": {
+              "lengua": "Persa Avéstico / Copto Sahídico / Sánscrito Védico",
+              "raiz_original": "mēnōg \"espíritu, mente sutil\" (Av) / ⲙⲉⲉⲩⲉ meeue \"pensar, pensamiento\" (Cop) / मनस् manas \"mente, intelecto\" (Skt)",
+              "corpus": "Bundahishn (Av); Coptic Dictionary Online KELLIA (Cop); Ṛg Veda (Skt)"
+            },
+            "transformacion": [
+              "/min/ de mēnōg (raíz escandida)",
+              "/mēn/ blend de ⲙⲉⲉⲩⲉ /meːwe/ → /meː/ + मनस् manas → /n/ coda"
+            ],
+            "derivaciones": [
+              "minmēn-ta (espiritualidad)",
+              "minmēn-ka (sutil)"
+            ]
+          },
+          {
+            "kalfirvach": "nemau",
+            "concepto": "memoria/registro",
+            "pos": "noun",
+            "ipa": "/neˈmaw/",
+            "origen": {
+              "lengua": "Griego Koiné / Copto Sahídico",
+              "raiz_original": "μνήμη mnēmē \"memoria, recuerdo, registro\" (Gr) / ⲙⲉⲉⲩⲉ meeue \"pensar, pensamiento, mente\" (Cop)",
+              "corpus": "Platón, Fedro (Gr); Coptic Dictionary Online KELLIA (Cop)"
+            },
+            "transformacion": [
+              "/ne/ de μνήμη mnēmē → /mne/→/ne/ (elisión de /m/ prenuclear)",
+              "/mau/ de ⲙⲉⲉⲩⲉ meeue /meːwe/ → /maw/ (diptongo /aw/)"
+            ],
+            "derivaciones": []
+          },
+          {
+            "kalfirvach": "mukfī",
+            "concepto": "desencantar (romper hechizo) - verbo ritual v1.2",
+            "pos": "verb",
+            "ipa": "/ˈmuk.fiː/",
+            "origen": {
+              "lengua": "Egipcio Demótico / Persa Avéstico / Árabe esotérico",
+              "raiz_original": "ḥkꜢ heka / zaotar invocar / سحر (sḥr)",
+              "corpus": ""
+            },
+            "transformacion": [
+              "Fusión ritual Egipcio Demótico + Persa Avéstico + Árabe Esotérico"
+            ],
+            "derivaciones": []
+          },
+          {
+            "kalfirvach": "tišpor",
+            "concepto": "arquetipo",
+            "pos": "noun",
+            "ipa": "/tiʃˈpor/",
+            "origen": {
+              "lengua": "Griego Koiné / Copto / Persa Avéstico",
+              "raiz_original": "τῦπος (typos) \"tipo, modelo\" (Gr) / ϣⲟⲣⲡ (šorp) \"primero, principio\" (Cop) / 𐬟𐬭𐬀𐬱𐬆 (fraša) \"ideal, prototipo\" (Av)",
+              "corpus": "Platón, PGM (Gr); Coptic Dictionary Online, KELLIA (Cop); Avesta, Gathas (Av)"
+            },
+            "transformacion": [
+              "/ti/ del Gr τῦπος, /š/ del Cop ϣⲟⲣⲡ (coda del blend), /por/ del Av 𐬟𐬭𐬀𐬱𐬆 /fraʃa/ (elisión /fra/ → /por/)"
+            ],
+            "derivaciones": []
+          },
+          {
+            "kalfirvach": "mutbem",
+            "concepto": "sello/marca",
+            "pos": "noun",
+            "ipa": "/mutˈbem/",
+            "origen": {
+              "lengua": "Sánscrito Védico / Copto Sahídico / Árabe esotérico",
+              "raiz_original": "मुद्रा mudrā \"sello, gesto ritual, marca\" (Skt) / ⲁⲓⲃⲉ aibe \"sello, estigma, marca\" (Cop) / ختم khatm \"sello, estampado, cierre\" (Ar)",
+              "corpus": "Tantras (Skt); Coptic Dictionary Online KELLIA (Cop); Alquimia árabe (Ar)"
+            },
+            "transformacion": [
+              "/mut/ de मुद्रा mudrā (devoicing /d/→/t/ en coda)",
+              "/bem/ blend de ⲁⲓⲃⲉ /ajbe/ → /be/ + ختم /xatm/ → /m/ (coda labial)"
+            ],
+            "derivaciones": []
+          },
+          {
+            "kalfirvach": "nafso",
+            "concepto": "sonido primordial",
+            "pos": "noun",
+            "ipa": "/ˈnaf.so/",
+            "origen": {
+              "lengua": "Sánscrito Védico / Griego Koiné / Copto Sahídico",
+              "raiz_original": "नाद nāda \"sonido primordial, vibración, tono\" (Skt) / φωνή phōnē \"voz, sonido, llamado\" (Gr) / ⲥⲙⲏ smē \"sonido, voz, rumor\" (Cop)",
+              "corpus": "Nāda Bindu Upaniṣad (Skt); Pitágoras, música de las esferas (Gr); Coptic Dictionary Online KELLIA (Cop)"
+            },
+            "transformacion": [
+              "/na/ de नाद nāda preservado",
+              "/f/ de φωνή phōnē /pʰoː.nɛː/ → /f/ (devoicing aspirado)",
+              "/so/ de ⲥⲙⲏ smē → /smeː/ → /so/ (apertura vocálica)"
+            ],
+            "derivaciones": []
+          },
+          {
+            "kalfirvach": "onram",
+            "concepto": "nombre verdadero",
+            "pos": "noun",
+            "ipa": "/onˈram/",
+            "origen": {
+              "lengua": "Griego Koiné / Copto Sahídico / Árabe esotérico",
+              "raiz_original": "ὄνομα onoma \"nombre, denominación\" (Gr) / ⲣⲁⲛ ran \"nombre, apelativo\" (Cop) / اسم ism \"nombre, designación\" (Ar)",
+              "corpus": "Platón, Crátilo (Gr); Coptic Dictionary Online KELLIA (Cop); Corán (Ar)"
+            },
+            "transformacion": [
+              "/on/ de ὄνομα onoma (raíz escandida)",
+              "/ram/ blend de ⲣⲁⲛ /ran/ → /r/ + اسم /ism/ → /am/ → /ram/"
+            ],
+            "derivaciones": []
+          },
+          {
+            "kalfirvach": "opsnau",
+            "concepto": "visión/claridad",
+            "pos": "noun",
+            "ipa": "/opsˈnaw/",
+            "origen": {
+              "lengua": "Griego Koiné / Copto Sahídico",
+              "raiz_original": "ὄψις opsis \"visión, vista, apariencia\" (Gr) / ⲛⲁⲩ nau \"ver, visión, ojo\" (Cop)",
+              "corpus": "Platón, Teeteto (Gr); Coptic Dictionary Online KELLIA (Cop)"
+            },
+            "transformacion": [
+              "/ops/ de ὄψις opsis (coda /ps/ permitida)",
+              "/naw/ de ⲛⲁⲩ nau (diptongo /aw/ preservado)"
+            ],
+            "derivaciones": []
+          },
+          {
+            "kalfirvach": "pagana",
+            "concepto": "Fuente de la Memoria",
+            "pos": "noun",
+            "ipa": "/ˈpa.ga.na/",
+            "origen": {
+              "lengua": "Griego Koiné / Egipcio Demótico",
+              "raiz_original": "Griego πηγή (pēgḗ) \"fuente, manantial, surtidor\" + Egipcio mnw (menu) \"memoria, permanencia, monumento\" + Griego γνῶσις (gnôsis) \"conocimiento\" → pagana (fusión: pēgḗ + gnôsis -> pagana, con /ē/->/a/ y /gn/->/g/). 3 lenguas. El acceso a los registros akáshicos, la memoria del cosmos.",
+              "corpus": ""
+            },
+            "transformacion": [
+              "/pēgḗ/->/pa/ (raíz)",
+              "/gnôsis/->/ga/ (segunda)",
+              "/mnw/->/na/ (tercera)"
+            ],
+            "derivaciones": []
+          },
+          {
+            "kalfirvach": "paradesh",
+            "concepto": "Jardín de Contemplación",
+            "pos": "noun",
+            "ipa": "/ˈpa.ra.deʃ/",
+            "origen": {
+              "lengua": "Griego Koiné / Persa Avéstico",
+              "raiz_original": "Griego παράδεισος (parádeisos) \"jardín, paraíso, parque cerrado\" + Persa پردیس (pardis) \"jardín, paraíso\" + Árabe فكر (fikr) \"contemplación, meditación\" → paradesh (fusión: parádeisos + pardis -> paradesh, con /s/->/ʃ/ por influencia del árabe fikr). 3 lenguas. El espacio de paz mental, reflexión, integración.",
+              "corpus": ""
+            },
+            "transformacion": [
+              "/parádeisos/->/parades/ (raíz)",
+              "/pardis/->/parades/ (convergencia)"
+            ],
+            "derivaciones": []
+          },
+          {
+            "kalfirvach": "paraka",
+            "concepto": "purificar (verbo ritual)",
+            "pos": "verb",
+            "ipa": "/ˈpa.ra.ka/",
+            "origen": {
+              "lengua": "Griego Koiné / Egipcio Demótico",
+              "raiz_original": "καθαίρω kathairō \"purificar\" (Gr) / wꜥb \"puro, limpio\" (Eg)",
+              "corpus": "PGM IV; Liturgia cristiana primitiva; Textos pirámide §262"
+            },
+            "transformacion": [
+              "/ka/ inicial reconstruido por síncopa"
+            ],
+            "derivaciones": [
+              "paraka-a (purificado)"
+            ],
+            "notas": "F5 v1.2. Limpieza ritual (física y espiritual)."
+          },
+          {
+            "kalfirvach": "parbōs",
+            "concepto": "proyección",
+            "pos": "noun",
+            "ipa": "/parˈboːs/",
+            "origen": {
+              "lengua": "Sánscrito Védico / Griego Koiné / Árabe esotérico",
+              "raiz_original": "परिश्रम pariśrama \"proyección, esfuerzo, emanación\" (Skt) / προβολή probolē \"proyección, lanzamiento\" (Gr) / إسقاط isqāṭ \"proyección, caída\" (Ar)",
+              "corpus": "Yoga Sūtras (Skt); Plotino, Enn. (Gr); Alquimia árabe (Ar)"
+            },
+            "transformacion": [
+              "/par/ de परिश्रम pariśrama (raíz escandida)",
+              "/bōs/ blend de προβολή /pro.bo.lɛː/ → /bo/ + إسقاط /is.qaːtˁ/ → /s/ → /bōs/"
+            ],
+            "derivaciones": []
+          },
+          {
+            "kalfirvach": "pejlōn",
+            "concepto": "Velo / Umbral",
+            "pos": "noun",
+            "ipa": "/peʒˈloːn/",
+            "origen": {
+              "lengua": "Griego Koiné / Árabe esotérico / Copto",
+              "raiz_original": "πέπλος (péplos) \"velo, manto\" (Gr) / حِجَاب (ḥijāb) \"velo, barrera\" (Ar) / ⲟⲩⲏⲗⲟⲛ (ouēlon) \"velo, cortina\" (Cop)",
+              "corpus": "PGM (Gr); Sufismo, hurufismo (Ar); Coptic Dictionary Online, KELLIA (Cop)"
+            },
+            "transformacion": [
+              "/pe/ del Gr πέπλος, /ʒ/ del Ar حِجَاب /ḥijāb/ (coda del blend), /lōn/ del Cop ⲟⲩⲏⲗⲟⲛ /weːlon/ (elisión /we/)"
+            ],
+            "derivaciones": []
+          },
+          {
+            "kalfirvach": "pentaka",
+            "concepto": "pentáculo (disco de cinco puntas)",
+            "pos": "noun",
+            "ipa": "/ˈpen.ta.ka/",
+            "origen": {
+              "lengua": "Griego Koiné / Hebreo / Árabe esotérico",
+              "raiz_original": "πεντάγραμμον pentagrammon \"cinco líneas, pentagrama\" (Gr) / חוֹתָם jotam \"sello\" (Heb) / خُمَاسِيّ khumāsī \"pentagonal, de cinco\" (Ar /x/→/k/)",
+              "corpus": "Heródoto (Gr); Cábala (Heb); Ciencia islámica (Ar)"
+            },
+            "transformacion": [
+              "/pen/ de πεντάγραμμον /pen.ta.ɡram.mon/ → /pen/ (Gr)",
+              "/ta/ de πεντάγραμμον /ta/ (Gr)",
+              "/ka/ blend de πεντάγραμμον /ɡram.mon/ → /ɡ/ (Gr) + חוֹתָם /ħo.tam/ → /ħ/ (Heb) + خُمَاسِيّ /xu.maː.siː/ → /x/→/k/ (Ar)"
+            ],
+            "derivaciones": [
+              "pentaka-shá (pentáculo-locativo: altar-pentacular)"
+            ],
+            "notas": "F5 v1.2. Signo de la tierra + los cuatro elementos + éter."
+          },
+          {
+            "kalfirvach": "purmōl",
+            "concepto": "Torre de Vigilancia",
+            "pos": "noun",
+            "ipa": "/purˈmoːl/",
+            "origen": {
+              "lengua": "Griego Koiné / Copto / Árabe esotérico",
+              "raiz_original": "πύργος (pýrgos) \"torre\" (Gr) / ⲙⲉϭⲧⲱⲗ (mechtōl) \"torre, fortificación\" (Cop) / مَرْقَب (marqab) \"torre de vigilancia, atalaya\" (Ar)",
+              "corpus": "PGM (Gr); Coptic Dictionary Online, KELLIA (Cop); Textos geográficos árabes (Ar)"
+            },
+            "transformacion": [
+              "/pur/ del Gr πύργος, /mōl/ del Cop ⲙⲉϭⲧⲱⲗ /mekˈtoːl/ (elisión /mek/ + /toːl/ → /moːl/), con refuerzo del Ar مَرْقَب"
+            ],
+            "derivaciones": []
+          },
+          {
+            "kalfirvach": "rignōn",
+            "concepto": "conciencia",
+            "pos": "noun",
+            "ipa": "/rigˈnoːn/",
+            "origen": {
+              "lengua": "Tibetano Clásico / Griego Koiné / Sánscrito Védico",
+              "raiz_original": "rig pa \"conciencia, saber\" (Tib) / νοῦς (nous) \"mente, conciencia\" (Gr) / विज्ञान (vijñāna) \"conciencia discriminativa\" (Skt)",
+              "corpus": "Dzogchen (Tib); Plotino, Enn. (Gr); Yogācāra (Skt)"
+            },
+            "transformacion": [
+              "/rig/ de rig pa preservado",
+              "/nōn/ blend de νοῦς /nous/ → /noː/ + विज्ञान /vijɲaːna/ → /n/ coda"
+            ],
+            "derivaciones": []
+          },
+          {
+            "kalfirvach": "rupnej",
+            "concepto": "plano físico / mundo material",
+            "pos": "noun",
+            "ipa": "/rupˈnej/",
+            "origen": {
+              "lengua": "Sánscrito Védico / Copto / Griego Koiné",
+              "raiz_original": "रूप (rūpa) \"forma, apariencia\" (Skt) / ⲉⲓⲛⲉ (eine) \"forma, imagen\" (Cop) / εἶδος (eidos) \"forma, aspecto visible\" (Gr)",
+              "corpus": "Yoga Sūtra, Bṛhadāraṇyaka (Skt); Coptic Dictionary Online, KELLIA (Cop); Platón, PGM (Gr)"
+            },
+            "transformacion": [
+              "/rup/ del Skt रूप, /nej/ del Cop ⲉⲓⲛⲉ /ejne/ (fusión /ej/ + /ne/) y Gr εἶδος (/ej/ refuerza el diptongo)"
+            ],
+            "derivaciones": []
+          },
+          {
+            "kalfirvach": "samwak",
+            "concepto": "sincronicidad",
+            "pos": "noun",
+            "ipa": "/samˈwak/",
+            "origen": {
+              "lengua": "Sánscrito Védico / Árabe esotérico / Griego Koiné",
+              "raiz_original": "सम (sama) \"igual, semejante\" (Skt) / وَقْت (waqt) \"tiempo, momento\" (Ar) / λέξις (lexis) \"palabra, significado\" (Gr)",
+              "corpus": "Tantras (sāmya) (Skt); Filosofía islámica (Ar); PGM, estoicismo (Gr)"
+            },
+            "transformacion": [
+              "/sam/ del Skt सम /sama/, /wak/ del Ar وَقْت (q→k, pérdida de /t/), con refuerzo del Gr λέξις /lek/ → /k/"
+            ],
+            "derivaciones": []
+          },
+          {
+            "kalfirvach": "samnus",
+            "concepto": "Océano de Conciencia",
+            "pos": "noun",
+            "ipa": "/samˈnus/",
+            "origen": {
+              "lengua": "Sánscrito Védico / Árabe esotérico / Griego Koiné",
+              "raiz_original": "समुद्र samudra \"océano\" (Skt) / وجدان wijdān \"conciencia, éxtasis contemplativo\" (Ar) / νοῦς nous \"mente, intelecto\" (Gr)",
+              "corpus": "Ṛg Veda (Skt); Sufismo, Ibn Arabi (Ar); Platón, Plotino (Gr)"
+            },
+            "transformacion": [
+              "/sam/ de samudra (raíz preservada)",
+              "/n/ de wijdān (coda asimilada)",
+              "/us/ de νοῦς nous /nus/ → vocal temática + nasal coda"
+            ],
+            "derivaciones": []
+          },
+          {
+            "kalfirvach": "satpraš",
+            "concepto": "práctica espiritual, realización, sadhana",
+            "pos": "noun",
+            "ipa": "/satˈpraʃ/",
+            "origen": {
+              "lengua": "Sánscrito Védico / Griego Clásico / Avéstico",
+              "raiz_original": "साधन sādhana \"realización, práctica\" (Skt) / πρᾶξις praxis \"práctica, acción\" (Gr) / 𐬟𐬭𐬀𐬱𐬆 fraša \"ideal, prototipo\" (Av)",
+              "corpus": "Tantras Trika (Skt); Aristóteles, Estoicos (Gr); Avesta, Gathas (Av)"
+            },
+            "transformacion": [
+              "/sat/ de sādhana (raíz escandida)",
+              "/pra/ de πρᾶξις praxis (onset preservado)",
+              "/š/ de fraša /fraʃa/ → coda palatal"
+            ],
+            "derivaciones": []
+          },
+          {
+            "kalfirvach": "sapkād",
+            "concepto": "eco/resonancia",
+            "pos": "noun",
+            "ipa": "/sapˈkaːd/",
+            "origen": {
+              "lengua": "Sánscrito Védico / Griego Koiné / Árabe esotérico",
+              "raiz_original": "शब्द śabda \"sonido, palabra, eco\" (Skt) / ἠχώ ēkhō \"eco, sonido reflejado\" (Gr) / صدى ṣadā \"eco, resonancia\" (Ar)",
+              "corpus": "Nāda Bindu Upaniṣad (Skt); Hesíodo, Teogonía (Gr); Poesía mística árabe (Ar)"
+            },
+            "transformacion": [
+              "/sap/ de शब्द śabda (devoicing /b/→/p/ en coda)",
+              "/kād/ blend de ἠχώ /ɛː.xoː/ → /k/ (devoicing /x/) + صدى /sˤa.daː/ → /aːd/"
+            ],
+            "derivaciones": []
+          },
+          {
+            "kalfirvach": "sirmytun",
+            "concepto": "secreto/misterio",
+            "pos": "noun",
+            "ipa": "/ˈsir.my.tun/",
+            "origen": {
+              "lengua": "Árabe esotérico / Griego Koiné / Sánscrito Védico",
+              "raiz_original": "سِرّ (sirr) \"secreto\" (Ar) / μυστήριον (mystērion) \"misterio\" (Gr) / रहस्य (rahasyá) \"secreto, misterio\" (Skt)",
+              "corpus": "Sufismo (Ar); PGM (Gr); Upaniṣads (Skt)"
+            },
+            "transformacion": [
+              "/sir/ de سِرّ preservado",
+              "/my/ de μυστήριον (mystērion) preservado",
+              "/θun/ de μυστήριον /θerion/? → /θ/ + रहस्य /rahasya/ → /un/"
+            ],
+            "derivaciones": []
+          },
+          {
+            "kalfirvach": "liōd",
+            "concepto": "disolver (operación alquímica)",
+            "pos": "verb",
+            "ipa": "/ˈli.oːd/",
+            "origen": {
+              "lengua": "Griego Koiné / Egipcio Demótico",
+              "raiz_original": "λύω lyō \"desatar, disolver\" (Gr) / ḏd-mdw \"cortar-palabra, disolver\" (Eg)",
+              "corpus": "Alquimia alejandrina (Gr); Textos de Edfu (Eg)"
+            },
+            "transformacion": [
+              "/li/ de λύω /ly.oː/ → /ly/ → /li/ (Gr) + ḏd-mdw → /dʒɛd/ → /dʒ/→/tʃ/ → /li/ (Eg)",
+              "/ōd/ blend de λύω /oː/ (Gr) + ḏd-mdw → /mɛdu/ → /d/ (Eg)"
+            ],
+            "derivaciones": [
+              "solve-a (disuelto)"
+            ],
+            "notas": "F5 v1.2. Alquimia: separar componentes; op. de coagula."
+          },
+          {
+            "kalfirvach": "šakdom",
+            "concepto": "poder, fuerza, energía dinámica",
+            "pos": "noun",
+            "ipa": "/ʃakˈdom/",
+            "origen": {
+              "lengua": "Sánscrito Védico / Griego Koiné / Copto Sahídico",
+              "raiz_original": "शक्ति śakti \"poder, energía, fuerza\" (Skt) / δύναμις dynamis \"poder, fuerza, capacidad\" (Gr) / ϫⲟⲙ čom \"poder, fuerza, autoridad\" (Cop)",
+              "corpus": "Śvetāśvatara Upaniṣad (Skt); Aristóteles, Met. (Gr); Coptic Dictionary Online KELLIA (Cop)"
+            },
+            "transformacion": [
+              "/šak/ de शक्ति śakti (raíz escandida)",
+              "/dom/ blend de δύναμις /dy.namis/ → /dy/→/do/ + ϫⲟⲙ /tʃom/ → /m/ coda"
+            ],
+            "derivaciones": []
+          },
+          {
+            "kalfirvach": "shamkhak",
+            "concepto": "sombra/lo oculto",
+            "pos": "noun",
+            "ipa": "/ʃamˈxak/",
+            "origen": {
+              "lengua": "Griego Koiné / Copto Sahídico",
+              "raiz_original": "σκότος skotos \"oscuridad, tinieblas, sombra\" (Gr) / ⲭⲁⲕⲉ khake \"tinieblas, oscuridad, sombra\" (Cop)",
+              "corpus": "PGM (Gr); Coptic Dictionary Online KELLIA (Cop)"
+            },
+            "transformacion": [
+              "/ʃam/ de σκότος skotos → /skotos/ → /ʃam/ (palatalización de /sk/)",
+              "/khak/ de ⲭⲁⲕⲉ khake → /xa.ke/ → /xak/ (elisión de /e/ final)"
+            ],
+            "derivaciones": []
+          },
+          {
+            "kalfirvach": "shābol",
+            "concepto": "símbolo/signo",
+            "pos": "noun",
+            "ipa": "/ʃaːˈbol/",
+            "origen": {
+              "lengua": "Árabe esotérico / Griego Koiné / Copto",
+              "raiz_original": "شِعَار (shiʿār) \"emblema, símbolo\" (Ar) / σύμβολον (symbolon) \"símbolo\" (Gr) / ⲥⲩⲙⲃⲟⲗⲏ (symbole) \"símbolo\" (Cop)",
+              "corpus": "Hurufi texts (Ar); PGM (Gr); Coptic Dictionary Online, KELLIA (Cop)"
+            },
+            "transformacion": [
+              "/shā/ del Ar شِعَار (alargamiento vocálico compensatorio), /bol/ del Gr σύμβολον + Cop ⲥⲩⲙⲃⲟⲗⲏ (fusión /bol/)"
+            ],
+            "derivaciones": []
+          },
+          {
+            "kalfirvach": "shunaf",
+            "concepto": "vacío/potencial",
+            "pos": "noun",
+            "ipa": "/ʃuˈnaf/",
+            "origen": {
+              "lengua": "Sánscrito Védico / Griego Koiné / Árabe esotérico",
+              "raiz_original": "शून्य śūnya \"vacío, cero, potencial\" (Skt) / κενόν kenon \"vacío, vacuo\" (Gr) / فراغ farāgh \"vacío, espacio libre\" (Ar)",
+              "corpus": "Śūnyatā, Nāgārjuna (Skt); Demócrito, Leucipo (Gr); Sufismo, Al-Ghazālī (Ar)"
+            },
+            "transformacion": [
+              "/ʃu/ de शून्य śūnya (onset preservado)",
+              "/naf/ blend de κενόν /ke.non/ → /n/ + فراغ /fa.raːɣ/ → /af/ con fusión vocálica"
+            ],
+            "derivaciones": []
+          },
+          {
+            "kalfirvach": "tigbes",
+            "concepto": "gota/esencia",
+            "pos": "noun",
+            "ipa": "/tigˈbes/",
+            "origen": {
+              "lengua": "Tibetano Clásico / Sánscrito Védico / Griego Koiné",
+              "raiz_original": "thig le \"gota, esencia\" (Tib) / बिन्दु (bindu) \"gota, semilla, punto\" (Skt) / σπέρμα (sperma) \"semilla, esencia germinal\" (Gr)",
+              "corpus": "Tantras (Tib); Śiva Sūtras (Skt); Proclo (Gr)"
+            },
+            "transformacion": [
+              "/tig/ de thig le preservado",
+              "/besp/ blend de बिन्दु /bindu/ → /b/ + σπέρμα /sperma/ → /esp/ (con /s/ + /p/ como sílabas separadas)"
+            ],
+            "derivaciones": []
+          },
+          {
+            "kalfirvach": "kīton",
+            "concepto": "túnica ritual",
+            "pos": "noun",
+            "ipa": "/ˈkiː.ton/",
+            "origen": {
+              "lengua": "Griego Koiné / Egipcio Demótico",
+              "raiz_original": "χιτών khitōn \"vestidura, túnica\" (Gr) / mšꜥ \"vestido, tela\" (Eg)",
+              "corpus": "Heródoto (Gr); Vestimenta egipcia (Eg)"
+            },
+            "transformacion": [
+              "/kī/ de χιτών /kʰi.tɔːn/ → /kʰi/ → /kiː/ (Gr) + mšꜥ → /m/ (Eg)",
+              "/ton/ de χιτών /tɔːn/ (Gr)"
+            ],
+            "derivaciones": [
+              "tunika-shá (túnica-santuario: lugar-de-amamantamiento-ritual)"
+            ],
+            "notas": "F5 v1.2. Vestidura ceremonial; cubre el cuerpo durante el rito."
+          },
+          {
+            "kalfirvach": "turmer",
+            "concepto": "Montaña Cósmica / Eje del Mundo",
+            "pos": "noun",
+            "ipa": "/turˈmer/",
+            "origen": {
+              "lengua": "Persa Avéstico / Griego Koiné / Sánscrito Védico",
+              "raiz_original": "کوه kuh \"montaña\" + ستی seti \"alta, erguida\" (Pers) / κόσμος kosmos \"cosmos, orden\" (Gr) / मेरु meru \"montaña cósmica\" (Skt)",
+              "corpus": "Bundahišn (Pers); Platón, Timeo (Gr); Purāṇas (Skt)"
+            },
+            "transformacion": [
+              "/tur/ de kuh+seti+kosmos (fusión persa-griega preservada)",
+              "/mer/ de मेरु meru (raíz completa, montaña cósmica védica)"
+            ],
+            "derivaciones": []
+          },
+          {
+            "kalfirvach": "thak",
+            "concepto": "encantar (aplicar hechizo) - verbo ritual v1.2",
+            "pos": "verb",
+            "ipa": "/ˈθak/",
+            "origen": {
+              "lengua": "Persa Avéstico / Tibetano Clásico / Egipcio Demótico",
+              "raiz_original": "ātarš fuego / བཟླས་ (bzlas) / ẖnm unir",
+              "corpus": ""
+            },
+            "transformacion": [
+              "Fusión ritual Persa Avéstico + Tibetano Clásico + Egipcio Demótico"
+            ],
+            "derivaciones": []
+          },
+          {
+            "kalfirvach": "theteš",
+            "concepto": "ritual",
+            "pos": "noun",
+            "ipa": "/θeˈteʃ/",
+            "origen": {
+              "lengua": "Egipcio Demótico / Griego Koiné / Copto Sahídico",
+              "raiz_original": "ḥtp \"ofrenda, ritual\" (Dem) / τελετή teletē \"rito iniciático\" (Gr) / ϣⲣⲡ šorp \"ofrenda, primicia\" (Cop)",
+              "corpus": "Textos de las Pirámides (Dem); PGM (Gr); Coptic Dictionary Online KELLIA (Cop)"
+            },
+            "transformacion": [
+              "/θe/ blend de ḥtp → /θen/ escandido + /te/ de τελετή",
+              "/teʃ/ = /te/ de τελετή + /š/ de ϣⲣⲡ como coda palatal"
+            ],
+            "derivaciones": [
+              "theteš-tár (ritualista)",
+              "theteš-shá (espacio ritual)"
+            ]
+          },
+          {
+            "kalfirvach": "rabdos",
+            "concepto": "varita (instrumento ritual)",
+            "pos": "noun",
+            "ipa": "/ˈrab.dos/",
+            "origen": {
+              "lengua": "Griego Koiné / Egipcio Demótico",
+              "raiz_original": "ῥάβδος rhabdos \"vara, bastón\" (Gr) / mꜣꜥ-ḫꜣ \"vara mágica\" (Eg)",
+              "corpus": "Homero (Gr); Textos mágicos egipcios (Eg)"
+            },
+            "transformacion": [
+              "/rab/ de ῥάβδος /r̥ab.dos/ → /rab/ (Gr) + mꜣꜥ-ḫꜣ → /m/ → /r/ (Eg)",
+              "/dos/ de ῥάβδος /dos/ (Gr)"
+            ],
+            "derivaciones": [
+              "virga-tár (portador-de-varita: mago operativo)"
+            ],
+            "notas": "F5 v1.2. Instrumento de proyección y trazado de círculos."
+          },
+          {
+            "kalfirvach": "višfam",
+            "concepto": "veneno/sabiduría",
+            "pos": "noun",
+            "ipa": "/wiʃˈfam/",
+            "origen": {
+              "lengua": "Sánscrito Védico / Griego Koiné / Árabe esotérico",
+              "raiz_original": "विष viṣa \"veneno\" (Skt) / φάρμακον pharmakon \"veneno, droga, remedio\" (Gr) / سمّ samm \"veneno, tósigo\" (Ar)",
+              "corpus": "Atharva Veda (Skt); Platón, Fedro (Gr); Alquimia árabe, Jabir (Ar)"
+            },
+            "transformacion": [
+              "/wiʃ/ de विष viṣa (preservado)",
+              "/f/ de φάρμακον pharmakon /pʰarmakon/ → /f/ (devoicing aspirado)",
+              "/am/ de سمّ samm → /samm/ → /am/ (elisión de /s/)"
+            ],
+            "derivaciones": []
+          },
+          {
+            "kalfirvach": "wīli",
+            "concepto": "sacrificar (ofrendar)",
+            "pos": "verb",
+            "ipa": "/ˈwiː.li/",
+            "origen": {
+              "lengua": "Griego Koiné / Egipcio Demótico / Tibetano Clásico",
+              "raiz_original": "(raíz Griego) / (raíz Egipcio) / (raíz Tibetano)",
+              "corpus": ""
+            },
+            "transformacion": [
+              "fusión fonética multiscriptural"
+            ],
+            "derivaciones": []
+          },
+          {
+            "kalfirvach": "yozev",
+            "concepto": "unión, integración, yoga",
+            "pos": "noun",
+            "ipa": "/joˈzev/",
+            "origen": {
+              "lengua": "Sánscrito Védico / Griego Koiné / Persa",
+              "raiz_original": "योग yoga \"unión, integración, yoga\" (Skt) / ζεῦξις zeuxis \"unión, conexión, yugo\" (Gr) / پیوست peyvast \"unión, conexión, enlace\" (Pers)",
+              "corpus": "Yoga Sūtras (Skt); Platón, Fedro (Gr); Rūmī, Masnavī (Pers)"
+            },
+            "transformacion": [
+              "/jo/ de योग yoga preservado",
+              "/zev/ blend de ζεῦξις /dzeu.ksis/ → /ze/ (deafricación /dz/→/z/) + پیوست /pey.vast/ → /v/ en coda"
+            ],
+            "derivaciones": []
+          },
+          {
+            "kalfirvach": "yohet",
+            "concepto": "integración",
+            "pos": "noun",
+            "ipa": "/joˈhet/",
+            "origen": {
+              "lengua": "Sánscrito Védico / Griego Koiné / Árabe esotérico",
+              "raiz_original": "योग yoga \"integración, unión\" (Skt) / ἕνωσις henōsis \"unificación, unidad mística\" (Gr) / اتحاد ittihād \"unión, unidad, fusión\" (Ar)",
+              "corpus": "Bhagavad Gītā (Skt); Plotino, Enn. (Gr); Ibn Arabī (Ar)"
+            },
+            "transformacion": [
+              "/jo/ de योग yoga preservado",
+              "/het/ blend de ἕνωσις /he.noː.sis/ → /he/ + اتحاد /it.ti.haːd/ → /t/ (coda dental)"
+            ],
+            "derivaciones": []
+          },
+          {
+            "kalfirvach": "zīdhū",
+            "concepto": "invocar (llamar entidad) - verbo ritual v1.2",
+            "pos": "verb",
+            "ipa": "/ˈziː.ðuː/",
+            "origen": {
+              "lengua": "Griego Koiné / Egipcio Demótico / Persa Avéstico",
+              "raiz_original": "δαιμον- (daimon-) / ḥkꜢ heka / ātarš fuego",
+              "corpus": ""
+            },
+            "transformacion": [
+              "Fusión ritual Griego Koiné + Egipcio Demótico + Persa Avéstico"
+            ],
+            "derivaciones": []
+          },
+          {
+            "kalfirvach": "qadesh",
+            "concepto": "consagrar (verbo ritual)",
+            "pos": "verb",
+            "ipa": "/ˈka.deʃ/",
+            "origen": {
+              "lengua": "Árabe esotérico / Hebreo",
+              "raiz_original": "קָדַשׁ qādash \"santificar, consagrar\" (Heb) / قَدَسَ qadasa \"santificar, consagrar\" (Ar)",
+              "corpus": "Sefer Yetzirah 4.3; Corán 2.30; tradición litúrgica cristiana"
+            },
+            "transformacion": [
+              "/q/→/q/ (oclusiva uvular KFA)"
+            ],
+            "derivaciones": [
+              "qadesh-ka (consagrar-este-objeto)",
+              "qadesh-a (consagrado)"
+            ],
+            "notas": "F5 v1.2. Hacer sagrado; ritual de dedicación de objeto o espacio."
+          },
+          {
+            "kalfirvach": "thélōš",
+            "concepto": "voluntad",
+            "pos": "noun",
+            "ipa": "/θeˈloːʃ/",
+            "origen": {
+              "lengua": "Griego Koiné / Copto Sahídico",
+              "raiz_original": "θέλημα thélēma \"voluntad, deseo, intención\" (Gr) / ⲟⲩⲱϣ ouōš \"desear, querer, voluntad\" (Cop)",
+              "corpus": "PGM (Gr); Coptic Dictionary Online KELLIA (Cop)"
+            },
+            "transformacion": [
+              "/θe/ de θέλημα thélēma (onset preservado)",
+              "/lōš/ blend de θέλημα /ˈtʰe.lɛː.ma/ → /lɛː/ + ⲟⲩⲱϣ /woːʃ/ → /oːʃ/ → /lōš/"
+            ],
+            "derivaciones": [],
+            "notas": "Núcleo central del sistema. Compatible con partículas performativas."
+          },
+          {
+            "kalfirvach": "chā",
+            "concepto": "proteger (amparar)",
+            "pos": "verb",
+            "ipa": "/ˈtʃaː/",
+            "origen": {
+              "lengua": "Egipcio Demótico / Persa Avéstico / Árabe esotérico",
+              "raiz_original": "(raíz Egipcio) / (raíz Persa) / (raíz Árabe)",
+              "corpus": ""
+            },
+            "transformacion": [
+              "fusión fonética multiscriptural"
+            ],
+            "derivaciones": []
+          },
+          {
+            "kalfirvach": "āmo",
+            "concepto": "adivinar (predecir futuro) - verbo ritual v1.2",
+            "pos": "verb",
+            "ipa": "/ˈaː.mo/",
+            "origen": {
+              "lengua": "Sánscrito Védico / Egipcio Demótico / Tibetano Clásico",
+              "raiz_original": "मन्त्र् (mantr) / ḥkꜢ heka / དཀྱིལ་ (dkyil)",
+              "corpus": ""
+            },
+            "transformacion": [
+              "Fusión ritual Sánscrito Védico + Egipcio Demótico + Tibetano Clásico"
+            ],
+            "derivaciones": []
+          },
+          {
+            "kalfirvach": "pēgnim",
+            "concepto": "coagular (operación alquímica)",
+            "pos": "verb",
+            "ipa": "/ˈpeːɡ.nim/",
+            "origen": {
+              "lengua": "Griego Koiné / Egipcio Demótico",
+              "raiz_original": "πήγνυμι pēgnymi \"fijar, cuajar\" (Gr) / smn \"fijar, establecer\" (Eg)",
+              "corpus": "Aristóteles (Gr); Papiros egipcios (Eg)"
+            },
+            "transformacion": [
+              "/pēg/ de πήγνυμι /pɛːɡ.ny.mi/ → /pɛːɡ/ (Gr) + smn → /s/ → /p/ (Eg)",
+              "/nim/ blend de πήγνυμι /ny.mi/ → /nim/ (Gr) + smn → /mɛn/ → /m/ (Eg)"
+            ],
+            "derivaciones": [
+              "coagula-a (coagulado)"
+            ],
+            "notas": "F5 v1.2. Alquimia: unir componentes; cierre del opus."
+          },
+          {
+            "kalfirvach": "chásdruying",
+            "concepto": "portal dimensional, grieta en el éter que funciona como puerta entre planos",
+            "pos": "noun",
+            "ipa": "/ˈtʃas.dru.jiŋ/",
+            "origen": {
+              "lengua": "Griego Koiné / Persa Avéstico / Tibetano Clásico",
+              "raiz_original": "Griego χάσμα (chásma) 'grieta, abismo' + Avestan 𐬛𐬭𐬎𐬎𐬀𐬰𐬀 (druuaza) 'puerta, portal' + Tibetano clásico དབྱིངས (dbyings) 'espacio primordial, ākāśa, éter' → chásdruying (fusión: chásma + druuaza + dbyings, con pérdida de -ma, -uaza y db-). 3 lenguas, 3 familias. El portal dimensional que rasga el éter como una puerta entre mundos.",
+              "corpus": "PGM IV; Gathas; Dzogchen tantras"
+            },
+            "transformacion": [
+              "compatible"
+            ],
+            "derivaciones": []
+          },
+          {
+            "kalfirvach": "séshkatip",
+            "concepto": "escriba, copista de textos sagrados y rituales",
+            "pos": "noun",
+            "ipa": "/ˈseʃ.ka.tip/",
+            "origen": {
+              "lengua": "Egipcio Demótico / Árabe esotérico",
+              "raiz_original": "Egipcio sš (sesh) 'escriba, escritura' + Árabe كاتب (kātib) 'escriba, notario' → séshkatip (fusión: sš + kātib, con /sš/→/seʃ/ y /ātib/→/katip/, ensordecimiento codicial /b/→/p/). 2 lenguas. El que registra el conocimiento sagrado por escrito.",
+              "corpus": "Textos de las Pirámides; Manuscritos de los Hermanos de la Pureza"
+            },
+            "transformacion": [
+              "compatible"
+            ],
+            "derivaciones": []
+          },
+          {
+            "kalfirvach": "damqírtas",
+            "concepto": "papiro, rollo de escritura, manuscrito sagrado",
+            "pos": "noun",
+            "ipa": "/damˈkir.tas/",
+            "origen": {
+              "lengua": "Egipcio Demótico / Árabe esotérico",
+              "raiz_original": "Egipcio demótico ḏmˁ (dema) 'rollo de papiro' + Árabe قرطاس (qirtās) 'papel, papiro, hoja' → damqírtas (fusión: ḏmˁ + qirtās, con ḏ→d, mˁ→ma, qirtās íntegro). 2 lenguas. El soporte físico del conocimiento transmitido.",
+              "corpus": "Papiro demótico mágico BM 10554; Rasā'il Ikhwān al-Ṣafā'"
+            },
+            "transformacion": [
+              "compatible"
+            ],
+            "derivaciones": []
+          },
+          {
+            "kalfirvach": "médhya",
+            "concepto": "meditar, contemplación profunda",
+            "pos": "verb",
+            "ipa": "/ˈme.dja/",
+            "origen": {
+              "lengua": "Copto / Tibetano Clásico / Persa Avéstico",
+              "raiz_original": "Copto ⲙⲉⲧ (met) 'verbo, pensamiento, acción de' + Tibetano clásico བསམ (bsam) 'pensar, meditar' + Persa medio اندیشه (andīše) 'pensamiento, meditación' → médhya (fusión: met + bsam + andīše, con met→mé, bsam→dhya por debuccalización, -šīšeh perdido). 3 lenguas. El acto de aquietar la mente y penetrar en la contemplación del vacío.",
+              "corpus": "Evangelio de Tomás (versión copta); Bardo Thodol; Shāh-Nāmeh"
+            },
+            "transformacion": [
+              "/d/ + /j/ → /d(j)/ por yodización",
+              "compatible"
+            ],
+            "derivaciones": []
+          },
+          {
+            "kalfirvach": "altara",
+            "concepto": "altar (mesa o piedra de ofrenda)",
+            "pos": "noun",
+            "ipa": "/ˈal.ta.ra/",
+            "origen": {
+              "lengua": "Griego Koiné / Egipcio Demótico / Sánscrito Védico",
+              "raiz_original": "altare 'altar' (Lat) / βωμός bōmós 'altar, plataforma' (Gr) / ḥw.t-nṯr 'mesa-de-dios' (Eg)",
+              "corpus": "Apuleyo, Met. XI; PGM IV; Textos pirámide §262"
+            },
+            "transformacion": [
+              "forma estándar CVCVCV"
+            ],
+            "derivaciones": []
+          },
+          {
+            "kalfirvach": "coagula",
+            "concepto": "coagular (operación alquímica)",
+            "pos": "verb",
+            "ipa": "/ˈco.a.gu.la/",
+            "origen": {
+              "lengua": "Griego Koiné / Egipcio Demótico / Sánscrito Védico",
+              "raiz_original": "coagula 'coagular' (Lat, imperativo) / πήγνυμι pḗgnymi 'fijar, cuajar' (Gr) / smn 'fijar, establecer' (Eg)",
+              "corpus": "Tabula Smaragdina; PGM V; Texto de la Duat spell 125"
+            },
+            "transformacion": [
+              "adaptación directa CVCVCV"
+            ],
+            "derivaciones": []
+          },
+          {
+            "kalfirvach": "incensa",
+            "concepto": "incensario (recipiente para quemar incienso)",
+            "pos": "noun",
+            "ipa": "/ˈin.cen.sa/",
+            "origen": {
+              "lengua": "Griego Koiné / Egipcio Demótico / Sánscrito Védico",
+              "raiz_original": "incensum 'incienso, lo quemado' (Lat) / θυμιατήριον thymiatḗrion 'incensario' (Gr) / snṯr 'incienso' (Eg)",
+              "corpus": "Apuleyo, Met. XI; PGM IV; Textos pirámide §262"
+            },
+            "transformacion": [
+              "/s/→/θ/ en posición inicial (regular KFA)"
+            ],
+            "derivaciones": []
+          },
+          {
+            "kalfirvach": "solve",
+            "concepto": "disolver (operación alquímica)",
+            "pos": "verb",
+            "ipa": "/ˈsol.we/",
+            "origen": {
+              "lengua": "Griego Koiné / Egipcio Demótico / Sánscrito Védico",
+              "raiz_original": "solve 'desatar, disolver' (Lat) / λύω lýō 'desatar' (Gr) / ḏd-mdw 'cortar-palabra' (Eg)",
+              "corpus": "Tabula Smaragdina; PGM V; Textos pirámide §262"
+            },
+            "transformacion": [
+              "adaptación directa CVCVC"
+            ],
+            "derivaciones": []
+          },
+          {
+            "kalfirvach": "tunika",
+            "concepto": "túnica ritual",
+            "pos": "noun",
+            "ipa": "/ˈtu.ni.ka/",
+            "origen": {
+              "lengua": "Griego Koiné / Egipcio Demótico / Sánscrito Védico",
+              "raiz_original": "tunica 'túnica, camisa' (Lat) / χιτών khitṓn 'vestidura' (Gr) / mšꜥ 'vestido' (Eg)",
+              "corpus": "Apuleyo, Met. XI; PGM IV; Texto de los Sarcófagos spell 162"
+            },
+            "transformacion": [
+              "forma estándar CVCVCV"
+            ],
+            "derivaciones": []
+          },
+          {
+            "kalfirvach": "virga",
+            "concepto": "varita (instrumento ritual)",
+            "pos": "noun",
+            "ipa": "/ˈwir.ga/",
+            "origen": {
+              "lengua": "Griego Koiné / Egipcio Demótico / Sánscrito Védico",
+              "raiz_original": "virga 'vara, rama' (Lat) / ῥάβδος rhábdos 'vara, bastón' (Gr) / mꜣꜥ-ḫꜣ 'vara mágica' (Eg)",
+              "corpus": "PGM VII 540; Apuleyo, Met. III; Texto de los Sarcófagos spell 163"
+            },
+            "transformacion": [
+              "/g/→/ɡ/ (fricativización opcional en coda)"
+            ],
+            "derivaciones": []
+          },
+          {
+            "kalfirvach": "kair",
+            "concepto": "momento ritual, coyuntura mágica, sincronía, instante oportuno",
+            "pos": "noun",
+            "ipa": "/ˈka.ir/",
+            "origen": {
+              "lengua": "Griego Koiné / Árabe esotérico / Egipcio Demótico",
+              "raiz_original": "καιρός kairós \"momento oportuno, tiempo cualitativo\" (Gr) / وقت waqt \"tiempo, momento\" + قدر qadr \"destino, medida\" (Ar) / tr \"tiempo, momento\" (Eg)",
+              "corpus": "Nuevo Testamento (Gr); Ibn Arabi, Futūḥāt (Ar); Textos Sarcófago (Eg)"
+            },
+            "transformacion": [
+              "/kai/ de καιρός (Gr) preservado",
+              "/r/ coda de tr (Eg) + qadr (Ar)"
+            ],
+            "derivaciones": [],
+            "notas": "Concepto de tiempo cualitativo versus cronológico; usado en construcciones rituales kair-kár-"
+          },
+          {
+            "kalfirvach": "shaktí",
+            "concepto": "poder, fuerza, energía (término general, no necesariamente mágica)",
+            "pos": "noun",
+            "ipa": "/ˈʃak.tiː/",
+            "origen": {
+              "lengua": "Sánscrito Védico / Tibetano Clásico / Persa Avéstico",
+              "raiz_original": "शक्ति śakti \"poder, energía, capacidad\" (Skt) / ཤུགས shugs \"fuerza, poder, energía\" (Tib) / 𐬱𐬀𐬐𐬀 šaka- \"fuerza, poder\" (Av)",
+              "corpus": "Śvetāśvatara Upaniṣad (Skt); Dzogchen (Tib); Yasna (Av)"
+            },
+            "transformacion": [
+              "/šak/ de शक्ति śakti (Skt) + ཤུགས shugs /ɕuk/→/ʃak/ (Tib) + 𐬱𐬀𐬐𐬀 šaka (Av)",
+              "/tí/ de शक्ति (Skt) + 𐬱𐬀𐬐𐬀 /ti/ (Av)"
+            ],
+            "derivaciones": [],
+            "notas": "Término general; no reemplaza šakdom 'poder dinámico/mágico' (ver magia_y_mitologia)"
+          },
+          {
+            "kalfirvach": "nús",
+            "concepto": "conciencia, mente, intelecto, principio consciente",
+            "pos": "noun",
+            "ipa": "/ˈnuːs/",
+            "origen": {
+              "lengua": "Griego Koiné / Sánscrito Védico / Tibetano Clásico",
+              "raiz_original": "νοῦς nous \"mente, intelecto, conciencia\" (Gr) / विज्ञान vijñāna \"discernimiento, conciencia\" (Skt) / རིག་པ rig pa \"conciencia, awareness\" (Tib)",
+              "corpus": "Plotino, Enn. IV (Gr); Yogācāra (Skt); Dzogchen (Tib)"
+            },
+            "transformacion": [
+              "/nū/ de νοῦς /nous/ → /nuː/ (Gr, contracción)",
+              "/s/ coda de विज्ञान vi-jñā-na /n/ → /s/ (Skt, debilitamiento) + rig pa (Tib)"
+            ],
+            "derivaciones": [],
+            "notas": "No reemplaza dayanso 'conciencia interior' ni rignōn 'conciencia discriminativa'; nús es el término general"
+          },
+          {
+            "kalfirvach": "máya",
+            "concepto": "ilusión, apariencia, velo de la realidad fenoménica",
+            "pos": "noun",
+            "ipa": "/ˈmaː.ja/",
+            "origen": {
+              "lengua": "Sánscrito Védico / Tibetano Clásico / Persa Avéstico",
+              "raiz_original": "माया māyā \"ilusión, poder de manifestación\" (Skt) / སྒྱུ་མ sgyu ma \"ilusión, magia\" (Tib) / 𐬨𐬀𐬌𐬌𐬁 māiiā \"poder de transformación\" (Av)",
+              "corpus": "Rig Veda VI.47 (Skt); Mūlamadhyamakakārikā (Tib); Gathas (Av)"
+            },
+            "transformacion": [
+              "/mā/ de माया māyā (Skt) + 𐬨𐬀𐬌𐬌𐬁 māiiā (Av)",
+              "/ya/ de माया (Skt) + སྒྱུ་མ sgyu ma /ɡju/→/ja/ (Tib)"
+            ],
+            "derivaciones": [],
+            "notas": "Término filosófico; compatible con el uso en ejemplos gramaticales como 'velo de realidad'"
+          },
+          {
+            "kalfirvach": "onofotma",
+            "concepto": "adivinar (adivinación esotérica, presagiar)",
+            "pos": "verb",
+            "ipa": "/o.noˈfot.ma/",
+            "origen": {
+              "lengua": "Persa Moderno / Griego Koiné / Tibetano",
+              "raiz_original": "فال گرفتن fāl gereftan \"echar las cartas, adivinar\" (Pers) / μαντεύομαι manteuomai \"profetizar, adivinar\" (Gr) / མོ mo \"adivinación, augurio\" (Tib)",
+              "corpus": ""
+            },
+            "transformacion": [
+              "/ono/ del Pers فال /fɒːl/ → /fal/ → /on/ + /o/ epentética",
+              "/fot/ del Gr μαντεύομαι /manˈteu̯.o.mai̯/ → /fot/ (síncopa + consonante inicial)",
+              "/ma/ del Tib མོ /mo˩˧/ → /ma/ (apertura vocálica)"
+            ],
+            "derivaciones": []
+          },
+          {
+            "kalfirvach": "vīwetzimil",
+            "concepto": "talismán",
+            "pos": "noun",
+            "ipa": "/ˈviː.wet.zi.mil/",
+            "origen": {
+              "lengua": "Persian / Sanskrit",
+              "raiz_original": "मङ्गल (Sanskrit) / طلسم (Persian) / تعویذ (Persian)",
+              "corpus": "generado por forja v1.4"
+            },
+            "transformacion": [
+              "forjado"
+            ],
+            "derivaciones": []
+          },
+          {
+            "kalfirvach": "isokimni",
+            "concepto": "alquimia",
+            "pos": "noun",
+            "ipa": "/i.so.ˈkim.ni/",
+            "origen": {
+              "lengua": "Arabic / Persian / Sanskrit",
+              "raiz_original": "Sanskrit: रसयानम् (rasayānam) / धातुवादः (dhātuvādaḥ) / Persian: کیمیا (kīmīyā) / Arabic: كِيمِيَاء (kīmiyāʾ)",
+              "corpus": "generado por forja v1.4"
+            },
+            "transformacion": [
+              "forjado"
+            ],
+            "derivaciones": []
+          },
+          {
+            "kalfirvach": "īpmīfikīs",
+            "concepto": "espada",
+            "pos": "noun",
+            "ipa": "/ˈiːp.miː.fi.kiːs/",
+            "origen": {
+              "lengua": "Ancient Greek / Arabic / Persian / Sanskrit",
+              "raiz_original": "Sanskrit: खड्ग (khaḍga) / Persian: شمشیر (šamšīr) / Arabic: سَيْف (sayf) / Ancient Greek: ξίφος (xiphos)",
+              "corpus": "generado por forja v1.4"
+            },
+            "transformacion": [
+              "forjado"
+            ],
+            "derivaciones": []
+          },
+          {
+            "kalfirvach": "mihontokdo",
+            "concepto": "armadura",
+            "pos": "noun",
+            "ipa": "/mi.hon.ˈtok.do/",
+            "origen": {
+              "lengua": "Ancient Greek / Arabic / Persian / Sanskrit",
+              "raiz_original": "Sanskrit: कवच (kavaca) / Persian: زره (zereh) / Arabic: دِرْع (dirʿ) / Ancient Greek: ἅμαντoς (hamantos) / θώραξ",
+              "corpus": "generado por forja v1.4"
+            },
+            "transformacion": [
+              "forjado"
+            ],
+            "derivaciones": []
+          },
+          {
+            "kalfirvach": "bohotmoso",
+            "concepto": "flecha",
+            "pos": "noun",
+            "ipa": "/bo.hot.ˈmo.so/",
+            "origen": {
+              "lengua": "Ancient Greek / Arabic / Persian / Sanskrit",
+              "raiz_original": "Sanskrit: बाण (bāṇa) / शर (śara) / Persian: تیر (tīr) / Arabic: سَهْم (sahm) / Ancient Greek: τόξευμα (tóxeuma) / ἰός",
+              "corpus": "generado por forja v1.4"
+            },
+            "transformacion": [
+              "forjado"
+            ],
+            "derivaciones": []
+          },
+          {
+            "kalfirvach": "dēnsāmē",
+            "concepto": "resonancia",
+            "pos": "noun",
+            "ipa": "/ˈdeːn.saː.meː/",
+            "origen": {
+              "lengua": "Copto/Egipcio / Árabe Esotérico / Sánscrito",
+              "raiz_original": "ⲥⲙⲏ (smē) \"sonido\" (Cop) / صَدَى (ṣadā) \"eco\" (Ar) / नाद (nāda) \"sonido, tono\" (Skt)",
+              "corpus": "forjado por motor de síntesis v1.4.1"
+            },
+            "transformacion": [
+              "forjado desde smē /smeː/ + ṣadā /sˤa.daː/ + nāda /nɑː.dɐ/"
+            ],
+            "derivaciones": []
+          },
+          {
+            "kalfirvach": "pimdinas",
+            "concepto": "vibración",
+            "pos": "noun",
+            "ipa": "/pim.ˈdi.nas/",
+            "origen": {
+              "lengua": "Copto/Egipcio / Árabe Esotérico / Sánscrito",
+              "raiz_original": "ⲕⲓⲙ (kim) \"moverse\" (Cop) / ذَبْذَبَة (dhabdhaba) \"vibración\" (Ar) / स्पन्द (spanda) \"pulso, vibración\" (Skt)",
+              "corpus": "forjado por motor de síntesis v1.4.1"
+            },
+            "transformacion": [
+              "forjado desde kim /kim/ + dhabdhaba /ðab.ða.ba/ + spanda /spɐn̪.dɐ/"
+            ],
+            "derivaciones": []
+          },
+          {
+            "kalfirvach": "wistōpik",
+            "concepto": "sintonización",
+            "pos": "noun",
+            "ipa": "/wis.ˈtoː.pik/",
+            "origen": {
+              "lengua": "Copto/Egipcio / Árabe Esotérico / Sánscrito",
+              "raiz_original": "ⲥⲱⲧⲡ (sōtp) \"enderezar\" (Cop) / وِفَاق (wifāq) \"armonía\" (Ar) / योजन (yojana) \"unión, ajuste\" (Skt)",
+              "corpus": "forjado por motor de síntesis v1.4.1"
+            },
+            "transformacion": [
+              "forjado desde sōtp /soːtp/ + wifāq /wi.faːq/ + yojana /joː.dʒɐ.nɐ/"
+            ],
+            "derivaciones": []
+          },
+          {
+            "kalfirvach": "wāsnitmā",
+            "concepto": "alineación",
+            "pos": "noun",
+            "ipa": "/ˈwaːs.nit.maː/",
+            "origen": {
+              "lengua": "Copto/Egipcio / Árabe Esotérico / Sánscrito",
+              "raiz_original": "ⲥⲟⲟⲩⲧⲛ̅ (sooutn) \"alinear\" (Cop) / قِوَام (qiwām) \"rectitud\" (Ar) / ऋजु (ṛju) \"recto\" (Skt)",
+              "corpus": "forjado por motor de síntesis v1.4.1"
+            },
+            "transformacion": [
+              "forjado desde sooutn /soːw.tən/ + qiwām /qi.waːm/ + ṛju /r̩.dʒu/"
+            ],
+            "derivaciones": []
+          },
+          {
+            "kalfirvach": "ridiswōm",
+            "concepto": "corriente",
+            "pos": "noun",
+            "ipa": "/ri.dis.ˈwoːm/",
+            "origen": {
+              "lengua": "Copto/Egipcio / Árabe Esotérico / Sánscrito",
+              "raiz_original": "ⲙⲟⲟⲩ (moou) \"agua, flujo\" (Cop) / سَيْل (sayl) \"corriente\" (Ar) / धारा (dhārā) \"corriente, flujo\" (Skt)",
+              "corpus": "forjado por motor de síntesis v1.4.1"
+            },
+            "transformacion": [
+              "forjado desde moou /moːw/ + sayl /sajl/ + dhārā /d̪ʱɑː.rɑː/"
+            ],
+            "derivaciones": []
+          },
+          {
+            "kalfirvach": "bokwadam",
+            "concepto": "vórtice",
+            "pos": "noun",
+            "ipa": "/bok.ˈwa.dam/",
+            "origen": {
+              "lengua": "Copto/Egipcio / Árabe Esotérico / Sánscrito",
+              "raiz_original": "ⲕⲣⲟϥ (krof) \"torbellino\" (Cop) / دَوَّامَة (dawwāma) \"vórtice\" (Ar) / भ्रम (bhrama) \"rotación\" (Skt)",
+              "corpus": "forjado por motor de síntesis v1.4.1"
+            },
+            "transformacion": [
+              "forjado desde krof /krof/ + dawwāma /daw.waː.ma/ + bhrama /bʱrɐ.mɐ/"
+            ],
+            "derivaciones": []
+          },
+          {
+            "kalfirvach": "tērmasin",
+            "concepto": "campo morfogenético",
+            "pos": "noun",
+            "ipa": "/ˈteːr.ma.sin/",
+            "origen": {
+              "lengua": "Copto/Egipcio / Árabe Esotérico / Sánscrito",
+              "raiz_original": "ⲥⲭⲏⲙⲁ (skhēma) \"forma\" (Cop) / نَمَط (namaṭ) \"patrón\" (Ar) / प्रतिमान (pratimāna) \"patrón, medida\" (Skt)",
+              "corpus": "forjado por motor de síntesis v1.4.1"
+            },
+            "transformacion": [
+              "forjado desde skhēma /sxeː.ma/ + namaṭ /na.matˤ/ + pratimāna /prɐ.t̪i.mɑː.nɐ/"
+            ],
+            "derivaciones": []
+          },
+          {
+            "kalfirvach": "wirtabal",
+            "concepto": "espiral",
+            "pos": "noun",
+            "ipa": "/wir.ˈta.bal/",
+            "origen": {
+              "lengua": "Copto/Egipcio / Árabe Esotérico / Sánscrito",
+              "raiz_original": "ⲕⲱϯ (kōti) \"rodear\" (Cop) / لَوْلَب (lawlab) \"espiral\" (Ar) / वक्र (vakra) \"curvo\" (Skt)",
+              "corpus": "forjado por motor de síntesis v1.4.1"
+            },
+            "transformacion": [
+              "forjado desde kōti /koː.ti/ + lawlab /law.lab/ + vakra /ʋɐ.krɐ/"
+            ],
+            "derivaciones": []
+          },
+          {
+            "kalfirvach": "kēswitōr",
+            "concepto": "radiancia",
+            "pos": "noun",
+            "ipa": "/ˈkeːs.wi.toːr/",
+            "origen": {
+              "lengua": "Copto/Egipcio / Árabe Esotérico / Sánscrito",
+              "raiz_original": "ⲟⲩⲟⲉⲓⲛ (ouoein) \"luz\" (Cop) / إِشْرَاق (ishrāq) \"resplandor\" (Ar) / तेजस् (tejas) \"radiancia, brillo\" (Skt)",
+              "corpus": "forjado por motor de síntesis v1.4.1"
+            },
+            "transformacion": [
+              "forjado desde ouoein /woː.in/ + ishrāq /ʔiʃ.raːq/ + tejas /t̪eː.dʒɐs/"
+            ],
+            "derivaciones": []
+          },
+          {
+            "kalfirvach": "chamohno",
+            "concepto": "carga (energética)",
+            "pos": "noun",
+            "ipa": "/tʃa.ˈmoh.no/",
+            "origen": {
+              "lengua": "Copto/Egipcio / Árabe Esotérico / Sánscrito",
+              "raiz_original": "ϫⲟⲙ (čom) \"fuerza\" (Cop) / شَحْن (shaḥn) \"carga\" (Ar) / आवेश (āveśa) \"carga, posesión\" (Skt)",
+              "corpus": "forjado por motor de síntesis v1.4.1"
+            },
+            "transformacion": [
+              "forjado desde čom /tʃom/ + shaḥn /ʃaħn/ + āveśa /ɑː.ʋeː.ɕɐ/"
+            ],
+            "derivaciones": []
+          },
+          {
+            "kalfirvach": "bisfīrīt",
+            "concepto": "descarga",
+            "pos": "noun",
+            "ipa": "/bis.ˈfiː.riːt/",
+            "origen": {
+              "lengua": "Copto/Egipcio / Árabe Esotérico / Sánscrito",
+              "raiz_original": "ⲃⲟⲗ (bol) \"soltar\" (Cop) / تَفْرِيغ (tafrīgh) \"vaciado\" (Ar) / विसर्ग (visarga) \"liberación\" (Skt)",
+              "corpus": "forjado por motor de síntesis v1.4.1"
+            },
+            "transformacion": [
+              "forjado desde bol /bol/ + tafrīgh /taf.riːɣ/ + visarga /ʋi.sɐr.ɡɐ/"
+            ],
+            "derivaciones": []
+          },
+          {
+            "kalfirvach": "bōnhātrā",
+            "concepto": "vínculo",
+            "pos": "noun",
+            "ipa": "/ˈboːn.haːt.raː/",
+            "origen": {
+              "lengua": "Copto/Egipcio / Árabe Esotérico / Sánscrito",
+              "raiz_original": "ⲥⲱⲛϩ̅ (sōnh) \"atar\" (Cop) / رِبَاط (ribāṭ) \"atadura\" (Ar) / बन्ध (bandha) \"atadura\" (Skt)",
+              "corpus": "forjado por motor de síntesis v1.4.1"
+            },
+            "transformacion": [
+              "forjado desde sōnh /soːnh/ + ribāṭ /ri.baːtˤ/ + bandha /bɐn̪.d̪ʱɐ/"
+            ],
+            "derivaciones": []
+          },
+          {
+            "kalfirvach": "kihēpres",
+            "concepto": "escudo",
+            "pos": "noun",
+            "ipa": "/ki.ˈheːp.res/",
+            "origen": {
+              "lengua": "Copto/Egipcio / Árabe Esotérico / Sánscrito",
+              "raiz_original": "ⲥⲕⲉⲡⲏ (skepē) \"cobertura\" (Cop) / دِرْع (dir') \"escudo\" (Ar) / कवच (kavaca) \"armadura\" (Skt)",
+              "corpus": "forjado por motor de síntesis v1.4.1"
+            },
+            "transformacion": [
+              "forjado desde skepē /ske.peː/ + dir' /dirʕ/ + kavaca /kɐ.ʋɐ.t͡ʃɐ/"
+            ],
+            "derivaciones": []
+          },
+          {
+            "kalfirvach": "benīlre",
+            "concepto": "filtro, criba",
+            "pos": "noun",
+            "ipa": "/be.ˈniːl.re/",
+            "origen": {
+              "lengua": "Copto/Egipcio / Árabe Esotérico / Sánscrito",
+              "raiz_original": "ⲛⲉϩϥⲉ (nehfe) \"criba\" (Cop) / غِرْبَال (ghirbāl) \"criba\" (Ar) / चालनी (cālanī) \"tamiz\" (Skt)",
+              "corpus": "forjado por motor de síntesis v1.4.1"
+            },
+            "transformacion": [
+              "forjado desde nehfe /neh.fe/ + ghirbāl /ɣir.baːl/ + cālanī /t͡ʃɑː.lɐ.niː/"
+            ],
+            "derivaciones": []
+          },
+          {
+            "kalfirvach": "murīk",
+            "concepto": "lamen, placa con sigilos",
+            "pos": "noun",
+            "ipa": "/mu.ˈriːk/",
+            "origen": {
+              "lengua": "Copto/Egipcio / Árabe Esotérico / Sánscrito",
+              "raiz_original": "ⲧⲱⲙ (tōm) \"sello\" (Cop) / رَقِيم (raqīm) \"tableta inscrita\" (Ar) / मुद्रा (mudrā) \"sello, sigilo\" (Skt)",
+              "corpus": "forjado por motor de síntesis v1.4.1 (short mode)"
+            },
+            "transformacion": [
+              "forjado desde tōm /toːm/ + raqīm /ra.qiːm/ + mudrā /mu.drɑː/"
+            ],
+            "derivaciones": []
+          },
+          {
+            "kalfirvach": "dōrba",
+            "concepto": "cuerda ritual",
+            "pos": "noun",
+            "ipa": "/ˈdoːr.ba/",
+            "origen": {
+              "lengua": "Copto/Egipcio / Árabe Esotérico / Sánscrito",
+              "raiz_original": "ⲙⲟⲩⲣ (mour) \"atar, ligar\" (Cop) / حَبْل (ḥabl) \"cuerda\" (Ar) / रज्जु (rajju) \"soga\" (Skt)",
+              "corpus": "forjado por motor de síntesis v1.4.1 (short mode)"
+            },
+            "transformacion": [
+              "forjado desde mour /moːr/ + ḥabl /ħabl/ + rajju /rɐd.dʒu/"
+            ],
+            "derivaciones": []
+          },
+          {
+            "kalfirvach": "amhak",
+            "concepto": "flagelo ritual, látigo de purificación",
+            "pos": "noun",
+            "ipa": "/ˈam.hak/",
+            "origen": {
+              "lengua": "Copto/Egipcio / Árabe Esotérico / Sánscrito",
+              "raiz_original": "ⲙⲁϩ (mah) \"látigo, flagelo\" (Cop) / سَوْط (sawṭ) \"látigo\" (Ar) / कशा (kaśā) \"flagelo\" (Skt)",
+              "corpus": "forjado por motor de síntesis v1.4.1 (short mode)"
+            },
+            "transformacion": [
+              "forjado desde mah /mah/ + sawṭ /sawtˤ/ + kaśā /kɐ.ɕɑː/"
+            ],
+            "derivaciones": []
+          },
+          {
+            "kalfirvach": "fakar",
+            "concepto": "espejo de visión, scrying mirror",
+            "pos": "noun",
+            "ipa": "/ˈfa.kar/",
+            "origen": {
+              "lengua": "Copto/Egipcio / Árabe Esotérico / Sánscrito",
+              "raiz_original": "ⲉⲓⲁⲗ (eial) \"espejo\" (Cop) / تَكَشُّف (takaššuf) \"revelación, scrying\" (Ar) / दर्पण (darpaṇa) \"espejo\" (Skt)",
+              "corpus": "forjado por motor de síntesis v1.4.1 (short mode)"
+            },
+            "transformacion": [
+              "forjado desde eial /e.jal/ + takaššuf /ta.kaʃ.ʃuf/ + darpaṇa /d̪ɐr.pɐ.ɳɐ/"
+            ],
+            "derivaciones": []
+          },
+          {
+            "kalfirvach": "likōt",
+            "concepto": "anillo de conjuro",
+            "pos": "noun",
+            "ipa": "/li.ˈkoːt/",
+            "origen": {
+              "lengua": "Copto/Egipcio / Árabe Esotérico / Sánscrito",
+              "raiz_original": "ⲕⲱϯ (kōti) \"rodear\" (Cop) / خَاتَم (khātam) \"anillo\" (Ar) / वलय (valaya) \"anillo, brazalete\" (Skt)",
+              "corpus": "forjado por motor de síntesis v1.4.1 (short mode)"
+            },
+            "transformacion": [
+              "forjado desde kōti /koː.ti/ + khātam /xaː.tam/ + valaya /ʋɐ.lɐ.jɐ/"
+            ],
+            "derivaciones": []
+          },
+          {
+            "kalfirvach": "felak",
+            "concepto": "rueda talismánica",
+            "pos": "noun",
+            "ipa": "/ˈfe.lak/",
+            "origen": {
+              "lengua": "Copto/Egipcio / Árabe Esotérico / Sánscrito",
+              "raiz_original": "ⲕⲁⲕⲗⲉ (kakle) \"rueda\" (Cop) / فَلَك (falak) \"rueda, orbe\" (Ar) / चक्र (cakra) \"rueda, disco\" (Skt)",
+              "corpus": "forjado por motor de síntesis v1.4.1 (short mode)"
+            },
+            "transformacion": [
+              "forjado desde kakle /ka.kle/ + falak /fa.lak/ + cakra /t͡ʃɐ.krɐ/"
+            ],
+            "derivaciones": []
+          },
+          {
+            "kalfirvach": "sahta",
+            "concepto": "férula, bastón ritual con núcleo conductor",
+            "pos": "noun",
+            "ipa": "/ˈsah.ta/",
+            "origen": {
+              "lengua": "Copto/Egipcio / Árabe Esotérico / Sánscrito",
+              "raiz_original": "ⲙⲁⲧⲟⲩ (matou) \"vara, bastón\" (Cop) / عَصًا (ʿaṣan) \"bastón\" (Ar) / दण्ड (daṇḍa) \"vara, bastón\" (Skt)",
+              "corpus": "forjado por motor de síntesis v1.4.1 (short mode)"
+            },
+            "transformacion": [
+              "forjado desde matou /ma.tuː/ + ʿaṣan /ʕa.sˤan/ + daṇḍa /d̪ɐɳ.ɖɐ/"
+            ],
+            "derivaciones": []
+          },
+          {
+            "kalfirvach": "hīnā",
+            "concepto": "ankh, cruz de la vida, llave dimensional",
+            "pos": "noun",
+            "ipa": "/ˈhiː.naː/",
+            "origen": {
+              "lengua": "Copto/Egipcio / Árabe Esotérico / Sánscrito",
+              "raiz_original": "ⲱⲛϧ (ōnh) \"vida\" (Cop) / حَيَاة (ḥayāh) \"vida\" (Ar) / जीव (jīva) \"vida, viviente\" (Skt)",
+              "corpus": "forjado por motor de síntesis v1.4.1 (short mode)"
+            },
+            "transformacion": [
+              "forjado desde ōnh /oːnx/ + ḥayāh /ħa.jaːh/ + jīva /dʒiː.ʋɐ/"
+            ],
+            "derivaciones": []
+          },
+          {
+            "kalfirvach": "tareh",
+            "concepto": "ojo (ícono mágico)",
+            "pos": "noun",
+            "ipa": "/ˈta.reh/",
+            "origen": {
+              "lengua": "Copto/Egipcio / Árabe Esotérico / Sánscrito",
+              "raiz_original": "ⲉⲓⲁⲧ (eiat) \"ojo\" (Cop) / عَيْن (ʿayn) \"ojo (esotérico)\" (Ar) / नेत्र (netra) \"ojo, vista\" (Skt)",
+              "corpus": "forjado por motor de síntesis v1.4.1 (short mode)"
+            },
+            "transformacion": [
+              "forjado desde eiat /e.jat/ + ʿayn /ʕajn/ + netra /neː.t̪rɐ/"
+            ],
+            "derivaciones": []
+          },
+          {
+            "kalfirvach": "īwīka",
+            "concepto": "doble etérico, cuerpo energético",
+            "pos": "noun",
+            "ipa": "/ˈiː.wiː.ka/",
+            "origen": {
+              "lengua": "Copto/Egipcio / Árabe Esotérico / Sánscrito",
+              "raiz_original": "ⲧⲏⲩ (tēu) \"espíritu\" (Cop) / أَثِير (athīr) \"éter\" (Ar) / आकाश (ākāśa) \"éter, espacio\" (Skt)",
+              "corpus": "forjado por motor de síntesis v1.4.1 (short mode)"
+            },
+            "transformacion": [
+              "forjado desde tēu /teːw/ + athīr /ʔa.θiːr/ + ākāśa /ɑː.kɑː.ɕɐ/"
+            ],
+            "derivaciones": []
+          },
+          {
+            "kalfirvach": "witan",
+            "concepto": "cuerpo astral, vehículo emocional",
+            "pos": "noun",
+            "ipa": "/ˈwi.tan/",
+            "origen": {
+              "lengua": "Copto/Egipcio / Árabe Esotérico / Sánscrito",
+              "raiz_original": "ⲥⲓⲟⲩ (siou) \"estrella\" (Cop) / نَجْمِيّ (najmiyy) \"astral\" (Ar) / तारक (tāraka) \"estrella\" (Skt)",
+              "corpus": "forjado por motor de síntesis v1.4.1 (short mode)"
+            },
+            "transformacion": [
+              "forjado desde siou /siw/ + najmiyy /nadʒ.mi/ + tāraka /t̪ɑː.rɐ.kɐ/"
+            ],
+            "derivaciones": []
+          },
+          {
+            "kalfirvach": "wēsni",
+            "concepto": "cuerpo mental, vehículo del pensamiento",
+            "pos": "noun",
+            "ipa": "/ˈweːs.ni/",
+            "origen": {
+              "lengua": "Copto/Egipcio / Árabe Esotérico / Sánscrito",
+              "raiz_original": "ⲙⲉⲉⲩⲉ (meeuē) \"mente\" (Cop) / ذِهْن (dhihn) \"mente\" (Ar) / मनस् (manas) \"mente\" (Skt)",
+              "corpus": "forjado por motor de síntesis v1.4.1 (short mode)"
+            },
+            "transformacion": [
+              "forjado desde meeuē /meː.we/ + dhihn /ðihn/ + manas /mɐ.nɐs/"
+            ],
+            "derivaciones": []
+          },
+          {
+            "kalfirvach": "porka",
+            "concepto": "cuerpo causal, vehículo del karma",
+            "pos": "noun",
+            "ipa": "/ˈpor.ka/",
+            "origen": {
+              "lengua": "Copto/Egipcio / Árabe Esotérico / Sánscrito",
+              "raiz_original": "ϣⲟⲣⲡ̅ (šorp) \"causa primera\" (Cop) / سَبَب (sabab) \"causa\" (Ar) / कारण (kāraṇa) \"causa\" (Skt)",
+              "corpus": "forjado por motor de síntesis v1.4.1 (short mode)"
+            },
+            "transformacion": [
+              "forjado desde šorp /ʃorp/ + sabab /sa.bab/ + kāraṇa /kɑː.rɐ.ɳɐ/"
+            ],
+            "derivaciones": []
+          },
+          {
+            "kalfirvach": "kitō",
+            "concepto": "kosha, envoltura de conciencia",
+            "pos": "noun",
+            "ipa": "/ki.ˈtoː/",
+            "origen": {
+              "lengua": "Copto/Egipcio / Árabe Esotérico / Sánscrito",
+              "raiz_original": "ⲕⲱⲧⲉ (kōte) \"rodear, envolver\" (Cop) / غِشَاء (ghishā') \"cubierta\" (Ar) / कोश (kośa) \"vaina, kosha\" (Skt)",
+              "corpus": "forjado por motor de síntesis v1.4.1 (short mode)"
+            },
+            "transformacion": [
+              "forjado desde kōte /koː.te/ + ghishā' /ɣi.ʃaːʔ/ + kośa /koː.ɕɐ/"
+            ],
+            "derivaciones": []
+          },
+          {
+            "kalfirvach": "hānta",
+            "concepto": "nadi, canal sutil",
+            "pos": "noun",
+            "ipa": "/ˈhaːn.ta/",
+            "origen": {
+              "lengua": "Copto/Egipcio / Árabe Esotérico / Sánscrito",
+              "raiz_original": "ⲙⲟⲩⲧ (mout) \"vena, sinew\" (Cop) / قَنَاة (qanāh) \"canal\" (Ar) / नाडी (nāḍī) \"nadi, canal\" (Skt)",
+              "corpus": "forjado por motor de síntesis v1.4.1 (short mode)"
+            },
+            "transformacion": [
+              "forjado desde mout /moːt/ + qanāh /qa.naːh/ + nāḍī /nɑː.ɖiː/"
+            ],
+            "derivaciones": []
+          },
+          {
+            "kalfirvach": "marwā",
+            "concepto": "chakra, centro energético",
+            "pos": "noun",
+            "ipa": "/mar.ˈwaː/",
+            "origen": {
+              "lengua": "Copto/Egipcio / Árabe Esotérico / Sánscrito",
+              "raiz_original": "ⲥⲟⲣⲡ̅ (sorp) \"girar\" (Cop) / دُوَام (dawām) \"vórtico\" (Ar) / चक्र (cakra) \"rueda, chakra\" (Skt)",
+              "corpus": "forjado por motor de síntesis v1.4.1 (short mode)"
+            },
+            "transformacion": [
+              "forjado desde sorp /sorp/ + dawām /da.waːm/ + cakra /t͡ʃɐ.krɐ/"
+            ],
+            "derivaciones": []
+          },
+          {
+            "kalfirvach": "repfī",
+            "concepto": "respiración sutil, prāṇa",
+            "pos": "noun",
+            "ipa": "/rep.ˈfiː/",
+            "origen": {
+              "lengua": "Copto/Egipcio / Árabe Esotérico / Sánscrito",
+              "raiz_original": "ⲛⲓϥⲉ (nife) \"aliento\" (Cop) / نَسِيم (nasīm) \"brisa sutil\" (Ar) / प्राण (prāṇa) \"aliento vital\" (Skt)",
+              "corpus": "forjado por motor de síntesis v1.4.1 (short mode)"
+            },
+            "transformacion": [
+              "forjado desde nife /ni.fe/ + nasīm /na.siːm/ + prāṇa /prɑː.ɳɐ/"
+            ],
+            "derivaciones": []
+          },
+          {
+            "kalfirvach": "salbē",
+            "concepto": "pulso, latido energético",
+            "pos": "noun",
+            "ipa": "/sal.ˈbeː/",
+            "origen": {
+              "lengua": "Copto/Egipcio / Árabe Esotérico / Sánscrito",
+              "raiz_original": "ⲥⲏ (sē) \"golpe, pulso\" (Cop) / نَبْض (nabḍ) \"pulso\" (Ar) / ताल (tāla) \"ritmo, pulso\" (Skt)",
+              "corpus": "forjado por motor de síntesis v1.4.1 (short mode)"
+            },
+            "transformacion": [
+              "forjado desde sē /seː/ + nabḍ /nabdˤ/ + tāla /t̪ɑː.lɐ/"
+            ],
+            "derivaciones": []
+          },
+          {
+            "kalfirvach": "līsdī",
+            "concepto": "diksha, transmisión directa de maestro a estudiante",
+            "pos": "noun",
+            "ipa": "/ˈliːs.diː/",
+            "origen": {
+              "lengua": "Copto/Egipcio / Árabe Esotérico / Sánscrito",
+              "raiz_original": "ⲥⲃⲱ (sbō) \"enseñanza\" (Cop) / تَلْقِين (talqīn) \"impartación\" (Ar) / दीक्षा (dīkṣā) \"diksha\" (Skt)",
+              "corpus": "forjado por motor de síntesis v1.4.1 (short mode)"
+            },
+            "transformacion": [
+              "forjado desde sbō /sboː/ + talqīn /tal.qiːn/ + dīkṣā /d̪iːk.ʂɑː/"
+            ],
+            "derivaciones": []
+          },
+          {
+            "kalfirvach": "pokot",
+            "concepto": "juramento ritual",
+            "pos": "noun",
+            "ipa": "/ˈpo.kot/",
+            "origen": {
+              "lengua": "Copto/Egipcio / Árabe Esotérico / Sánscrito",
+              "raiz_original": "ⲱⲣⲕ (ork) \"juramento\" (Cop) / قَسَم (qasam) \"juramento\" (Ar) / शपथ (śapatha) \"juramento, voto\" (Skt)",
+              "corpus": "forjado por motor de síntesis v1.4.1 (short mode)"
+            },
+            "transformacion": [
+              "forjado desde ork /ork/ + qasam /qa.sam/ + śapatha /ɕɐ.pɐ.t̪ʰɐ/"
+            ],
+            "derivaciones": []
+          },
+          {
+            "kalfirvach": "ātsīk",
+            "concepto": "pacto (entre fuerzas)",
+            "pos": "noun",
+            "ipa": "/ˈaːt.siːk/",
+            "origen": {
+              "lengua": "Copto/Egipcio / Árabe Esotérico / Sánscrito",
+              "raiz_original": "ⲥⲱⲟⲩ (sōou) \"reunir\" (Cop) / مِيثَاق (mīthāq) \"pacto\" (Ar) / व्रत (vrata) \"pacto religioso\" (Skt)",
+              "corpus": "forjado por motor de síntesis v1.4.1 (short mode)"
+            },
+            "transformacion": [
+              "forjado desde sōou /soːw/ + mīthāq /miː.θaːq/ + vrata /ʋrɐ.t̪ɐ/"
+            ],
+            "derivaciones": []
+          },
+          {
+            "kalfirvach": "tisri",
+            "concepto": "forja ritual, crafting de artefactos mágicos",
+            "pos": "noun",
+            "ipa": "/ˈtis.ri/",
+            "origen": {
+              "lengua": "Copto/Egipcio / Árabe Esotérico / Sánscrito",
+              "raiz_original": "ⲧⲁⲙⲓⲟ (tamio) \"crear, manufacturar\" (Cop) / صَنْعَة (ṣanʿah) \"artesanía\" (Ar) / निर्माण (nirmāṇa) \"creación\" (Skt)",
+              "corpus": "forjado por motor de síntesis v1.4.1 (short mode)"
+            },
+            "transformacion": [
+              "forjado desde tamio /ta.mi.o/ + ṣanʿah /sˤan.ʕah/ + nirmāṇa /nir.mɑː.ɳɐ/"
+            ],
+            "derivaciones": []
+          },
+          {
+            "kalfirvach": "lamki",
+            "concepto": "trazado mágico (en aire/arena)",
+            "pos": "noun",
+            "ipa": "/ˈlam.ki/",
+            "origen": {
+              "lengua": "Copto/Egipcio / Árabe Esotérico / Sánscrito",
+              "raiz_original": "ⲥϩⲁⲓ (shai) \"escribir, dibujar\" (Cop) / رَسْم (rasm) \"dibujo, trazo\" (Ar) / लेख (lekha) \"trazo, línea\" (Skt)",
+              "corpus": "forjado por motor de síntesis v1.4.1 (short mode)"
+            },
+            "transformacion": [
+              "forjado desde shai /ʃaj/ + rasm /rasm/ + lekha /leː.kʰɐ/"
+            ],
+            "derivaciones": []
+          },
+          {
+            "kalfirvach": "wōnas",
+            "concepto": "proyección de aliento, exhalar intención",
+            "pos": "noun",
+            "ipa": "/ˈwoː.nas/",
+            "origen": {
+              "lengua": "Copto/Egipcio / Árabe Esotérico / Sánscrito",
+              "raiz_original": "ⲥⲧⲱⲟⲩ (stōou) \"soplar\" (Cop) / نَفْث (nafth) \"soplido mágico\" (Ar) / उच्छ्वास (ucchvāsa) \"exhalación\" (Skt)",
+              "corpus": "forjado por motor de síntesis v1.4.1 (short mode)"
+            },
+            "transformacion": [
+              "forjado desde stōou /stoːw/ + nafth /nafθ/ + ucchvāsa /ut.t͡ʃʰʋɑː.sɐ/"
+            ],
+            "derivaciones": []
+          },
+          {
+            "kalfirvach": "konūm",
+            "concepto": "quietud, inmovilidad contemplativa",
+            "pos": "noun",
+            "ipa": "/ko.ˈnuːm/",
+            "origen": {
+              "lengua": "Copto/Egipcio / Árabe Esotérico / Sánscrito",
+              "raiz_original": "ⲙⲧⲟⲛ (mton) \"reposo\" (Cop) / سُكُون (sukūn) \"quietud\" (Ar) / शान्त (śānta) \"calma, quietud\" (Skt)",
+              "corpus": "forjado por motor de síntesis v1.4.1 (short mode)"
+            },
+            "transformacion": [
+              "forjado desde mton /mton/ + sukūn /su.kuːn/ + śānta /ɕɑːn̪.t̪ɐ/"
+            ],
+            "derivaciones": []
+          },
+          {
+            "kalfirvach": "mahit",
+            "concepto": "trance, estado alterado de conciencia",
+            "pos": "noun",
+            "ipa": "/ˈma.hit/",
+            "origen": {
+              "lengua": "Copto/Egipcio / Árabe Esotérico / Sánscrito",
+              "raiz_original": "ⲛⲕⲟⲧⲕ (nkotk) \"dormir\" (Cop) / غَيْبُوبَة (ghaybūbah) \"trance\" (Ar) / समाधि (samādhi) \"trance, absorción\" (Skt)",
+              "corpus": "forjado por motor de síntesis v1.4.1 (short mode)"
+            },
+            "transformacion": [
+              "forjado desde nkotk /nkotk/ + ghaybūbah /ɣaj.buː.bah/ + samādhi /sɐ.mɑː.d̪ʱi/"
+            ],
+            "derivaciones": []
+          },
+          {
+            "kalfirvach": "harsu",
+            "concepto": "sueño lúcido, ensueño consciente",
+            "pos": "noun",
+            "ipa": "/ˈhar.su/",
+            "origen": {
+              "lengua": "Copto/Egipcio / Árabe Esotérico / Sánscrito",
+              "raiz_original": "ⲣⲁⲥⲟⲩ (rasou) \"sueño\" (Cop) / حُلْم (ḥulm) \"sueño\" (Ar) / स्वप्न (svapna) \"sueño\" (Skt)",
+              "corpus": "forjado por motor de síntesis v1.4.1 (short mode)"
+            },
+            "transformacion": [
+              "forjado desde rasou /ra.suː/ + ḥulm /ħulm/ + svapna /sʋɐp.nɐ/"
+            ],
+            "derivaciones": []
+          },
+          {
+            "kalfirvach": "niwir",
+            "concepto": "theoria, visión directa de realidades sutiles",
+            "pos": "noun",
+            "ipa": "/ˈni.wir/",
+            "origen": {
+              "lengua": "Copto/Egipcio / Árabe Esotérico / Sánscrito",
+              "raiz_original": "ⲛⲁⲩ (nau) \"ver\" (Cop) / رُؤْيَا (ru'ya) \"visión\" (Ar) / दर्शन (darśana) \"visión, darśan\" (Skt)",
+              "corpus": "forjado por motor de síntesis v1.4.1 (short mode)"
+            },
+            "transformacion": [
+              "forjado desde nau /naw/ + ru'ya /ruʔ.jaː/ + darśana /d̪ɐr.ɕɐ.nɐ/"
+            ],
+            "derivaciones": []
+          },
+          {
+            "kalfirvach": "dinwa",
+            "concepto": "claridad perceptual, nitidez de percepción",
+            "pos": "noun",
+            "ipa": "/ˈdin.wa/",
+            "origen": {
+              "lengua": "Copto/Egipcio / Árabe Esotérico / Sánscrito",
+              "raiz_original": "ⲟⲩⲟⲉⲓⲛ (ouoein) \"luz\" (Cop) / صَفَاء (ṣafā') \"claridad\" (Ar) / विशद (viśada) \"claro, puro\" (Skt)",
+              "corpus": "forjado por motor de síntesis v1.4.1 (short mode)"
+            },
+            "transformacion": [
+              "forjado desde ouoein /woː.in/ + ṣafā' /sˤa.faːʔ/ + viśada /ʋi.ɕɐ.d̪ɐ/"
+            ],
+            "derivaciones": []
+          },
+          {
+            "kalfirvach": "makah",
+            "concepto": "silencio sagrado",
+            "pos": "noun",
+            "ipa": "/ˈma.kah/",
+            "origen": {
+              "lengua": "Copto/Egipcio / Árabe Esotérico / Sánscrito",
+              "raiz_original": "ⲕⲁⲣⲱⲟⲩ (karōou) \"callar\" (Cop) / سَكِينَة (sakīnah) \"quietud sagrada\" (Ar) / मौन (mauna) \"silencio sagrado\" (Skt)",
+              "corpus": "forjado por motor de síntesis v1.4.1 (short mode)"
+            },
+            "transformacion": [
+              "forjado desde karōou /ka.roːw/ + sakīnah /sa.kiː.nah/ + mauna /maw.nɐ/"
+            ],
+            "derivaciones": []
+          },
+          {
+            "kalfirvach": "puhso",
+            "concepto": "presencia, estar aquí y ahora",
+            "pos": "noun",
+            "ipa": "/ˈpuh.so/",
+            "origen": {
+              "lengua": "Copto/Egipcio / Árabe Esotérico / Sánscrito",
+              "raiz_original": "ϣⲟⲡ (šop) \"estar presente\" (Cop) / حُضُور (ḥuḍūr) \"presencia\" (Ar) / स्थिति (sthiti) \"estar, presencia\" (Skt)",
+              "corpus": "forjado por motor de síntesis v1.4.1 (short mode)"
+            },
+            "transformacion": [
+              "forjado desde šop /ʃop/ + ḥuḍūr /ħu.dˤuːr/ + sthiti /st̪ʰi.t̪i/"
+            ],
+            "derivaciones": []
+          },
+          {
+            "kalfirvach": "wahis",
+            "concepto": "conciencia testigo, awareness",
+            "pos": "noun",
+            "ipa": "/ˈwa.his/",
+            "origen": {
+              "lengua": "Copto/Egipcio / Árabe Esotérico / Sánscrito",
+              "raiz_original": "ⲥⲟⲩⲛ (soun) \"saber, percibir\" (Cop) / وَعْي (wa'y) \"conciencia\" (Ar) / साक्षिन् (sākṣin) \"testigo\" (Skt)",
+              "corpus": "forjado por motor de síntesis v1.4.1 (short mode)"
+            },
+            "transformacion": [
+              "forjado desde soun /soːn/ + wa'y /waʕj/ + sākṣin /sɑːk.ʂin/"
+            ],
+            "derivaciones": []
+          },
+          {
+            "kalfirvach": "bōtkā",
+            "concepto": "atención, dirección de la conciencia",
+            "pos": "noun",
+            "ipa": "/ˈboːt.kaː/",
+            "origen": {
+              "lengua": "Copto/Egipcio / Árabe Esotérico / Sánscrito",
+              "raiz_original": "ⲥⲱⲧⲙ (sōtm) \"atender\" (Cop) / اِنْتِبَاه (intibāh) \"atención\" (Ar) / एकाग्र (ekāgra) \"atención unipuntual\" (Skt)",
+              "corpus": "forjado por motor de síntesis v1.4.1 (short mode)"
+            },
+            "transformacion": [
+              "forjado desde sōtm /soːtm/ + intibāh /in.ti.baːh/ + ekāgra /eː.kɑː.ɡrɐ/"
+            ],
+            "derivaciones": []
+          },
+          {
+            "kalfirvach": "nuī",
+            "concepto": "exorcizar (expulsar demonio)",
+            "pos": "verb",
+            "ipa": "/ˈnu.iː/",
+            "origen": {
+              "lengua": "Sánscrito Védico / Tibetano Clásico / Persa Avéstico",
+              "raiz_original": "(raíz Sánscrito) / (raíz Tibetano) / (raíz Persa)",
+              "corpus": ""
+            },
+            "transformacion": [
+              "fusión fonética multiscriptural"
+            ],
+            "derivaciones": []
+          },
+          {
+            "kalfirvach": "tēbe",
+            "concepto": "sacrificar (ofrendar a deidad) - verbo ritual v1.2",
+            "pos": "verb",
+            "ipa": "/ˈteː.be/",
+            "origen": {
+              "lengua": "Griego Koiné / Persa Avéstico / Egipcio Demótico",
+              "raiz_original": "μαγ- (mag-) / hauma sacrificio / ẖnm unir",
+              "corpus": ""
+            },
+            "transformacion": [
+              "Fusión ritual Griego Koiné + Persa Avéstico + Egipcio Demótico"
+            ],
+            "derivaciones": []
+          }
+        ]
+      },
+      "mitologia_y_panteon": {
+        "nombre": "Mitología y Panteón",
+        "descripcion": "Dioses, deidades, entidades mitológicas, seres espirituales y conceptos cosmológicos narrativos",
+        "entradas": [
+          {
+            "kalfirvach": "malkel",
+            "concepto": "ángel, mensajero divino (puede ser persona o espíritu)",
+            "pos": "noun",
+            "ipa": "/malˈkel/",
+            "origen": {
+              "lengua": "Árabe esotérico / Persa Avéstico / Griego Koiné",
+              "raiz_original": "ملك malak \"ángel, mensajero\" (Ar) / 𐬀𐬢𐬭𐬀 aṇgra \"espíritu celestial\" (Av) / ἄγγελος angelos \"mensajero\" (Gr)",
+              "corpus": "Corán 2:98 (Ar); Gathas Yasna 28 (Av); LXX, NT (Gr)"
+            },
+            "transformacion": [
+              "/mal/ de ملك malak preservado",
+              "/k/ de aṇgra /gra/ → elisión de /ra/, /g/→/k/ por devoicing",
+              "/el/ de ἄγγελος angelos (raíz escandida)"
+            ],
+            "derivaciones": []
+          },
+          {
+            "kalfirvach": "árchamaqal",
+            "concepto": "arcángel, parte de Dios que crea en el plano mental",
+            "pos": "noun",
+            "ipa": "/ˈar.tʃa.ma.kal/",
+            "origen": {
+              "lengua": "Griego Koiné / Árabe esotérico / Persa Avéstico",
+              "raiz_original": "Griego ἀρχή (archē) 'principio, origen, regente' + Avestan 𐬨𐬀𐬥𐬀𐬢𐬵𐬀 (manaŋha) 'poder mental' + Árabe esotérico عقل (ʿaql) 'intelecto divino, nous plotiniano' → árchamaqal (fusión: archē + manaŋha + ʿaql, con pérdida de -ē, -naŋha → -ma, y ʿaql epentético -aqal). 3 lenguas. El aspecto creador de la divinidad que opera en el plano del intelecto puro (nous).",
+              "corpus": "Corpus Hermeticum; Teología Aristotélica (versión árabe); Gathas"
+            },
+            "transformacion": [
+              "/tʃ/ por χ y /a/ epentética en ʿaql → -aqal"
+            ],
+            "derivaciones": []
+          },
+          {
+            "kalfirvach": "dajmol",
+            "concepto": "demonio, genio espiritual (puede ser benéfico o maléfico)",
+            "pos": "noun",
+            "ipa": "/dajˈmol/",
+            "origen": {
+              "lengua": "Griego Koiné / Árabe esotérico / Copto Sahídico",
+              "raiz_original": "δαίμων daimōn \"espíritu, ser divino neutral\" (Gr) / جني jinnī \"genio, ser de fuego sutil\" (Ar) / ⲃⲱⲱⲗ bōl \"espíritu maligno\" (Cop)",
+              "corpus": "PGM IV 1234 (Gr); Mil y Una Noches (Ar); Coptic Dictionary Online KELLIA (Cop)"
+            },
+            "transformacion": [
+              "/daj/ de δαίμων daimōn (onset preservado)",
+              "/mo/ de جني jinnī (coalescencia preservada)",
+              "/l/ de ⲃⲱⲱⲗ bōl → coda lateral"
+            ],
+            "derivaciones": []
+          },
+          {
+            "kalfirvach": "seypamu",
+            "concepto": "sirena, espíritu elemental del agua",
+            "pos": "noun",
+            "ipa": "/ˈsej.pa.mu/",
+            "origen": {
+              "lengua": "Griego Koiné / Persa Avéstico / Copto Sahídico",
+              "raiz_original": "Σειρήν seirēn \"sirena, seductora acuática\" (Gr) / پری parī \"hada/peri, espíritu elemental femenino\" (Av) / ⲙⲟⲩ mou \"agua\" (Cop)",
+              "corpus": "Odisea XII (Gr); Avestan Frawardīn Yašt (Av); Coptic Dictionary Online KELLIA (Cop)"
+            },
+            "transformacion": [
+              "/sej/ de Σειρήν seirēn (diptongo preservado)",
+              "/pa/ de پری parī",
+              "/mu/ de ⲙⲟⲩ mou \"agua\" → sufijo acuático"
+            ],
+            "derivaciones": []
+          },
+          {
+            "kalfirvach": "vayrūt",
+            "concepto": "silfo, espíritu elemental del aire",
+            "pos": "noun",
+            "ipa": "/wajˈruːt/",
+            "origen": {
+              "lengua": "Persa Avéstico / Árabe esotérico / Copto Sahídico",
+              "raiz_original": "𐬬𐬀𐬌𐬌𐬎 vaiiu \"viento, aire, divinidad Vayu\" (Av) / روح rūḥ \"espíritu, soplo divino\" (Ar) / ⲧⲏⲩ tēu \"viento\" (Cop)",
+              "corpus": "Gathas Yasna 44 (Av); Futūḥāt al-Makkiyya (Ar); Coptic Dictionary Online KELLIA (Cop)"
+            },
+            "transformacion": [
+              "/waj/ de 𐬬𐬀𐬌𐬌𐬎 vaiiu preservado",
+              "/rū/ de روح rūḥ (vocal larga preservada)",
+              "/t/ de ⲧⲏⲩ tēu → coda dental por devoicing de /w/"
+            ],
+            "derivaciones": []
+          },
+          {
+            "kalfirvach": "gazámsa",
+            "concepto": "duende, gnomo, espíritu elemental de la tierra",
+            "pos": "noun",
+            "ipa": "/gaˈzam.sa/",
+            "origen": {
+              "lengua": "Griego Koiné / Persa Avéstico / Tibetano Clásico",
+              "raiz_original": "Griego γαῖα (gaia) 'tierra' + Avestan 𐬰𐬆𐬨 (zəm) 'tierra' + Tibetano clásico ས (sa) 'tierra, suelo' → gazámsa (fusión: gāia + zəm + sa, con /āi/→/a/, /zəm/→/zam/, /sa/ conservado). 3 lenguas, 2 familias. El elemental que cuida las raíces del mundo subterráneo.",
+              "corpus": "Theogony; Gathas; Bön tantras"
+            },
+            "transformacion": [
+              "compatible"
+            ],
+            "derivaciones": []
+          },
+          {
+            "kalfirvach": "akhásmara",
+            "concepto": "parásito astral, entidad que drena energía en el plano sutil",
+            "pos": "noun",
+            "ipa": "/ˈa.xas.ma.ra/",
+            "origen": {
+              "lengua": "Egipcio Demótico / Árabe esotérico / Persa Avéstico",
+              "raiz_original": "Egipcio ꜥḫ (akh) 'espíritu transfigurado, entidad del más allá' + Árabe esotérico خسارة (khasāra) 'pérdida, drenaje, daño' + Persa medio مار (mār) 'serpiente, parásito' → akhásmara (fusión: ꜥḫ + khasāra + mār, con ꜥḫ→ /ax/, khasāra conservado como -khas-, mār como -mara). 3 lenguas. La entidad astral que se alimenta de la energía vital del practicante.",
+              "corpus": "Textos de los Sarcófagos; al-Būnī, Shams al-Ma'ārif; Bundahišn"
+            },
+            "transformacion": [
+              "compatible"
+            ],
+            "derivaciones": []
+          },
+          {
+            "kalfirvach": "dámiuqara",
+            "concepto": "demiurgo, artífice divino del mundo material",
+            "pos": "noun",
+            "ipa": "/ˈda.mi.u.ka.ra/",
+            "origen": {
+              "lengua": "Griego Koiné / Árabe esotérico / Persa Avéstico",
+              "raiz_original": "Griego δημιουργός (dēmiourgos) 'artesano, hacedor, creador del mundo' + Árabe esotérico قارة (qāra) 'materia prima/molde creador' + Avestan 𐬐𐬀𐬭𐬀𐬥 (karan) 'hacer, crear, fabricar' → dámiuqara (fusión: dēmiourgós + qāra + karan, con /dēmi/→/dami/, /ourgos/→/u/, /qāra/→/qara/ con epéntesis /q/→/k/). 3 lenguas. El arquitecto del cosmos material, que modela la realidad a partir de la materia primordial.",
+              "corpus": "Timeo de Platón; Rasā'il Ikhwān al-Ṣafā'; Bundahišn"
+            },
+            "transformacion": [
+              "compatible"
+            ],
+            "derivaciones": []
+          },
+          {
+            "kalfirvach": "hūrsūf",
+            "concepto": "espíritu planetario del Sol, espíritu solar, regente del fuego astral y la vitalidad",
+            "pos": "noun",
+            "ipa": "/ˈhuːr.suːf/",
+            "origen": {
+              "lengua": "Persa Avéstico / Árabe esotérico",
+              "raiz_original": "Persa medio hūr (خور) 'sol, luz solar' + Árabe esotérico صوف (ṣūf) 'espíritu, sabiduría mística, esencia sutil' → hūrsūf (fusión directa: hūr + ṣūf). 2 lenguas. El regente espiritual que anima el principio solar.",
+              "corpus": "Bundahišn; al-Būnī, Shams al-Ma'ārif"
+            },
+            "transformacion": [
+              "compatible"
+            ],
+            "derivaciones": []
+          },
+          {
+            "kalfirvach": "tīrsūf",
+            "concepto": "espíritu planetario de Mercurio, regente de la comunicación y el ingenio",
+            "pos": "noun",
+            "ipa": "/ˈtiːr.suːf/",
+            "origen": {
+              "lengua": "Persa Avéstico / Persa Avéstico / Árabe esotérico",
+              "raiz_original": "Avestan 𐬙𐬌𐬭𐬌 (tīri) 'Mercurio, Sirio, estrella-guía' + Persa تیر (tīr) 'flecha, Mercurio' + Árabe esotérico صوف (ṣūf) 'espíritu' → tīrsūf (fusión: tīr + ṣūf). 3 lenguas. El genio de la comunicación veloz entre planos.",
+              "corpus": "Tīr Yašt (Avesta); Picatrix"
+            },
+            "transformacion": [
+              "compatible"
+            ],
+            "derivaciones": []
+          },
+          {
+            "kalfirvach": "anāhīsūf",
+            "concepto": "espíritu planetario de Venus, regente del amor, la belleza y la atracción",
+            "pos": "noun",
+            "ipa": "/aˈnaː.hiː.suːf/",
+            "origen": {
+              "lengua": "Persa Avéstico / Persa Avéstico / Árabe esotérico",
+              "raiz_original": "Avestan 𐬀𐬥𐬁𐬵𐬌𐬙𐬀 (Anāhita) 'divinidad de las aguas, Venus, fertilidad' + Persa ناهید (Nāhīd) 'planeta Venus' + Árabe esotérico صوف (ṣūf) 'espíritu' → anāhīsūf (fusión: Anāhīt + ṣūf, con pérdida de /t/). 3 lenguas. La esencia espiritual que rige la atracción y la armonía.",
+              "corpus": "Ābān Yašt; Picatrix; Dīwān-e Hāfez"
+            },
+            "transformacion": [
+              "compatible"
+            ],
+            "derivaciones": []
+          },
+          {
+            "kalfirvach": "bahrāmsūf",
+            "concepto": "espíritu planetario de Marte, regente de la fuerza, la guerra y la voluntad",
+            "pos": "noun",
+            "ipa": "/bahˈraːm.suːf/",
+            "origen": {
+              "lengua": "Persa Avéstico / Árabe esotérico",
+              "raiz_original": "Persa بهرام (Bahrām) 'Marte, dios de la victoria' (del Avestan 𐬬𐬆𐬭𐬆𐬚𐬭𐬀𐬖𐬥𐬀 vərəθraɣna) + Árabe esotérico صوف (ṣūf) 'espíritu' → bahrāmsūf (fusión: Bahrām + ṣūf). 2 lenguas. El ímpetu guerrero del cosmos personificado.",
+              "corpus": "Bahrām Yašt; Shāh-Nāmeh"
+            },
+            "transformacion": [
+              "compatible"
+            ],
+            "derivaciones": []
+          },
+          {
+            "kalfirvach": "hormsūf",
+            "concepto": "espíritu planetario de Júpiter, regente de la sabiduría, la expansión y la realeza",
+            "pos": "noun",
+            "ipa": "/ˈhorm.suːf/",
+            "origen": {
+              "lengua": "Persa Avéstico / Árabe esotérico",
+              "raiz_original": "Persa هرمز (Hormoz) 'Júpiter' (del Avestan 𐬀𐬵𐬎𐬭𐬀 𐬨𐬀𐬰𐬛𐬁 Ahura Mazdā, Señor Sabiduría) + Árabe esotérico صوف (ṣūf) 'espíritu' → hormsūf (fusión: Hormoz + ṣūf, con pérdida de /oz/). 2 lenguas. La realeza espiritual del cosmos ampliando los límites.",
+              "corpus": "Bundahišn; Rasā'il Ikhwān al-Ṣafā'"
+            },
+            "transformacion": [
+              "compatible"
+            ],
+            "derivaciones": []
+          },
+          {
+            "kalfirvach": "kaywānsūf",
+            "concepto": "espíritu planetario de Saturno, regente del tiempo, la estructura y el karma",
+            "pos": "noun",
+            "ipa": "/kajˈwaːn.suːf/",
+            "origen": {
+              "lengua": "Persa Avéstico / Árabe esotérico / Árabe esotérico",
+              "raiz_original": "Persa medio کیوان (Kaywān) + Árabe كيوان (Kaywān) 'Saturno, el benéfico severo' + Árabe esotérico صوف (ṣūf) 'espíritu' → kaywānsūf (fusión: Kaywān + ṣūf). 3 lenguas. El guardián del tiempo cósmico y las estructuras del destino.",
+              "corpus": "Picatrix; Ghāyat al-Ḥakīm; al-Būnī"
+            },
+            "transformacion": [
+              "compatible"
+            ],
+            "derivaciones": []
+          },
+          {
+            "kalfirvach": "urānūf",
+            "concepto": "espíritu planetario de Urano, regente de lo repentino, lo original y lo disruptivo",
+            "pos": "noun",
+            "ipa": "/uˈraː.nuːf/",
+            "origen": {
+              "lengua": "Griego Koiné / Sánscrito Védico / Árabe esotérico",
+              "raiz_original": "Οὐρανός Ouranos \"cielo primordial, Urano\" (Gr) / वरुण Varuṇa \"dios del océano cósmico\" (Skt) / صوف ṣūf \"espíritu, esencia sutil\" (Ar)",
+              "corpus": "Teogonía de Hesíodo (Gr); Ṛg Veda (Skt); Picatrix (Ar)"
+            },
+            "transformacion": [
+              "/u/ de Οὐρανός (prótesis)",
+              "/rā/ de Ouranos + Varuṇa → /raː/ coalescencia",
+              "/nūf/ blend de Varuṇa /nu/ + صوف /sˤuːf/ → /f/ coda"
+            ],
+            "derivaciones": []
+          },
+          {
+            "kalfirvach": "posīdsūn",
+            "concepto": "espíritu planetario de Neptuno, regente de los abismos, los sueños y lo trascendente",
+            "pos": "noun",
+            "ipa": "/poˈsiːd.suːn/",
+            "origen": {
+              "lengua": "Griego Koiné / Sánscrito Védico / Árabe esotérico",
+              "raiz_original": "Ποσειδῶν Poseidōn \"dios del mar, Neptuno\" (Gr) / वरुण Varuṇa \"señor del océano cósmico\" (Skt) / صوف ṣūf \"espíritu, esencia sutil\" (Ar)",
+              "corpus": "Odisea (Gr); Ṛg Veda (Skt); Rasā'il Ikhwān al-Ṣafā' (Ar)"
+            },
+            "transformacion": [
+              "/posīd/ de Ποσειδῶν preservado",
+              "/sūn/ blend de صوف /sˤuːf/ → /suː/ + वरुण Varuṇa → /n/ coda"
+            ],
+            "derivaciones": []
+          },
+          {
+            "kalfirvach": "būmsūf",
+            "concepto": "espíritu planetario de la Tierra, regente de lo material, lo denso y lo fértil",
+            "pos": "noun",
+            "ipa": "/ˈbuːm.suːf/",
+            "origen": {
+              "lengua": "Persa Avéstico / Árabe esotérico",
+              "raiz_original": "Persa بوم (būm) 'tierra, suelo, territorio' + Árabe esotérico صوف (ṣūf) 'espíritu' → būmsūf (fusión: būm + ṣūf). 2 lenguas. El espíritu telúrico que sustenta toda vida material.",
+              "corpus": "Bundahišn; Shāh-Nāmeh; Futūḥāt al-Makkiyya"
+            },
+            "transformacion": [
+              "compatible"
+            ],
+            "derivaciones": []
+          },
+          {
+            "kalfirvach": "vijulta",
+            "concepto": "universo, totalidad de la existencia",
+            "pos": "noun",
+            "ipa": "/vi.ˈjul.ta/",
+            "origen": {
+              "lengua": "Sánscrito Védico / Árabe esotérico / Griego Koiné / Persa Avéstico",
+              "raiz_original": "viśva 'universo' (Skt) / al-wujūd 'existencia' (Ar) / tó hólon 'el todo' (Gr) / gaēθā- 'mundo' (Av)",
+              "corpus": ""
+            },
+            "transformacion": [
+              "viśva (Skt) + wujūd (Ar) + hólon (Gr) + gaēθā (Av) → vi- + -jul- + -ta",
+              "/ś/→/dʒ/ por palatalización, /h/→/l/ asimilada",
+              "/dʒ/ onset permitido §3.2, penúltima — acento en -jul-"
+            ],
+            "derivaciones": []
+          },
+          {
+            "kalfirvach": "raskal",
+            "concepto": "cosmos, orden universal, armonía cósmica",
+            "pos": "noun",
+            "ipa": "/ˈras.kal/",
+            "origen": {
+              "lengua": "Sánscrito Védico / Árabe esotérico / Persa Avéstico / Griego Koiné",
+              "raiz_original": "ṛta 'orden cósmico' (Skt) / al-falak 'esfera celeste' (Ar) / aṣ̌a- 'verdad, orden' (Av) / kósmos 'cosmos' (Gr)",
+              "corpus": ""
+            },
+            "transformacion": [
+              "ṛta (Skt) + falak (Ar) + aṣ̌a (Av) + kósmos (Gr) → ras- + -kal",
+              "/ṣ̌/→/s/, /f/→/k/ por convergencia",
+              "CC coda /sk/ permitida §10.3, /l/ coda permitido §3.3"
+            ],
+            "derivaciones": []
+          },
+          {
+            "kalfirvach": "pāhatā",
+            "concepto": "fantasma (espíritu de un fallecido)",
+            "pos": "noun",
+            "ipa": "/paː.haˈtaː/",
+            "origen": {
+              "lengua": "Copto / Egipcio Demótico / Árabe Esotérico / Sánscrito",
+              "raiz_original": "ⲡⲓⲁⲕⲉ piake \"oscuridad, tinieblas\" (Cop) / ꜣḫ \"espíritu, aj\" (Dem) / رُوح rūḥ \"espíritu, alma\" (Ar) / प्रेत preta \"fantasma, muerto\" (Skt)",
+              "corpus": ""
+            },
+            "transformacion": [
+              "/pā/ del Cop ⲡⲓⲁⲕⲉ /pi.aˈkeː/ → /paː/ (elisión + alargamiento)",
+              "/ha/ del Dem ꜣḫ /ˈaːχ/ → /ha/ (aspiración preservada)",
+              "/tā/ blend del Ar رُوح /ruːħ/ + Skt प्रेत /pɾeː.t̪ɐ/ → /taː/ (coda del Skt + alargamiento)"
+            ],
+            "derivaciones": []
+          },
+          {
+            "kalfirvach": "natūrē",
+            "concepto": "Dios, deidad (ser divino supremo o deidad)",
+            "pos": "noun",
+            "ipa": "/na.tuːˈɾeː/",
+            "origen": {
+              "lengua": "Copto / Egipcio Demótico / Sánscrito",
+              "raiz_original": "ⲛⲟⲩϯ noute \"Dios\" (Cop) / nṯr \"dios, deidad\" (Dem) / देव deva \"deidad, dios\" (Skt)",
+              "corpus": ""
+            },
+            "transformacion": [
+              "/na/ del Cop ⲛⲟⲩϯ /ˈnuː.ti/ → /na/ (apertura vocálica)",
+              "/tū/ del Dem nṯr /ˈnaː.t͡ʃar/ → /tuː/ (núcleo silábico)",
+              "/rē/ del Skt देव /ˈd̪eː.ʋɐ/ → /reː/ (rotacismo + alargamiento)"
+            ],
+            "derivaciones": []
+          },
+          {
+            "kalfirvach": "eraha",
+            "concepto": "esfinge, ser liminal guardián de umbrales",
+            "pos": "noun",
+            "ipa": "/e.ˈra.ha/",
+            "origen": {
+              "lengua": "Copto/Egipcio / Árabe Esotérico / Sánscrito",
+              "raiz_original": "ⲁⲣⲉϩ (areh) \"guardar\" (Cop) / حَارِس (ḥāris) \"guardián\" (Ar) / द्वारपाल (dvārapāla) \"guardián de puerta\" (Skt)",
+              "corpus": "forjado por motor de síntesis v1.4.1 (short mode)"
+            },
+            "transformacion": [
+              "forjado desde areh /a.reh/ + ḥāris /ħaː.ris/ + dvārapāla /d̪ʋɑː.rɐ.pɑː.lɐ/"
+            ],
+            "derivaciones": []
+          },
+          {
+            "kalfirvach": "nihār",
+            "concepto": "fénix, ciclo de combustión y renovación",
+            "pos": "noun",
+            "ipa": "/ni.ˈhaːr/",
+            "origen": {
+              "lengua": "Copto/Egipcio / Árabe Esotérico / Sánscrito",
+              "raiz_original": "ⲃⲉⲛⲛⲟⲩ (bennou) \"fénix\" (Cop) / عَنْقَاء (ʿanqā') \"fénix\" (Ar) / चिरायु (cirāyu) \"inmortal\" (Skt)",
+              "corpus": "forjado por motor de síntesis v1.4.1 (short mode)"
+            },
+            "transformacion": [
+              "forjado desde bennou /ben.nuː/ + ʿanqā' /ʕan.qaːʔ/ + cirāyu /t͡ʃi.rɑː.ju/"
+            ],
+            "derivaciones": []
+          },
+          {
+            "kalfirvach": "inti",
+            "concepto": "drake, dragón telúrico, memoria de la tierra",
+            "pos": "noun",
+            "ipa": "/ˈin.ti/",
+            "origen": {
+              "lengua": "Copto/Egipcio / Árabe Esotérico / Sánscrito",
+              "raiz_original": "ⲛⲟⲩⲛ (noun) \"abismo\" (Cop) / تِنِّين (tinnīn) \"dragón\" (Ar) / नाग (nāga) \"nāga\" (Skt)",
+              "corpus": "forjado por motor de síntesis v1.4.1 (short mode)"
+            },
+            "transformacion": [
+              "forjado desde noun /nuːn/ + tinnīn /tin.niːn/ + nāga /nɑː.ɡɐ/"
+            ],
+            "derivaciones": []
+          },
+          {
+            "kalfirvach": "adiri",
+            "concepto": "basilisco, entidad de mirada paralizante",
+            "pos": "noun",
+            "ipa": "/a.ˈdi.ri/",
+            "origen": {
+              "lengua": "Copto/Egipcio / Árabe Esotérico / Sánscrito",
+              "raiz_original": "ⲉⲓⲁⲧ (eiat) \"ojo\" (Cop) / بَصَر (baṣar) \"mirada\" (Ar) / दृष्टि (dṛṣṭi) \"mirada\" (Skt)",
+              "corpus": "forjado por motor de síntesis v1.4.1 (short mode)"
+            },
+            "transformacion": [
+              "forjado desde eiat /e.jat/ + baṣar /ba.sˤar/ + dṛṣṭi /d̪r̩ʂ.ʈi/"
+            ],
+            "derivaciones": []
+          },
+          {
+            "kalfirvach": "minsū",
+            "concepto": "grifo, guardián de tesoros",
+            "pos": "noun",
+            "ipa": "/min.ˈsuː/",
+            "origen": {
+              "lengua": "Copto/Egipcio / Árabe Esotérico / Sánscrito",
+              "raiz_original": "ⲙⲟⲩⲓ (moui) \"león\" (Cop) / نَسْر (nasr) \"águila\" (Ar) / गरुड (garuḍa) \"garuḍa\" (Skt)",
+              "corpus": "forjado por motor de síntesis v1.4.1 (short mode)"
+            },
+            "transformacion": [
+              "forjado desde moui /muːj/ + nasr /nasr/ + garuḍa /ɡɐ.ru.ɖɐ/"
+            ],
+            "derivaciones": []
+          },
+          {
+            "kalfirvach": "hīnīk",
+            "concepto": "golém, forma animada por palabra y barro",
+            "pos": "noun",
+            "ipa": "/ˈhiː.niːk/",
+            "origen": {
+              "lengua": "Copto/Egipcio / Árabe Esotérico / Sánscrito",
+              "raiz_original": "ⲕⲁϩ (kah) \"barro\" (Cop) / طِين (ṭīn) \"arcilla\" (Ar) / पिण्ड (piṇḍa) \"masa, bola de arcilla\" (Skt)",
+              "corpus": "forjado por motor de síntesis v1.4.1 (short mode)"
+            },
+            "transformacion": [
+              "forjado desde kah /kah/ + ṭīn /tˤiːn/ + piṇḍa /pɪɳ.ɖɐ/"
+            ],
+            "derivaciones": []
+          },
+          {
+            "kalfirvach": "rimak",
+            "concepto": "homúnculo, ser artificial en matriz",
+            "pos": "noun",
+            "ipa": "/ˈri.mak/",
+            "origen": {
+              "lengua": "Copto/Egipcio / Árabe Esotérico / Sánscrito",
+              "raiz_original": "ϣⲏⲣⲉ (šēre) \"pequeño\" (Cop) / جَنِين (janīn) \"embrión\" (Ar) / कृत्रिम (kṛtrima) \"artificial\" (Skt)",
+              "corpus": "forjado por motor de síntesis v1.4.1 (short mode)"
+            },
+            "transformacion": [
+              "forjado desde šēre /ʃeː.re/ + janīn /dʒa.niːn/ + kṛtrima /kr̩t̪.ri.mɐ/"
+            ],
+            "derivaciones": []
+          },
+          {
+            "kalfirvach": "tarwa",
+            "concepto": "sátiro, fauno, conciencia silvestre extática",
+            "pos": "noun",
+            "ipa": "/ˈtar.wa/",
+            "origen": {
+              "lengua": "Copto/Egipcio / Árabe Esotérico / Sánscrito",
+              "raiz_original": "ⲧⲱⲟⲩ (tōou) \"monte, lugar salvaje\" (Cop) / طَرَب (ṭarab) \"éxtasis musical\" (Ar) / गन्धर्व (gandharva) \"espíritu musical celeste\" (Skt)",
+              "corpus": "forjado por motor de síntesis v1.4.1 (short mode)"
+            },
+            "transformacion": [
+              "forjado desde tōou /toːw/ + ṭarab /tˤa.rab/ + gandharva /ɡɐn.d̪ʱɐr.ʋɐ/"
+            ],
+            "derivaciones": []
+          },
+          {
+            "kalfirvach": "fapit",
+            "concepto": "ancestro, espíritu del linaje",
+            "pos": "noun",
+            "ipa": "/ˈfa.pit/",
+            "origen": {
+              "lengua": "Copto/Egipcio / Árabe Esotérico / Sánscrito",
+              "raiz_original": "ⲉⲓⲟⲧⲉ (eiote) \"padres, ancestros\" (Cop) / سَلَف (salaf) \"antepasado\" (Ar) / पितृ (pitṛ) \"padre, ancestro\" (Skt)",
+              "corpus": "forjado por motor de síntesis v1.4.1 (short mode)"
+            },
+            "transformacion": [
+              "forjado desde eiote /ej.jo.te/ + salaf /sa.laf/ + pitṛ /pi.tr̩/"
+            ],
+            "derivaciones": []
+          },
+          {
+            "kalfirvach": "kepli",
+            "concepto": "espíritu tutelar, guardián de lugar o linaje",
+            "pos": "noun",
+            "ipa": "/ˈkep.li/",
+            "origen": {
+              "lengua": "Copto/Egipcio / Árabe Esotérico / Sánscrito",
+              "raiz_original": "ⲁⲣⲉϩ (areh) \"proteger\" (Cop) / وَلِيّ (waliyy) \"protector\" (Ar) / पालक (pālaka) \"guardián\" (Skt)",
+              "corpus": "forjado por motor de síntesis v1.4.1 (short mode)"
+            },
+            "transformacion": [
+              "forjado desde areh /a.reh/ + waliyy /wa.lijj/ + pālaka /pɑː.lɐ.kɐ/"
+            ],
+            "derivaciones": []
+          },
+          {
+            "kalfirvach": "ōmahō",
+            "concepto": "egregoro, entidad mental colectiva",
+            "pos": "noun",
+            "ipa": "/ˈoː.ma.hoː/",
+            "origen": {
+              "lengua": "Copto/Egipcio / Árabe Esotérico / Sánscrito",
+              "raiz_original": "ⲥⲱⲟⲩϩⲥ (sōouhs) \"asamblea\" (Cop) / عَقْل جَمْع (ʿaql jam') \"mente colectiva\" (Ar) / समूह (samūha) \"colectivo\" (Skt)",
+              "corpus": "forjado por motor de síntesis v1.4.1 (short mode)"
+            },
+            "transformacion": [
+              "forjado desde sōouhs /soːwhs/ + ʿaql jam' /ʕaql dʒamʕ/ + samūha /sɐ.muː.ɦɐ/"
+            ],
+            "derivaciones": []
+          },
+          {
+            "kalfirvach": "nirsa",
+            "concepto": "daimon, intermediario entre humano y divino",
+            "pos": "noun",
+            "ipa": "/ˈnir.sa/",
+            "origen": {
+              "lengua": "Copto/Egipcio / Árabe Esotérico / Sánscrito",
+              "raiz_original": "ⲥⲱⲛ (sōn) \"compañero\" (Cop) / قَرِين (qarīn) \"compañero espiritual\" (Ar) / दैव (daiva) \"ser divino, espíritu\" (Skt)",
+              "corpus": "forjado por motor de síntesis v1.4.1 (short mode)"
+            },
+            "transformacion": [
+              "forjado desde sōn /soːn/ + qarīn /qa.riːn/ + daiva /d̪aj.ʋɐ/"
+            ],
+            "derivaciones": []
+          }
+        ]
+      },
+      "politica_y_gobierno": {
+        "nombre": "Política y Gobierno",
+        "descripcion": "Términos de gobierno, estado, administración, diplomacia y organización política",
+        "entradas": [
+          {
+            "kalfirvach": "romālik",
+            "concepto": "rey, monarca, soberano de un reino",
+            "pos": "noun",
+            "ipa": "/roˈmaː.lik/",
+            "origen": {
+              "lengua": "Copto / Árabe esotérico",
+              "raiz_original": "Copto ⲣⲣⲟ (rro) 'rey, gobernante' + Árabe ملك (malik) 'rey, soberano, poseedor' → romālik (fusión: rro + malik, simplificación de /rr/ y /m/ inicial). 2 lenguas. El gobernante supremo de la nación.",
+              "corpus": ""
+            },
+            "transformacion": [
+              "compatible"
+            ],
+            "derivaciones": []
+          },
+          {
+            "kalfirvach": "māliknīt",
+            "concepto": "reina, soberana, monarca",
+            "pos": "noun",
+            "ipa": "/maːˈlik.niːt/",
+            "origen": {
+              "lengua": "Árabe esotérico / Egipcio Demótico",
+              "raiz_original": "Árabe ملكة (malika) 'reina' + Egipcio nb.t (neb-t, nībt) 'señora, dueña, ama' → māliknīt (fusión: mālika + nībt, con simplificación de /bt/ → /t/). 2 lenguas. La gobernante femenina del reino.",
+              "corpus": ""
+            },
+            "transformacion": [
+              "compatible"
+            ],
+            "derivaciones": []
+          },
+          {
+            "kalfirvach": "kahyul",
+            "concepto": "reino, territorio, dominio soberano",
+            "pos": "noun",
+            "ipa": "/kahˈjul/",
+            "origen": {
+              "lengua": "Copto / Tibetano Clásico",
+              "raiz_original": "Copto ⲕⲁϩ (kah) 'tierra, suelo, territorio' + Tibetano clásico ཡུལ (yul) 'país, reino, región, tierra natal' → kahyul (fusión: kah + yul). 2 lenguas. El territorio bajo un dominio soberano.",
+              "corpus": ""
+            },
+            "transformacion": [
+              "compatible"
+            ],
+            "derivaciones": []
+          },
+          {
+            "kalfirvach": "dawlakōt",
+            "concepto": "gobierno, estado, administración del poder público",
+            "pos": "noun",
+            "ipa": "/ˈdaw.la.koːt/",
+            "origen": {
+              "lengua": "Árabe esotérico / Copto",
+              "raiz_original": "Árabe دولة (dawla) 'estado, dinastía, turno de gobierno' + Copto ⲕⲱⲧ (kōt) 'construir, edificar, establecer' → dawlakōt (fusión: dawla + kōt). 2 lenguas. La estructura que edifica y sostiene el orden público.",
+              "corpus": ""
+            },
+            "transformacion": [
+              "compatible"
+            ],
+            "derivaciones": []
+          },
+          {
+            "kalfirvach": "wālrat",
+            "concepto": "gobernante, autoridad, quien ejerce el poder",
+            "pos": "noun",
+            "ipa": "/waːlˈrat/",
+            "origen": {
+              "lengua": "Árabe esotérico / Persa Avéstico",
+              "raiz_original": "Árabe وال (wālī) 'gobernante, protector, autoridad' + Avestan 𐬭𐬀𐬙𐬎 (ratu) 'señor, juez, maestro' → wālrat (fusión: wāl + ratu, contracción de -ī y -u). 2 lenguas. Quien detenta la autoridad legítima sobre un territorio.",
+              "corpus": ""
+            },
+            "transformacion": [
+              "compatible"
+            ],
+            "derivaciones": []
+          },
+          {
+            "kalfirvach": "nīwtagrong",
+            "concepto": "ciudad, urbe, asentamiento urbano amurallado",
+            "pos": "noun",
+            "ipa": "/ˈniːw.ta.groŋ/",
+            "origen": {
+              "lengua": "Egipcio Demótico / Tibetano Clásico",
+              "raiz_original": "Egipcio njwt (niw-t) 'ciudad, asentamiento' + Tibetano clásico གྲོང (grong) 'pueblo, villa, asentamiento' → nīwtagrong (fusión: nīwt + grong con epéntesis /a/ para evitar /t.g/). 2 lenguas. El centro urbano de la vida política y social.",
+              "corpus": ""
+            },
+            "transformacion": [
+              "compatible"
+            ],
+            "derivaciones": []
+          },
+          {
+            "kalfirvach": "ahadāt",
+            "concepto": "tratado, pacto, acuerdo vinculante entre partes",
+            "pos": "noun",
+            "ipa": "/a.haˈdaːt/",
+            "origen": {
+              "lengua": "Árabe esotérico / Persa Avéstico",
+              "raiz_original": "Árabe عهد (ʿahd) 'tratado, pacto, compromiso' + Avestan 𐬛𐬁𐬙𐬀 (dāta) 'ley, decreto, estatuto' → ahadāt (epéntesis /a/ para disolver /hd/ coda ilegal; /h.d/ como núcleo silábico). 2 lenguas. El acuerdo solemne sellado por la ley.",
+              "corpus": ""
+            },
+            "transformacion": [
+              "compatible"
+            ],
+            "derivaciones": []
+          },
+          {
+            "kalfirvach": "hilifārta",
+            "concepto": "alianza, coalición, unión estratégica entre pueblos",
+            "pos": "noun",
+            "ipa": "/hi.liˈfaːr.ta/",
+            "origen": {
+              "lengua": "Árabe esotérico / Persa Avéstico",
+              "raiz_original": "Árabe حلف (ḥilf) 'alianza, pacto, juramento mutuo' + Avestan 𐬀𐬭𐬙𐬀 (arta) 'orden cósmico, verdad, justicia' → hilifārta (epéntesis /a/ para disolver /lf/ coda = líquida+fricativa no oclusiva, ilegal). 2 lenguas. La unión sagrada de dos fuerzas bajo un mismo orden.",
+              "corpus": ""
+            },
+            "transformacion": [
+              "compatible"
+            ],
+            "derivaciones": []
+          },
+          {
+            "kalfirvach": "magaharb",
+            "concepto": "guerra, conflicto armado, contienda entre fuerzas",
+            "pos": "noun",
+            "ipa": "/ma.ˈɡa.harp/",
+            "origen": {
+              "lengua": "Árabe esotérico / Tibetano Clásico",
+              "raiz_original": "Tibetano clásico དམག (dmag) 'guerra, ejército, hueste' + Árabe حرب (ḥarb) 'guerra, conflicto, batalla' → magaharb (epéntesis /a/ entre mag y harb para separar morfemas). /b/ → /p/ en coda por §3.3. 2 lenguas. El enfrentamiento organizado entre comunidades.",
+              "corpus": "Textos tibetanos clásicos / Árabe clásico"
+            },
+            "transformacion": [
+              "b→p en forma_final por §3.3",
+              "/ɡ/ se mantiene por ser onset de sílaba -ga-"
+            ],
+            "derivaciones": []
+          },
+          {
+            "kalfirvach": "silmarta",
+            "concepto": "paz, armonía, ausencia de conflicto",
+            "pos": "noun",
+            "ipa": "/silˈmar.ta/",
+            "origen": {
+              "lengua": "Árabe esotérico / Persa Avéstico",
+              "raiz_original": "Árabe سلم (silm) 'paz, concordia, sumisión voluntaria a la armonía' + Avestan 𐬀𐬭𐬙𐬀 (arta) 'orden cósmico, verdad' → silmarta (fusión: silm + arta). /lm/ coda = líquida+nasal permitida por §10.3 (raro). 2 lenguas. La paz como manifestación del orden cósmico.",
+              "corpus": ""
+            },
+            "transformacion": [
+              "compatible"
+            ],
+            "derivaciones": []
+          },
+          {
+            "kalfirvach": "rabāji",
+            "concepto": "impuesto, tributo, contribución al estado",
+            "pos": "noun",
+            "ipa": "/raˈbaː.dʒi/",
+            "origen": {
+              "lengua": "Copto / Persa Avéstico",
+              "raiz_original": "Copto ⲣⲁⲃ (rab) 'tributo, impuesto, tasa' + Avestan 𐬠𐬁𐬘𐬌 (bāji) 'tributo, ofrenda, impuesto' → rabāji (fusión: rab + bāji, geminación /bb/ simplificada a /b/). 2 lenguas. La contribución que sostiene la administración.",
+              "corpus": ""
+            },
+            "transformacion": [
+              "compatible"
+            ],
+            "derivaciones": []
+          },
+          {
+            "kalfirvach": "amarwit",
+            "concepto": "decreto, edicto, mandato oficial de la autoridad",
+            "pos": "noun",
+            "ipa": "/aˈmar.wit/",
+            "origen": {
+              "lengua": "Árabe esotérico / Egipcio Demótico",
+              "raiz_original": "Árabe أمر (amr) 'orden, mandato, comando' + Egipcio wḏ (wedj) 'decreto, mandato divino, palabra de autoridad' → amarwit (epéntesis /a/ en amr → amar por /mr/ coda ilegal; /d/ → /t/ en coda por §3.3). 2 lenguas. La palabra del gobernante que se convierte en ley.",
+              "corpus": ""
+            },
+            "transformacion": [
+              "d→t en forma_final por §3.3"
+            ],
+            "derivaciones": []
+          },
+          {
+            "kalfirvach": "majlisgros",
+            "concepto": "asamblea, consejo, reunión deliberativa",
+            "pos": "noun",
+            "ipa": "/madʒˈlis.gros/",
+            "origen": {
+              "lengua": "Árabe esotérico / Tibetano Clásico",
+              "raiz_original": "Árabe مجلس (majlis) 'asamblea, consejo, lugar de reunión' + Tibetano clásico གྲོས (gros) 'deliberación, consejo, discusión' → majlisgros (fusión directa: majlis + gros). 2 lenguas. El cuerpo colegiado que delibera y decide.",
+              "corpus": "Textos tibetanos clásicos / Árabe clásico"
+            },
+            "transformacion": [
+              "compatible"
+            ],
+            "derivaciones": []
+          },
+          {
+            "kalfirvach": "tāshhad",
+            "concepto": "frontera, límite, línea divisoria entre territorios",
+            "pos": "noun",
+            "ipa": "/taːʃˈhad/",
+            "origen": {
+              "lengua": "Egipcio Demótico / Árabe esotérico",
+              "raiz_original": "Egipcio tꜣš (tjas) 'frontera, límite, borde' + Árabe حد (ḥadd) 'límite, frontera, confín' → tāshhad (fusión: tāš + ḥadd). /ʃ/ coda + /h/ onset a través del límite silábico. 2 lenguas. El confín que separa y define los territorios.",
+              "corpus": ""
+            },
+            "transformacion": [
+              "compatible"
+            ],
+            "derivaciones": []
+          },
+          {
+            "kalfirvach": "naltewur",
+            "concepto": "gobierno",
+            "pos": "sustantivo",
+            "ipa": "[nal.ˈte.wur]",
+            "origen": {
+              "lengua": "forjado desde persa moderno, griego koiné, tibetano",
+              "raiz_original": "forjado desde persa moderno, griego koiné, tibetano",
+              "corpus": "Forja léxica KFA (kalfirvach)"
+            },
+            "transformacion": "score 44.5 — silabeo: nal.té.wur",
+            "derivaciones": []
+          },
+          {
+            "kalfirvach": "kōnhatro",
+            "concepto": "gobernar",
+            "pos": "verbo",
+            "ipa": "[ˈkoːn.hat.ro]",
+            "origen": {
+              "lengua": "forjado desde persa moderno, griego koiné, tibetano",
+              "raiz_original": "forjado desde persa moderno, griego koiné, tibetano",
+              "corpus": "Forja léxica KFA (kalfirvach)"
+            },
+            "transformacion": "score 44.8 — silabeo: kṓn.hat.ro",
+            "derivaciones": []
+          },
+          {
+            "kalfirvach": "tipvilke",
+            "concepto": "estado / nación",
+            "pos": "sustantivo",
+            "ipa": "[tip.ˈvil.ke]",
+            "origen": {
+              "lengua": "forjado desde persa moderno, griego koiné, tibetano",
+              "raiz_original": "forjado desde persa moderno, griego koiné, tibetano",
+              "corpus": "Forja léxica KFA (kalfirvach)"
+            },
+            "transformacion": "score 43.8 — silabeo: tip.víl.ke",
+            "derivaciones": []
+          },
+          {
+            "kalfirvach": "wetsadūk",
+            "concepto": "autoridad",
+            "pos": "sustantivo",
+            "ipa": "[wet.sa.ˈduːk]",
+            "origen": {
+              "lengua": "forjado desde persa moderno, griego koiné, tibetano",
+              "raiz_original": "forjado desde persa moderno, griego koiné, tibetano",
+              "corpus": "Forja léxica KFA (kalfirvach)"
+            },
+            "transformacion": "score 43.6 — silabeo: wet.sa.dū́k",
+            "derivaciones": []
+          },
+          {
+            "kalfirvach": "hēmbēnō",
+            "concepto": "líder",
+            "pos": "sustantivo",
+            "ipa": "[ˈheːm.beː.noː]",
+            "origen": {
+              "lengua": "forjado desde persa moderno, griego koiné, tibetano",
+              "raiz_original": "forjado desde persa moderno, griego koiné, tibetano",
+              "corpus": "Forja léxica KFA (kalfirvach)"
+            },
+            "transformacion": "score 41.7 — silabeo: hḗm.bē.nō",
+            "derivaciones": []
+          },
+          {
+            "kalfirvach": "behepsol",
+            "concepto": "rey / soberano",
+            "pos": "sustantivo",
+            "ipa": "[be.ˈhep.sol]",
+            "origen": {
+              "lengua": "forjado desde persa moderno, griego koiné, tibetano",
+              "raiz_original": "forjado desde persa moderno, griego koiné, tibetano",
+              "corpus": "Forja léxica KFA (kalfirvach)"
+            },
+            "transformacion": "score 45.0 — silabeo: be.hép.sol",
+            "derivaciones": []
+          },
+          {
+            "kalfirvach": "kolavosh",
+            "concepto": "consejo",
+            "pos": "sustantivo",
+            "ipa": "[ko.ˈla.voʃ]",
+            "origen": {
+              "lengua": "forjado desde persa moderno, griego koiné, tibetano",
+              "raiz_original": "forjado desde persa moderno, griego koiné, tibetano",
+              "corpus": "Forja léxica KFA (kalfirvach)"
+            },
+            "transformacion": "score 40.0 — silabeo: ko.lá.vosh",
+            "derivaciones": []
+          },
+          {
+            "kalfirvach": "ratsōni",
+            "concepto": "jefe / cabeza",
+            "pos": "sustantivo",
+            "ipa": "[rat.ˈsoː.ni]",
+            "origen": {
+              "lengua": "forjado desde persa moderno, griego koiné, tibetano",
+              "raiz_original": "forjado desde persa moderno, griego koiné, tibetano",
+              "corpus": "Forja léxica KFA (kalfirvach)"
+            },
+            "transformacion": "score 42.0 — silabeo: rat.sṓ.ni",
+            "derivaciones": []
+          },
+          {
+            "kalfirvach": "ēltiskip",
+            "concepto": "política",
+            "pos": "sustantivo",
+            "ipa": "[ˈeːl.tis.kip]",
+            "origen": {
+              "lengua": "forjado desde persa moderno, griego koiné, tibetano",
+              "raiz_original": "forjado desde persa moderno, griego koiné, tibetano",
+              "corpus": "Forja léxica KFA (kalfirvach)"
+            },
+            "transformacion": "score 44.8 — silabeo: ḗl.tis.kip",
+            "derivaciones": []
+          },
+          {
+            "kalfirvach": "tinmikos",
+            "concepto": "comunidad",
+            "pos": "sustantivo",
+            "ipa": "[tin.ˈmi.kos]",
+            "origen": {
+              "lengua": "forjado desde persa moderno, griego koiné, tibetano",
+              "raiz_original": "forjado desde persa moderno, griego koiné, tibetano",
+              "corpus": "Forja léxica KFA (kalfirvach)"
+            },
+            "transformacion": "score 45.0 — silabeo: tin.mí.kos",
+            "derivaciones": []
+          },
+          {
+            "kalfirvach": "simnēde",
+            "concepto": "pueblo / gente",
+            "pos": "sustantivo",
+            "ipa": "[sim.ˈneː.de]",
+            "origen": {
+              "lengua": "forjado desde persa moderno, griego koiné, tibetano",
+              "raiz_original": "forjado desde persa moderno, griego koiné, tibetano",
+              "corpus": "Forja léxica KFA (kalfirvach)"
+            },
+            "transformacion": "score 41.9 — silabeo: sim.nḗ.de",
+            "derivaciones": []
+          },
+          {
+            "kalfirvach": "vēplekim",
+            "concepto": "ciudadano",
+            "pos": "sustantivo",
+            "ipa": "[ˈveːp.le.kim]",
+            "origen": {
+              "lengua": "forjado desde persa moderno, griego koiné, tibetano",
+              "raiz_original": "forjado desde persa moderno, griego koiné, tibetano",
+              "corpus": "Forja léxica KFA (kalfirvach)"
+            },
+            "transformacion": "score 44.7 — silabeo: vḗp.le.kim",
+            "derivaciones": []
+          },
+          {
+            "kalfirvach": "distezip",
+            "concepto": "votar",
+            "pos": "verbo",
+            "ipa": "[dis.ˈte.zip]",
+            "origen": {
+              "lengua": "forjado desde persa moderno, griego koiné, tibetano",
+              "raiz_original": "forjado desde persa moderno, griego koiné, tibetano",
+              "corpus": "Forja léxica KFA (kalfirvach)"
+            },
+            "transformacion": "score 44.9 — silabeo: dis.té.zip",
+            "derivaciones": []
+          },
+          {
+            "kalfirvach": "tomōkzīs",
+            "concepto": "aprobar",
+            "pos": "verbo",
+            "ipa": "[to.ˈmoːk.ziːs]",
+            "origen": {
+              "lengua": "forjado desde persa moderno, griego koiné, tibetano",
+              "raiz_original": "forjado desde persa moderno, griego koiné, tibetano",
+              "corpus": "Forja léxica KFA (kalfirvach)"
+            },
+            "transformacion": "score 44.8 — silabeo: to.mṓk.zīs",
+            "derivaciones": []
+          },
+          {
+            "kalfirvach": "ōntaskel",
+            "concepto": "prohibir",
+            "pos": "verbo",
+            "ipa": "[ˈoːn.tas.kel]",
+            "origen": {
+              "lengua": "forjado desde persa moderno, griego koiné, tibetano",
+              "raiz_original": "forjado desde persa moderno, griego koiné, tibetano",
+              "corpus": "Forja léxica KFA (kalfirvach)"
+            },
+            "transformacion": "score 44.9 — silabeo: ṓn.tas.kel",
+            "derivaciones": []
+          },
+          {
+            "kalfirvach": "perzitok",
+            "concepto": "permitir",
+            "pos": "verbo",
+            "ipa": "[per.ˈzi.tok]",
+            "origen": {
+              "lengua": "forjado desde persa moderno, griego koiné, tibetano",
+              "raiz_original": "forjado desde persa moderno, griego koiné, tibetano",
+              "corpus": "Forja léxica KFA (kalfirvach)"
+            },
+            "transformacion": "score 44.8 — silabeo: per.zí.tok",
+            "derivaciones": []
+          },
+          {
+            "kalfirvach": "vitpasfa",
+            "concepto": "acuerdo / pacto",
+            "pos": "sustantivo",
+            "ipa": "[vit.ˈpas.fa]",
+            "origen": {
+              "lengua": "forjado desde persa moderno, griego koiné, tibetano",
+              "raiz_original": "forjado desde persa moderno, griego koiné, tibetano",
+              "corpus": "Forja léxica KFA (kalfirvach)"
+            },
+            "transformacion": "score 44.9 — silabeo: vit.pás.fa",
+            "derivaciones": []
+          }
+        ]
+      },
+      "derecho_y_leyes": {
+        "nombre": "Derecho y Leyes",
+        "descripcion": "Términos jurídicos, leyes, justicia, delitos, juicios y normas legales",
+        "entradas": [
+          {
+            "kalfirvach": "hapdāta",
+            "concepto": "ley, estatuto, norma jurídica",
+            "pos": "noun",
+            "ipa": "/hapˈdaː.ta/",
+            "origen": {
+              "lengua": "Egipcio Demótico / Persa Avéstico",
+              "raiz_original": "Egipcio ḥp (hp) 'ley, justicia' + Avestan 𐬛𐬁𐬙𐬀 (dāta) 'ley, decreto, estatuto' → hapdāta (fusión: ḥap + dāta, con elisión de la faringal egipcia). 2 lenguas. La norma fundamental que rige la comunidad.",
+              "corpus": ""
+            },
+            "transformacion": [
+              "compatible"
+            ],
+            "derivaciones": []
+          },
+          {
+            "kalfirvach": "mēimat",
+            "concepto": "derecho, justicia, lo que corresponde por ley y orden cósmico",
+            "pos": "noun",
+            "ipa": "/mejˈmat/",
+            "origen": {
+              "lengua": "Copto / Egipcio Demótico",
+              "raiz_original": "Copto ⲙⲏⲓ (mēi) 'verdad, justicia, testimonio verdadero' + Egipcio mꜣꜥt (ma'at) 'orden cósmico, verdad, justicia, equidad' → mēimat (fusión: mēi + ma'at, con contracción vocálica). 2 lenguas. El principio de rectitud que equilibra la existencia.",
+              "corpus": ""
+            },
+            "transformacion": [
+              "compatible"
+            ],
+            "derivaciones": []
+          },
+          {
+            "kalfirvach": "haprat",
+            "concepto": "juez, magistrado, quien dictamina según la ley",
+            "pos": "noun",
+            "ipa": "/hapˈrat/",
+            "origen": {
+              "lengua": "Copto / Persa Avéstico",
+              "raiz_original": "Copto ϩⲁⲡ (hap) 'juicio, ley, veredicto' + Avestan 𐬭𐬀𐬙𐬎 (ratu) 'juez, señor, maestro, autoridad que juzga' → haprat (fusión: hap + ratu, contracción de -atu). 2 lenguas. La autoridad que interpreta y aplica la ley.",
+              "corpus": ""
+            },
+            "transformacion": [
+              "compatible"
+            ],
+            "derivaciones": []
+          },
+          {
+            "kalfirvach": "jurmbōn",
+            "concepto": "crimen, delito, transgresión grave de la ley",
+            "pos": "noun",
+            "ipa": "/dʒurmˈboːn/",
+            "origen": {
+              "lengua": "Árabe esotérico / Copto",
+              "raiz_original": "Árabe جرم (jurm) 'crimen, delito, falta grave' + Copto ⲃⲟⲟⲛⲉ (boone) 'mal, maldad, cosa mala' → jurmbōn (fusión: jurm + boone, contracción de la terminación copta). /rm/ coda = líquida+nasal permitida por §10.3. 2 lenguas. La acción que quebranta el orden legal.",
+              "corpus": ""
+            },
+            "transformacion": [
+              "compatible"
+            ],
+            "derivaciones": []
+          },
+          {
+            "kalfirvach": "ikāpchad",
+            "concepto": "castigo, pena, sanción por transgresión de la ley",
+            "pos": "noun",
+            "ipa": "/iˈkaːp.tʃad/",
+            "origen": {
+              "lengua": "Árabe esotérico / Tibetano Clásico",
+              "raiz_original": "Árabe عقاب (ʿiqāb) 'castigo, pena, retribución' + Tibetano clásico ཆད (chad) 'castigo, pena, sanción, corte' → ikāpchad (fusión: iqāb + chad, q→k, /b/→/p/ en coda por §3.3). 2 lenguas. La consecuencia jurídica de la transgresión.",
+              "corpus": "Textos tibetanos clásicos / Árabe clásico"
+            },
+            "transformacion": [
+              "q→k, b→p en forma_final por §3.3"
+            ],
+            "derivaciones": []
+          },
+          {
+            "kalfirvach": "kenhipot",
+            "concepto": "derecho (civil)",
+            "pos": "sustantivo",
+            "ipa": "[ken.ˈhi.pot]",
+            "origen": {
+              "lengua": "forjado desde persa moderno, griego koiné, tibetano",
+              "raiz_original": "forjado desde persa moderno, griego koiné, tibetano",
+              "corpus": "Forja léxica KFA (kalfirvach)"
+            },
+            "transformacion": "score 44.6 — silabeo: ken.hí.pot",
+            "derivaciones": []
+          },
+          {
+            "kalfirvach": "fīlvizet",
+            "concepto": "deber / obligación",
+            "pos": "sustantivo",
+            "ipa": "[ˈfiːl.vi.zet]",
+            "origen": {
+              "lengua": "forjado desde persa moderno, griego koiné, tibetano",
+              "raiz_original": "forjado desde persa moderno, griego koiné, tibetano",
+              "corpus": "Forja léxica KFA (kalfirvach)"
+            },
+            "transformacion": "score 44.4 — silabeo: fī́l.vi.zet",
+            "derivaciones": []
+          },
+          {
+            "kalfirvach": "ralwazan",
+            "concepto": "libertad",
+            "pos": "sustantivo",
+            "ipa": "[ral.ˈwa.zan]",
+            "origen": {
+              "lengua": "forjado desde persa moderno, griego koiné, tibetano",
+              "raiz_original": "forjado desde persa moderno, griego koiné, tibetano",
+              "corpus": "Forja léxica KFA (kalfirvach)"
+            },
+            "transformacion": "score 45.0 — silabeo: ral.wá.zan",
+            "derivaciones": []
+          },
+          {
+            "kalfirvach": "timreksa",
+            "concepto": "decisión",
+            "pos": "sustantivo",
+            "ipa": "[tim.ˈrek.sa]",
+            "origen": {
+              "lengua": "forjado desde persa moderno, griego koiné, tibetano",
+              "raiz_original": "forjado desde persa moderno, griego koiné, tibetano",
+              "corpus": "Forja léxica KFA (kalfirvach)"
+            },
+            "transformacion": "score 44.5 — silabeo: tim.rék.sa",
+            "derivaciones": []
+          },
+          {
+            "kalfirvach": "osmono",
+            "concepto": "ley",
+            "pos": "sustantivo",
+            "ipa": "[os.ˈmo.no]",
+            "origen": {
+              "lengua": "forjado desde persa moderno, griego koiné, tibetano",
+              "raiz_original": "forjado desde persa moderno, griego koiné, tibetano",
+              "corpus": "Forja léxica KFA (kalfirvach)"
+            },
+            "transformacion": "score 36.9 — silabeo: os.mó.no",
+            "derivaciones": []
+          },
+          {
+            "kalfirvach": "tilinsok",
+            "concepto": "justicia",
+            "pos": "sustantivo",
+            "ipa": "[ti.ˈlin.sok]",
+            "origen": {
+              "lengua": "forjado desde persa moderno, griego koiné, tibetano",
+              "raiz_original": "forjado desde persa moderno, griego koiné, tibetano",
+              "corpus": "Forja léxica KFA (kalfirvach)"
+            },
+            "transformacion": "score 45.0 — silabeo: ti.lín.sok",
+            "derivaciones": []
+          },
+          {
+            "kalfirvach": "mipzosīt",
+            "concepto": "juez",
+            "pos": "sustantivo",
+            "ipa": "[mip.zo.ˈsiːt]",
+            "origen": {
+              "lengua": "forjado desde persa moderno, griego koiné, tibetano",
+              "raiz_original": "forjado desde persa moderno, griego koiné, tibetano",
+              "corpus": "Forja léxica KFA (kalfirvach)"
+            },
+            "transformacion": "score 44.9 — silabeo: mip.zo.sī́t",
+            "derivaciones": []
+          },
+          {
+            "kalfirvach": "kotahan",
+            "concepto": "culpa",
+            "pos": "sustantivo",
+            "ipa": "[ko.ˈta.han]",
+            "origen": {
+              "lengua": "forjado desde persa moderno, griego koiné, tibetano",
+              "raiz_original": "forjado desde persa moderno, griego koiné, tibetano",
+              "corpus": "Forja léxica KFA (kalfirvach)"
+            },
+            "transformacion": "score 41.7 — silabeo: ko.tá.han",
+            "derivaciones": []
+          },
+          {
+            "kalfirvach": "kimotsip",
+            "concepto": "sentencia / veredicto",
+            "pos": "sustantivo",
+            "ipa": "[ki.ˈmot.sip]",
+            "origen": {
+              "lengua": "forjado desde persa moderno, griego koiné, tibetano",
+              "raiz_original": "forjado desde persa moderno, griego koiné, tibetano",
+              "corpus": "Forja léxica KFA (kalfirvach)"
+            },
+            "transformacion": "score 45.0 — silabeo: ki.mót.sip",
+            "derivaciones": []
+          },
+          {
+            "kalfirvach": "zemnirot",
+            "concepto": "castigo",
+            "pos": "sustantivo",
+            "ipa": "[zem.ˈni.rot]",
+            "origen": {
+              "lengua": "forjado desde persa moderno, griego koiné, tibetano",
+              "raiz_original": "forjado desde persa moderno, griego koiné, tibetano",
+              "corpus": "Forja léxica KFA (kalfirvach)"
+            },
+            "transformacion": "score 45.0 — silabeo: zem.ní.rot",
+            "derivaciones": []
+          },
+          {
+            "kalfirvach": "kolnamē",
+            "concepto": "crimen / delito",
+            "pos": "sustantivo",
+            "ipa": "[kol.na.ˈmeː]",
+            "origen": {
+              "lengua": "forjado desde persa moderno, griego koiné, tibetano",
+              "raiz_original": "forjado desde persa moderno, griego koiné, tibetano",
+              "corpus": "Forja léxica KFA (kalfirvach)"
+            },
+            "transformacion": "score 42.0 — silabeo: kol.na.mḗ",
+            "derivaciones": []
+          },
+          {
+            "kalfirvach": "patmize",
+            "concepto": "multa",
+            "pos": "sustantivo",
+            "ipa": "[pat.ˈmi.ze]",
+            "origen": {
+              "lengua": "forjado desde persa moderno, griego koiné, tibetano",
+              "raiz_original": "forjado desde persa moderno, griego koiné, tibetano",
+              "corpus": "Forja léxica KFA (kalfirvach)"
+            },
+            "transformacion": "score 42.0 — silabeo: pat.mí.ze",
+            "derivaciones": []
+          },
+          {
+            "kalfirvach": "norpidak",
+            "concepto": "prueba / evidencia",
+            "pos": "sustantivo",
+            "ipa": "[nor.ˈpi.dak]",
+            "origen": {
+              "lengua": "forjado desde persa moderno, griego koiné, tibetano",
+              "raiz_original": "forjado desde persa moderno, griego koiné, tibetano",
+              "corpus": "Forja léxica KFA (kalfirvach)"
+            },
+            "transformacion": "score 45.0 — silabeo: nor.pí.dak",
+            "derivaciones": []
+          },
+          {
+            "kalfirvach": "mahdopos",
+            "concepto": "testigo",
+            "pos": "sustantivo",
+            "ipa": "[mah.ˈdo.pos]",
+            "origen": {
+              "lengua": "forjado desde persa moderno, griego koiné, tibetano",
+              "raiz_original": "forjado desde persa moderno, griego koiné, tibetano",
+              "corpus": "Forja léxica KFA (kalfirvach)"
+            },
+            "transformacion": "score 45.0 — silabeo: mah.dó.pos",
+            "derivaciones": []
+          },
+          {
+            "kalfirvach": "mōtesroh",
+            "concepto": "acusar",
+            "pos": "verbo",
+            "ipa": "[ˈmoː.tes.roh]",
+            "origen": {
+              "lengua": "forjado desde persa moderno, griego koiné, tibetano",
+              "raiz_original": "forjado desde persa moderno, griego koiné, tibetano",
+              "corpus": "Forja léxica KFA (kalfirvach)"
+            },
+            "transformacion": "score 44.9 — silabeo: mṓ.tes.roh",
+            "derivaciones": []
+          },
+          {
+            "kalfirvach": "pesnomdo",
+            "concepto": "defender / abogar",
+            "pos": "verbo",
+            "ipa": "[pes.ˈnom.do]",
+            "origen": {
+              "lengua": "forjado desde persa moderno, griego koiné, tibetano",
+              "raiz_original": "forjado desde persa moderno, griego koiné, tibetano",
+              "corpus": "Forja léxica KFA (kalfirvach)"
+            },
+            "transformacion": "score 44.9 — silabeo: pes.nóm.do",
+            "derivaciones": []
+          },
+          {
+            "kalfirvach": "zinmitvō",
+            "concepto": "juzgar",
+            "pos": "verbo",
+            "ipa": "[zin.mit.ˈvoː]",
+            "origen": {
+              "lengua": "forjado desde persa moderno, griego koiné, tibetano",
+              "raiz_original": "forjado desde persa moderno, griego koiné, tibetano",
+              "corpus": "Forja léxica KFA (kalfirvach)"
+            },
+            "transformacion": "score 44.9 — silabeo: zin.mit.vṓ",
             "derivaciones": []
           }
         ]

@@ -1,0 +1,196 @@
+particula	tipo	funcion	ambito	notas
+-al	actitudinal	certeza mágica, verdad gnóstica	sufijo verbal	
+-azáz	actitudinal	liberación, rebelión consciente	sufijo verbal	
+-bay	actitudinal	miedo, temor	sufijo verbal	
+-gar	actitudinal	orgullo justo, excelencia, dignidad	sufijo verbal	
+-has	actitudinal	ironía sagrada, risa divina	sufijo verbal	
+-krod	actitudinal	ira, furia	sufijo verbal	
+-lúx	actitudinal	anhelo de luz, iluminación	sufijo verbal	
+-nam	actitudinal	reverencia, inclinación	sufijo verbal	
+-nand	actitudinal	alegría, gozo	sufijo verbal	
+-prem	actitudinal	amor, afecto, devoción	sufijo verbal	
+-shak	actitudinal	duda ritual, dubitación sacra	sufijo verbal	
+-shant	actitudinal	calma, paz, serenidad	sufijo verbal	
+-shok	actitudinal	tristeza, duelo	sufijo verbal	
+-soph	actitudinal	sabiduría esotérica, gnosis	sufijo verbal	
+-síg	actitudinal	silencio gnóstico, plenitud en reposo	sufijo verbal	
+-tuf	actitudinal	desafío, resistencia	sufijo verbal	
+-viras	actitudinal	disgusto, repulsión	sufijo verbal	
+-vismay	actitudinal	asombro, admiración	sufijo verbal	
+-wíl	actitudinal	voluntad, determinación	sufijo verbal	
+-ék	actitudinal	trascendencia, éxtasis	sufijo verbal	
+-dá	adverbial	adverbio ordinal (en X lugar)	sufijo numeral	ej: dwith-dá
+atísh	adverbio_grado	demasiado, excesivamente	independiente	
+káf	adverbio_grado	bastante, suficiente	independiente	
+lav	adverbio_grado	poco, apenas (atenuador)	independiente	
+tís	adverbio_grado	muy (intensificador positivo)	independiente	
+sháyat	adverbio_modal	quizás, tal vez (incertidumbre)	independiente	
+washam	adverbio_modal	ojalá (desiderativo)	independiente	
+pēntah	adverbio_modal	seguramente (certeza atenuada)	independiente	
+shémkis	adverbio_modal	probablemente (probabilidad)	independiente	
+mēti	adverbio_modal	acaso (dubitativo interrogativo)	independiente	
+nēkap	adverbio_modal	necesariamente (necesidad epistémica)	independiente	
+ha	articulo	definido singular (el/la)	independiente	pre-nominal
+han	articulo	definido plural (los/las)	independiente	ha + -n
+é	articulo	indefinido singular (un/una)	independiente	pre-nominal
+én	articulo	indefinido plural (unos/unas)	independiente	é + -n
+a-	aspecto	imperfectivo (en progreso)	prefijo verbal	
+su-	aspecto	perfectivo (completado)	prefijo verbal	
+ta-	aspecto	habitual (repetitivo)	prefijo verbal	
+-dín	astrologico	en el día/tiempo de	sufijo verbal	
+-máh	astrologico	en la fase lunar de	sufijo verbal	
+-sól	astrologico	en la posición solar de	sufijo verbal	
+dha-	causativo	prefijo causativo (hacer que...)	prefijo verbal	
+-dhara	clasificador	líquidos en recipiente (vasos)	sufijo numeral	
+-jati	clasificador	clases/tipos abstractos	sufijo numeral	
+-khanda	clasificador	fragmentos (pedazos, porciones)	sufijo numeral	
+-pata	clasificador	objetos planos (hojas, láminas)	sufijo numeral	
+-rasi	clasificador	masas incontables (agua, arena)	sufijo numeral	
+-sutra	clasificador	objetos alargados (cuerdas, ríos)	sufijo numeral	
+-thang	clasificador	objetos redondos (piedras, frutos)	sufijo numeral	
+-wan	clasificador	seres animados (personas, animales)	sufijo numeral	
+-rab	coercitivo	ligadura, vinculación ritual	sufijo verbal	slot F3
+-rak	coercitivo	destierro, abjuración	sufijo verbal	slot F3
+-ran	coercitivo	ruego, súplica	sufijo verbal	slot F3
+-ro	coercitivo	imperativo coercitivo	sufijo verbal	slot F3
+-ro-hék	coercitivo	imperativo hierático coercitivo	sufijo verbal	slot F3
+awa	comparativo	menos (que) — inferioridad	independiente	
+kāsmopte	comparativo	supremamente (superlativo absoluto)	independiente	
+para	comparativo	más (que) — superioridad	independiente	
+sáma	comparativo	tan... como (equativo)	independiente	
+cha	conjuncion	y (adición)	independiente	
+hát	conjuncion	hasta que (temporal final)	independiente	
+kar	conjuncion	porque (causal)	independiente	
+kás	conjuncion	para que, a fin de que (final)	independiente	
+mét	conjuncion	después de que (posterior)	independiente	
+pári	conjuncion	antes de que (anterior)	independiente	
+ti	conjuncion	que (complementizante)	independiente	subordinación sustantiva
+tu	conjuncion	pero (contraste)	independiente	
+tát	conjuncion	por lo tanto, entonces (consecutiva)	independiente	
+tés	conjuncion	mientras (simultáneo)	independiente	
+va	conjuncion	o (disyunción)	independiente	
+wá	conjuncion	mientras que, en cambio (contraste)	independiente	
+yas	conjuncion	si (condicional)	independiente	inicio de cláusula
+ár	conjuncion	aunque, a pesar de (adversativa)	independiente	
+omos	conjuncion	sin embargo (contraste fuerte)	independiente	
+dosvot	conjuncion	no obstante (concesivo)	independiente	
+as	copula	ser/estar (verbo copulativo)	independiente	
+-ka	derivativo	adjetivizador (relacionado con)	sufijo nominal	
+-lis	derivativo	diminutivo/honorífico	sufijo nominal	
+-ma	derivativo	resultado/producto (lo producido por)	sufijo nominal	
+-nik	derivativo	instrumento (con lo cual se hace)	sufijo nominal	
+-sha	derivativo	lugar/contenedor (donde ocurre)	sufijo nominal	
+-ta	derivativo	abstracto (la cualidad de)	sufijo nominal	
+-tar	derivativo	agente (el que hace)	sufijo nominal	
+-thu	derivativo	colectivo (grupo de)	sufijo nominal	
+-wan	derivativo	poseedor (el que tiene)	sufijo nominal	
+a-	derivativo	privativo/negativo (sin, no)	prefijo nominal	
+pari-	derivativo	transformación (cambio hacia)	prefijo nominal	
+su-	derivativo	aumentativo/bueno (gran, excelso)	prefijo nominal	
+-ēsh	derivativo_verbal	verbalizador (convertir nombre en verbo)	sufijo verbal	
+-eshk	derivativo_verbal	frecuentativo (hacer repetidamente)	sufijo verbal	
+-īs	derivativo_verbal	desiderativo (tener ganas de hacer)	sufijo verbal	
+-ōdan	derivativo_verbal	factitivo (hacer que algo sea X)	sufijo verbal	
+hán	discursiva	pues bien, ahora, ¡he aquí! (inicio)	independiente	
+kát	discursiva	citativo (se dice, dicen que)	independiente	
+máh	discursiva	en verdad, ciertamente (énfasis)	independiente	
+súm	discursiva	en resumen, así pues (conclusiva)	independiente	
+wáy	discursiva	por otra parte, además (transición)	independiente	
+prati-	distributivo	distributivo (de a X)	prefijo numeral	
+-anu	evidencial	inferido (deducción)	sufijo verbal	
+-e	evidencial	visual (visto u observado)	sufijo verbal	
+-on	evidencial	onírico (sueño o visión)	sufijo verbal	
+-wah	evidencial	revelado (conocimiento revelado)	sufijo verbal	
+-Ø	evidencial	neutro (sin marca)	sufijo verbal	contexto cotidiano
+kal-	fase_ritual	invocación / llamado	prefijo verbal	
+pra-	fase_ritual	preparación / purificación	prefijo verbal	
+sél-	fase_ritual	cierre / fijación	prefijo verbal	
+tél-	fase_ritual	culminación / realización	prefijo verbal	
+-anshá	fraccionario	fraccionario (X parte)	sufijo numeral	
+-h	hieratico	registro hierático (sacralidad)	sufijo verbal	obligatorio con áz
+-hék	honorifico	sacerdote / mago (sufijo)	sufijo nominal	
+-khán	honorifico	señor / soberano (sufijo)	sufijo nominal	
+báp	honorifico	padre / fundador (prefijo)	prefijo nominal	
+pir	honorifico	gran / maestro (prefijo)	prefijo nominal	
+oy-	impersonal	marcador de impersonal genérico (uno/se)	prefijo verbal	
+-hi	indefinido	universal positivo (cada uno/todo)	sufijo pronominal	kwa-hi, kím-hi
+-ka	indefinido	afirmativo (alguien/algo)	sufijo pronominal	kwa-ka, kím-ka
+-na	indefinido	negativo (nadie/nada)	sufijo pronominal	kwa-na, kím-na
+-nhi	indefinido	universal negativo (ninguno)	sufijo pronominal	kwa-nhi, kím-nhi
+sara	indefinido	todo (colectivo singular)	independiente	
+amen	interjeccion	amén (afirmación ritual, cierre)	independiente	
+aum	interjeccion	om, sonido primordial (mantra)	independiente	
+baruk	interjeccion	¡bendito! (declaración de bendición)	independiente	
+halel	interjeccion	¡aleluya! (alabanza, júbilo)	independiente	
+hina	interjeccion	¡he aquí! (atención visual)	independiente	
+kafa	interjeccion	¡basta! (finalización, suficiencia)	independiente	
+la	interjeccion	no, negación, rechazo	independiente	
+nam	interjeccion	sí, afirmación, asentimiento	independiente	
+shalam	interjeccion	paz (salutación, bendición)	independiente	
+shama	interjeccion	¡escucha! (atención auditiva)	independiente	
+wai	interjeccion	¡ay! (dolor, lamento)	independiente	
+ya	interjeccion	¡oh! (asombro, vocativo admirativo)	independiente	
+ka	interrogativo	partícula final sí/no (¿?)	independiente	final de oración
+-ast	modo_realidad	plano astral / sutil	sufijo verbal	
+-kal	modo_realidad	plano hipotético / posible	sufijo verbal	
+-poi	modo_realidad	performativo (decir = hacer)	sufijo verbal	
+-som	modo_realidad	plano físico / material	sufijo verbal	
+-krit	multiplicativo	multiplicativo (X veces)	sufijo numeral	
+lám	negacion	negación enfática (de ningún modo)	independiente	pre-verbal
+na-	negacion	negación verbal (no)	prefijo verbal	
+-an	no_finita	infinitivo / verbo nominal (el acto de...)	sufijo verbal	
+-ant	no_finita	participio activo (que hace, -ante)	sufijo verbal	
+-ta	no_finita	participio resultativo (hecho, completado)	sufijo verbal	
+bīj	onomastica	nombre esencial / bīja (pre-nominal)	independiente	
+gup	onomastica	nombre oculto / criptónimo	independiente	cláusula parentética
+nūm	onomastica	nombre personal (post-nominal)	independiente	
+-th	ordinal	sufijo ordinal (-ésimo, -ero)	sufijo numeral	
+-ya	pasiva	voz pasiva (es/se hecho)	infijo verbal	entre raíz y tiempo
+pra	pasiva_agente	preposición agentiva (por)	independiente	post-nominal
+-ka	postposicion	instrumental (con, mediante)	sufijo nominal	
+-muk	postposicion	directivo (hacia)	sufijo nominal	
+-na	postposicion	locativo (en, sobre)	sufijo nominal	
+-ra	postposicion	ablativo (desde, origen)	sufijo nominal	
+-sya	postposicion	genitivo (de, pertenencia)	sufijo nominal	
+-te	postposicion	dativo (a, para)	sufijo nominal	
+dúr	postposicion_locativa	lejos (far)	independiente	post-nominal; complemento en genitivo -sya
+néshta	postposicion_locativa	cerca (near)	independiente	post-nominal; complemento en genitivo -sya
+pár	postposicion_locativa	a través (through, across)	independiente	post-nominal; complemento en genitivo -sya
+pichas	postposicion_locativa	detrás (behind)	independiente	post-nominal; complemento en genitivo -sya
+píram	postposicion_locativa	alrededor (around)	independiente	post-nominal; complemento en genitivo -sya
+présh	postposicion_locativa	delante, frente a (in front of)	independiente	post-nominal; complemento en genitivo -sya
+sham	postposicion_locativa	junto a, al lado de (next to, beside)	independiente	post-nominal; complemento en genitivo -sya
+upári	postposicion_locativa	encima, sobre (above, on top of)	independiente	post-nominal; complemento en genitivo -sya
+wásat	postposicion_locativa	entre (between, among)	independiente	post-nominal; complemento en genitivo -sya
+zírat	postposicion_locativa	debajo, bajo (under, below)	independiente	post-nominal; complemento en genitivo -sya
+amrah	postposicion_compania	junto con (together with, comitativo)	independiente	post-nominal; complemento en genitivo -sya
+bīkhos	postposicion_privacion	sin (without, privativo)	independiente	post-nominal; complemento en genitivo -sya
+fanitma	focal	solo, únicamente (only, restrictivo)	independiente	pre-nominal o preverbal
+foghotim	focal	sobre todo (above all, preferencial)	independiente	pre-nominal o preverbal
+nitfipi	focal	ni siquiera (not even, negativo escalar)	independiente	pre-nominal o preverbal
+pamanto	focal	también (also, aditivo)	independiente	pre-nominal o preverbal
+patanom	focal	al menos (at least, mínimo)	independiente	pre-nominal o preverbal
+pinafit	focal	incluso (even, escalar)	independiente	pre-nominal o preverbal
+hamnis	cuantificador	ambos (both)	independiente	pre-nominal
+namsah	cuantificador	muchos (many)	independiente	pre-nominal
+samwih	cuantificador	varios (several)	independiente	pre-nominal
+santah	cuantificador	pocos (few)	independiente	pre-nominal
+shansami	cuantificador	cada (each, every)	independiente	pre-nominal
+tamsah	cuantificador	suficiente (enough)	independiente	pre-nominal
+wamsat	cuantificador	demasiado (too many/much)	independiente	pre-nominal
+any-anya	reciproco	recíproco distributivo (uno a otro)	independiente	preverbal
+kham	reciproco	recíproco colectivo (mutuamente, entre sí)	independiente	preverbal
+-at	reflexivo	sufijo reflexivo verbal (acción sobre sí)	sufijo verbal	
+-swa	reflexivo	posesivo reflexivo (mi/tu propio)	sufijo adjetival	
+swa	reflexivo	intensificador (yo/tú/él mismo)	independiente	pospuesto
+ya	relativo	marcador de cláusula relativa (que)	independiente	inicio de cláusula relativa
+milrich	similitudinal	como, a la manera de	independiente	post-nominal
+-djet	temp_magica	tiempo estático, permanencia	sufijo verbal	
+chrón-	temp_magica	tiempo lineal, cronológico	prefijo verbal	
+kair-	temp_magica	tiempo oportuno, momento sagrado	prefijo verbal	
+neh-	temp_magica	tiempo cíclico, eterno retorno	prefijo verbal	
+-a	tiempo	presente	sufijo verbal	
+-i	tiempo	pasado	sufijo verbal	
+-u	tiempo	futuro	sufijo verbal	
+ho	topico	marcador de tópico o sujeto	independiente	post-nominal
+o	vocativo	marcador de vocativo / invocación	independiente	pre-nominal absoluto

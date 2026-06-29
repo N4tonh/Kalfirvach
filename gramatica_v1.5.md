@@ -418,6 +418,90 @@ shaktí-ka  = mediante poder
 sól-muk    = hacia la luz
 ```
 
+#### 3.2.1 Postposiciones locativas
+
+A diferencia de las postposiciones de caso (§3.2), las postposiciones locativas son **partículas independientes** que expresan relaciones espaciales concretas. Toman el complemento en **genitivo** (`-sya`), y pueden recibir sufijos de caso para indicar movimiento.
+
+**Sintaxis:**
+```
+[SN]-sya + [postposición locativa] + [−na/−ra/−muk opcional]
+```
+
+| Partícula | IPA | Significado | Origen (≥2) |
+|-----------|-----|-------------|-------------|
+| **pichas** | /ˈpi.tʃas/ | detrás | Sánscrito *paścāt* "detrás, después" + Persa *pas* "detrás, después". 2 lenguas. |
+| **présh** | /preʃ/ | delante, frente a | Sánscrito *prati* "hacia, frente a" + Persa *pēš* "delante, frente". 2 lenguas. |
+| **upári** | /uˈpa.ri/ | encima, sobre | Sánscrito *upari* "encima, sobre" + Griego *ὑπέρ* (hypér) "sobre, encima de". 2 lenguas. |
+| **zírat** | /ˈzi.rat/ | debajo, bajo | Persa *zīr* "abajo, debajo" + Árabe *taḥt* "debajo". 2 lenguas. |
+| **wásat** | /ˈwa.sat/ | entre | Árabe *wasat* "medio, centro" + Persa *miyān* "entre, medio". 2 lenguas. |
+| **néshta** | /ˈneʃ.ta/ | cerca | Sánscrito *nediṣṭha* "más cercano" + Persa *nazd* "cerca". 2 lenguas. |
+| **dúr** | /dur/ | lejos | Persa *dūr* "lejos" + Griego *τῆλε* (tēle) "lejos, a lo lejos". 2 lenguas. |
+| **píram** | /ˈpi.ram/ | alrededor | Persa *pīrāmūn* "alrededor" + Griego *περί* (peri) "alrededor". 2 lenguas. |
+| **pár** | /par/ | a través | Persa *par* "a través, sobre, cruzando" + Árabe *'abra* "a través de". 2 lenguas. |
+| **sham** | /ʃam/ | junto a, al lado | Árabe *shamala* "incluir, abarcar" + Persa *ham* "junto". 2 lenguas. |
+
+**Ejemplos — posición estática:**
+```
+ha templo-sya pichas      = detrás del templo
+ha nūros-sya présh        = delante de la luz
+ha montaña-sya upári      = encima de la montaña
+ha árbol-sya zírat        = debajo del árbol
+han luces-sya wásat       = entre las luces
+ha portal-sya néshta      = cerca del portal
+ha círculo-sya dúr        = lejos del círculo
+ha altar-sya píram        = alrededor del altar
+ha velo-sya pár           = a través del velo
+ha mago-sya sham          = junto al mago
+```
+
+**Ejemplos — con movimiento (ablativo -ra, directivo -muk):**
+```
+ha templo-sya pichas-ra  aya-ro!   = "¡Ven desde detrás del templo!"
+ha nūros-sya présh-muk   gach-a    = "Va hacia delante de la luz"
+ha montaña-sya upári-ra   zal  sam-pát-i  = "La sombra cayó desde encima de la montaña"
+```
+
+#### 3.2.2 Postposiciones relacionales
+
+Dos partículas independientes para relaciones no-espaciales: comitativo (compañía) y privativo (ausencia). Siguen la misma sintaxis que las locativas: toman el complemento en **genitivo** (`-sya`) y son post-nominales.
+
+| Partícula | IPA | Significado | Origen (≥2) |
+|-----------|-----|-------------|-------------|
+| **amrah** | /amˈrah/ | junto con (compañía) | Griego ἅμα (háma) "junto con, simultáneamente" + Persa همراه (hamrāh) "junto con, acompañante". 2 lenguas. |
+| **bīkhos** | /ˈbiː.xos/ | sin (ausencia, privación) | Persa بی (bī) "sin, -less" + Griego χωρίς (chōrís) "sin, separado de". 2 lenguas. |
+
+**Ejemplos:**
+
+```
+ma  ha  mago-sya amrah   kár-a
+yo  DEF mago-GEN  junto.con  hace
+"Actúo junto con el mago"
+
+nūros as-a   bīkhos    zal
+luz   es     sin       sombra
+"La luz existe sin sombra"
+
+ta  kár-i     ha  nūros-sya  amrah
+este hizo-PAS DEF luz-GEN    junto.con
+"Esto ocurrió junto con la luz"
+
+ha  rík-sya   bīkhos    ha  zal   na-as-a
+DEF grande-GEN sin       DEF sombra no-es
+"Sin la grandeza, la sombra no es"
+```
+
+**Contraste comitativo vs. instrumental:**
+
+| amrah (-sya amrah) | -ka |
+|---|---|
+| compañía (seres, entidades) | instrumento/medio (herramientas) |
+| `ha mago-sya amrah` = junto al mago | `shaktí-ka` = mediante poder |
+
+**Ejemplos — coexistencia con postposiciones de caso:**
+```
+ha templo-sya pichas-na  sél-kár-a  = "Fija [el ritual] en detrás del templo" (locativo + postposición locativa)
+```
+
 ### 3.3 Morfología verbal
 
 #### 3.3.1 Tiempos
@@ -740,6 +824,62 @@ thel (voluntad) → raíz semilla
 ├── a-thél      = sin voluntad, abulia
 ├── pari-thél   = transformación de voluntad
 └── thel-thú    = campo de voluntad, voluntad colectiva
+```
+
+#### 3.6.3 Derivación verbal (v1.5)
+
+El sistema derivativo de §3.6.1 cubre **nominalización, adjetivización y aumentos**. Hasta v1.5 no existía derivación verbal productiva: no había forma de convertir un nombre en verbo, ni sufijos aspectuales sobre la raíz verbal. Se añaden **4 sufijos verbales derivativos** (creados con griego koiné + persa para mantener el balance etimológico):
+
+| Sufijo | Función | IPA | Origen | Ejemplo |
+|--------|---------|-----|--------|---------|
+| **-ēsh** | Verbalizador (nombre → verbo: "hacer X, convertir en X") | /eːʃ/ | Griego -ίζω (-ízō, sufijo verbalizador, e.g. βαπτίζω "bautizar") → iz → ēsh (alargamiento + devoiceo); Persa -یدن (-idan, sufijo de infinitivo verbal). 2 lenguas. | nūros-ēsh-a = "iluminar" (luz-VERB-PRES) |
+| **-eshk** | Frecuentativo (acción repetida: "hacer repetidamente") | /eʃk/ | Griego -έσκω (-éskō, sufijo frecuentativo e.g. φεύγεσκον "huía repetidamente"); Persa -âk (sufijo iterativo). 2 lenguas. | kár-eshk-a = "repetir el acto, hacer una y otra vez" |
+| **-īs** | Desiderativo (deseo de acción: "tener ganas de hacer") | /iːs/ | Griego -σει- (-sei-, sufijo desiderativo-futuro, cf. ἐδήδοσα "tengo ganas de comer"); Persa -i (marcador de subjuntivo/optativo). 2 lenguas. | kár-īs-a = "tener ganas de hacer, desear actuar" |
+| **-ōdan** | Factitivo (causar un estado: "hacer que algo sea X") | /ˈoː.dan/ | Griego -όω (-óō, sufijo factitivo sobre adjetivos, e.g. δηλόω "hacer claro, mostrar"); Persa -اندن (-ândan, sufijo causativo). 2 lenguas. | rík-ōdan-a = "engrandecer, hacer grande" (grande-FACT-PRES) |
+
+**Posición en el sintagma verbal:** los sufijos derivativos se adjuntan **inmediatamente después de la raíz** (verbal o nominal), antes de cualquier sufijo flexivo. Modifican el significado léxico de la raíz, no su función sintáctica:
+
+```
+[Prefijos flexivos]Raíz(-derivativo)-Tiempo-(Evidencial-Actitudinal-Modo)
+```
+
+```
+kár-a       = "hace"          (verbo simple presente)
+kár-eshk-a  = "hace repetidamente"  (frecuentativo)
+kár-īs-a    = "tiene ganas de hacer" (desiderativo)
+kár-ōdan-a  = "hace que algo se haga" (factitivo sobre verbo)
+```
+
+**El verbalizador -ēsh** permite crear verbos desde cualquier raíz nominal, llenando un vacío importante:
+
+```
+nūros-ēsh-a        = "iluminar"        (de nūros "luz")
+shaktí-ēsh-a       = "potenciar"       (de shaktí "poder")
+khap-ēsh-a         = "oscurecer"       (de khap "oscuro")
+thel-ēsh-a         = "voluntadear, ejercer voluntad" (de thel "voluntad")
+```
+
+**El factitivo -ōdan** se distingue del causativo `dha-`:
+
+| Construcción | Significado | Mecanismo |
+|-------------|-------------|-----------|
+| `dha-kár-a` | "hacer que alguien haga" | Causativo sobre acción (agente induce otra acción) |
+| `kár-ōdan-a` | "hacer que algo se haga / lograr" | Factitivo sobre el resultado (causar un estado) |
+| `rik-ōdan-a` | "hacer grande, engrandecer" | Factitivo sobre propiedad (causar un estado) |
+
+El causativo `dha-` opera sobre **acciones** (verbo → verbo causativo). El factitivo `-ōdan` opera sobre **propiedades y estados** (adjetivo/nombre → verbo factitivo). Pueden combinarse:
+
+```
+dha-kár-ōdan-a     = "hacer que alguien logre que algo se haga" = "obligar a efectivizar"
+```
+
+**Interacción con el sistema flexivo existente:** Los sufijos derivativos no bloquean ninguna flexión. Heredan toda la morfología verbal:
+
+```
+nūros-ēsh-i-e          = "iluminó [lo vi]"
+kár-eshk-u-kal         = "repetirá [en plano hipotético]"
+kár-īs-a-nand          = "tiene ganas de hacer [con alegría]"
+rik-ōdan-a-som         = "se engrandece [en plano físico]"
 ```
 
 ### 3.7 Pronombres
@@ -1303,26 +1443,46 @@ La diferencia entre el prefijo léxico **su-** (§3.6.1) y el adverbio **tís**:
 
 #### 3.10.7 Adverbios modales
 
-Kalfírvach ya expresa modalidad epistémica mediante el sistema de evidenciales (§2.1) y actitudinales (§2.2) anclados al verbo. Sin embargo, existe un adverbio modal para expresar incertidumbre sin compromiso evidencial:
+Kalfírvach ya expresa modalidad epistémica mediante el sistema de evidenciales (§2.1) y actitudinales (§2.2) anclados al verbo. Sin embargo, existe un sistema de adverbios modales para matices epistémicos finos sin compromiso evidencial. Actualmente **6 adverbios** (creados con copto + tibetano en la tanda v1.5 para mantener el balance etimológico):
 
 | Adverbio | IPA | Valor | Origen (≥2) |
 |----------|-----|-------|-------------|
 | **sháyat** | /'ʃa.jat/ | "quizás, tal vez" | Persa *shāyad* "quizás" + Sánscrito *śayyate* "yacer, permanecer incierto" → fusión. 2 lenguas. |
+| **washam** | /ˈwa.ʃam/ | "ojalá" (desiderativo) | Copto ⲟⲩⲱϣⲉ *ouōshe* "desear" + Tibetano སྨོན *smon* "plegaria, anhelo" → fusión. 2 lenguas. |
+| **pēntah** | /ˈpeːn.tah/ | "seguramente" (certeza atenuada) | Copto ϩⲏⲧⲉ *hēte* "ciertamente" + Tibetano ངེས་པར *nges par* "definitivamente" → fusión. 2 lenguas. |
+| **shémkis** | /ˈʃem.kis/ | "probablemente" (probabilidad) | Copto ⲙⲉϣⲁⲕ *mešak* "quizás" + Tibetano སྲིད *srid* "posible" → fusión. 2 lenguas. |
+| **mēti** | /ˈmeː.ti/ | "acaso" (dubitativo interrogativo) | Copto ⲙⲏ *mē* "¿acaso?" + Tibetano ཅི་ཤེས *ci shes* "quizás" → fusión. 2 lenguas. |
+| **nēkap** | /ˈneː.kap/ | "necesariamente" (necesidad epistémica) | Copto ⲁⲛⲁⲅⲕⲏ *anagkē* "necesidad" + Tibetano དགོས་པ *dgos pa* "deber, tener que" → fusión. 2 lenguas. |
+
+**Posición sintáctica:** todos los adverbios modales van al inicio de la oración (slot inicial, antes del SN sujeto), igual que `sháyat`.
 
 ```
-sháyat  ha  nūros  as-a    = "Quizás la luz es"  (incertidumbre, sin evidencial)
-sháyat  ma  kár-u-kal    = "Quizás actuaré"    (incertidumbre + modo hipotético)
+washam   ha  nūros  as-a      = "Ojalá la luz sea"       (deseo, sin certeza)
+pēntah   ha  nūros  as-a      = "La luz seguramente es"  (certeza atenuada)
+shémkis  ha  nūros  as-a      = "Probablemente la luz es" (probabilidad)
+mēti     ha  nūros  as-a ka?  = "¿Acaso la luz es?"       (dubitativo interrogativo)
+nēkap    ha  nūros  as-a      = "La luz es necesariamente" (necesidad epistémica)
 ```
 
-**Contraste con el sistema verbal:** El adverbio `sháyat` expresa duda sin especificar la fuente de conocimiento. El sistema evidencial expresa certeza sobre *cómo* se conoce. Pueden combinarse:
+**Contraste con el sistema verbal:** Los adverbios modales expresan matices epistémicos sin especificar la fuente de conocimiento. El sistema evidencial expresa certeza sobre *cómo* se conoce. Pueden combinarse:
 
 ```
-sháyat  ha  máya  as-a-wah
-quizás  DEF  ilusión ser-PRES-REVELADO
-"Quizás la ilusión es [revelado]" = "Me fue revelado que quizás la ilusión existe"
+shémkis  ha  máya  as-a-anu
+probablemente  DEF  ilusión  ser-PRES-INFERIDO
+"Probablemente la ilusión existe [inferido]" = probabilidad + inferencia
 ```
 
-La incertidumbre recae sobre el contenido (`sháyat`), la certeza sobre el modo de conocimiento (`-wah`).
+```
+pēntah  ha  máya  as-a-wah
+seguramente  DEF  ilusión  ser-PRES-REVELADO
+"Seguramente la ilusión existe [revelado]" = certeza atenuada + revelación
+```
+
+La gradación epistémica completa queda:
+
+| Más incierto → | sháyat / washam | shémkis | pēntah | nēkap | → Más cierto |
+|----------------|-----------------|---------|--------|-------|-------------|
+| | duda / deseo | probabilidad | certeza atenuada | necesidad lógica | |
 
 #### 3.10.8 Resumen rápido
 
@@ -1336,6 +1496,11 @@ La incertidumbre recae sobre el contenido (`sháyat`), la certeza sobre el modo 
 | "es muy grande" | tís rík as-a | Grado antes del adj |
 | "es demasiado oscuro" | atísh khap as-a | Grado antes del adj |
 | "tengo suficiente poder" | ma-te káf shaktí as-a | Grado antes del nombre |
+| "ojalá la luz sea" | washam ha nūros as-a | Desiderativo al inicio |
+| "acaso la luz es" | mēti ha nūros as-a ka? | Dubitativo + ka final |
+| "probablemente la luz es" | shémkis ha nūros as-a | Probabilidad al inicio |
+| "seguramente la luz es" | pēntah ha nūros as-a | Certeza atenuada al inicio |
+| "necesariamente la luz es" | nēkap ha nūros as-a | Necesidad al inicio |
 | "quizás la luz es" | sháyat ha nūros as-a | Modal al inicio |
 | "habló oscuramente [veo]" | khap-ka vach-i-e | Modo antes del verbo |
 
@@ -1859,17 +2024,34 @@ ma  dhar-a-poi      = "debo (performativamente)" → el deber es el acto (auto-o
 
 #### 3.12.11 Modalidad epistémica (probabilidad, necesidad lógica)
 
-La **modalidad epistémica** ("probablemente", "debe ser que...") NO usa las raíces modales. Se construye con:
+La **modalidad epistémica** ("probablemente", "ojalá", "seguramente", "necesariamente") NO usa las raíces modales. Se construye con:
 
-- **Adverbio modal `sháyat`** (§3.10.7) para "quizás / tal vez"
+- **Sistema de 6 adverbios modales** (§3.10.7) que cubren el espectro epistémico completo:
+  - `sháyat` — duda / incertidumbre neutra
+  - `washam` — desiderativo ("ojalá")
+  - `shémkis` — probabilidad ("probablemente")
+  - `pēntah` — certeza atenuada ("seguramente")
+  - `mēti` — dubitativo interrogativo ("acaso")
+  - `nēkap` — necesidad lógica ("necesariamente")
 - **Evidencial inferencial `-anu`** (§2.1) para "debe ser que..." (inferido)
 - **Evidencial revelado `-wah`** para "es necesariamente el caso [revelado]"
 
 ```
-sháyat  ha  nūros  as-a       = "Quizás la luz es"
+sháyat  ha  nūros  as-a        = "Quizás la luz es"
+washam  ma  áz  kar-u-kal      = "Ojalá yo actúe [hipotético]"
+shémkis ha  nūros  as-a        = "Probablemente la luz es"
+pēntah  ha  nūros  as-a        = "Seguramente la luz es"
+mēti    ta  as-a  ka?          = "¿Acaso estás?"
+nēkap   ha  nūros  as-a        = "La luz es necesariamente"
 ha  nūros  as-a-anu            = "La luz debe ser [inferido de los signos]"
-ha  nūros  as-a-wah-al         = "La luz es necesariamente [revelado con certeza]"
+ha  nūros  as-a-wah            = "La luz es necesariamente [revelado con certeza]"
 ```
+
+**Gradación epistémica:**
+
+| sháyat / washam | shémkis | pēntah | nēkap | -anu / -wah |
+|-----------------|---------|--------|-------|-------------|
+| duda / deseo | probabilidad | certeza atenuada | necesidad lógica | certeza evidencial |
 
 **No se usan los modales `ich-`/`dún-`/`dhar-` con sentido epistémico.** Esto es una decisión de diseño: las raíces modales son exclusivamente **deóntico-dinámicas** (sobre el agente), no **epistémicas** (sobre el conocimiento). Esto evita la ambigüedad del español "debe ser" (deóntico vs. epistémico) y del inglés "must" (ambos sentidos).
 
@@ -1898,6 +2080,11 @@ ha  nūros  as-a-wah-al         = "La luz es necesariamente [revelado con certez
 | "¿podés?" | ta dún-a ka? | modal + interrogativo |
 | "puedo en el plano físico" | ma dún-a-som | modal + modo realidad |
 | "me obligo performativamente" | áz dhar-a-poi-h-nam | dhar- + -poi + hierático |
+| "ojalá actúe" | washam ma kár-u-kal | desiderativo al inicio |
+| "acaso estás" | mēti ta as-a ka? | dubitativo + ka |
+| "probablemente vendrá" | shémkis gach-u | probabilidad al inicio |
+| "seguramente sabe" | pēntah ján-a | certeza atenuada al inicio |
+| "necesariamente es así" | nēkap as-a tát | necesidad lógica al inicio |
 
 ### 3.13 Reflexivos y recíprocos
 
@@ -2428,6 +2615,57 @@ UNIVERSALES NEGATIVOS:
 | de ningún modo nadie vino | kwa-ka lám na-aya-i | indef + lám + NEG-VERBO-PAS |
 
 **Nota sobre los ejemplos:** las raíces verbales usadas en los ejemplos (`aya-` "venir", `pas-` "ver/mirar", `kár-` "hacer", `vach-` "hablar", `ich-` "querer", `rat-` "brillar") son las raíces BNF ya registradas o raíces abiertas del léxico (§6 BNF: "abierto: cualquier raíz léxica verbal"). Los pronombres interrogativos `kwa` y `kím` son los existentes (§3.8). Los artículos `ha` y `én` (§1.2.1) también están en el sistema. Las **partículas nuevas** (`-ka`, `-na`, `-hi`, `-nhi`) son las que este §3.14 introduce; el pronombre `sara` también es nuevo. Los lexemas `fir` (fuego, §F1.4) y `rat` (brillar, §F1.4) son los referentes canónicos para los antiguos ejemplos con `agni`/`jhal-`.
+
+---
+
+#### 3.14.9 Cuantificadores nominales
+
+Los cuantificadores modifican al nombre indicando cantidad o extensión. Ocupan la posición **pre-nominal** (slot determinante, §1.2), antes del adjetivo y del núcleo. Fueron generadas mediante el motor de síntesis fonotáctica KFA a partir de raíces Coptas (ⲛⲓⲙ *nim* "cada"; ϩⲁϩ *hah* "muchos"; ⲥⲛⲁⲩ *snau* "dos"; ⲟⲩⲏⲣ *ouēr* "¿cuántos?"; ⲥⲱ *sō* "bastante") y Egipcias (ꜥšꜢ *aša* "muchos, numerosos"; *tm* "todo, completo").
+
+| Partícula | IPA | Función | Origen (≥2) |
+|-----------|-----|---------|-------------|
+| **namsah** | /ˈnam.sah/ | muchos | Copto *nim* "cada" + Egipcio *aša* "muchos" |
+| **santah** | /ˈsan.tah/ | pocos | Copto *snau* "dos" + Copto *hah* "muchos" → "dos-muchos" |
+| **samwih** | /ˈsam.wih/ | varios | Egipcio *tm* "todo" + Copto *ouēr* "¿cuántos?" → "todo-cuántos" |
+| **shansami** | /ʃanˈsa.mi/ | cada (distributivo) | Egipcio *aša* "muchos" + Copto *nim* "cada" |
+| **hamnis** | /ˈham.nis/ | ambos | Egipcio *tm* "todo" + Copto *snau* "dos" → "todo-dos" |
+| **tamsah** | /ˈtam.sah/ | suficiente | Egipcio *tm* "completo" + Copto *sō* "bastante" |
+| **wamsat** | /ˈwam.sat/ | demasiado | Copto *ouēr* "¿cuántos?" + Copto *sō* "suficiente" + Egipcio *aša* "muchos" |
+
+```
+namsah  han mago    = "muchos magos"
+santah  én  zal     = "pocas sombras"
+samwih  han nūros   = "varias luces"
+shansami  é  templo = "cada templo"
+hamnis  han portal  = "ambos portales"
+tamsah  ha  poder   = "suficiente poder"
+wamsat  ha  thel    = "demasiada voluntad"
+```
+
+**Sintaxis:** los cuantificadores van antes del adjetivo (si lo hay) y antes del núcleo nominal:
+
+```
+[cuantificador] + [artículo] + [adjetivo] + [núcleo]
+```
+
+```
+namsah  han  rík  mago    = "muchos grandes magos"
+santah  én   khap  zal    = "pocas oscuras sombras"
+```
+
+**Contraste con indefinidos (§3.14):** los cuantificadores modifican al nombre directamente; los indefinidos (`kwa-ka`, `kím-hi`, etc.) son pronombres o determinantes que pueden funcionar como núcleo del SN. Un cuantificador **puede** combinarse con un indefinido en construcciones partitivas:
+
+```
+namsah  han kím-ka   = "muchos de ellos" (cuantificador + indefinido en genitivo)
+```
+
+**Contraste con adverbios de grado (§3.10.6):** los adverbios de grado (`tís` "muy", `lav` "poco", `atísh` "demasiado") modifican adjetivos, no nombres. Los cuantificadores nominales modifican directamente al sustantivo.
+
+| Adverbio de grado | Cuantificador nominal |
+|-------------------|----------------------|
+| `tís rík` = "muy grande" | `namsah rík` = "muchos grandes" |
+| `lav khap` = "poco oscuro" | `santah khap` = "pocos oscuros" |
+| `atísh` + adj = excl. grado | `wamsat` + N = cantidad excesiva |
 
 ---
 
@@ -4068,6 +4306,8 @@ hasta luz será  sombra hará
 | Conjunción | IPA | Función | Origen (≥2) |
 |-----------|-----|---------|-------------|
 | **ár** | /ar/ | "aunque / a pesar de" (adversativa) | Griego *ἀλλά* (allá) "pero, aunque" → ár; Persa *agar* "si/aunque" → ár. 2 lenguas. |
+| **omos** | /ˈo.mos/ | "sin embargo" (contraste fuerte) | Griego *ὅμως* (ómos) "sin embargo, no obstante" + Persa *اما* (ammā) "pero, sin embargo". 2 lenguas. |
+| **dosvot** | /ˈdos.vot/ | "no obstante" (concesivo, a pesar de ello) | Griego *ωστόσο* (ostóso) "no obstante" → dos- + Persa *باوجود* (bâ vojude) "a pesar de" → -vot. 2 lenguas. |
 | **tát** | /tat/ | "por lo tanto / entonces" (consecutiva) | Árabe *tābi'* "consecuente" → tát; Persa *tā* "entonces/hasta" → tát. 2 lenguas. |
 | **kás** | /kas/ | "para que / a fin de que" (final) | Griego *κατά* (katá) "conforme a" + Árabe *qasd* "propósito" → kás. 2 lenguas. |
 | **wá** | /wa/ | "mientras que / en cambio" (contraste) | Árabe *wa-* (wāw, conjunción de contraste clásico) + Persa *vā* "o/alternativamente". 2 lenguas. |
@@ -4076,6 +4316,18 @@ hasta luz será  sombra hará
 ár   ma as-a-bay,   ma kár-a
 aunque yo soy-miedo  yo actúo
 "Aunque tengo miedo, actúo"
+
+nūros as-a   omos   zal kár-a
+luz es     sin embargo sombra hace
+"La luz es, sin embargo la sombra actúa" (contraste fuerte)
+
+ár   omos   ha  thel as-a,   zal na-kár-a
+aunque sin embargo DEF voluntad es   sombra no-hace
+"Aunque la voluntad es, no obstante la sombra no actúa" (adversativa + contraste fuerte)
+
+ha  nūros as-a   dosvot   zal na-kár-a
+DEF luz es     no obstante sombra no-hace
+"La luz es, no obstante la sombra no actúa" (concesivo)
 
 zal kár-a,  tát  nūros as-u
 sombra hace  entonces luz será
@@ -4089,6 +4341,12 @@ wá   nūros as-a,   zal na-kár-a
 en cambio luz es   sombra no-hace
 "La luz es, en cambio la sombra no actúa"
 ```
+
+**Gradación contra-argumentativa:**
+
+| tu (pero) | omos (sin embargo) | dosvot (no obstante) | ár (aunque) |
+|-----------|-------------------|----------------------|-------------|
+| contraste simple | contraste fuerte | concesivo (cede parcialmente) | adversativa (pese a todo) |
 
 ---
 
@@ -4449,6 +4707,33 @@ ma    amma,   ta  tu  na-ich-a   = "En cuanto a mí, tú en cambio no quieres" (
 thel  amma,   nūros  tu  as-a      = "En cuanto a la voluntad, la luz en cambio es" (contraste X vs Y)
 ```
 
+#### 5.4.5 Partículas focales (forja léxica)
+
+Las siguientes partículas fueron generadas mediante el motor de síntesis fonotáctica KFA a partir de las raíces Sánscrito *api* (अपि, "también, incluso"), Griego *μόνον* (mónon, "sólo") y Persa *فقط* (faqat, "sólo, únicamente"). Ocupan la posición **pre-nominal** o **preverbal** (slot -1).
+
+| Partícula | IPA | Función | Equivalente |
+|-----------|-----|---------|-------------|
+| **fanitma** | /faˈnit.ma/ | restrictivo | "solo, únicamente" |
+| **pamanto** | /paˈman.to/ | aditivo | "también" |
+| **pinafit** | /piˈna.fit/ | escalar | "incluso" |
+| **nitfipi** | /nitˈfi.pi/ | negativo escalar | "ni siquiera" |
+| **patanom** | /paˈta.nom/ | mínimo | "al menos" |
+| **foghotim** | /foˈɣo.tim/ | preferencial | "sobre todo" |
+
+```
+nūros fanitma  rat-a     = "Solo la luz brilla"
+zal   pamanto  kár-a     = "La sombra también actúa"
+mago  pinafit  as-a      = "Incluso el mago es"
+sa    nitfipi  na-kár-a  = "Ni siquiera él actúa"
+patanom  é   intento    = "Al menos un intento"
+foghotim  thel  as-a    = "Sobre todo, la voluntad es"
+foghotim,  nūros  fanitma  as-a  = "Sobre todo, solo la luz es" (combinación focal + restrictivo)
+```
+
+**Posición:** pre-nominal (modifican al SN) o preverbal (slot -1, modifican al verbo). Se combinan con otras partículas de foco (§5.4.1–5.4.4). No se apilan más de dos en la misma cláusula.
+
+**Contraste con `ila` (§5.4.2):** `fanitma` y `ila` son ambos restrictivos, pero `fanitma` es **foco estrecho** (marca un elemento como único) mientras que `ila` es **excepción** ("excepto, salvo"). `fanitma nūros rat-a` = "Solo la luz brilla (y nada más)"; `ila nūros, kím-na rat-a` = "Excepto la luz, nada brilla".
+
 ### 5.5 Marcadores discursivos
 
 | Marcador | Función | Origen (≥2) |
@@ -4761,7 +5046,7 @@ El SN dislocado va al final, sin partícula de tópico; el contexto o una pausa 
 <adv_locativo>   ::= "idá" | "ta-ná" | "ka-ná" | "antár" | "bahí"
 <adv_modo>       ::= <adj> "-ka"
 <adv_grado>      ::= "tís" | "lav" | "atísh" | "káf"
-<adv_modal>      ::= "sháyat"
+<adv_modal>      ::= "sháyat" | "washam" | "pēntah" | "shémkis" | "mēti" | "nēkap"
 ```
 
 ---
